@@ -68,14 +68,13 @@ function escapeHtml(str) {
     return d.innerHTML;
 }
 
-// ========== 数据加载（从本地 data.json） ==========
+// ========== 数据加载（从 data.js 全局变量） ==========
 
-async function loadData() {
-    const resp = await fetch('data.json?t=' + Date.now());
-    if (!resp.ok) throw new Error('无法加载数据文件 (HTTP ' + resp.status + ')');
-    const data = await resp.json();
-    if (!data.repos || !Array.isArray(data.repos)) throw new Error('数据格式错误');
-    return data;
+function loadData() {
+    if (!window.__REPO_DATA__ || !window.__REPO_DATA__.repos) {
+        throw new Error('数据未加载，请确保 data.js 文件存在且包含最新数据。运行 node fetch.js 生成数据。');
+    }
+    return window.__REPO_DATA__;
 }
 
 // ========== 渲染 ==========

@@ -14,7 +14,8 @@ const https = require('https');
 const CONFIG = {
     MIN_STARS: 5000,
     TOP_N: 21,
-    OUTPUT: path.join(__dirname, 'data.json'),
+    OUTPUT_JSON: path.join(__dirname, 'data.json'),
+    OUTPUT_JS: path.join(__dirname, 'data.js'),
 };
 
 function getDateRange() {
@@ -134,8 +135,11 @@ async function main() {
         repos: output,
     };
 
-    fs.writeFileSync(CONFIG.OUTPUT, JSON.stringify(result, null, 2), 'utf-8');
-    console.log(`[fetch] 完成！共 ${output.length} 个仓库写入 ${CONFIG.OUTPUT}`);
+    fs.writeFileSync(CONFIG.OUTPUT_JSON, JSON.stringify(result, null, 2), 'utf-8');
+    fs.writeFileSync(CONFIG.OUTPUT_JS, 'window.__REPO_DATA__ = ' + JSON.stringify(result) + ';', 'utf-8');
+    console.log(`[fetch] 完成！共 ${output.length} 个仓库`);
+    console.log(`[fetch] JSON -> ${CONFIG.OUTPUT_JSON}`);
+    console.log(`[fetch] JS   -> ${CONFIG.OUTPUT_JS}`);
     console.log(`[fetch] 更新时间: ${result.updated_at}`);
 }
 
