@@ -1,74 +1,38 @@
 /**
  * GitHub 热门仓库排行榜
- * 搜索近一月创建、星标 ≥ 100 的仓库，按星标降序排列
- * 网格布局（3列）、分页（每页20条）、全中文
+ * 数据来源：fetch.js 定时抓取的 data.json
+ * 近一周创建、星标 ≥ 5000、Top 21
  */
+
+// ========== 配置 ==========
+const CONFIG = {
+    languageColors: {
+        'JavaScript': '#f1e05a', 'TypeScript': '#3178c6', 'Python': '#3572A5',
+        'Go': '#00ADD8', 'Rust': '#dea584', 'Java': '#b07219', 'C++': '#f34b7d',
+        'C': '#555555', 'C#': '#178600', 'Ruby': '#701516', 'Swift': '#F05138',
+        'Kotlin': '#A97BFF', 'Dart': '#00B4AB', 'PHP': '#4F5D95', 'Vue': '#41b883',
+        'HTML': '#e34c26', 'CSS': '#563d7c', 'Shell': '#89e051',
+        'Jupyter Notebook': '#DA5B0B', 'Zig': '#ec915c', 'Svelte': '#ff3e00',
+        'Lua': '#000080', 'R': '#198CE7', 'Scala': '#c22d40',
+    },
+};
 
 // ========== 全局状态 ==========
 const STATE = {
     allRepos: [],
     currentPage: 1,
     pageSize: 21,
-};
-
-// ========== 配置 ==========
-const CONFIG = {
-    MIN_STARS: 5000,
-    API_PER_PAGE: 100,
-    MAX_API_PAGES: 10,
-
-    getDateRange() {
-        const now = new Date();
-        const monthAgo = new Date(now.getTime() - 30 * 24 * 60 * 60 * 1000);
-        return {
-            start: monthAgo.toISOString().split('T')[0],
-            end: now.toISOString().split('T')[0],
-        };
-    },
-
-    languageColors: {
-        'JavaScript': '#f1e05a',
-        'TypeScript': '#3178c6',
-        'Python': '#3572A5',
-        'Go': '#00ADD8',
-        'Rust': '#dea584',
-        'Java': '#b07219',
-        'C++': '#f34b7d',
-        'C': '#555555',
-        'C#': '#178600',
-        'Ruby': '#701516',
-        'Swift': '#F05138',
-        'Kotlin': '#A97BFF',
-        'Dart': '#00B4AB',
-        'PHP': '#4F5D95',
-        'Vue': '#41b883',
-        'HTML': '#e34c26',
-        'CSS': '#563d7c',
-        'Shell': '#89e051',
-        'Jupyter Notebook': '#DA5B0B',
-        'Zig': '#ec915c',
-        'Svelte': '#ff3e00',
-        'Lua': '#000080',
-        'R': '#198CE7',
-        'Scala': '#c22d40',
-    },
+    dataMeta: null,
 };
 
 // ========== DOM 引用 ==========
 const $ = (id) => document.getElementById(id);
 const dom = {
-    loading: $('loading'),
-    errorBox: $('errorBox'),
-    errorMsg: $('errorMsg'),
-    statsBar: $('statsBar'),
-    repoGrid: $('repoGrid'),
-    lastUpdate: $('lastUpdate'),
-    totalRepos: $('totalRepos'),
-    totalStars: $('totalStars'),
-    avgStars: $('avgStars'),
-    topLanguage: $('topLanguage'),
-    paginationTop: $('paginationTop'),
-    paginationBottom: $('paginationBottom'),
+    loading: $('loading'), errorBox: $('errorBox'), errorMsg: $('errorMsg'),
+    statsBar: $('statsBar'), repoGrid: $('repoGrid'), lastUpdate: $('lastUpdate'),
+    totalRepos: $('totalRepos'), totalStars: $('totalStars'),
+    avgStars: $('avgStars'), topLanguage: $('topLanguage'),
+    paginationTop: $('paginationTop'), paginationBottom: $('paginationBottom'),
 };
 
 // ========== 工具函数 ==========
@@ -104,52 +68,14 @@ function escapeHtml(str) {
     return d.innerHTML;
 }
 
-// ========== API ==========
+// ========== 数据加载（从本地 data.json） ==========
 
-async function fetchAllRepos() {
-    const { start } = CONFIG.getDateRange();
-    const queryRaw = `created:>${start} stars:>${CONFIG.MIN_STARS}`;
-    console.log('搜索查询:', queryRaw);
-
-    let allItems = [];
-    let totalCount = 0;
-
-    for (let page = 1; page <= CONFIG.MAX_API_PAGES; page++) {
-        const params = new URLSearchParams({
-            q: queryRaw,
-            sort: 'stars',
-            order: 'desc',
-            per_page: String(CONFIG.API_PER_PAGE),
-            page: String(page),
-        });
-        const url = 'https://api.github.com/search/repositories?' + params.toString();
-        console.log('请求 URL:', url);
-
-        const resp = await fetch(url, {
-            headers: { 'Accept': 'application/vnd.github.v3+json' },
-        });
-
-        if (!resp.ok) {
-            const err = await resp.json().catch(() => ({}));
-            if (resp.status === 403 && (err.message || '').includes('rate limit')) {
-                throw new Error('API 请求频率超限，请稍后重试。建议配置 GitHub Token。');
-            }
-            throw new Error('GitHub API 错误 (' + resp.status + '): ' + (err.message || '未知错误'));
-        }
-
-        const data = await resp.json();
-        console.log('第 ' + page + ' 页: items=' + (data.items ? data.items.length : 0) + ', total=' + data.total_count);
-
-        if (page === 1) {
-            totalCount = data.total_count;
-        }
-        if (!data.items || data.items.length === 0) break;
-
-        allItems = allItems.concat(data.items);
-        if (allItems.length >= totalCount || data.items.length < CONFIG.API_PER_PAGE) break;
-    }
-
-    return { items: allItems, totalCount };
+async function loadData() {
+    const resp = await fetch('data.json?t=' + Date.now());
+    if (!resp.ok) throw new Error('无法加载数据文件 (HTTP ' + resp.status + ')');
+    const data = await resp.json();
+    if (!data.repos || !Array.isArray(data.repos)) throw new Error('数据格式错误');
+    return data;
 }
 
 // ========== 渲染 ==========
@@ -250,7 +176,6 @@ function buildPaginationHtml(totalPages) {
 
     html += '<button class="page-btn" ' + (cp <= 1 ? 'disabled' : 'onclick="goToPage(' + (cp - 1) + ')"') + '>上一页</button>';
 
-    // 页码计算
     let startP = Math.max(1, cp - 2);
     let endP = Math.min(totalPages, cp + 2);
     if (endP - startP < 4) {
@@ -305,9 +230,7 @@ function showLoading() {
     dom.paginationBottom.style.display = 'none';
 }
 
-function hideLoading() {
-    dom.loading.style.display = 'none';
-}
+function hideLoading() { dom.loading.style.display = 'none'; }
 
 function showError(msg) {
     hideLoading();
@@ -321,47 +244,45 @@ function showError(msg) {
 
 // ========== 主流程 ==========
 
-async function refreshData() {
+async function init() {
     showLoading();
 
     try {
-        const { items, totalCount } = await fetchAllRepos();
-        console.log('共获取 ' + items.length + ' 个仓库 (总计 ' + totalCount + ' 个)');
+        const data = await loadData();
+        const repos = data.repos;
 
-        if (items.length === 0) {
+        if (repos.length === 0) {
             hideLoading();
             dom.repoGrid.innerHTML = `
                 <div class="empty-state">
                     <svg viewBox="0 0 24 24" width="56" height="56" fill="#3fb950"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>
                     <h3>暂未找到符合条件的项目</h3>
-                    <p>近一月创建的仓库中暂没有星标超过 5000 的项目，请稍后再来查看。</p>
+                    <p>近一周创建的仓库中暂没有星标超过 5000 的项目。</p>
                 </div>
             `;
             return;
         }
 
-        // 按星标降序
-        items.sort((a, b) => b.stargazers_count - a.stargazers_count);
-
-        STATE.allRepos = items;
+        STATE.allRepos = repos;
         STATE.currentPage = 1;
+        STATE.dataMeta = data;
 
         hideLoading();
-        updateStats(items);
+        updateStats(repos);
         renderCurrentPage();
         renderPagination();
 
-        const now = new Date();
-        dom.lastUpdate.textContent = '最后更新：' + now.toLocaleTimeString('zh-CN');
-
-        if (items.length < totalCount) {
-            console.warn('注意：仅展示了前 ' + items.length + ' 个结果（共 ' + totalCount + ' 个，受分页限制）');
-        }
+        // 显示数据更新时间
+        const updateDate = new Date(data.updated_at);
+        dom.lastUpdate.textContent = '数据更新：' + updateDate.toLocaleString('zh-CN');
     } catch (err) {
-        showError(err.message);
-        console.error('获取数据失败:', err);
+        showError('数据加载失败：' + err.message);
+        console.error(err);
     }
 }
 
+// 保留手动刷新按钮（触发 fetch.js 需要服务端支持，这里改为重新加载 data.json）
+function refreshData() { init(); }
+
 // ========== 初始化 ==========
-document.addEventListener('DOMContentLoaded', refreshData);
+document.addEventListener('DOMContentLoaded', init);
