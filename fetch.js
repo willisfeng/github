@@ -1,9 +1,7 @@
 /**
  * GitHub 热门仓库定时抓取脚本
- * 用法：node fetch.js
- * 定时：每天凌晨 2 点执行（配合系统任务/cron）
- *
- * 搜索条件：近一周创建、星标 >= 5000，取 Top 21
+ * 搜索近一周创建、按星标降序排列，取 Top 21
+ * 由 GitHub Actions 每日凌晨 2 点自动执行
  */
 
 const fs = require('fs');
@@ -12,7 +10,6 @@ const https = require('https');
 
 // ========== 配置 ==========
 const CONFIG = {
-    MIN_STARS: 5000,
     TOP_N: 21,
     OUTPUT_JSON: path.join(__dirname, 'data.json'),
     OUTPUT_JS: path.join(__dirname, 'data.js'),
@@ -75,7 +72,8 @@ async function searchRepos(query, page = 1) {
 
 async function main() {
     const { start } = getDateRange();
-    const query = `created:>${start} stars:>${CONFIG.MIN_STARS}`;
+    // 只按创建时间筛选，不限制星标数
+    const query = `created:>${start}`;
     console.log('[fetch] 搜索查询:', query);
     console.log('[fetch] 时间:', new Date().toISOString());
 
@@ -129,7 +127,6 @@ async function main() {
     const result = {
         updated_at: new Date().toISOString(),
         query_date_range: `${start} ~ ${new Date().toISOString().split('T')[0]}`,
-        min_stars: CONFIG.MIN_STARS,
         total_found: totalCount,
         count: output.length,
         repos: output,
