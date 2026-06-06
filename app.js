@@ -209,5 +209,4 @@ function init() {
     }
 }
 
-function refreshData() { init(); }
 document.addEventListener('DOMContentLoaded', init);
