@@ -1,6 +1,6 @@
 /**
  * GitHub 热门仓库排行榜
- * 近一周创建、星标 > 1000、按星标降序、含 README 简介
+ * 近一周创建、按星标降序、Top 9、含 README 简介
  * 数据来源：fetch.js → data.js
  */
 
@@ -14,7 +14,7 @@ const CONFIG = {
         'Jupyter Notebook': '#DA5B0B', 'Zig': '#ec915c', 'Svelte': '#ff3e00',
         'Lua': '#000080', 'R': '#198CE7', 'Scala': '#c22d40',
     },
-    PAGE_SIZE: 21,
+    PAGE_SIZE: 9,
 };
 
 const STATE = { allRepos: [], currentPage: 1 };

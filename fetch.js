@@ -1,6 +1,6 @@
 /**
  * GitHub 热门仓库定时抓取脚本
- * 搜索近一周创建、星标 > 1000，按星标降序，全部展示 + 抓取 README 简介
+ * 搜索近一周创建、按星标降序、取 Top 9 + 抓取 README 简介
  * 由 GitHub Actions 每日凌晨 2 点执行
  */
 
@@ -9,8 +9,8 @@ const path = require('path');
 const https = require('https');
 
 const CONFIG = {
-    MIN_STARS: 1000,
-    README_MAX_CHARS: 300,   // README 截取前 300 字作为简介
+    TOP_N: 9,
+    README_MAX_CHARS: 300,
     OUTPUT_JSON: path.join(__dirname, 'data.json'),
     OUTPUT_JS: path.join(__dirname, 'data.js'),
 };
@@ -89,7 +89,7 @@ async function fetchReadme(fullName) {
 
 async function main() {
     const { start } = getDateRange();
-    const query = `created:>${start} stars:>${CONFIG.MIN_STARS}`;
+    const query = `created:>${start}`;
     console.log('[fetch] 搜索查询:', query);
     console.log('[fetch] 时间:', new Date().toISOString());
 
@@ -110,16 +110,17 @@ async function main() {
         if (allItems.length >= totalCount || data.items.length < 100) break;
     }
 
-    // 按星标降序
+    // 按星标降序，取 Top N
     allItems.sort((a, b) => b.stargazers_count - a.stargazers_count);
+    const topItems = allItems.slice(0, CONFIG.TOP_N);
 
-    console.log(`[fetch] 共 ${allItems.length} 个仓库，开始抓取 README…`);
+    console.log(`[fetch] 共 ${allItems.length} 个仓库，取 Top ${CONFIG.TOP_N}，开始抓取 README…`);
 
     // 逐个抓取 README
     const output = [];
-    for (let i = 0; i < allItems.length; i++) {
-        const repo = allItems[i];
-        console.log(`[fetch] [${i + 1}/${allItems.length}] ${repo.full_name}`);
+    for (let i = 0; i < topItems.length; i++) {
+        const repo = topItems[i];
+        console.log(`[fetch] [${i + 1}/${topItems.length}] ${repo.full_name}`);
         const readme = await fetchReadme(repo.full_name);
         output.push({
             id: repo.id,
