@@ -1,84 +1,129 @@
 {
-  "updated_at": "2026-06-08T20:22:56.681Z",
-  "query_date_range": "2026-06-01 ~ 2026-06-08",
-  "total_found": 2118007,
+  "updated_at": "2026-06-09T20:10:58.453Z",
+  "query_date_range": "2026-06-02 ~ 2026-06-09",
+  "total_found": 2112828,
   "count": 9,
   "repos": [
     {
-      "id": 1257699593,
-      "full_name": "cpaczek/skylight",
-      "name": "skylight",
+      "id": 1259415257,
+      "full_name": "diffusionstudio/lottie",
+      "name": "lottie",
       "owner": {
-        "login": "cpaczek",
-        "avatar_url": "https://avatars.githubusercontent.com/u/25715982?v=4"
+        "login": "diffusionstudio",
+        "avatar_url": "https://avatars.githubusercontent.com/u/135729001?v=4"
       },
-      "html_url": "https://github.com/cpaczek/skylight",
-      "description": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
+      "html_url": "https://github.com/diffusionstudio/lottie",
+      "description": "Open-source skill and harness for generating production ready Lottie animations with codex/claude code",
       "language": "TypeScript",
-      "stargazers_count": 2368,
-      "forks_count": 235,
+      "stargazers_count": 1320,
+      "forks_count": 69,
       "open_issues_count": 0,
-      "topics": [
-        "ads-b",
-        "aircraft",
-        "art-installation",
-        "flight-tracker",
-        "projector",
-        "raspberry-pi",
-        "react",
-        "rtl-sdr",
-        "typescript"
-      ],
-      "created_at": "2026-06-02T23:40:28Z",
-      "updated_at": "2026-06-08T20:15:20Z",
+      "topics": [],
+      "created_at": "2026-06-04T13:39:32Z",
+      "updated_at": "2026-06-09T20:10:22Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "Skylight\n  Project the aircraft passing overhead onto your ceiling, in real time - an X-ray through the roof.\n  🛰️ Get notified when I launch on a crowdfunding platform → skylightceiling.com\n  A ready-made kit is coming. Join the waitlist for early access &amp; launch pricing.\n  \nhttps://github.com"
+      "readme_snippet": "Text-To-Lottie\nThis project includes a full-screen Lottie player built on Skia CanvasKit (Skottie), with a\nReact + shadcn/ui + TypeScript control surface. Built to **generate a Lottie\nanimation with an LLM and watch it play live**: the agent writes\npublic/lottie.json, the dev server hot-reloads it.\n"
     },
     {
-      "id": 1257155061,
-      "full_name": "b-nnett/goose",
-      "name": "goose",
+      "id": 1262173643,
+      "full_name": "NoopApp/noop",
+      "name": "noop",
       "owner": {
-        "login": "b-nnett",
-        "avatar_url": "https://avatars.githubusercontent.com/u/62760393?v=4"
+        "login": "NoopApp",
+        "avatar_url": "https://avatars.githubusercontent.com/u/291537941?v=4"
       },
-      "html_url": "https://github.com/b-nnett/goose",
-      "description": "Goose Swift proof-of-concept README",
-      "language": "Rust",
-      "stargazers_count": 2314,
-      "forks_count": 547,
-      "open_issues_count": 26,
+      "html_url": "https://github.com/NoopApp/noop",
+      "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
+      "language": "Swift",
+      "stargazers_count": 896,
+      "forks_count": 564,
+      "open_issues_count": 4,
       "topics": [],
-      "created_at": "2026-06-02T12:16:37Z",
-      "updated_at": "2026-06-08T19:52:56Z",
-      "license": null,
-      "readme_snippet": "Goose - Local Companion for WHOOP 5.0\nAlpha proof of concept. This build is for developers to evaluate whether a project of this scope is viable. It is not ready to use as an app for tracking personal health data yet.\nIf you don't know what Xcode is, or how to build the Rust core, this build is not "
-    },
-    {
-      "id": 1256728599,
-      "full_name": "jd-opensource/JoyAI-Echo",
-      "name": "JoyAI-Echo",
-      "owner": {
-        "login": "jd-opensource",
-        "avatar_url": "https://avatars.githubusercontent.com/u/75349771?v=4"
-      },
-      "html_url": "https://github.com/jd-opensource/JoyAI-Echo",
-      "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-      "language": "Python",
-      "stargazers_count": 1060,
-      "forks_count": 80,
-      "open_issues_count": 5,
-      "topics": [],
-      "created_at": "2026-06-02T03:25:51Z",
-      "updated_at": "2026-06-08T19:55:23Z",
+      "created_at": "2026-06-07T17:03:02Z",
+      "updated_at": "2026-06-09T20:10:17Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
       },
-      "readme_snippet": "JoyAI-Echo\n🎬 Pushing the Frontier of Long Video Generation\nStandalone, inference-only release for minute-level multi-shot audio-video generation with a distilled DMD generator, paired cross-modal memory, and story-level consistency.\n  📄 Paper |\n  🌐 Project Page |\n  🚀 Quickstart |\n  🤗 Hugging Fa"
+      "readme_snippet": "NOOP\nYour strap. Your data. Your machine. Local-first, no cloud.\n  \n  \n  \n  \n  \n  ♥&nbsp;Support ·\n  ⬇&nbsp;Download ·\n  Features ·\n  Protocol ·\n  Contact\n---\nKeeping NOOP alive\nNOOP is free, forever — no account, no cloud, no subscription, every feature unlocked, no nag. That doesn't change.\nBut he"
+    },
+    {
+      "id": 1257823581,
+      "full_name": "nevertoday/zhongguo-traditional-colors",
+      "name": "zhongguo-traditional-colors",
+      "owner": {
+        "login": "nevertoday",
+        "avatar_url": "https://avatars.githubusercontent.com/u/166048?v=4"
+      },
+      "html_url": "https://github.com/nevertoday/zhongguo-traditional-colors",
+      "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
+      "language": "JavaScript",
+      "stargazers_count": 640,
+      "forks_count": 65,
+      "open_issues_count": 6,
+      "topics": [],
+      "created_at": "2026-06-03T03:26:16Z",
+      "updated_at": "2026-06-09T20:06:03Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "中国传统配色\n简体中文 | English | 日本語\n如果你在做设计、写内容、做课件、搭建网页主题，常常需要一套稳妥、好看、能直接使用的中国色参考，这个仓库就是为这件事整理的。\n这里收录 742 张中华传统色高清色卡，已按原始 742 色清单完整覆盖。每张色卡包含色名、HEX、RGB、CMYK、配色推荐和气质关键词。你可以在线浏览，也可以直接下载已经打包好的 ZIP，把它当作自己的传统色素材库。\n快速入口\n- 在线浏览色卡\n- 直接下载完整 ZIP\n- 查看 Release\n- 原始 742 色清单\n- 742 色配色方案 Markdown\n- 742 色配色关系 CSV\n- 中国传统色实战"
+    },
+    {
+      "id": 1261650101,
+      "full_name": "JimLiu/baoyu-design",
+      "name": "baoyu-design",
+      "owner": {
+        "login": "JimLiu",
+        "avatar_url": "https://avatars.githubusercontent.com/u/648674?v=4"
+      },
+      "html_url": "https://github.com/JimLiu/baoyu-design",
+      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "language": "JavaScript",
+      "stargazers_count": 626,
+      "forks_count": 45,
+      "open_issues_count": 0,
+      "topics": [
+        "agent-skills",
+        "claude",
+        "claude-code",
+        "claude-design",
+        "cursor",
+        "design",
+        "prototyping",
+        "ui-design"
+      ],
+      "created_at": "2026-06-07T01:16:18Z",
+      "updated_at": "2026-06-09T19:42:59Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "baoyu-design\nRun Claude Design on your own local agent — Cursor, Claude Code, Claude Desktop, or any file‑capable coding agent.\nEnglish · 简体中文 · Changelog\n!License: MIT !Best with Opus 4.8 !Harness\nbaoyu-design packages Claude Design — the design engine behind claude.ai/design — as a portable Agent "
+    },
+    {
+      "id": 1262142501,
+      "full_name": "GordenSun/GordenSuperPPTSkills",
+      "name": "GordenSuperPPTSkills",
+      "owner": {
+        "login": "GordenSun",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3281492?v=4"
+      },
+      "html_url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "language": "Python",
+      "stargazers_count": 570,
+      "forks_count": 63,
+      "open_issues_count": 0,
+      "topics": [],
+      "created_at": "2026-06-07T16:20:13Z",
+      "updated_at": "2026-06-09T20:01:17Z",
+      "license": null,
+      "readme_snippet": "Gorden Super PPT Skills（技能包）\nAI PPT赛道终结者，史上最最最强 PPT Skill！！！\n使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。\nSkill全流程已拆成 3 个独立技能，可以拆分使用和优化：\n| 技能 | 作用 | 输入 → 输出 |\n|---|---|---|\n| GordenImagePPTGen | 生成「图片格式的 PPT」 | 主题/内容 → 每页 .png + 图片型 .pptx |\n| GordenImage2PPTX | 把「图片 PPT / 图片」还原成可编辑 pptx | 图片 → 可编辑 .pptx（背景+"
     },
     {
       "id": 1258621567,
@@ -91,9 +136,9 @@
       "html_url": "https://github.com/tastyeffectco/sandboxd",
       "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
       "language": "Go",
-      "stargazers_count": 514,
-      "forks_count": 13,
-      "open_issues_count": 5,
+      "stargazers_count": 531,
+      "forks_count": 18,
+      "open_issues_count": 9,
       "topics": [
         "ai",
         "ai-agent",
@@ -107,7 +152,7 @@
         "self-hosted"
       ],
       "created_at": "2026-06-03T18:55:02Z",
-      "updated_at": "2026-06-08T18:35:36Z",
+      "updated_at": "2026-06-09T19:18:45Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -115,59 +160,57 @@
       "readme_snippet": "sandboxd\n  The open-source engine for AI app-builder products.\n  Give every user an isolated cloud dev environment, a built-in coding agent,\n  and a live preview URL — self-hosted, on one machine, in one command.\n  \n  \n  \n  \n---\nWhat is sandboxd? (start here)\nThink of the apps where you type *\"build"
     },
     {
-      "id": 1262173643,
-      "full_name": "NoopApp/noop",
-      "name": "noop",
+      "id": 1261422007,
+      "full_name": "amElnagdy/guard-skills",
+      "name": "guard-skills",
       "owner": {
-        "login": "NoopApp",
-        "avatar_url": "https://avatars.githubusercontent.com/u/291537941?v=4"
+        "login": "amElnagdy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/7650147?v=4"
       },
-      "html_url": "https://github.com/NoopApp/noop",
-      "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-      "language": "Swift",
-      "stargazers_count": 512,
-      "forks_count": 472,
-      "open_issues_count": 6,
-      "topics": [],
-      "created_at": "2026-06-07T17:03:02Z",
-      "updated_at": "2026-06-08T20:08:09Z",
-      "license": {
-        "spdx_id": "NOASSERTION",
-        "key": "other"
-      },
-      "readme_snippet": "NOOP\nYour strap. Your data. Your machine. Local-first, no cloud.\n  \n  \n  \n  \n  \n  ⬇&nbsp;Download ·\n  Features ·\n  Protocol ·\n  ♥&nbsp;Support ·\n  Contact\n---\nDownload\nPre-built apps you can run right now:\n| Platform | Build | Notes |\n|---|---|---|\n| macOS | NOOP.app (see Releases) | Apple Silicon +"
-    },
-    {
-      "id": 1261650101,
-      "full_name": "JimLiu/baoyu-design",
-      "name": "baoyu-design",
-      "owner": {
-        "login": "JimLiu",
-        "avatar_url": "https://avatars.githubusercontent.com/u/648674?v=4"
-      },
-      "html_url": "https://github.com/JimLiu/baoyu-design",
-      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "language": "JavaScript",
-      "stargazers_count": 510,
-      "forks_count": 36,
-      "open_issues_count": 2,
+      "html_url": "https://github.com/amElnagdy/guard-skills",
+      "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+      "language": null,
+      "stargazers_count": 508,
+      "forks_count": 58,
+      "open_issues_count": 0,
       "topics": [
         "agent-skills",
+        "ai",
         "claude",
         "claude-code",
-        "claude-design",
-        "cursor",
-        "design",
-        "prototyping",
-        "ui-design"
+        "code-review",
+        "codex",
+        "skills-sh",
+        "woocommerce",
+        "wordpress"
       ],
-      "created_at": "2026-06-07T01:16:18Z",
-      "updated_at": "2026-06-08T20:03:27Z",
+      "created_at": "2026-06-06T16:59:27Z",
+      "updated_at": "2026-06-09T20:09:04Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "baoyu-design\nRun Claude Design on your own local agent — Cursor, Claude Code, Claude Desktop, or any file‑capable coding agent.\nEnglish · 简体中文 · Changelog\n!License: MIT !Best with Opus 4.8 !Harness\nbaoyu-design packages Claude Design — the design engine behind claude.ai/design — as a portable Agent "
+      "readme_snippet": "guard-skills\nFocused guard skills for coding agents: second-pass quality gates that catch the systematic failure modes of AI-generated code, tests, and docs before they ship.\nBest use: let your agent do the work, then invoke the relevant guard on the diff before you present, commit, or merge it. The"
+    },
+    {
+      "id": 1262119305,
+      "full_name": "vorpus/performativeUI",
+      "name": "performativeUI",
+      "owner": {
+        "login": "vorpus",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1922888?v=4"
+      },
+      "html_url": "https://github.com/vorpus/performativeUI",
+      "description": null,
+      "language": "TypeScript",
+      "stargazers_count": 499,
+      "forks_count": 12,
+      "open_issues_count": 1,
+      "topics": [],
+      "created_at": "2026-06-07T15:45:48Z",
+      "updated_at": "2026-06-09T19:55:18Z",
+      "license": null,
+      "readme_snippet": "performative-ui\n  AI-native React components that signal how oversubscribed your\n  funding round is.\n  Documentation\n  ·\n  npm\n  ·\n  GitHub\n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n---\nInstall\nVisit the documentation for the\nfull component catalog, live demos, and API reference.\nCommunity Ports\n- p"
     },
     {
       "id": 1258992633,
@@ -180,7 +223,7 @@
       "html_url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
       "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
       "language": "JavaScript",
-      "stargazers_count": 481,
+      "stargazers_count": 490,
       "forks_count": 76,
       "open_issues_count": 1,
       "topics": [
@@ -195,70 +238,12 @@
         "yt-dlp"
       ],
       "created_at": "2026-06-04T05:20:47Z",
-      "updated_at": "2026-06-08T16:15:57Z",
+      "updated_at": "2026-06-09T13:06:24Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "🎬 Xiaoer VideoLab\nOne click. Any video. Local.\nPress one toolbar button and the video on the current page lands in your ~/Downloads.\nPowered by a tiny local yt-dlp daemon — 1800+ sites out of the box\n(YouTube · Bilibili · X/Twitter · TikTok · Vimeo · Twitch · Weibo …).\n!Platform\n!Manifest V3\n!Pytho"
-    },
-    {
-      "id": 1261422007,
-      "full_name": "amElnagdy/guard-skills",
-      "name": "guard-skills",
-      "owner": {
-        "login": "amElnagdy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/7650147?v=4"
-      },
-      "html_url": "https://github.com/amElnagdy/guard-skills",
-      "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-      "language": null,
-      "stargazers_count": 454,
-      "forks_count": 55,
-      "open_issues_count": 0,
-      "topics": [
-        "agent-skills",
-        "ai",
-        "claude",
-        "claude-code",
-        "code-review",
-        "codex",
-        "skills-sh",
-        "woocommerce",
-        "wordpress"
-      ],
-      "created_at": "2026-06-06T16:59:27Z",
-      "updated_at": "2026-06-08T20:21:32Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "guard-skills\nFocused guard skills for coding agents: second-pass quality gates that catch the systematic failure modes of AI-generated code, tests, and docs before they ship.\nBest use: let your agent do the work, then invoke the relevant guard on the diff before you present, commit, or merge it. The"
-    },
-    {
-      "id": 1259194283,
-      "full_name": "zenhosta/9drive",
-      "name": "9drive",
-      "owner": {
-        "login": "zenhosta",
-        "avatar_url": "https://avatars.githubusercontent.com/u/287358902?v=4"
-      },
-      "html_url": "https://github.com/zenhosta/9drive",
-      "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.",
-      "language": "TypeScript",
-      "stargazers_count": 444,
-      "forks_count": 155,
-      "open_issues_count": 1,
-      "topics": [
-        "drive",
-        "gateway",
-        "google",
-        "storage"
-      ],
-      "created_at": "2026-06-04T09:22:03Z",
-      "updated_at": "2026-06-08T18:29:53Z",
-      "license": null,
-      "readme_snippet": "!9Drive cover\n9Drive\n9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can register with email/password or Google, automatically connect their first Google Drive account during Google sign-in, track quota, upload files into a "
     }
   ]
 }
