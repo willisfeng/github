@@ -1,31 +1,54 @@
 {
-  "updated_at": "2026-06-10T20:35:00.372Z",
-  "query_date_range": "2026-06-03 ~ 2026-06-10",
-  "total_found": 2122431,
+  "updated_at": "2026-06-11T20:30:35.059Z",
+  "query_date_range": "2026-06-04 ~ 2026-06-11",
+  "total_found": 2151406,
   "count": 9,
   "repos": [
     {
-      "id": 1259415257,
-      "full_name": "diffusionstudio/lottie",
-      "name": "lottie",
+      "id": 1265025028,
+      "full_name": "XiaomiMiMo/MiMo-Code",
+      "name": "MiMo-Code",
       "owner": {
-        "login": "diffusionstudio",
-        "avatar_url": "https://avatars.githubusercontent.com/u/135729001?v=4"
+        "login": "XiaomiMiMo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/208276378?v=4"
       },
-      "html_url": "https://github.com/diffusionstudio/lottie",
-      "description": "Generate production-ready Lottie animations with Claude Code or Codex",
+      "html_url": "https://github.com/XiaomiMiMo/MiMo-Code",
+      "description": null,
       "language": "TypeScript",
-      "stargazers_count": 1996,
-      "forks_count": 99,
-      "open_issues_count": 0,
+      "stargazers_count": 4317,
+      "forks_count": 324,
+      "open_issues_count": 288,
       "topics": [],
-      "created_at": "2026-06-04T13:39:32Z",
-      "updated_at": "2026-06-10T20:33:46Z",
+      "created_at": "2026-06-10T11:52:41Z",
+      "updated_at": "2026-06-11T20:30:02Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "Text-to-lottie is an open-source harness for generating production ready Lottie animations with claude code/codex or any other coding agent supporting skills.\nCreated with Text-to-Lottie\n  \n    \n      \n    \n    \n      \n    \n  \nQuick Start \nInstall the skill:\nThen ask your coding agent to generate a "
+      "readme_snippet": "MiMoCode\n  \nAn open-source AI coding agent with cross-session memory.\n  中文 | English\n  Website | Blog\n---\nMiMoCode is a terminal-native AI coding assistant. It can read and write code, run commands, manage Git, and use a persistent memory system to keep a deep understanding of your project across se"
+    },
+    {
+      "id": 1264986626,
+      "full_name": "shadcn/improve",
+      "name": "improve",
+      "owner": {
+        "login": "shadcn",
+        "avatar_url": "https://avatars.githubusercontent.com/u/124599?v=4"
+      },
+      "html_url": "https://github.com/shadcn/improve",
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "language": null,
+      "stargazers_count": 1708,
+      "forks_count": 57,
+      "open_issues_count": 5,
+      "topics": [],
+      "created_at": "2026-06-10T11:06:58Z",
+      "updated_at": "2026-06-11T20:26:02Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "improve\nAn agent skill that audits any codebase and writes implementation plans for other agents to execute.\nThe idea: use your most capable model for the part where intelligence compounds — understanding the codebase, judging what's worth doing, writing the spec — and hand execution to cheaper mode"
     },
     {
       "id": 1262173643,
@@ -38,17 +61,17 @@
       "html_url": "https://github.com/NoopApp/noop",
       "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
       "language": "Swift",
-      "stargazers_count": 1371,
-      "forks_count": 624,
-      "open_issues_count": 14,
+      "stargazers_count": 1464,
+      "forks_count": 660,
+      "open_issues_count": 9,
       "topics": [],
       "created_at": "2026-06-07T17:03:02Z",
-      "updated_at": "2026-06-10T20:32:50Z",
+      "updated_at": "2026-06-11T20:24:49Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
       },
-      "readme_snippet": "NOOP\nYour strap. Your data. Your machine. Local-first, no cloud.\n  \n  \n  \n  \n  \n  ♥&nbsp;Support ·\n  ⬇&nbsp;Download ·\n  Features ·\n  Protocol ·\n  Contact\n---\nKeeping NOOP alive\nNOOP is free, forever — no account, no cloud, no subscription, every feature unlocked, no nag. That doesn't change.\nBut he"
+      "readme_snippet": "NOOP\nYour strap. Your data. Your machine. Local-first, no cloud.\n  \n  \n  \n  \n  \n  \n  ♥&nbsp;Support ·\n  ⬇&nbsp;Download ·\n  💬&nbsp;Community ·\n  Features ·\n  Protocol ·\n  Contact\n---\nKeeping NOOP alive\nNOOP is free, forever — no account, no cloud, no subscription, every feature unlocked, no nag. Th"
     },
     {
       "id": 1264312494,
@@ -61,12 +84,12 @@
       "html_url": "https://github.com/MSNightmare/RoguePlanet",
       "description": "RoguePlanet Windows Defender Vulnerability",
       "language": "C++",
-      "stargazers_count": 852,
-      "forks_count": 368,
-      "open_issues_count": 3,
+      "stargazers_count": 1088,
+      "forks_count": 465,
+      "open_issues_count": 5,
       "topics": [],
       "created_at": "2026-06-09T19:10:18Z",
-      "updated_at": "2026-06-10T20:30:04Z",
+      "updated_at": "2026-06-11T19:49:55Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -84,37 +107,14 @@
       "html_url": "https://github.com/GordenSun/GordenSuperPPTSkills",
       "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
       "language": "Python",
-      "stargazers_count": 721,
-      "forks_count": 76,
-      "open_issues_count": 0,
-      "topics": [],
-      "created_at": "2026-06-07T16:20:13Z",
-      "updated_at": "2026-06-10T17:30:42Z",
-      "license": null,
-      "readme_snippet": "Gorden Super PPT Skills（技能包）\nAI PPT赛道终结者，史上最最最强 PPT Skill！！！\n使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。\nSkill全流程已拆成 3 个独立技能，可以拆分使用和优化：\n| 技能 | 作用 | 输入 → 输出 |\n|---|---|---|\n| GordenImagePPTGen | 生成「图片格式的 PPT」 | 主题/内容 → 每页 .png + 图片型 .pptx |\n| GordenImage2PPTX | 把「图片 PPT / 图片」还原成可编辑 pptx | 图片 → 可编辑 .pptx（背景+"
-    },
-    {
-      "id": 1264986626,
-      "full_name": "shadcn/improve",
-      "name": "improve",
-      "owner": {
-        "login": "shadcn",
-        "avatar_url": "https://avatars.githubusercontent.com/u/124599?v=4"
-      },
-      "html_url": "https://github.com/shadcn/improve",
-      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "language": null,
-      "stargazers_count": 690,
-      "forks_count": 19,
+      "stargazers_count": 780,
+      "forks_count": 81,
       "open_issues_count": 1,
       "topics": [],
-      "created_at": "2026-06-10T11:06:58Z",
-      "updated_at": "2026-06-10T20:34:01Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "improve\nAn agent skill that audits any codebase and writes implementation plans for other agents to execute.\nThe idea: use your most capable model for the part where intelligence compounds — understanding the codebase, judging what's worth doing, writing the spec — and hand execution to cheaper mode"
+      "created_at": "2026-06-07T16:20:13Z",
+      "updated_at": "2026-06-11T19:29:13Z",
+      "license": null,
+      "readme_snippet": "Gorden Super PPT Skills（技能包）\nAI PPT赛道终结者，史上最最最强 PPT Skill！！！\n使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。\nSkill全流程已拆成 3 个独立技能，可以拆分使用和优化：\n| 技能 | 作用 | 输入 → 输出 |\n|---|---|---|\n| GordenImagePPTGen | 生成「图片格式的 PPT」 | 主题/内容 → 每页 .png + 图片型 .pptx |\n| GordenImage2PPTX | 把「图片 PPT / 图片」还原成可编辑 pptx | 图片 → 可编辑 .pptx（背景+"
     },
     {
       "id": 1261650101,
@@ -127,8 +127,8 @@
       "html_url": "https://github.com/JimLiu/baoyu-design",
       "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "language": "JavaScript",
-      "stargazers_count": 678,
-      "forks_count": 53,
+      "stargazers_count": 765,
+      "forks_count": 58,
       "open_issues_count": 0,
       "topics": [
         "agent-skills",
@@ -141,7 +141,7 @@
         "ui-design"
       ],
       "created_at": "2026-06-07T01:16:18Z",
-      "updated_at": "2026-06-10T19:26:34Z",
+      "updated_at": "2026-06-11T17:54:58Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -159,12 +159,12 @@
       "html_url": "https://github.com/apple/coreai-models",
       "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
       "language": "Python",
-      "stargazers_count": 591,
-      "forks_count": 29,
-      "open_issues_count": 7,
+      "stargazers_count": 715,
+      "forks_count": 48,
+      "open_issues_count": 11,
       "topics": [],
       "created_at": "2026-06-08T04:32:27Z",
-      "updated_at": "2026-06-10T20:29:17Z",
+      "updated_at": "2026-06-11T20:29:01Z",
       "license": {
         "spdx_id": "BSD-3-Clause",
         "key": "bsd-3-clause"
@@ -182,12 +182,12 @@
       "html_url": "https://github.com/vorpus/performativeUI",
       "description": null,
       "language": "TypeScript",
-      "stargazers_count": 562,
-      "forks_count": 14,
+      "stargazers_count": 591,
+      "forks_count": 15,
       "open_issues_count": 2,
       "topics": [],
       "created_at": "2026-06-07T15:45:48Z",
-      "updated_at": "2026-06-10T20:04:26Z",
+      "updated_at": "2026-06-11T17:54:16Z",
       "license": null,
       "readme_snippet": "performative-ui\n  AI-native React components that signal how oversubscribed your\n  funding round is.\n  Documentation\n  ·\n  npm\n  ·\n  GitHub\n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n---\nInstall\nVisit the documentation for the\nfull component catalog, live demos, and API reference.\nCommunity Ports\n- p"
     },
@@ -202,8 +202,8 @@
       "html_url": "https://github.com/amElnagdy/guard-skills",
       "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
       "language": null,
-      "stargazers_count": 547,
-      "forks_count": 59,
+      "stargazers_count": 570,
+      "forks_count": 63,
       "open_issues_count": 0,
       "topics": [
         "agent-skills",
@@ -217,7 +217,7 @@
         "wordpress"
       ],
       "created_at": "2026-06-06T16:59:27Z",
-      "updated_at": "2026-06-10T18:50:33Z",
+      "updated_at": "2026-06-11T20:04:08Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
