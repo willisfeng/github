@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-11T20:30:35.059Z",
-  "query_date_range": "2026-06-04 ~ 2026-06-11",
-  "total_found": 2151406,
+  "updated_at": "2026-06-12T20:15:05.979Z",
+  "query_date_range": "2026-06-05 ~ 2026-06-12",
+  "total_found": 2197370,
   "count": 9,
   "repos": [
     {
@@ -15,12 +15,12 @@
       "html_url": "https://github.com/XiaomiMiMo/MiMo-Code",
       "description": null,
       "language": "TypeScript",
-      "stargazers_count": 4317,
-      "forks_count": 324,
-      "open_issues_count": 288,
+      "stargazers_count": 6582,
+      "forks_count": 521,
+      "open_issues_count": 418,
       "topics": [],
       "created_at": "2026-06-10T11:52:41Z",
-      "updated_at": "2026-06-11T20:30:02Z",
+      "updated_at": "2026-06-12T20:12:48Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -38,12 +38,12 @@
       "html_url": "https://github.com/shadcn/improve",
       "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
       "language": null,
-      "stargazers_count": 1708,
-      "forks_count": 57,
-      "open_issues_count": 5,
+      "stargazers_count": 2352,
+      "forks_count": 86,
+      "open_issues_count": 6,
       "topics": [],
       "created_at": "2026-06-10T11:06:58Z",
-      "updated_at": "2026-06-11T20:26:02Z",
+      "updated_at": "2026-06-12T20:13:12Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -61,12 +61,12 @@
       "html_url": "https://github.com/NoopApp/noop",
       "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
       "language": "Swift",
-      "stargazers_count": 1464,
-      "forks_count": 660,
-      "open_issues_count": 9,
+      "stargazers_count": 1530,
+      "forks_count": 687,
+      "open_issues_count": 12,
       "topics": [],
       "created_at": "2026-06-07T17:03:02Z",
-      "updated_at": "2026-06-11T20:24:49Z",
+      "updated_at": "2026-06-12T20:04:12Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
@@ -84,12 +84,12 @@
       "html_url": "https://github.com/MSNightmare/RoguePlanet",
       "description": "RoguePlanet Windows Defender Vulnerability",
       "language": "C++",
-      "stargazers_count": 1088,
-      "forks_count": 465,
+      "stargazers_count": 1205,
+      "forks_count": 506,
       "open_issues_count": 5,
       "topics": [],
       "created_at": "2026-06-09T19:10:18Z",
-      "updated_at": "2026-06-11T19:49:55Z",
+      "updated_at": "2026-06-12T20:02:24Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -107,12 +107,12 @@
       "html_url": "https://github.com/GordenSun/GordenSuperPPTSkills",
       "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
       "language": "Python",
-      "stargazers_count": 780,
-      "forks_count": 81,
+      "stargazers_count": 842,
+      "forks_count": 88,
       "open_issues_count": 1,
       "topics": [],
       "created_at": "2026-06-07T16:20:13Z",
-      "updated_at": "2026-06-11T19:29:13Z",
+      "updated_at": "2026-06-12T19:16:59Z",
       "license": null,
       "readme_snippet": "Gorden Super PPT Skills（技能包）\nAI PPT赛道终结者，史上最最最强 PPT Skill！！！\n使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。\nSkill全流程已拆成 3 个独立技能，可以拆分使用和优化：\n| 技能 | 作用 | 输入 → 输出 |\n|---|---|---|\n| GordenImagePPTGen | 生成「图片格式的 PPT」 | 主题/内容 → 每页 .png + 图片型 .pptx |\n| GordenImage2PPTX | 把「图片 PPT / 图片」还原成可编辑 pptx | 图片 → 可编辑 .pptx（背景+"
     },
@@ -127,8 +127,8 @@
       "html_url": "https://github.com/JimLiu/baoyu-design",
       "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "language": "JavaScript",
-      "stargazers_count": 765,
-      "forks_count": 58,
+      "stargazers_count": 825,
+      "forks_count": 64,
       "open_issues_count": 0,
       "topics": [
         "agent-skills",
@@ -141,7 +141,7 @@
         "ui-design"
       ],
       "created_at": "2026-06-07T01:16:18Z",
-      "updated_at": "2026-06-11T17:54:58Z",
+      "updated_at": "2026-06-12T19:22:42Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -158,18 +158,52 @@
       },
       "html_url": "https://github.com/apple/coreai-models",
       "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-      "language": "Python",
-      "stargazers_count": 715,
-      "forks_count": 48,
-      "open_issues_count": 11,
+      "language": "Swift",
+      "stargazers_count": 823,
+      "forks_count": 59,
+      "open_issues_count": 12,
       "topics": [],
       "created_at": "2026-06-08T04:32:27Z",
-      "updated_at": "2026-06-11T20:29:01Z",
+      "updated_at": "2026-06-12T19:47:35Z",
       "license": {
         "spdx_id": "BSD-3-Clause",
         "key": "bsd-3-clause"
       },
       "readme_snippet": "Core AI Models\nModel export recipes, Python primitives, and Swift runtime utilities for building on-device AI with Core AI.\nThe main components include:\n- Model export — Recipes to export popular open source models from Hugging Face and other sources to Core AI format.\n- Reusable primitives — Python"
+    },
+    {
+      "id": 1266797999,
+      "full_name": "DietrichGebert/ponytail",
+      "name": "ponytail",
+      "owner": {
+        "login": "DietrichGebert",
+        "avatar_url": "https://avatars.githubusercontent.com/u/137048761?v=4"
+      },
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stargazers_count": 799,
+      "forks_count": 34,
+      "open_issues_count": 3,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "created_at": "2026-06-12T00:52:37Z",
+      "updated_at": "2026-06-12T20:12:29Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Ponytail\n  He says nothing. He writes one line. It works.\n---\nYou know him. Long ponytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, and replaces them with one.\nPonytail puts him inside your AI agent.\nBefore / aft"
     },
     {
       "id": 1262119305,
@@ -182,47 +216,14 @@
       "html_url": "https://github.com/vorpus/performativeUI",
       "description": null,
       "language": "TypeScript",
-      "stargazers_count": 591,
-      "forks_count": 15,
+      "stargazers_count": 658,
+      "forks_count": 16,
       "open_issues_count": 2,
       "topics": [],
       "created_at": "2026-06-07T15:45:48Z",
-      "updated_at": "2026-06-11T17:54:16Z",
+      "updated_at": "2026-06-12T19:26:03Z",
       "license": null,
       "readme_snippet": "performative-ui\n  AI-native React components that signal how oversubscribed your\n  funding round is.\n  Documentation\n  ·\n  npm\n  ·\n  GitHub\n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n---\nInstall\nVisit the documentation for the\nfull component catalog, live demos, and API reference.\nCommunity Ports\n- p"
-    },
-    {
-      "id": 1261422007,
-      "full_name": "amElnagdy/guard-skills",
-      "name": "guard-skills",
-      "owner": {
-        "login": "amElnagdy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/7650147?v=4"
-      },
-      "html_url": "https://github.com/amElnagdy/guard-skills",
-      "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-      "language": null,
-      "stargazers_count": 570,
-      "forks_count": 63,
-      "open_issues_count": 0,
-      "topics": [
-        "agent-skills",
-        "ai",
-        "claude",
-        "claude-code",
-        "code-review",
-        "codex",
-        "skills-sh",
-        "woocommerce",
-        "wordpress"
-      ],
-      "created_at": "2026-06-06T16:59:27Z",
-      "updated_at": "2026-06-11T20:04:08Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "guard-skills\nFocused guard skills for coding agents: second-pass quality gates that catch the systematic failure modes of AI-generated code, tests, and docs before they ship.\nBest use: let your agent do the work, then invoke the relevant guard on the diff before you present, commit, or merge it. The"
     }
   ]
 }
