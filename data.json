@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-15T20:58:58.625Z",
-  "query_date_range": "2026-06-08 ~ 2026-06-15",
-  "total_found": 2360089,
+  "updated_at": "2026-06-16T20:56:03.666Z",
+  "query_date_range": "2026-06-09 ~ 2026-06-16",
+  "total_found": 2353243,
   "count": 9,
   "repos": [
     {
@@ -15,9 +15,9 @@
       "html_url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stargazers_count": 15445,
-      "forks_count": 629,
-      "open_issues_count": 8,
+      "stargazers_count": 23960,
+      "forks_count": 1047,
+      "open_issues_count": 37,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -31,12 +31,12 @@
         "yagni"
       ],
       "created_at": "2026-06-12T00:52:37Z",
-      "updated_at": "2026-06-15T20:58:30Z",
+      "updated_at": "2026-06-16T20:55:32Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "Ponytail\n  He says nothing. He writes one line. It works.\n  \n  \n  \n  \n  80-94% less code &middot; 3-6&times; faster &middot; 47-77% cheaper\n  Median of 10 runs across Haiku, Sonnet, and Opus. Reproduce it yourself.\n---\nYou know him. Long ponytail. Oval glasses. Has been at the company longer than th"
+      "readme_snippet": "Ponytail\n  He says nothing. He writes one line. It works.\n  \n  \n  \n  \n  80-94% less code &middot; 3-6&times; faster &middot; 47-77% cheaper\n  Per-task code, latency, and cost on the Claude API, not your plan's quota. The ruleset re-injects each turn, so on one short prompt that overhead can outweigh"
     },
     {
       "id": 1265025028,
@@ -49,12 +49,12 @@
       "html_url": "https://github.com/XiaomiMiMo/MiMo-Code",
       "description": null,
       "language": "TypeScript",
-      "stargazers_count": 8977,
-      "forks_count": 784,
-      "open_issues_count": 672,
+      "stargazers_count": 9350,
+      "forks_count": 826,
+      "open_issues_count": 756,
       "topics": [],
       "created_at": "2026-06-10T11:52:41Z",
-      "updated_at": "2026-06-15T20:46:48Z",
+      "updated_at": "2026-06-16T20:52:59Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -72,12 +72,12 @@
       "html_url": "https://github.com/shadcn/improve",
       "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
       "language": null,
-      "stargazers_count": 4838,
-      "forks_count": 166,
-      "open_issues_count": 5,
+      "stargazers_count": 4998,
+      "forks_count": 176,
+      "open_issues_count": 6,
       "topics": [],
       "created_at": "2026-06-10T11:06:58Z",
-      "updated_at": "2026-06-15T20:46:24Z",
+      "updated_at": "2026-06-16T20:33:36Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -95,17 +95,25 @@
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
       "language": "Python",
-      "stargazers_count": 1788,
-      "forks_count": 219,
-      "open_issues_count": 95,
-      "topics": [],
+      "stargazers_count": 2668,
+      "forks_count": 310,
+      "open_issues_count": 129,
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "developer-tools",
+        "llm",
+        "ml",
+        "python"
+      ],
       "created_at": "2026-06-11T12:18:13Z",
-      "updated_at": "2026-06-15T20:56:37Z",
+      "updated_at": "2026-06-16T20:52:28Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
-      "readme_snippet": "Omnigent\nA meta-harness for all your AI agents\nOmnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from an"
+      "readme_snippet": "Omnigent\nA meta-harness for all your AI agents\nOmnigent provides a common layer over Claude Code, Codex, Cursor, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session,"
     },
     {
       "id": 1269156190,
@@ -118,40 +126,17 @@
       "html_url": "https://github.com/tamnd/kage",
       "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
       "language": "Go",
-      "stargazers_count": 1483,
-      "forks_count": 33,
-      "open_issues_count": 7,
+      "stargazers_count": 1743,
+      "forks_count": 48,
+      "open_issues_count": 9,
       "topics": [],
       "created_at": "2026-06-14T11:21:55Z",
-      "updated_at": "2026-06-15T20:54:12Z",
+      "updated_at": "2026-06-16T20:47:46Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "kage\nkage (影, \"shadow\") clones a website into a folder you can browse offline, with every script stripped out. It opens each page in real headless Chrome, waits for the page to settle, snapshots the DOM a human would have seen, then deletes all the JavaScript and pulls the CSS, images, and fonts dow"
-    },
-    {
-      "id": 1264312494,
-      "full_name": "MSNightmare/RoguePlanet",
-      "name": "RoguePlanet",
-      "owner": {
-        "login": "MSNightmare",
-        "avatar_url": "https://avatars.githubusercontent.com/u/291905677?v=4"
-      },
-      "html_url": "https://github.com/MSNightmare/RoguePlanet",
-      "description": "RoguePlanet Windows Defender Vulnerability",
-      "language": "C++",
-      "stargazers_count": 1292,
-      "forks_count": 535,
-      "open_issues_count": 6,
-      "topics": [],
-      "created_at": "2026-06-09T19:10:18Z",
-      "updated_at": "2026-06-15T20:12:37Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "RoguePlanet\nRoguePlanet Windows Defender Vulnerability\nWelcome back everyone !!!\nThe exploit is a race condition, so it's a hit or miss. I have managed to get a 100% success rate on some machines while it struggled to work on others.\nThe exploit has been tested in Windows 11 (Official channel + Cana"
     },
     {
       "id": 1265107923,
@@ -164,14 +149,14 @@
       "html_url": "https://github.com/SkyBlue997/enableMacosAI",
       "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
       "language": "Shell",
-      "stargazers_count": 1281,
-      "forks_count": 69,
-      "open_issues_count": 20,
+      "stargazers_count": 1334,
+      "forks_count": 72,
+      "open_issues_count": 23,
       "topics": [
         "apple-intelligence"
       ],
       "created_at": "2026-06-10T13:23:39Z",
-      "updated_at": "2026-06-15T19:04:17Z",
+      "updated_at": "2026-06-16T20:17:13Z",
       "license": null,
       "readme_snippet": "RegionSpoof — 在国行 Mac(macOS 27)上开启完整 Apple 智能\n一个极简内核扩展(kext),在 IORegistry 源头把设备区域码从 CH/A 改成 LL/A(美版),\n让 MobileGestalt 对全系统每个进程都返回美版区域,从而在国行机\n(本机 Mac15,9 / M3 Max / macOS 27 26A5353q)上启用完整的 Apple Intelligence——\n端侧 + Private Cloud Compute 云端全功能(写作工具含语气改写、图乐园、Genmoji、\nFoundation Models、ChatGPT 扩展)。\n快速安"
     },
@@ -186,40 +171,60 @@
       "html_url": "https://github.com/lenucksi/aur-malware-check",
       "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
       "language": "Shell",
-      "stargazers_count": 1147,
-      "forks_count": 27,
-      "open_issues_count": 10,
+      "stargazers_count": 1323,
+      "forks_count": 30,
+      "open_issues_count": 11,
       "topics": [],
       "created_at": "2026-06-12T13:17:07Z",
-      "updated_at": "2026-06-15T20:50:30Z",
+      "updated_at": "2026-06-16T20:47:32Z",
       "license": null,
       "readme_snippet": "AUR Malware Check - June 2026 Campaign\nDetection and analysis tools for the atomic-lockfile supply-chain attack on the Arch User Repository (AUR).\nThis is a collection of all the scattered resources, especially the ones in the detection scripts Gist - they made this, I just collected this to a repo "
     },
     {
-      "id": 1264478656,
-      "full_name": "plannotator/effective-html",
-      "name": "effective-html",
+      "id": 1264716916,
+      "full_name": "levy-street/world-of-claudecraft",
+      "name": "world-of-claudecraft",
       "owner": {
-        "login": "plannotator",
-        "avatar_url": "https://avatars.githubusercontent.com/u/287026406?v=4"
+        "login": "levy-street",
+        "avatar_url": "https://avatars.githubusercontent.com/u/149554763?v=4"
       },
-      "html_url": "https://github.com/plannotator/effective-html",
-      "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
-      "language": "HTML",
-      "stargazers_count": 909,
-      "forks_count": 63,
-      "open_issues_count": 2,
-      "topics": [
-        "agent-skills",
-        "skills"
-      ],
-      "created_at": "2026-06-09T23:24:51Z",
-      "updated_at": "2026-06-15T20:50:00Z",
+      "html_url": "https://github.com/levy-street/world-of-claudecraft",
+      "description": null,
+      "language": "TypeScript",
+      "stargazers_count": 856,
+      "forks_count": 242,
+      "open_issues_count": 161,
+      "topics": [],
+      "created_at": "2026-06-10T05:55:59Z",
+      "updated_at": "2026-06-16T20:42:31Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "HTML skills for pragmatic visual artifacts\nhttps://github.com/user-attachments/assets/24306977-7f30-44c9-9bff-55f901d557b0\n_Note: The diagram was made by Fable 5, I will create more fable 5 artifacts and add them to the skill folder for smaller models to distill._\nexample demo\nFocused skills for gen"
+      "readme_snippet": "English · Español · Español (España) · Français · Français (Canada) · Italiano · Deutsch · 简体中文 · 繁體中文 · 한국어 · 日本語 · Português (Brasil) · Русский\nWorld of ClaudeCraft — a classic-style MMO\nJoin the community Discord\n!World of ClaudeCraft title screen\nA classic-era-MMO-flavored micro-MMO you can host"
+    },
+    {
+      "id": 1268186785,
+      "full_name": "EEliberto/IPA-Download",
+      "name": "IPA-Download",
+      "owner": {
+        "login": "EEliberto",
+        "avatar_url": "https://avatars.githubusercontent.com/u/74881807?v=4"
+      },
+      "html_url": "https://github.com/EEliberto/IPA-Download",
+      "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
+      "language": "Swift",
+      "stargazers_count": 779,
+      "forks_count": 43,
+      "open_issues_count": 0,
+      "topics": [],
+      "created_at": "2026-06-13T08:32:39Z",
+      "updated_at": "2026-06-16T20:50:17Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "Pastel (迄今空前强大的一款 IPA 下载工具)。\n一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。\n目前只支持 macOS 26+ 且配备 Apple 芯片的 Mac。由于作者暂无 Windows PC 设备，故暂时没有 Windows 版本开发计划。\n使用 SwiftUI 编译，完美适配 macOS 26 的 Liquid Glass 效果。\n主页面。\n你可以轻松使用 Pastel 在对应地区的 App Store 内查看并搜索 App。更强大的是，它能直接根据你选择的 Ap"
     }
   ]
 }
