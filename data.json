@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-17T20:17:15.840Z",
-  "query_date_range": "2026-06-10 ~ 2026-06-17",
-  "total_found": 2355789,
+  "updated_at": "2026-06-18T20:29:57.344Z",
+  "query_date_range": "2026-06-11 ~ 2026-06-18",
+  "total_found": 2355051,
   "count": 9,
   "repos": [
     {
@@ -15,9 +15,9 @@
       "html_url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stargazers_count": 30955,
-      "forks_count": 1397,
-      "open_issues_count": 40,
+      "stargazers_count": 36159,
+      "forks_count": 1670,
+      "open_issues_count": 67,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -31,52 +31,12 @@
         "yagni"
       ],
       "created_at": "2026-06-12T00:52:37Z",
-      "updated_at": "2026-06-17T20:16:31Z",
+      "updated_at": "2026-06-18T20:29:24Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "Ponytail\n  He says nothing. He writes one line. It works.\n  \n  \n  \n  \n  80-94% less code &middot; 3-6&times; faster &middot; 42-75% cheaper\n  Per-task code, latency, and cost on the Claude API, not your plan's quota. Median across Haiku, Sonnet, and Opus (10 runs for code and latency, 30 for the re-"
-    },
-    {
-      "id": 1266212515,
-      "full_name": "omnigent-ai/omnigent",
-      "name": "omnigent",
-      "owner": {
-        "login": "omnigent-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/292215228?v=4"
-      },
-      "html_url": "https://github.com/omnigent-ai/omnigent",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "language": "Python",
-      "stargazers_count": 3441,
-      "forks_count": 382,
-      "open_issues_count": 155,
-      "topics": [
-        "agent-framework",
-        "agent-governance",
-        "agent-orchestration",
-        "agents",
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "coding-agents",
-        "developer-tools",
-        "llm",
-        "ml",
-        "multi-agent",
-        "python",
-        "sandbox"
-      ],
-      "created_at": "2026-06-11T12:18:13Z",
-      "updated_at": "2026-06-17T20:15:19Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "Omnigent\nThe open-source AI agent framework and meta-harness for all your AI agents.\nOmnigent is an open-source AI agent framework and meta-harness that gives you a common orchestration layer over Claude Code, Codex, Cursor, Pi, and the agents you write yourself: swap or combine harnesses without re"
+      "readme_snippet": "Ponytail\n  He says nothing. He writes one line. It works.\n  \n  \n  \n  \n  ~54% less code (up to 94%) &middot; ~20% cheaper &middot; ~27% faster &middot; 100% safe\n  Measured on real Claude Code sessions editing a real open-source repo (FastAPI + React), against the same agent with no skill. ~54% is th"
     },
     {
       "id": 1269156190,
@@ -89,12 +49,12 @@
       "html_url": "https://github.com/tamnd/kage",
       "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
       "language": "Go",
-      "stargazers_count": 1847,
-      "forks_count": 54,
-      "open_issues_count": 7,
+      "stargazers_count": 1992,
+      "forks_count": 62,
+      "open_issues_count": 8,
       "topics": [],
       "created_at": "2026-06-14T11:21:55Z",
-      "updated_at": "2026-06-17T20:03:07Z",
+      "updated_at": "2026-06-18T20:18:54Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -112,14 +72,47 @@
       "html_url": "https://github.com/lenucksi/aur-malware-check",
       "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
       "language": "Shell",
-      "stargazers_count": 1446,
-      "forks_count": 32,
-      "open_issues_count": 13,
+      "stargazers_count": 1528,
+      "forks_count": 31,
+      "open_issues_count": 14,
       "topics": [],
       "created_at": "2026-06-12T13:17:07Z",
-      "updated_at": "2026-06-17T20:05:45Z",
+      "updated_at": "2026-06-18T19:38:15Z",
       "license": null,
       "readme_snippet": "AUR Malware Check - June 2026 Campaign\nDetection and analysis tools for the atomic-lockfile supply-chain attack on the Arch User Repository (AUR).\nThis is a collection of all the scattered resources, especially the ones in the detection scripts Gist - they made this, I just collected this to a repo "
+    },
+    {
+      "id": 1271113810,
+      "full_name": "vercel/eve",
+      "name": "eve",
+      "owner": {
+        "login": "vercel",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14985020?v=4"
+      },
+      "html_url": "https://github.com/vercel/eve",
+      "description": "The Framework for Building Agents",
+      "language": "TypeScript",
+      "stargazers_count": 1304,
+      "forks_count": 76,
+      "open_issues_count": 35,
+      "topics": [
+        "agent",
+        "framework",
+        "harness",
+        "javascript",
+        "markdown",
+        "sandbox",
+        "typescript",
+        "vercel",
+        "workflows"
+      ],
+      "created_at": "2026-06-16T10:51:20Z",
+      "updated_at": "2026-06-18T20:26:44Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "eve\neve is a filesystem-first framework for durable AI agents. Core agent capabilities live in\nconventional locations, so projects are easier to inspect, extend, and operate.\nThe filesystem is the authoring interface\nA typical eve agent has this structure:\nRead the documentation for the full project"
     },
     {
       "id": 1268186785,
@@ -130,42 +123,19 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/74881807?v=4"
       },
       "html_url": "https://github.com/EEliberto/IPA-Download",
-      "description": "一款用于安装 IPA 历史版本的工具，适���于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
+      "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
       "language": "Swift",
-      "stargazers_count": 988,
-      "forks_count": 53,
-      "open_issues_count": 0,
+      "stargazers_count": 1069,
+      "forks_count": 57,
+      "open_issues_count": 1,
       "topics": [],
       "created_at": "2026-06-13T08:32:39Z",
-      "updated_at": "2026-06-17T20:06:50Z",
+      "updated_at": "2026-06-18T20:01:19Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
       "readme_snippet": "Pastel (迄今空前强大的一款 IPA 下载工具)。\n一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。\n目前只支持 macOS 26+ 且配备 Apple 芯片的 Mac。由于作者暂无 Windows PC 设备，故暂时没有 Windows 版本开发计划。\n使用 SwiftUI 编译，完美适配 macOS 26 的 Liquid Glass 效果。\n主页面。\n你可以轻松使用 Pastel 在对应地区的 App Store 内查看并搜索 App。更强大的是，它能直接根据你选择的 Ap"
-    },
-    {
-      "id": 1265847218,
-      "full_name": "loc567/loc567",
-      "name": "loc567",
-      "owner": {
-        "login": "loc567",
-        "avatar_url": "https://avatars.githubusercontent.com/u/292671063?v=4"
-      },
-      "html_url": "https://github.com/loc567/loc567",
-      "description": "loc567 是一款完��开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com",
-      "language": "C",
-      "stargazers_count": 965,
-      "forks_count": 122,
-      "open_issues_count": 9,
-      "topics": [],
-      "created_at": "2026-06-11T06:05:29Z",
-      "updated_at": "2026-06-17T20:10:56Z",
-      "license": {
-        "spdx_id": "LGPL-2.1",
-        "key": "lgpl-2.1"
-      },
-      "readme_snippet": "loc567\n在线体验地址：https://loc567.com\ntg讨论群:https://t.me/loc556677\n项目简介\nloc567 是一款完全开源免费的纯网页端iOS模拟定位工具。\n无需电脑、无需越狱、无需巨魔(TrollStore)环境，兼容iOS12-iOS26全版本系统，无任何系统版本限制，支持长时间稳定模拟定位，可绕过钉钉、企业微信常规定位安全检测。\n核心特性\n1. 脱离电脑：仅iPhone原生Safari浏览器访问，无需数据线、无需电脑配合\n2. 全系统兼容：覆盖iOS12至iOS26所有正式版本，无需巨魔、企业证书、越狱\n3. 长效稳定定位：网页切后台依旧保活，定位"
     },
     {
       "id": 1267797347,
@@ -178,12 +148,12 @@
       "html_url": "https://github.com/orange2ai/renwei-writing",
       "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
       "language": null,
-      "stargazers_count": 769,
+      "stargazers_count": 808,
       "forks_count": 77,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-06-12T21:45:48Z",
-      "updated_at": "2026-06-17T17:10:08Z",
+      "updated_at": "2026-06-18T18:40:23Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
@@ -201,9 +171,9 @@
       "html_url": "https://github.com/nolangz/pixel2motion",
       "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
       "language": "Python",
-      "stargazers_count": 702,
-      "forks_count": 66,
-      "open_issues_count": 3,
+      "stargazers_count": 791,
+      "forks_count": 72,
+      "open_issues_count": 4,
       "topics": [
         "ai-design-tools",
         "animated-logo",
@@ -222,7 +192,7 @@
         "vector-animation"
       ],
       "created_at": "2026-06-12T04:25:17Z",
-      "updated_at": "2026-06-17T19:17:56Z",
+      "updated_at": "2026-06-18T19:48:25Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -230,27 +200,50 @@
       "readme_snippet": "Pixel2Motion - AI Logo Animation Skill\nRaster logo → smooth minimal SVG → SVG logo animation → interactive HTML motion demo.\nLive interactive demo · Skill instructions · Companion skill: Pixel2SVG-HTML\nPixel2Motion is an open-source Codex and Claude skill for logo animation, SVG animation, and AI-as"
     },
     {
-      "id": 1266385233,
-      "full_name": "joeseesun/qiaomu-goal-meta-skill",
-      "name": "qiaomu-goal-meta-skill",
+      "id": 1269395331,
+      "full_name": "Waishnav/devspace",
+      "name": "devspace",
       "owner": {
-        "login": "joeseesun",
-        "avatar_url": "https://avatars.githubusercontent.com/u/3236682?v=4"
+        "login": "Waishnav",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86405648?v=4"
       },
-      "html_url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
-      "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
-      "language": "Python",
-      "stargazers_count": 646,
-      "forks_count": 47,
-      "open_issues_count": 2,
+      "html_url": "https://github.com/Waishnav/devspace",
+      "description": "Turn ChatGPT into Codex",
+      "language": "TypeScript",
+      "stargazers_count": 776,
+      "forks_count": 71,
+      "open_issues_count": 7,
       "topics": [],
-      "created_at": "2026-06-11T15:10:51Z",
-      "updated_at": "2026-06-17T17:32:28Z",
+      "created_at": "2026-06-14T16:57:27Z",
+      "updated_at": "2026-06-18T20:26:58Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "qiaomu-goal-meta-skill\n> 你只想说一句“帮我做个 App”，但 Codex 真正需要的是一个能执行、能验证、知道边界、知道何时停下来的目标。\n> qiaomu-goal-meta-skill turns vague work into a copy-ready Codex /goal command with defaults, verification, boundaries, and pause conditions.\n  \n  \n  \n  \n  \n中文 | English\n为什么值得用\n很多 agent 任务失败，不是因为模型不会写代码。\n而是因为目标一开始就太松"
+      "readme_snippet": "DevSpace\nBring a Codex-style coding workflow to ChatGPT.\n  \n  \n  \nGive ChatGPT a secure connection to your own machine and Turn ChatGPT into Codex\nDevSpace is a self-hosted MCP server that lets ChatGPT read, edit, search, and run code in your real local projects — your files, your tools, your termin"
+    },
+    {
+      "id": 1269794613,
+      "full_name": "alchaincyf/loop-engineering-orange-book",
+      "name": "loop-engineering-orange-book",
+      "owner": {
+        "login": "alchaincyf",
+        "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+      },
+      "html_url": "https://github.com/alchaincyf/loop-engineering-orange-book",
+      "description": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+      "language": null,
+      "stargazers_count": 666,
+      "forks_count": 56,
+      "open_issues_count": 0,
+      "topics": [],
+      "created_at": "2026-06-15T05:27:07Z",
+      "updated_at": "2026-06-18T17:00:29Z",
+      "license": {
+        "spdx_id": "NOASSERTION",
+        "key": "other"
+      },
+      "readme_snippet": "English | 中文版 README\n  \nLoop Engineering: Stop Asking Me What It Is\n> 橙皮书 (Orange Book) Series · by HuaShu (花叔)\nA plain-language field guide to loop engineering — the term that blew up in a single week of June 2026, when Peter Steinberger, Boris Cherny (head of Claude Code at Anthropic), and Google'"
     }
   ]
 }
