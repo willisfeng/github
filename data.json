@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-23T20:10:10.602Z",
-  "query_date_range": "2026-06-16 ~ 2026-06-23",
-  "total_found": 2302325,
+  "updated_at": "2026-06-24T19:50:40.936Z",
+  "query_date_range": "2026-06-17 ~ 2026-06-24",
+  "total_found": 2323702,
   "count": 9,
   "repos": [
     {
@@ -15,17 +15,17 @@
       "html_url": "https://github.com/baidu/Unlimited-OCR",
       "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "language": "Python",
-      "stargazers_count": 3106,
-      "forks_count": 195,
-      "open_issues_count": 8,
+      "stargazers_count": 6163,
+      "forks_count": 472,
+      "open_issues_count": 18,
       "topics": [],
       "created_at": "2026-06-18T08:40:15Z",
-      "updated_at": "2026-06-23T20:09:42Z",
+      "updated_at": "2026-06-24T19:49:42Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "Unlimited OCR Works\n  \n    \n  \n  \n    \n  \n    \n    \n  \n  \n    \n  \nWelcome the Era of One-shot Long-horizon Parsing.\n    \nRelease\n- 2026/06/23] 📄 Our paper is now available on [arXiv.\n- 2026/06/23] 🤝 Thanks to the ModelScope community for their support. Our model is now available at [ModelScope.\n- "
+      "readme_snippet": "Unlimited OCR Works\n  \n    \n  \n  \n    \n  \n    \n    \n  \n  \n    \n  \nWelcome the Era of One-shot Long-horizon Parsing.\n    \nRelease\n- 2026/06/24] 🤝 Thanks to [AK for creating a demo for us. It is now available at Hugging Face Spaces.\n- 2026/06/23] 📄 Our paper is now available on [arXiv.\n- 2026/06/23]"
     },
     {
       "id": 1273536446,
@@ -38,14 +38,34 @@
       "html_url": "https://github.com/zhongerxin/Cowart",
       "description": null,
       "language": "JavaScript",
-      "stargazers_count": 2340,
-      "forks_count": 175,
-      "open_issues_count": 11,
+      "stargazers_count": 2633,
+      "forks_count": 207,
+      "open_issues_count": 6,
       "topics": [],
       "created_at": "2026-06-18T16:08:30Z",
-      "updated_at": "2026-06-23T19:55:44Z",
+      "updated_at": "2026-06-24T19:02:35Z",
       "license": null,
       "readme_snippet": "Cowart\nCowart 是一个面向 Codex 的本地无限画布插件。它基于 tldraw 提供可视化画布，用于构思、标注、生成图片和根据标注图迭代图片。画布运行在本地网页服务中，数据默认保存到当前用户项目的 canvas/ 目录，而不是保存到插件仓库里。\nEnglish README: README.en.md\n功能\n- 在 Codex 中打开一个本地 tldraw 无限画布。\n- 在当前项目目录中持久化画布页面和图片资源。\n- 在画布中创建 AI image holder，并让 Codex 生成图片填入选中的 holder。\n- 上传或提供 Cowart 标注截图，让 Codex 根据标"
+    },
+    {
+      "id": 1277578741,
+      "full_name": "bozhouDev/codex-orange-book",
+      "name": "codex-orange-book",
+      "owner": {
+        "login": "bozhouDev",
+        "avatar_url": "https://avatars.githubusercontent.com/u/259759010?v=4"
+      },
+      "html_url": "https://github.com/bozhouDev/codex-orange-book",
+      "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+      "language": "HTML",
+      "stargazers_count": 1306,
+      "forks_count": 135,
+      "open_issues_count": 2,
+      "topics": [],
+      "created_at": "2026-06-23T02:36:54Z",
+      "updated_at": "2026-06-24T19:49:49Z",
+      "license": null,
+      "readme_snippet": "Codex 橙皮书：从安装到实战案例的全链路使用指南\n> 非官方开源指南 · 持续更新版  \n> 写给开发者、独立开发者和 AI 工具重度用户的 Codex 使用手册。\n| 版本 | 最后校验 | 资料性质 |\n| --- | --- | --- |\n| v0.1.0 | 2026-06-22 | 非官方指南，不代表 OpenAI 官方文档或产品承诺 |\n> 本文以 2026-06-22 可访问的 Codex App、Codex CLI、Codex IDE Extension、Codex Web / Cloud 公开能力和实测界面为参考。Codex 更新很快，安装方式、模型名称、额度、入口位置"
     },
     {
       "id": 1274950277,
@@ -58,8 +78,8 @@
       "html_url": "https://github.com/lyra81604/zhengxi-views",
       "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
       "language": "Python",
-      "stargazers_count": 906,
-      "forks_count": 110,
+      "stargazers_count": 987,
+      "forks_count": 122,
       "open_issues_count": 0,
       "topics": [
         "agent-skill",
@@ -68,7 +88,7 @@
         "investing"
       ],
       "created_at": "2026-06-20T04:27:07Z",
-      "updated_at": "2026-06-23T18:22:38Z",
+      "updated_at": "2026-06-24T18:03:39Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
@@ -86,7 +106,7 @@
       "html_url": "https://github.com/Forsy-AI/agent-apprenticeship",
       "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
       "language": null,
-      "stargazers_count": 831,
+      "stargazers_count": 901,
       "forks_count": 46,
       "open_issues_count": 0,
       "topics": [
@@ -112,12 +132,12 @@
         "training-signals"
       ],
       "created_at": "2026-06-19T16:19:37Z",
-      "updated_at": "2026-06-23T20:04:36Z",
+      "updated_at": "2026-06-24T19:19:43Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "Agent Apprenticeship\nThe living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.\n!Agent Apprenticeship\nAs agents move into long-horizon, economically valuable work, Agent Apprenticeship creates the op"
+      "readme_snippet": "Agent Apprenticeship\nThe living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.\n!Agent Apprenticeship\nAs agents move into long-horizon, economically valuable work, Agent Ap"
     },
     {
       "id": 1274697585,
@@ -130,16 +150,16 @@
       "html_url": "https://github.com/aidenybai/cnfast",
       "description": "Fast drop in replacement for `cn`",
       "language": "TypeScript",
-      "stargazers_count": 768,
-      "forks_count": 7,
-      "open_issues_count": 5,
+      "stargazers_count": 862,
+      "forks_count": 8,
+      "open_issues_count": 6,
       "topics": [
         "clsx",
         "cn",
         "tailwindcss"
       ],
       "created_at": "2026-06-19T19:46:29Z",
-      "updated_at": "2026-06-23T19:45:24Z",
+      "updated_at": "2026-06-24T19:46:44Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
@@ -157,68 +177,14 @@
       "html_url": "https://github.com/kanavtwtgg/birds.cafe",
       "description": null,
       "language": "JavaScript",
-      "stargazers_count": 707,
+      "stargazers_count": 757,
       "forks_count": 1,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-06-21T13:57:28Z",
-      "updated_at": "2026-06-23T19:58:57Z",
+      "updated_at": "2026-06-24T17:28:00Z",
       "license": null,
       "readme_snippet": "birds.cafe ☕️🦜\nCA: GRSJMXpozCLtnCXzVzdoXGF8qEcUWE3WndNMUi4ypump\nImagine if you could just fly like a bird.\nNo missions. No scores. No stress.\nA relaxing, browser-based bird sim where you steer a flock of seagulls in V-formation over the ocean — through day, night, storms, rain, and lightning.\nLive:"
-    },
-    {
-      "id": 1271894214,
-      "full_name": "Plaer1/junction",
-      "name": "junction",
-      "owner": {
-        "login": "Plaer1",
-        "avatar_url": "https://avatars.githubusercontent.com/u/3485414?v=4"
-      },
-      "html_url": "https://github.com/Plaer1/junction",
-      "description": "VS Code chat sidebar for local AI coding agents",
-      "language": "TypeScript",
-      "stargazers_count": 530,
-      "forks_count": 8,
-      "open_issues_count": 0,
-      "topics": [],
-      "created_at": "2026-06-17T05:27:09Z",
-      "updated_at": "2026-06-23T18:06:48Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Junction\nA VS Code chat sidebar that connects your editor to local AI coding agents.\n7 backends · Chat sidebar · Workspace context · Animated splash · MIT License\n!Two familiar themes\nJunction is a chat panel for VS Code that connects to local AI coding agents running on your machine.\nIt speaks to m"
-    },
-    {
-      "id": 1274399536,
-      "full_name": "sums001/Windows-Copilot-API",
-      "name": "Windows-Copilot-API",
-      "owner": {
-        "login": "sums001",
-        "avatar_url": "https://avatars.githubusercontent.com/u/44167398?v=4"
-      },
-      "html_url": "https://github.com/sums001/Windows-Copilot-API",
-      "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
-      "language": "Python",
-      "stargazers_count": 511,
-      "forks_count": 191,
-      "open_issues_count": 0,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "api",
-        "copilot",
-        "llm",
-        "microsoft-copilot",
-        "openai"
-      ],
-      "created_at": "2026-06-19T13:24:44Z",
-      "updated_at": "2026-06-23T19:47:34Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Windows Copilot API: a free LLM API powered by Microsoft Copilot\n!Windows Copilot API — a free, OpenAI-compatible API for your Microsoft Copilot account\nUsing your own Microsoft Copilot account. No API key, no credits, no paid plan: it turns the free chat at copilot.microsoft.com into an API you can"
     },
     {
       "id": 1273427276,
@@ -231,17 +197,48 @@
       "html_url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stargazers_count": 475,
-      "forks_count": 37,
+      "stargazers_count": 666,
+      "forks_count": 54,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-06-18T14:08:44Z",
-      "updated_at": "2026-06-23T19:16:15Z",
+      "updated_at": "2026-06-24T19:46:42Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "security-audit\nA coding-agent skill that turns your agent into a security auditor. It orchestrates multiple parallel agents through a six-phase pipeline -- recon, hunting, validation, reporting, structured output, and independent verification -- to find exploitable vulnerabilities with real impact.\n"
+    },
+    {
+      "id": 1274399536,
+      "full_name": "sums001/Windows-Copilot-API",
+      "name": "Windows-Copilot-API",
+      "owner": {
+        "login": "sums001",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44167398?v=4"
+      },
+      "html_url": "https://github.com/sums001/Windows-Copilot-API",
+      "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+      "language": "Python",
+      "stargazers_count": 644,
+      "forks_count": 228,
+      "open_issues_count": 2,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "api",
+        "copilot",
+        "llm",
+        "microsoft-copilot",
+        "openai"
+      ],
+      "created_at": "2026-06-19T13:24:44Z",
+      "updated_at": "2026-06-24T19:49:43Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Windows Copilot API: a free LLM API powered by Microsoft Copilot\n!Windows Copilot API — a free, OpenAI-compatible API for your Microsoft Copilot account\nUsing your own Microsoft Copilot account. No API key, no credits, no paid plan: it turns the free chat at copilot.microsoft.com into an API you can"
     }
   ]
 }
