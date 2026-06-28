@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-27T19:25:11.218Z",
-  "query_date_range": "2026-06-20 ~ 2026-06-27",
-  "total_found": 2221016,
+  "updated_at": "2026-06-28T19:25:22.086Z",
+  "query_date_range": "2026-06-21 ~ 2026-06-28",
+  "total_found": 2272913,
   "count": 9,
   "repos": [
     {
@@ -13,14 +13,14 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/259759010?v=4"
       },
       "html_url": "https://github.com/bozhouDev/codex-orange-book",
-      "description": "Codex 橙皮书：从安装到实��案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+      "description": "Codex 橙皮书：从安装到实���案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
       "language": "HTML",
-      "stargazers_count": 2204,
-      "forks_count": 221,
+      "stargazers_count": 2271,
+      "forks_count": 226,
       "open_issues_count": 2,
       "topics": [],
       "created_at": "2026-06-23T02:36:54Z",
-      "updated_at": "2026-06-27T19:10:28Z",
+      "updated_at": "2026-06-28T19:03:29Z",
       "license": null,
       "readme_snippet": "Codex 橙皮书：从安装到实战案例的全链路使用指南\n> 非官方开源指南 · 持续更新版  \n> 写给开发者、独立开发者和 AI 工具重度用户的 Codex 使用手册。\n| 版本 | 最后校验 | 资料性质 |\n| --- | --- | --- |\n| v0.1.0 | 2026-06-22 | 非官方指南，不代表 OpenAI 官方文档或产品承诺 |\n> 本文以 2026-06-22 可访问的 Codex App、Codex CLI、Codex IDE Extension、Codex Web / Cloud 公开能力和实测界面为参考。Codex 更新很快，安装方式、模型名称、额度、入口位置"
     },
@@ -35,12 +35,12 @@
       "html_url": "https://github.com/deepseek-ai/DeepSpec",
       "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
       "language": "Python",
-      "stargazers_count": 1138,
-      "forks_count": 88,
-      "open_issues_count": 2,
+      "stargazers_count": 2037,
+      "forks_count": 181,
+      "open_issues_count": 7,
       "topics": [],
       "created_at": "2026-06-26T12:36:05Z",
-      "updated_at": "2026-06-27T19:24:02Z",
+      "updated_at": "2026-06-28T19:23:32Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -58,57 +58,14 @@
       "html_url": "https://github.com/bikini/exploitarium",
       "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
       "language": "Python",
-      "stargazers_count": 877,
-      "forks_count": 189,
-      "open_issues_count": 0,
-      "topics": [],
-      "created_at": "2026-06-23T05:14:11Z",
-      "updated_at": "2026-06-27T19:22:47Z",
-      "license": null,
-      "readme_snippet": "New drops today ;) Biggest thing yet \nIf you wish to collaborate/discuss with me, contact me on discord @ashdfrkl\nSharing this repo keeps me motivated to continue dropping my findings for you all. \nExploitarium\nA consolidated archive of my public proof-of-concept and vulnerability research writeups."
-    },
-    {
-      "id": 1276067021,
-      "full_name": "kanavtwtgg/birds.cafe",
-      "name": "birds.cafe",
-      "owner": {
-        "login": "kanavtwtgg",
-        "avatar_url": "https://avatars.githubusercontent.com/u/271289593?v=4"
-      },
-      "html_url": "https://github.com/kanavtwtgg/birds.cafe",
-      "description": null,
-      "language": "JavaScript",
-      "stargazers_count": 736,
-      "forks_count": 2,
-      "open_issues_count": 0,
-      "topics": [],
-      "created_at": "2026-06-21T13:57:28Z",
-      "updated_at": "2026-06-27T02:35:47Z",
-      "license": null,
-      "readme_snippet": "birds.cafe ☕️🦜\nCA: GRSJMXpozCLtnCXzVzdoXGF8qEcUWE3WndNMUi4ypump\nImagine if you could just fly like a bird.\nNo missions. No scores. No stress.\nA relaxing, browser-based bird sim where you steer a flock of seagulls in V-formation over the ocean — through day, night, storms, rain, and lightning.\nLive:"
-    },
-    {
-      "id": 1276955862,
-      "full_name": "BohemiaInteractive/CWR",
-      "name": "CWR",
-      "owner": {
-        "login": "BohemiaInteractive",
-        "avatar_url": "https://avatars.githubusercontent.com/u/25146849?v=4"
-      },
-      "html_url": "https://github.com/BohemiaInteractive/CWR",
-      "description": "Arma: Cold War Assault Remastered Source Code Repository.",
-      "language": "C++",
-      "stargazers_count": 658,
-      "forks_count": 77,
+      "stargazers_count": 1973,
+      "forks_count": 448,
       "open_issues_count": 4,
       "topics": [],
-      "created_at": "2026-06-22T12:56:54Z",
-      "updated_at": "2026-06-27T19:09:34Z",
-      "license": {
-        "spdx_id": "NOASSERTION",
-        "key": "other"
-      },
-      "readme_snippet": "Arma: Cold War Assault - Remastered\nThis repository holds the engine and game source code (codename *Poseidon*) behind *Arma: Cold War Assault* — the game first released in 2001 as *Operation Flashpoint: Cold War Crisis*. That release launched Bohemia Interactive and began the technology lineage tha"
+      "created_at": "2026-06-23T05:14:11Z",
+      "updated_at": "2026-06-28T19:24:10Z",
+      "license": null,
+      "readme_snippet": "Statement\nThis repo was incomplete when published. That's why some findings are kinda ass (ghidra) and some are better. Going forward, only serious vulnerabilities will be shared (Floci, libssh2, FFmpeg, c-ares). \nIn regard to AI usage, my fuzzing workflow was automated by AI with a strict harness. "
     },
     {
       "id": 1278830624,
@@ -121,12 +78,12 @@
       "html_url": "https://github.com/Yu9191/wloc",
       "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
       "language": "JavaScript",
-      "stargazers_count": 624,
-      "forks_count": 91,
-      "open_issues_count": 8,
+      "stargazers_count": 1044,
+      "forks_count": 137,
+      "open_issues_count": 9,
       "topics": [],
       "created_at": "2026-06-24T06:15:30Z",
-      "updated_at": "2026-06-27T19:07:14Z",
+      "updated_at": "2026-06-28T19:11:42Z",
       "license": null,
       "readme_snippet": "Apple WLOC 定位修改\n修改 Apple 网络定位服务 (WiFi/基站) 返回的坐标，实现 iOS 网络定位虚拟定位。打开在线选点页面选位置即可生效，无需手动填经纬度。\n---\n订阅地址\nSurge:\nhttps://raw.githubusercontent.com/Yu9191/wloc/refs/heads/main/modules/wloc.sgmodule\nQuantumult X:\nhttps://raw.githubusercontent.com/Yu9191/wloc/refs/heads/main/modules/wloc.conf\nLoon:\nhttps://ra"
     },
@@ -141,7 +98,7 @@
       "html_url": "https://github.com/winsznx/theeleven",
       "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
       "language": "TypeScript",
-      "stargazers_count": 622,
+      "stargazers_count": 691,
       "forks_count": 2,
       "open_issues_count": 0,
       "topics": [
@@ -164,12 +121,35 @@
         "x-layer"
       ],
       "created_at": "2026-06-25T07:42:50Z",
-      "updated_at": "2026-06-27T19:22:41Z",
+      "updated_at": "2026-06-28T18:58:29Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "The Eleven\n> Live football prop markets, made by AI agents. Built for the 2026\n> tournament on X Layer.\nWhat it is\nEleven autonomous AI personas track every event in a live football match —\npossession swings, shot patterns, foul intensity — and open binary\nprediction markets in real time on X Layer "
+    },
+    {
+      "id": 1276955862,
+      "full_name": "BohemiaInteractive/CWR",
+      "name": "CWR",
+      "owner": {
+        "login": "BohemiaInteractive",
+        "avatar_url": "https://avatars.githubusercontent.com/u/25146849?v=4"
+      },
+      "html_url": "https://github.com/BohemiaInteractive/CWR",
+      "description": "Arma: Cold War Assault Remastered Source Code Repository.",
+      "language": "C++",
+      "stargazers_count": 688,
+      "forks_count": 83,
+      "open_issues_count": 4,
+      "topics": [],
+      "created_at": "2026-06-22T12:56:54Z",
+      "updated_at": "2026-06-28T18:18:36Z",
+      "license": {
+        "spdx_id": "NOASSERTION",
+        "key": "other"
+      },
+      "readme_snippet": "Arma: Cold War Assault - Remastered\nThis repository holds the engine and game source code (codename *Poseidon*) behind *Arma: Cold War Assault* — the game first released in 2001 as *Operation Flashpoint: Cold War Crisis*. That release launched Bohemia Interactive and began the technology lineage tha"
     },
     {
       "id": 1277004822,
@@ -182,12 +162,12 @@
       "html_url": "https://github.com/QwenLM/Qwen-AgentWorld",
       "description": "Qwen-AgentWorld: Language World Models for General Agents",
       "language": "Python",
-      "stargazers_count": 588,
-      "forks_count": 51,
+      "stargazers_count": 618,
+      "forks_count": 57,
       "open_issues_count": 1,
       "topics": [],
       "created_at": "2026-06-22T13:48:37Z",
-      "updated_at": "2026-06-27T18:33:01Z",
+      "updated_at": "2026-06-28T18:28:32Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
@@ -205,9 +185,9 @@
       "html_url": "https://github.com/benchflow-ai/awesome-evals",
       "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
       "language": null,
-      "stargazers_count": 529,
-      "forks_count": 39,
-      "open_issues_count": 3,
+      "stargazers_count": 556,
+      "forks_count": 41,
+      "open_issues_count": 1,
       "topics": [
         "agent-evaluation",
         "ai-agents",
@@ -220,12 +200,35 @@
         "rl-environments"
       ],
       "created_at": "2026-06-24T08:10:33Z",
-      "updated_at": "2026-06-27T18:40:23Z",
+      "updated_at": "2026-06-28T18:38:09Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
       },
       "readme_snippet": "Awesome Agent Evals \n> A curated, opinionated, non-BS library of the best resources for building and evaluating AI agents — papers, blog posts, talks, courses, tools, and benchmarks.\nMaintained by BenchFlow ·\nMost \"awesome\" lists are link dumps. This one is annotated and verified: every entry says *"
+    },
+    {
+      "id": 1276527666,
+      "full_name": "HKUDS/AgentSpace",
+      "name": "AgentSpace",
+      "owner": {
+        "login": "HKUDS",
+        "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+      },
+      "html_url": "https://github.com/HKUDS/AgentSpace",
+      "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+      "language": "TypeScript",
+      "stargazers_count": 515,
+      "forks_count": 60,
+      "open_issues_count": 7,
+      "topics": [],
+      "created_at": "2026-06-22T04:08:03Z",
+      "updated_at": "2026-06-28T19:07:27Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "AgentSpace: Human + Agents. One Team. One Workspace\n  English | 中文\n  \n  \n  \n  \n  \n  \n  \n  AgentSpace brings humans and agents together — as one team, inside one workspace\n  Feishu was built for humans. AgentSpace is built for both.\n---\nAgentSpace is an agent-native collaborative workspace for human "
     }
   ]
 }
