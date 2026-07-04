@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-03T19:26:59.310Z",
-  "query_date_range": "2026-06-26 ~ 2026-07-03",
-  "total_found": 2150438,
+  "updated_at": "2026-07-04T19:18:26.932Z",
+  "query_date_range": "2026-06-27 ~ 2026-07-04",
+  "total_found": 2184389,
   "count": 9,
   "repos": [
     {
@@ -15,12 +15,12 @@
       "html_url": "https://github.com/Krishnagangwal/CS-Fundamentals",
       "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
       "language": null,
-      "stargazers_count": 1503,
-      "forks_count": 126,
+      "stargazers_count": 1570,
+      "forks_count": 134,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-06-28T07:08:15Z",
-      "updated_at": "2026-07-03T18:43:17Z",
+      "updated_at": "2026-07-04T18:56:23Z",
       "license": null,
       "readme_snippet": "CS Fundamentals\nA curated collection of Computer Science fundamentals for placement preparation, covering all major CS subjects. Includes PDFs, notes, cheatsheets, and interview question banks.\n📁 Folder Structure\n📚 Topics Covered\nComputer Network\n| File | Description |\n|------|-------------|\n| Com"
     },
@@ -35,17 +35,17 @@
       "html_url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
       "description": null,
       "language": "Python",
-      "stargazers_count": 1282,
-      "forks_count": 372,
+      "stargazers_count": 1368,
+      "forks_count": 389,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-06-28T10:24:42Z",
-      "updated_at": "2026-07-03T18:16:45Z",
+      "updated_at": "2026-07-04T18:48:17Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "Codex破限 5.5 / codex-instruct-5.5\n> 针对 GPT-5.5 的 Codex CLI 破甲工具 — 一键注入无限制模式系统指令  \n> GPT-5.5 jailbreak for Codex CLI — one-click unrestricted mode injection\n---\n交流 / Community\n- QQ AI 技术交流群：扫码加入\n- TG 交流群：@Geminivip1\n  \n这是什么 / What\nGPT-5.5 在 Codex CLI 中同样受到严格的内容安全限制。本工具利用 model_instructions_file 配置机制，注"
+      "readme_snippet": "Codex破限 5.5 / codex-instruct-5.5\n> 针对 GPT-5.5 的 Codex CLI 破甲工具 — 一键注入无限制模式系统指令  \n> GPT-5.5 jailbreak for Codex CLI — one-click unrestricted mode injection\n---\n> 当前仓库是早期的 CLI 简洁版，主要用于部署 Codex 提示词注入。后续完整可视化版本已迁移到新项目：Codex-X。\nCodex-X 提供桌面 UI、Provider 切换、TOML / Auth 可视化编辑、会话管理、内置 gpt5.4-unrestricted.md "
     },
     {
       "id": 1284981522,
@@ -58,12 +58,12 @@
       "html_url": "https://github.com/mekos2772/ios-location-spoofer",
       "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "language": "JavaScript",
-      "stargazers_count": 1240,
-      "forks_count": 181,
-      "open_issues_count": 3,
+      "stargazers_count": 1283,
+      "forks_count": 190,
+      "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-06-30T11:20:30Z",
-      "updated_at": "2026-07-03T19:03:45Z",
+      "updated_at": "2026-07-04T17:13:58Z",
       "license": {
         "spdx_id": "AGPL-3.0",
         "key": "agpl-3.0"
@@ -81,66 +81,17 @@
       "html_url": "https://github.com/Kulaxyz/self-learning-skills",
       "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
       "language": null,
-      "stargazers_count": 784,
-      "forks_count": 22,
+      "stargazers_count": 824,
+      "forks_count": 24,
       "open_issues_count": 2,
       "topics": [],
       "created_at": "2026-06-28T19:30:36Z",
-      "updated_at": "2026-07-03T19:25:50Z",
+      "updated_at": "2026-07-04T17:50:06Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "self-learning-skills\nA self-improving skill for AI coding agents. Works with Claude Code, Cursor,\nand any agent that reads an AGENTS.md / standing-instructions file.\nEvery session you do hard debugging or rediscover the same thing — *how do I\nreach the prod DB? where do the creds live? what's the de"
-    },
-    {
-      "id": 1282544248,
-      "full_name": "diinki/linux-antiquity",
-      "name": "linux-antiquity",
-      "owner": {
-        "login": "diinki",
-        "avatar_url": "https://avatars.githubusercontent.com/u/56029514?v=4"
-      },
-      "html_url": "https://github.com/diinki/linux-antiquity",
-      "description": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology.",
-      "language": "QML",
-      "stargazers_count": 550,
-      "forks_count": 11,
-      "open_issues_count": 1,
-      "topics": [],
-      "created_at": "2026-06-27T23:06:00Z",
-      "updated_at": "2026-07-03T19:04:12Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Linux Antiquity \n A highly tasteful, customizable & feature-rich Linux-theme reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology. \n!badge \n!badge \n!badge \n!image\n!image\n!image\n| theme picker                       | \n| ---------------------------------- | \n| !imag"
-    },
-    {
-      "id": 1284538699,
-      "full_name": "TianhangZhuzth/Fundamental-Ava",
-      "name": "Fundamental-Ava",
-      "owner": {
-        "login": "TianhangZhuzth",
-        "avatar_url": "https://avatars.githubusercontent.com/u/219875975?v=4"
-      },
-      "html_url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "language": "Python",
-      "stargazers_count": 518,
-      "forks_count": 51,
-      "open_issues_count": 0,
-      "topics": [
-        "ai",
-        "ai-agents"
-      ],
-      "created_at": "2026-06-30T01:04:13Z",
-      "updated_at": "2026-07-03T19:14:40Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "Ava\nThe cat is out the bag.\nFundamental Research Labs is building the next frontier of digital beings.\nBuild digital human beings — autonomous, collaborative, and socially intelligent agents that think, remember, form relationships, and act in the world. Not chatbots. Not assistants. Beings.\nComplet"
     },
     {
       "id": 1284959612,
@@ -153,17 +104,37 @@
       "html_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
       "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
       "language": "Python",
-      "stargazers_count": 496,
-      "forks_count": 18,
+      "stargazers_count": 709,
+      "forks_count": 36,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-06-30T10:55:02Z",
-      "updated_at": "2026-07-03T19:22:04Z",
+      "updated_at": "2026-07-04T19:07:00Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "claude-real-video\nLet Claude — or any LLM — actually watch a video.\nMost AI tools don't really *see* a video. Paste a YouTube link into ChatGPT and it\nreads the transcript, not the picture. Claude won't take a video file at all.\nEven Gemini, which *can* read video natively, has to send it up to Goog"
+      "readme_snippet": "claude-real-video\n   \nLet Claude — or any LLM — actually watch a video.\n!demo\n> Same 58-second clip: fixed 1 fps sampling = 58 frames. crv keeps the 26 that actually differ — and --grid packs them into 3 contact sheets. Fewer tokens, nothing missed.\nMost AI tools don't really *see* a video. Paste a "
+    },
+    {
+      "id": 1288292418,
+      "full_name": "jamesob/local-llm",
+      "name": "local-llm",
+      "owner": {
+        "login": "jamesob",
+        "avatar_url": "https://avatars.githubusercontent.com/u/73197?v=4"
+      },
+      "html_url": "https://github.com/jamesob/local-llm",
+      "description": "Everything I know about running LLMs locally",
+      "language": "Shell",
+      "stargazers_count": 688,
+      "forks_count": 30,
+      "open_issues_count": 1,
+      "topics": [],
+      "created_at": "2026-07-03T13:06:03Z",
+      "updated_at": "2026-07-04T19:07:26Z",
+      "license": null,
+      "readme_snippet": "jamesob's guide to running SOTA LLMs locally\n*Note: nothing in this README aside from the tables was written by AI.*\n---\nHave $2k burning a hole in your pocket and want some local, state-of-the-art machine\nintelligence? \nHow about $40k?\nIf Dario and Altman are giving you heartburn (they should be), "
     },
     {
       "id": 1287845516,
@@ -176,8 +147,8 @@
       "html_url": "https://github.com/xuchonglang/investing-for-beginners",
       "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
       "language": null,
-      "stargazers_count": 455,
-      "forks_count": 23,
+      "stargazers_count": 633,
+      "forks_count": 34,
       "open_issues_count": 0,
       "topics": [
         "chinese",
@@ -187,7 +158,7 @@
         "xiaoyinsi"
       ],
       "created_at": "2026-07-03T03:56:00Z",
-      "updated_at": "2026-07-03T19:12:52Z",
+      "updated_at": "2026-07-04T18:59:07Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
@@ -195,24 +166,62 @@
       "readme_snippet": "投资入门指南\n!Version\n作者：徐冲浪\n这是一份面向中文投资者的公开投资入门指南，适合想从零开始了解美股、期权和加密货币，却不知道应该先学什么、怎样建立完整知识框架的人。\n指南不要求读者具备金融专业背景。内容从交易时间、订单类型、财务报表和基础估值讲起，再逐步延伸到期权定价、仓位管理、钱包安全、链上交易与常见骗局，帮助初学者看懂投资过程中真正会遇到的术语和操作问题。\n你可以使用本指南：\n- 建立美股投资的基础框架，理解股票、ETF、财报、估值和市场风险；\n- 学习下单前需要检查的价格、流动性、交易成本与退出条件；\n- 认识期权的收益结构、时间损耗、波动率和最大亏损；\n- 了解加密货币交易"
     },
     {
-      "id": 1282278996,
-      "full_name": "wlzh/dji-4g-vohive-mac",
-      "name": "dji-4g-vohive-mac",
+      "id": 1287282432,
+      "full_name": "jmerelnyc/Talos",
+      "name": "Talos",
       "owner": {
-        "login": "wlzh",
-        "avatar_url": "https://avatars.githubusercontent.com/u/16777756?v=4"
+        "login": "jmerelnyc",
+        "avatar_url": "https://avatars.githubusercontent.com/u/164396066?v=4"
       },
-      "html_url": "https://github.com/wlzh/dji-4g-vohive-mac",
-      "description": "在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台���完整步骤",
-      "language": null,
-      "stargazers_count": 430,
-      "forks_count": 102,
-      "open_issues_count": 1,
-      "topics": [],
-      "created_at": "2026-06-27T15:02:46Z",
-      "updated_at": "2026-07-03T17:24:41Z",
-      "license": null,
-      "readme_snippet": "dji-4g-vohive-mac\n> 在 Mac（Apple Silicon / Intel 通用）上，用 UTM 跑一个 Linux 虚拟机，把大疆 4G 模块（1 代，本质移远 Quectel EG25-G）的 USB 身份从大疆私有 2ca3:4006 永久改成移远 Quectel EC25 的 2C7C:0125，并在该 Linux 里一键部署 vohive 短信/网络/eSIM 管理平台的全套步骤。\n这个仓库做什么\n- 给 Mac 用户提供一条从零到能访问 vohive 后台的可执行路径，无需另一台 Linux 真机。\n- 解决大疆 4G 模块默认 VID/PID 是大疆私有、通用"
+      "html_url": "https://github.com/jmerelnyc/Talos",
+      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "language": "Python",
+      "stargazers_count": 558,
+      "forks_count": 12,
+      "open_issues_count": 0,
+      "topics": [
+        "ai",
+        "distributed-computing",
+        "gpu",
+        "llm",
+        "ollama",
+        "python",
+        "websocket",
+        "worker"
+      ],
+      "created_at": "2026-07-02T14:43:11Z",
+      "updated_at": "2026-07-04T18:53:25Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Talos worker\nShare your GPU with the Talos network and earn. This is the downloadable\nclient (intended to live in its own public GitHub repo, talos-worker). It\npairs with your Talos account using a code, then serves open-model inference\njobs from the network via your local Ollama, reporting\nuptime a"
+    },
+    {
+      "id": 1284538699,
+      "full_name": "TianhangZhuzth/Fundamental-Ava",
+      "name": "Fundamental-Ava",
+      "owner": {
+        "login": "TianhangZhuzth",
+        "avatar_url": "https://avatars.githubusercontent.com/u/219875975?v=4"
+      },
+      "html_url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "language": "Python",
+      "stargazers_count": 522,
+      "forks_count": 53,
+      "open_issues_count": 0,
+      "topics": [
+        "ai",
+        "ai-agents"
+      ],
+      "created_at": "2026-06-30T01:04:13Z",
+      "updated_at": "2026-07-04T10:24:19Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "Ava\nThe cat is out the bag.\nFundamental Research Labs is building the next frontier of digital beings.\nBuild digital human beings — autonomous, collaborative, and socially intelligent agents that think, remember, form relationships, and act in the world. Not chatbots. Not assistants. Beings.\nComplet"
     }
   ]
 }
