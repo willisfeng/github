@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-19T19:10:17.992Z",
-  "query_date_range": "2026-07-12 ~ 2026-07-19",
-  "total_found": 2027599,
+  "updated_at": "2026-07-20T19:46:31.048Z",
+  "query_date_range": "2026-07-13 ~ 2026-07-20",
+  "total_found": 2008557,
   "count": 9,
   "repos": [
     {
@@ -15,12 +15,12 @@
       "html_url": "https://github.com/xai-org/grok-build",
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "language": "Rust",
-      "stargazers_count": 19916,
-      "forks_count": 3588,
+      "stargazers_count": 20731,
+      "forks_count": 3808,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-07-14T20:04:23Z",
-      "updated_at": "2026-07-19T19:09:56Z",
+      "updated_at": "2026-07-20T19:41:27Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
@@ -38,12 +38,12 @@
       "html_url": "https://github.com/Fei-Away/Codex-Dream-Skin",
       "description": "Codex Dream Skin",
       "language": "JavaScript",
-      "stargazers_count": 10259,
-      "forks_count": 1070,
-      "open_issues_count": 100,
+      "stargazers_count": 11049,
+      "forks_count": 1133,
+      "open_issues_count": 109,
       "topics": [],
       "created_at": "2026-07-15T12:34:51Z",
-      "updated_at": "2026-07-19T18:36:16Z",
+      "updated_at": "2026-07-20T19:41:04Z",
       "license": null,
       "readme_snippet": "Codex Dream Skin\n  中文 · English\n  给 Codex 桌面端换一张会呼吸的脸。\n  外部主题 / 换肤工具 · 本机 CDP 注入 · 不改官方安装包\n  一张图，一种心情 · 写代码，也要有氛围感\n  非 OpenAI 官方产品。不修改 .app / app.asar / WindowsApps。\n赞助商\n  \n    \n  \n  更智能的连接 · 更热爱的创造\n  热爱驱动 · 无限可能 · Connect AI · Power Creation\n  感谢 passion8.cc 赞助本项目。\n  满血 AI 中转：官方模型直连，无降智、无套壳；一行配置接入 "
     },
@@ -58,63 +58,17 @@
       "html_url": "https://github.com/CluvexStudio/Aether",
       "description": null,
       "language": "Rust",
-      "stargazers_count": 1303,
-      "forks_count": 78,
-      "open_issues_count": 3,
+      "stargazers_count": 1383,
+      "forks_count": 82,
+      "open_issues_count": 13,
       "topics": [],
       "created_at": "2026-07-14T14:20:44Z",
-      "updated_at": "2026-07-19T19:06:02Z",
+      "updated_at": "2026-07-20T19:43:42Z",
       "license": {
         "spdx_id": "AGPL-3.0",
         "key": "agpl-3.0"
       },
       "readme_snippet": "Aether\n!Aether\nاینترنت آزاد برای همه :))\nراهنمای فارسی · English Guide · راهنمای کامل فارسی\nTelegram: https://t.me/CluvexStudio\nAether is a censorship circumvention client designed for heavily restricted networks. It automatically discovers reachable routes, establishes an encrypted tunnel, and expo"
-    },
-    {
-      "id": 1299007583,
-      "full_name": "pixel-point/aval",
-      "name": "aval",
-      "owner": {
-        "login": "pixel-point",
-        "avatar_url": "https://avatars.githubusercontent.com/u/29034027?v=4"
-      },
-      "html_url": "https://github.com/pixel-point/aval",
-      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
-      "language": "TypeScript",
-      "stargazers_count": 1235,
-      "forks_count": 67,
-      "open_issues_count": 2,
-      "topics": [],
-      "created_at": "2026-07-13T07:42:51Z",
-      "updated_at": "2026-07-19T15:39:54Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "AVAL\nAVAL is a web format and runtime for short prerendered motion with continuous\nloops, named application states, authored triggers, bounded transitions,\nreversals, and packed transparency.\nOne logical animation is published as a codec bundle. Each codec gets its own\nAVAL 1.0 file—AV1, VP9, H.265/"
-    },
-    {
-      "id": 1298890549,
-      "full_name": "littledivy/mimic",
-      "name": "mimic",
-      "owner": {
-        "login": "littledivy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/34997667?v=4"
-      },
-      "html_url": "https://github.com/littledivy/mimic",
-      "description": "Intercept any app, then call it from Python like a library",
-      "language": "Python",
-      "stargazers_count": 1204,
-      "forks_count": 79,
-      "open_issues_count": 4,
-      "topics": [],
-      "created_at": "2026-07-13T05:13:00Z",
-      "updated_at": "2026-07-19T18:03:09Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "mimic\nIntercept any app, then call it from Python like a library.\nYou don't write hinge_client.py. mimic captures your own app traffic and an AI\ngenerates the client from it.\nHow it works\nMost apps authenticate every request with the same bundle of values: a bearer\ntoken, some device ids, a session "
     },
     {
       "id": 1302398032,
@@ -127,12 +81,12 @@
       "html_url": "https://github.com/tandpfun/wardrobe",
       "description": "Your clothes, extracted and organized with gpt-image.",
       "language": "JavaScript",
-      "stargazers_count": 1141,
-      "forks_count": 166,
-      "open_issues_count": 2,
+      "stargazers_count": 1206,
+      "forks_count": 174,
+      "open_issues_count": 3,
       "topics": [],
       "created_at": "2026-07-16T06:17:00Z",
-      "updated_at": "2026-07-19T19:06:16Z",
+      "updated_at": "2026-07-20T19:10:59Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -140,33 +94,38 @@
       "readme_snippet": "Wardrobe\nYour clothes, extracted and organized with gpt-image.\nSee the original post →\n!Wardrobe gallery\n!Modeled wardrobe editor\nQuick start\n⚠️ The importer stays disabled until you add OPENAI_API_KEY to .env and place a PNG reference photo of yourself at data/model-reference.png.\nOpen localhost:51"
     },
     {
-      "id": 1298998324,
-      "full_name": "oil-oil/beautify-github-readme",
-      "name": "beautify-github-readme",
+      "id": 1301140808,
+      "full_name": "hoainho/img2threejs",
+      "name": "img2threejs",
       "owner": {
-        "login": "oil-oil",
-        "avatar_url": "https://avatars.githubusercontent.com/u/57465570?v=4"
+        "login": "hoainho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47898976?v=4"
       },
-      "html_url": "https://github.com/oil-oil/beautify-github-readme",
-      "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "html_url": "https://github.com/hoainho/img2threejs",
+      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
       "language": "Python",
-      "stargazers_count": 852,
-      "forks_count": 47,
-      "open_issues_count": 1,
+      "stargazers_count": 903,
+      "forks_count": 78,
+      "open_issues_count": 8,
       "topics": [
-        "agent-skill",
-        "codex-skill",
-        "github-readme",
-        "readme-design",
-        "svg"
+        "3d",
+        "ai-agents",
+        "claude-code",
+        "computer-graphics",
+        "generative",
+        "image-to-3d",
+        "procedural-generation",
+        "threejs",
+        "typescript",
+        "webgl"
       ],
-      "created_at": "2026-07-13T07:31:56Z",
-      "updated_at": "2026-07-19T18:48:59Z",
+      "created_at": "2026-07-15T02:58:39Z",
+      "updated_at": "2026-07-20T19:45:17Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "English · 简体中文\n  \n  \n  \nThese are not hypothetical templates. The method is already used by six public repositories, each with its own visual language and content structure:\n- oil-ppt — presents the method, results, and first-use path for programmatic slide creation in one visual system.\n- draw-ui —"
+      "readme_snippet": "img2threejs\nRebuild the object in a reference image as a code-only, procedural Three.js model.\nQuality-gated, animation-ready, and deliberately token-efficient — reconstruction-by-code, not photogrammetry, mesh extraction, or downloaded art packs.\n!img2threejs demo — a reference loot-chest image rec"
     },
     {
       "id": 1303576851,
@@ -179,15 +138,15 @@
       "html_url": "https://github.com/nethical6/conversation-steganography",
       "description": "Use LLMs to hide messages inside normal looking conversations",
       "language": "Go",
-      "stargazers_count": 805,
-      "forks_count": 47,
+      "stargazers_count": 868,
+      "forks_count": 51,
       "open_issues_count": 1,
       "topics": [
         "llm-tools",
         "steganography"
       ],
       "created_at": "2026-07-17T04:58:22Z",
-      "updated_at": "2026-07-19T18:55:40Z",
+      "updated_at": "2026-07-20T19:41:35Z",
       "license": {
         "spdx_id": "GPL-3.0",
         "key": "gpl-3.0"
@@ -205,17 +164,63 @@
       "html_url": "https://github.com/pablostanley/yoinks",
       "description": "yoink any video from your terminal. no shady ads.",
       "language": "TypeScript",
-      "stargazers_count": 704,
-      "forks_count": 70,
-      "open_issues_count": 6,
+      "stargazers_count": 854,
+      "forks_count": 92,
+      "open_issues_count": 7,
       "topics": [],
       "created_at": "2026-07-16T07:06:09Z",
-      "updated_at": "2026-07-19T18:59:55Z",
+      "updated_at": "2026-07-20T19:29:45Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "yoinks\n  \n  \nyoink any video. paste. yoink. done.\nDownload videos from YouTube, X/Twitter, Instagram, Threads, TikTok and\n1,800+ other sites — right from your terminal. Paste a url, pick a\nresolution (or audio-only mp3), done. No popups, no fake download buttons,\nno sketchy redirects.\nInstall\nOr try"
+    },
+    {
+      "id": 1305243497,
+      "full_name": "lopopolo/harness-engineering",
+      "name": "harness-engineering",
+      "owner": {
+        "login": "lopopolo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/860434?v=4"
+      },
+      "html_url": "https://github.com/lopopolo/harness-engineering",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "language": "Python",
+      "stargazers_count": 659,
+      "forks_count": 28,
+      "open_issues_count": 0,
+      "topics": [],
+      "created_at": "2026-07-18T21:42:28Z",
+      "updated_at": "2026-07-20T19:40:57Z",
+      "license": {
+        "spdx_id": "CC-BY-4.0",
+        "key": "cc-by-4.0"
+      },
+      "readme_snippet": "Harness Engineering\n> “Most people do not know that they can just point their agents at my writing,\n> tweets, podcasts, and talks and improve the output of their agents by 100x.”\n>\n> — [Ryan Lopopolo]\n[Ryan Lopopolo]: https://x.com/_lopopolo/status/2050698864542482709\nHarness engineering, the practi"
+    },
+    {
+      "id": 1302077273,
+      "full_name": "Blueturboguy07/cue",
+      "name": "cue",
+      "owner": {
+        "login": "Blueturboguy07",
+        "avatar_url": "https://avatars.githubusercontent.com/u/114044325?v=4"
+      },
+      "html_url": "https://github.com/Blueturboguy07/cue",
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "language": "JavaScript",
+      "stargazers_count": 650,
+      "forks_count": 142,
+      "open_issues_count": 6,
+      "topics": [],
+      "created_at": "2026-07-15T22:17:25Z",
+      "updated_at": "2026-07-20T19:31:39Z",
+      "license": {
+        "spdx_id": "GPL-3.0",
+        "key": "gpl-3.0"
+      },
+      "readme_snippet": "cue\nAn open-source AI copilot that floats over your screen — sees what you see, hears your meetings, and stays hidden from screen shares.\nA free, self-hosted alternative to Cluely. Bring your own AI key (OpenAI · Anthropic · Google Gemini).\n---\n> [!IMPORTANT]\n> Please read this first. cue tries to s"
     }
   ]
 }
