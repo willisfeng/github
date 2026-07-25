@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-24T19:28:07.956Z",
-  "query_date_range": "2026-07-17 ~ 2026-07-24",
-  "total_found": 2009624,
+  "updated_at": "2026-07-25T19:11:22.863Z",
+  "query_date_range": "2026-07-18 ~ 2026-07-25",
+  "total_found": 2030614,
   "count": 9,
   "repos": [
     {
@@ -15,40 +15,17 @@
       "html_url": "https://github.com/andrewyng/openworker",
       "description": null,
       "language": "Python",
-      "stargazers_count": 3196,
-      "forks_count": 419,
-      "open_issues_count": 90,
+      "stargazers_count": 4653,
+      "forks_count": 618,
+      "open_issues_count": 117,
       "topics": [],
       "created_at": "2026-07-20T01:52:32Z",
-      "updated_at": "2026-07-24T19:26:46Z",
+      "updated_at": "2026-07-25T19:10:49Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "OpenWorker\nopenworker.com · Download · Issues\n> Beta - OpenWorker is in open beta: fully usable, updates itself, and we're actively polishing rough edges. Issues welcome.\nAI that gets your everyday tasks done. OpenWorker is an open-source AI coworker that lives on your desktop and delivers finished "
-    },
-    {
-      "id": 1305243497,
-      "full_name": "lopopolo/harness-engineering",
-      "name": "harness-engineering",
-      "owner": {
-        "login": "lopopolo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/860434?v=4"
-      },
-      "html_url": "https://github.com/lopopolo/harness-engineering",
-      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-      "language": "Python",
-      "stargazers_count": 2314,
-      "forks_count": 236,
-      "open_issues_count": 2,
-      "topics": [],
-      "created_at": "2026-07-18T21:42:28Z",
-      "updated_at": "2026-07-24T18:43:53Z",
-      "license": {
-        "spdx_id": "CC-BY-4.0",
-        "key": "cc-by-4.0"
-      },
-      "readme_snippet": "Harness Engineering\n> “Most people do not know that they can just point their agents at my writing,\n> tweets, podcasts, and talks and improve the output of their agents by 100x.”\n>\n> — [Ryan Lopopolo]\n[Ryan Lopopolo]: https://x.com/_lopopolo/status/2050698864542482709\nHarness engineering, the practi"
     },
     {
       "id": 1305663861,
@@ -61,9 +38,9 @@
       "html_url": "https://github.com/Vincentwei1021/video-shotcraft",
       "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
       "language": "TypeScript",
-      "stargazers_count": 1385,
-      "forks_count": 106,
-      "open_issues_count": 0,
+      "stargazers_count": 1704,
+      "forks_count": 140,
+      "open_issues_count": 1,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -81,7 +58,7 @@
         "video-production"
       ],
       "created_at": "2026-07-19T11:44:41Z",
-      "updated_at": "2026-07-24T19:20:39Z",
+      "updated_at": "2026-07-25T19:06:28Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
@@ -99,12 +76,12 @@
       "html_url": "https://github.com/Jakubantalik/thinking-orbs",
       "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
       "language": "TypeScript",
-      "stargazers_count": 924,
-      "forks_count": 68,
+      "stargazers_count": 982,
+      "forks_count": 73,
       "open_issues_count": 6,
       "topics": [],
       "created_at": "2026-07-21T07:01:53Z",
-      "updated_at": "2026-07-24T19:13:38Z",
+      "updated_at": "2026-07-25T19:03:19Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -122,12 +99,12 @@
       "html_url": "https://github.com/Blaizzy/nativ",
       "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
       "language": "Swift",
-      "stargazers_count": 853,
-      "forks_count": 44,
-      "open_issues_count": 37,
+      "stargazers_count": 883,
+      "forks_count": 46,
+      "open_issues_count": 39,
       "topics": [],
       "created_at": "2026-07-20T15:37:29Z",
-      "updated_at": "2026-07-24T18:22:45Z",
+      "updated_at": "2026-07-25T19:07:11Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -143,10 +120,10 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/36032407?v=4"
       },
       "html_url": "https://github.com/powerycy/goutoujunshi",
-      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识���，支持多元关系。",
+      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
       "language": "Python",
-      "stargazers_count": 799,
-      "forks_count": 89,
+      "stargazers_count": 868,
+      "forks_count": 96,
       "open_issues_count": 3,
       "topics": [
         "ai-agent",
@@ -158,7 +135,7 @@
         "relationship-advice"
       ],
       "created_at": "2026-07-20T14:58:48Z",
-      "updated_at": "2026-07-24T18:26:28Z",
+      "updated_at": "2026-07-25T18:10:45Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
@@ -176,9 +153,9 @@
       "html_url": "https://github.com/pireel/pireel",
       "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
       "language": "TypeScript",
-      "stargazers_count": 706,
-      "forks_count": 55,
-      "open_issues_count": 1,
+      "stargazers_count": 741,
+      "forks_count": 61,
+      "open_issues_count": 4,
       "topics": [
         "ai-video",
         "capcut",
@@ -189,7 +166,7 @@
         "video-editor"
       ],
       "created_at": "2026-07-20T09:34:24Z",
-      "updated_at": "2026-07-24T18:15:02Z",
+      "updated_at": "2026-07-25T17:59:57Z",
       "license": {
         "spdx_id": "AGPL-3.0",
         "key": "agpl-3.0"
@@ -197,27 +174,24 @@
       "readme_snippet": "Pireel Studio\nAn open-source, backend-free AI video editor for talking-head video.\nImport a clip and the canvas follows your footage — editing, storyboarding,\ndesigned graphics, kinetic captions, themes, live preview, timeline and export\nall run fully in the browser. No account, no server.\n&nbsp;·&n"
     },
     {
-      "id": 1304673796,
-      "full_name": "xiejunjie524/handdraw-story-video",
-      "name": "handdraw-story-video",
+      "id": 1310057619,
+      "full_name": "slvDev/esp32-ai",
+      "name": "esp32-ai",
       "owner": {
-        "login": "xiejunjie524",
-        "avatar_url": "https://avatars.githubusercontent.com/u/128920834?v=4"
+        "login": "slvDev",
+        "avatar_url": "https://avatars.githubusercontent.com/u/15254847?v=4"
       },
-      "html_url": "https://github.com/xiejunjie524/handdraw-story-video",
-      "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+      "html_url": "https://github.com/slvDev/esp32-ai",
+      "description": null,
       "language": "Python",
-      "stargazers_count": 640,
-      "forks_count": 97,
-      "open_issues_count": 0,
+      "stargazers_count": 710,
+      "forks_count": 85,
+      "open_issues_count": 4,
       "topics": [],
-      "created_at": "2026-07-18T06:51:05Z",
-      "updated_at": "2026-07-24T10:34:41Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Handdraw Story Video\n把 7–9 幅手绘故事母图制作成 35–45 秒竖屏短视频：先从左到右显现黑白线稿，再沿相同方向逐步填入低饱和色彩。项目包含故事配置校验、线稿提取、HyperFrames 页面生成，以及可安装的 Codex Skill。\n!“凌晨四点的豆浆”示例预览\n新手直接看：中文使用方法 · 生图模型接入 · 固定画风提示词\n想直接按主题批量生成：一键成片配置\n特点\n- 默认 40 秒、720×960、30 fps，适合竖屏平台\n- 每幕使用一张独立彩色母图，本地提取完全对齐的线稿\n- 线稿和颜色统一从左向右推进，不重复调用生图模型\n- 支持可选故事字幕和画面内道"
+      "created_at": "2026-07-23T14:53:51Z",
+      "updated_at": "2026-07-25T19:07:35Z",
+      "license": null,
+      "readme_snippet": "Running a 28.9M parameter LLM on an $8 microcontroller\n  Open to Work &nbsp;·&nbsp;\n  𝕏 slvDev &nbsp;·&nbsp;\n  LinkedIn\n!28.9M-parameter LLM running on an ESP32-S3\nThis is a 28.9 million parameter language model that generates text on an ESP32-S3,\na microcontroller that costs about $8. It runs on t"
     },
     {
       "id": 1307486190,
@@ -230,17 +204,43 @@
       "html_url": "https://github.com/gnipbao/story-to-handdrawn-video",
       "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
       "language": "JavaScript",
-      "stargazers_count": 605,
-      "forks_count": 69,
+      "stargazers_count": 621,
+      "forks_count": 70,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-07-21T08:54:45Z",
-      "updated_at": "2026-07-24T19:09:48Z",
+      "updated_at": "2026-07-25T15:14:06Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "story-to-handdrawn-video\n中文 | English\n---\n中文\n把中文故事文案或一组有序的手绘图片,转换成 3:4 竖屏手绘日记漫画动画:手写体字幕、从左到右的「文字 → 黑白画稿 → 彩色插画」揭示、可选的右下角卷页翻书转场、安全不裁剪的画面构图。基于 Remotion,默认输出无配音、无音乐的 H.264 画面轨,方便后期配音。\n本仓库包含两部分:\n- 渲染器项目(根目录):Remotion 工程,负责实际的分镜、动效和渲染。\n- Codex / Agent Skill(skill-package/):可分发的 Skill,装进 Codex 等 Agent 后用自"
+    },
+    {
+      "id": 1306841672,
+      "full_name": "CatsJuice/sticker-forge",
+      "name": "sticker-forge",
+      "owner": {
+        "login": "CatsJuice",
+        "avatar_url": "https://avatars.githubusercontent.com/u/39363750?v=4"
+      },
+      "html_url": "https://github.com/CatsJuice/sticker-forge",
+      "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
+      "language": "JavaScript",
+      "stargazers_count": 559,
+      "forks_count": 51,
+      "open_issues_count": 0,
+      "topics": [
+        "sticker",
+        "webgl"
+      ],
+      "created_at": "2026-07-20T17:13:15Z",
+      "updated_at": "2026-07-25T18:32:33Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Sticker Forge\nSticker Forge turns text or uploaded image artwork into a tactile WebGL sticker. Grab the\nreal die-cut edge, drag it inward, and the sticker curls to reveal a satin back\nsurface with depth-aware shadowing.\nThe repository contains two deliverables:\n- an interactive builder in app/;\n- a "
     }
   ]
 }
