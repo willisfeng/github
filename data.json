@@ -1,32 +1,9 @@
 {
-  "updated_at": "2026-07-26T19:15:28.878Z",
-  "query_date_range": "2026-07-19 ~ 2026-07-26",
-  "total_found": 2068850,
+  "updated_at": "2026-07-27T19:38:15.221Z",
+  "query_date_range": "2026-07-20 ~ 2026-07-27",
+  "total_found": 2125080,
   "count": 9,
   "repos": [
-    {
-      "id": 1306128367,
-      "full_name": "andrewyng/openworker",
-      "name": "openworker",
-      "owner": {
-        "login": "andrewyng",
-        "avatar_url": "https://avatars.githubusercontent.com/u/3710007?v=4"
-      },
-      "html_url": "https://github.com/andrewyng/openworker",
-      "description": null,
-      "language": "Python",
-      "stargazers_count": 6431,
-      "forks_count": 859,
-      "open_issues_count": 183,
-      "topics": [],
-      "created_at": "2026-07-20T01:52:32Z",
-      "updated_at": "2026-07-26T19:14:44Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "OpenWorker\nopenworker.com · Download · Issues\n> Beta - OpenWorker is in open beta: fully usable, updates itself, and we're actively polishing rough edges. Issues welcome.\nAI that gets your everyday tasks done. OpenWorker is an open-source AI coworker that lives on your desktop and delivers finished "
-    },
     {
       "id": 1310057619,
       "full_name": "slvDev/esp32-ai",
@@ -38,17 +15,40 @@
       "html_url": "https://github.com/slvDev/esp32-ai",
       "description": null,
       "language": "Python",
-      "stargazers_count": 1265,
-      "forks_count": 130,
+      "stargazers_count": 1697,
+      "forks_count": 179,
       "open_issues_count": 7,
       "topics": [],
       "created_at": "2026-07-23T14:53:51Z",
-      "updated_at": "2026-07-26T19:02:50Z",
+      "updated_at": "2026-07-27T19:19:21Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "Running a 28.9M parameter LLM on an $8 microcontroller\n  Open to Work &nbsp;·&nbsp;\n  𝕏 slvDev &nbsp;·&nbsp;\n  LinkedIn\n!28.9M-parameter LLM running on an ESP32-S3\nThis is a 28.9 million parameter language model that generates text on an ESP32-S3,\na microcontroller that costs about $8. It runs on t"
+    },
+    {
+      "id": 1309331155,
+      "full_name": "vercel-labs/scriptc",
+      "name": "scriptc",
+      "owner": {
+        "login": "vercel-labs",
+        "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+      },
+      "html_url": "https://github.com/vercel-labs/scriptc",
+      "description": "TypeScript-to-Native Compiler",
+      "language": "TypeScript",
+      "stargazers_count": 1585,
+      "forks_count": 23,
+      "open_issues_count": 8,
+      "topics": [],
+      "created_at": "2026-07-22T23:04:54Z",
+      "updated_at": "2026-07-27T19:36:45Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "scriptc\nZero-runtime TypeScript. scriptc compiles ordinary TypeScript into small, fast native executables — no Node, no V8, no JavaScript engine in the binary.\nNo changes to your code. No annotations, no dialect — the same TypeScript you run on Node, type-checked by the real TypeScript compiler and "
     },
     {
       "id": 1307383231,
@@ -61,12 +61,12 @@
       "html_url": "https://github.com/Jakubantalik/thinking-orbs",
       "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
       "language": "TypeScript",
-      "stargazers_count": 1080,
-      "forks_count": 80,
+      "stargazers_count": 1159,
+      "forks_count": 82,
       "open_issues_count": 7,
       "topics": [],
       "created_at": "2026-07-21T07:01:53Z",
-      "updated_at": "2026-07-26T18:16:23Z",
+      "updated_at": "2026-07-27T19:29:34Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -74,58 +74,27 @@
       "readme_snippet": "thinking-orbs\nDotted thought-orb loading indicators for AI & agent UIs. Six hand-tuned animated states, each shipped at two purpose-tuned sizes, rendered on a plain 2D canvas — no WebGL, no filters, works identically in Chrome, Safari and Firefox.\nLive demo · Repository · Report an issue\nInstall\nQui"
     },
     {
-      "id": 1306722822,
-      "full_name": "powerycy/goutoujunshi",
-      "name": "goutoujunshi",
+      "id": 1312257227,
+      "full_name": "mshumer/Claude-of-Duty",
+      "name": "Claude-of-Duty",
       "owner": {
-        "login": "powerycy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/36032407?v=4"
+        "login": "mshumer",
+        "avatar_url": "https://avatars.githubusercontent.com/u/41550495?v=4"
       },
-      "html_url": "https://github.com/powerycy/goutoujunshi",
-      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
-      "language": "Python",
-      "stargazers_count": 935,
-      "forks_count": 101,
-      "open_issues_count": 3,
-      "topics": [
-        "ai-agent",
-        "chinese",
-        "codex",
-        "codex-skill",
-        "lgbtq",
-        "psychology",
-        "relationship-advice"
-      ],
-      "created_at": "2026-07-20T14:58:48Z",
-      "updated_at": "2026-07-26T19:11:21Z",
-      "license": {
-        "spdx_id": "NOASSERTION",
-        "key": "other"
-      },
-      "readme_snippet": "狗头军师 · Goutoujunshi\n> 把情绪支持、关系科学与可执行策略，装进一个真正站在用户一边的 AI 恋爱军师。\n如果它让你在感情里少一次内耗、多一次清醒，欢迎点亮一个🌟 Star。你的支持会让更多正在关系里犹豫的人找到它，也会推动知识库继续更新。\n很多恋爱建议只有两个答案：“勇敢去追”或“赶紧分手”。狗头军师试图做得更认真一点：先接住用户的情绪，再把事实、猜测和未知拆开；既分析心动，也计算现实、互惠、风险、机会成本和长期选择权；最后给出可以真正执行的下一步。\n它不只是一个话术库。它能读取聊天截图、导出文本和用户转述，区分素材来源与事实边界；也能把分析落到一句可发送的话、一次具体邀"
-    },
-    {
-      "id": 1306758289,
-      "full_name": "Blaizzy/nativ",
-      "name": "nativ",
-      "owner": {
-        "login": "Blaizzy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/23445657?v=4"
-      },
-      "html_url": "https://github.com/Blaizzy/nativ",
-      "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-      "language": "Swift",
-      "stargazers_count": 901,
-      "forks_count": 50,
-      "open_issues_count": 38,
+      "html_url": "https://github.com/mshumer/Claude-of-Duty",
+      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "language": "JavaScript",
+      "stargazers_count": 978,
+      "forks_count": 193,
+      "open_issues_count": 14,
       "topics": [],
-      "created_at": "2026-07-20T15:37:29Z",
-      "updated_at": "2026-07-26T18:52:44Z",
+      "created_at": "2026-07-25T19:32:36Z",
+      "updated_at": "2026-07-27T19:36:03Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "Nativ\n  Local AI, native to your Mac.\n  Chat, serve, monitor, and connect MLX models from one macOS app.\n  \n  \n  \n  \nNativ is a native macOS workspace for running AI models locally on Apple silicon. It bundles an mlx-vlm server, finds compatible models in your Hugging Face cache (honoring HF_HUB_CAC"
+      "readme_snippet": "Claude of Duty\nGet updates here.\nA first-person shooter built in the browser with Three.js r180 and WebGL2. Roughly\n55k lines across 11 subsystems, written by a fleet of AI agents under orchestration.\nThere are no art assets. Every texture, mesh, animation and sound is generated\nprocedurally at load"
     },
     {
       "id": 1311384232,
@@ -138,12 +107,12 @@
       "html_url": "https://github.com/mikiarlo3/ai-copywriter",
       "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
       "language": "Python",
-      "stargazers_count": 830,
-      "forks_count": 12,
+      "stargazers_count": 928,
+      "forks_count": 18,
       "open_issues_count": 2,
       "topics": [],
       "created_at": "2026-07-24T19:52:13Z",
-      "updated_at": "2026-07-26T19:13:55Z",
+      "updated_at": "2026-07-27T19:24:17Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -151,35 +120,64 @@
       "readme_snippet": "!AI copywriter. Human tone. Explains extreme concepts easily. enso\nAI Copywriter\nby Mickey Haslavsky\nA portable agent skill that does the two halves of the copy job most tools split apart: it writes copy that earns attention (clickbait titles, short descriptions, microcopy, subject lines), and it st"
     },
     {
-      "id": 1306443880,
-      "full_name": "pireel/pireel",
-      "name": "pireel",
+      "id": 1313576395,
+      "full_name": "MoonshotAI/Kimi-K3",
+      "name": "Kimi-K3",
       "owner": {
-        "login": "pireel",
-        "avatar_url": "https://avatars.githubusercontent.com/u/304991498?v=4"
+        "login": "MoonshotAI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
       },
-      "html_url": "https://github.com/pireel/pireel",
-      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "language": "TypeScript",
-      "stargazers_count": 768,
-      "forks_count": 65,
-      "open_issues_count": 4,
-      "topics": [
-        "ai-video",
-        "capcut",
-        "captions",
-        "chatcut",
-        "openchatcut",
-        "talking-head",
-        "video-editor"
-      ],
-      "created_at": "2026-07-20T09:34:24Z",
-      "updated_at": "2026-07-26T18:24:35Z",
+      "html_url": "https://github.com/MoonshotAI/Kimi-K3",
+      "description": "Open Frontier Intelligence",
+      "language": null,
+      "stargazers_count": 897,
+      "forks_count": 67,
+      "open_issues_count": 3,
+      "topics": [],
+      "created_at": "2026-07-27T08:01:37Z",
+      "updated_at": "2026-07-27T19:37:41Z",
       "license": {
-        "spdx_id": "AGPL-3.0",
-        "key": "agpl-3.0"
+        "spdx_id": "NOASSERTION",
+        "key": "other"
       },
-      "readme_snippet": "Pireel Studio\nAn open-source, backend-free AI video editor for talking-head video.\nImport a clip and the canvas follows your footage — editing, storyboarding,\ndesigned graphics, kinetic captions, themes, live preview, timeline and export\nall run fully in the browser. No account, no server.\n&nbsp;·&n"
+      "readme_snippet": "📰&nbsp;&nbsp;Tech Blog | &nbsp;&nbsp;&nbsp; 📄&nbsp;&nbsp;Full Report\n1. Model Introduction\nKimi K3 is an open-weight, native multimodal agentic model and our most capable model to date. It is a 2.8T-parameter model built on Kimi Delta Attention (KDA) and Attention Residuals (AttnRes), with native "
+    },
+    {
+      "id": 1309102418,
+      "full_name": "makecindy/cindy",
+      "name": "cindy",
+      "owner": {
+        "login": "makecindy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/306974279?v=4"
+      },
+      "html_url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stargazers_count": 824,
+      "forks_count": 104,
+      "open_issues_count": 227,
+      "topics": [
+        "agent",
+        "ai-agent",
+        "ai-assistant",
+        "android",
+        "claude-code",
+        "codex",
+        "electron",
+        "ios",
+        "llm",
+        "macos",
+        "react-native",
+        "typescript",
+        "windows"
+      ],
+      "created_at": "2026-07-22T17:49:34Z",
+      "updated_at": "2026-07-27T19:34:40Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "English · 简体中文\n  \n  \n  \n  \n  🌐 cindy.app &nbsp;·&nbsp; ⬇️ Download\nCindy is an open-source AI agent that works out of the box. She brings multiple\nharnesses, models and tools into one agent that finishes real work in your\nprojects and apps. Ready from day one, yours to shape over time.\nCindy runs l"
     },
     {
       "id": 1307486190,
@@ -192,12 +190,12 @@
       "html_url": "https://github.com/gnipbao/story-to-handdrawn-video",
       "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
       "language": "JavaScript",
-      "stargazers_count": 650,
-      "forks_count": 72,
+      "stargazers_count": 667,
+      "forks_count": 75,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-07-21T08:54:45Z",
-      "updated_at": "2026-07-26T17:27:11Z",
+      "updated_at": "2026-07-27T17:47:08Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -205,30 +203,24 @@
       "readme_snippet": "story-to-handdrawn-video\n中文 | English\n---\n中文\n把中文故事文案或一组有序的手绘图片,转换成 3:4 竖屏手绘日记漫画动画:手写体字幕、从左到右的「文字 → 黑白画稿 → 彩色插画」揭示、可选的右下角卷页翻书转场、安全不裁剪的画面构图。基于 Remotion,默认输出无配音、无音乐的 H.264 画面轨,方便后期配音。\n本仓库包含两部分:\n- 渲染器项目(根目录):Remotion 工程,负责实际的分镜、动效和渲染。\n- Codex / Agent Skill(skill-package/):可分发的 Skill,装进 Codex 等 Agent 后用自"
     },
     {
-      "id": 1306841672,
-      "full_name": "CatsJuice/sticker-forge",
-      "name": "sticker-forge",
+      "id": 1312158335,
+      "full_name": "VictorTaelin/OptMem",
+      "name": "OptMem",
       "owner": {
-        "login": "CatsJuice",
-        "avatar_url": "https://avatars.githubusercontent.com/u/39363750?v=4"
+        "login": "VictorTaelin",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13090166?v=4"
       },
-      "html_url": "https://github.com/CatsJuice/sticker-forge",
-      "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
-      "language": "JavaScript",
-      "stargazers_count": 592,
-      "forks_count": 55,
-      "open_issues_count": 0,
-      "topics": [
-        "sticker",
-        "webgl"
-      ],
-      "created_at": "2026-07-20T17:13:15Z",
-      "updated_at": "2026-07-26T14:04:24Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Sticker Forge\nSticker Forge turns text or uploaded image artwork into a tactile WebGL sticker. Grab the\nreal die-cut edge, drag it inward, and the sticker curls to reveal a satin back\nsurface with depth-aware shadowing.\nThe repository contains two deliverables:\n- an interactive builder in app/;\n- a "
+      "html_url": "https://github.com/VictorTaelin/OptMem",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "language": "Python",
+      "stargazers_count": 615,
+      "forks_count": 32,
+      "open_issues_count": 1,
+      "topics": [],
+      "created_at": "2026-07-25T16:58:43Z",
+      "updated_at": "2026-07-27T19:25:55Z",
+      "license": null,
+      "readme_snippet": "OptMem\nPermanent memory for AI agents. A 426-token prompt, a script, plug and play.\n!how OptMem works\nInstall\nIt prints a Memory block. Paste that at the top of your agent's\nAGENTS.md (or CLAUDE.md), and you are done. Run the same line again to\nupdate.\nThe tool lands at ~/.optmem/memo; put ~/.optmem"
     }
   ]
 }
