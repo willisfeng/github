@@ -1,31 +1,31 @@
 {
-  "updated_at": "2026-07-27T19:38:15.221Z",
-  "query_date_range": "2026-07-20 ~ 2026-07-27",
-  "total_found": 2125080,
+  "updated_at": "2026-07-28T19:28:13.169Z",
+  "query_date_range": "2026-07-21 ~ 2026-07-28",
+  "total_found": 2119005,
   "count": 9,
   "repos": [
     {
-      "id": 1310057619,
-      "full_name": "slvDev/esp32-ai",
-      "name": "esp32-ai",
+      "id": 1313576395,
+      "full_name": "MoonshotAI/Kimi-K3",
+      "name": "Kimi-K3",
       "owner": {
-        "login": "slvDev",
-        "avatar_url": "https://avatars.githubusercontent.com/u/15254847?v=4"
+        "login": "MoonshotAI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
       },
-      "html_url": "https://github.com/slvDev/esp32-ai",
-      "description": null,
-      "language": "Python",
-      "stargazers_count": 1697,
-      "forks_count": 179,
-      "open_issues_count": 7,
+      "html_url": "https://github.com/MoonshotAI/Kimi-K3",
+      "description": "Open Frontier Intelligence",
+      "language": null,
+      "stargazers_count": 3266,
+      "forks_count": 261,
+      "open_issues_count": 10,
       "topics": [],
-      "created_at": "2026-07-23T14:53:51Z",
-      "updated_at": "2026-07-27T19:19:21Z",
+      "created_at": "2026-07-27T08:01:37Z",
+      "updated_at": "2026-07-28T19:26:38Z",
       "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
+        "spdx_id": "NOASSERTION",
+        "key": "other"
       },
-      "readme_snippet": "Running a 28.9M parameter LLM on an $8 microcontroller\n  Open to Work &nbsp;·&nbsp;\n  𝕏 slvDev &nbsp;·&nbsp;\n  LinkedIn\n!28.9M-parameter LLM running on an ESP32-S3\nThis is a 28.9 million parameter language model that generates text on an ESP32-S3,\na microcontroller that costs about $8. It runs on t"
+      "readme_snippet": "📰&nbsp;&nbsp;Tech Blog | &nbsp;&nbsp;&nbsp; 📄&nbsp;&nbsp;Full Report\n1. Model Introduction\nKimi K3 is an open-weight, native multimodal agentic model and our most capable model to date. It is a 2.8T-parameter model built on Kimi Delta Attention (KDA) and Attention Residuals (AttnRes), with native "
     },
     {
       "id": 1309331155,
@@ -38,12 +38,12 @@
       "html_url": "https://github.com/vercel-labs/scriptc",
       "description": "TypeScript-to-Native Compiler",
       "language": "TypeScript",
-      "stargazers_count": 1585,
-      "forks_count": 23,
-      "open_issues_count": 8,
+      "stargazers_count": 2076,
+      "forks_count": 36,
+      "open_issues_count": 25,
       "topics": [],
       "created_at": "2026-07-22T23:04:54Z",
-      "updated_at": "2026-07-27T19:36:45Z",
+      "updated_at": "2026-07-28T19:14:05Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
@@ -51,27 +51,27 @@
       "readme_snippet": "scriptc\nZero-runtime TypeScript. scriptc compiles ordinary TypeScript into small, fast native executables — no Node, no V8, no JavaScript engine in the binary.\nNo changes to your code. No annotations, no dialect — the same TypeScript you run on Node, type-checked by the real TypeScript compiler and "
     },
     {
-      "id": 1307383231,
-      "full_name": "Jakubantalik/thinking-orbs",
-      "name": "thinking-orbs",
+      "id": 1310057619,
+      "full_name": "slvDev/esp32-ai",
+      "name": "esp32-ai",
       "owner": {
-        "login": "Jakubantalik",
-        "avatar_url": "https://avatars.githubusercontent.com/u/14873517?v=4"
+        "login": "slvDev",
+        "avatar_url": "https://avatars.githubusercontent.com/u/15254847?v=4"
       },
-      "html_url": "https://github.com/Jakubantalik/thinking-orbs",
-      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "language": "TypeScript",
-      "stargazers_count": 1159,
-      "forks_count": 82,
+      "html_url": "https://github.com/slvDev/esp32-ai",
+      "description": null,
+      "language": "Python",
+      "stargazers_count": 2018,
+      "forks_count": 215,
       "open_issues_count": 7,
       "topics": [],
-      "created_at": "2026-07-21T07:01:53Z",
-      "updated_at": "2026-07-27T19:29:34Z",
+      "created_at": "2026-07-23T14:53:51Z",
+      "updated_at": "2026-07-28T19:09:29Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "thinking-orbs\nDotted thought-orb loading indicators for AI & agent UIs. Six hand-tuned animated states, each shipped at two purpose-tuned sizes, rendered on a plain 2D canvas — no WebGL, no filters, works identically in Chrome, Safari and Firefox.\nLive demo · Repository · Report an issue\nInstall\nQui"
+      "readme_snippet": "Running a 28.9M parameter LLM on an $8 microcontroller\n  Open to Work &nbsp;·&nbsp;\n  𝕏 slvDev &nbsp;·&nbsp;\n  LinkedIn\n!28.9M-parameter LLM running on an ESP32-S3\nThis is a 28.9 million parameter language model that generates text on an ESP32-S3,\na microcontroller that costs about $8. It runs on t"
     },
     {
       "id": 1312257227,
@@ -84,12 +84,12 @@
       "html_url": "https://github.com/mshumer/Claude-of-Duty",
       "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
       "language": "JavaScript",
-      "stargazers_count": 978,
-      "forks_count": 193,
-      "open_issues_count": 14,
+      "stargazers_count": 1545,
+      "forks_count": 253,
+      "open_issues_count": 15,
       "topics": [],
       "created_at": "2026-07-25T19:32:36Z",
-      "updated_at": "2026-07-27T19:36:03Z",
+      "updated_at": "2026-07-28T19:27:02Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -97,50 +97,27 @@
       "readme_snippet": "Claude of Duty\nGet updates here.\nA first-person shooter built in the browser with Three.js r180 and WebGL2. Roughly\n55k lines across 11 subsystems, written by a fleet of AI agents under orchestration.\nThere are no art assets. Every texture, mesh, animation and sound is generated\nprocedurally at load"
     },
     {
-      "id": 1311384232,
-      "full_name": "mikiarlo3/ai-copywriter",
-      "name": "ai-copywriter",
+      "id": 1309451980,
+      "full_name": "kvcache-ai/AgentENV",
+      "name": "AgentENV",
       "owner": {
-        "login": "mikiarlo3",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1715109?v=4"
+        "login": "kvcache-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/170996193?v=4"
       },
-      "html_url": "https://github.com/mikiarlo3/ai-copywriter",
-      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "language": "Python",
-      "stargazers_count": 928,
-      "forks_count": 18,
-      "open_issues_count": 2,
+      "html_url": "https://github.com/kvcache-ai/AgentENV",
+      "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+      "language": "Rust",
+      "stargazers_count": 1396,
+      "forks_count": 121,
+      "open_issues_count": 39,
       "topics": [],
-      "created_at": "2026-07-24T19:52:13Z",
-      "updated_at": "2026-07-27T19:24:17Z",
+      "created_at": "2026-07-23T02:48:07Z",
+      "updated_at": "2026-07-28T19:07:40Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "!AI copywriter. Human tone. Explains extreme concepts easily. enso\nAI Copywriter\nby Mickey Haslavsky\nA portable agent skill that does the two halves of the copy job most tools split apart: it writes copy that earns attention (clickbait titles, short descriptions, microcopy, subject lines), and it st"
-    },
-    {
-      "id": 1313576395,
-      "full_name": "MoonshotAI/Kimi-K3",
-      "name": "Kimi-K3",
-      "owner": {
-        "login": "MoonshotAI",
-        "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
-      },
-      "html_url": "https://github.com/MoonshotAI/Kimi-K3",
-      "description": "Open Frontier Intelligence",
-      "language": null,
-      "stargazers_count": 897,
-      "forks_count": 67,
-      "open_issues_count": 3,
-      "topics": [],
-      "created_at": "2026-07-27T08:01:37Z",
-      "updated_at": "2026-07-27T19:37:41Z",
-      "license": {
-        "spdx_id": "NOASSERTION",
-        "key": "other"
-      },
-      "readme_snippet": "📰&nbsp;&nbsp;Tech Blog | &nbsp;&nbsp;&nbsp; 📄&nbsp;&nbsp;Full Report\n1. Model Introduction\nKimi K3 is an open-weight, native multimodal agentic model and our most capable model to date. It is a 2.8T-parameter model built on Kimi Delta Attention (KDA) and Attention Residuals (AttnRes), with native "
+      "readme_snippet": "Running agent environments at scale\n📖 Full documentation\nAgentENV (AENV) is a platform for running agent environments at scale, powering agentic RL training for Kimi K3.\n---\n🚀 Why AgentENV\n- Scale across diverse environments: AENV runs massive numbers of Firecracker environments across machines an"
     },
     {
       "id": 1309102418,
@@ -153,9 +130,9 @@
       "html_url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "language": "TypeScript",
-      "stargazers_count": 824,
-      "forks_count": 104,
-      "open_issues_count": 227,
+      "stargazers_count": 987,
+      "forks_count": 123,
+      "open_issues_count": 254,
       "topics": [
         "agent",
         "ai-agent",
@@ -172,7 +149,7 @@
         "windows"
       ],
       "created_at": "2026-07-22T17:49:34Z",
-      "updated_at": "2026-07-27T19:34:40Z",
+      "updated_at": "2026-07-28T19:09:38Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
@@ -180,27 +157,27 @@
       "readme_snippet": "English · 简体中文\n  \n  \n  \n  \n  🌐 cindy.app &nbsp;·&nbsp; ⬇️ Download\nCindy is an open-source AI agent that works out of the box. She brings multiple\nharnesses, models and tools into one agent that finishes real work in your\nprojects and apps. Ready from day one, yours to shape over time.\nCindy runs l"
     },
     {
-      "id": 1307486190,
-      "full_name": "gnipbao/story-to-handdrawn-video",
-      "name": "story-to-handdrawn-video",
+      "id": 1311384232,
+      "full_name": "mikiarlo3/ai-copywriter",
+      "name": "ai-copywriter",
       "owner": {
-        "login": "gnipbao",
-        "avatar_url": "https://avatars.githubusercontent.com/u/16514704?v=4"
+        "login": "mikiarlo3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1715109?v=4"
       },
-      "html_url": "https://github.com/gnipbao/story-to-handdrawn-video",
-      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
-      "language": "JavaScript",
-      "stargazers_count": 667,
-      "forks_count": 75,
-      "open_issues_count": 0,
+      "html_url": "https://github.com/mikiarlo3/ai-copywriter",
+      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "language": "Python",
+      "stargazers_count": 984,
+      "forks_count": 19,
+      "open_issues_count": 2,
       "topics": [],
-      "created_at": "2026-07-21T08:54:45Z",
-      "updated_at": "2026-07-27T17:47:08Z",
+      "created_at": "2026-07-24T19:52:13Z",
+      "updated_at": "2026-07-28T19:11:25Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "story-to-handdrawn-video\n中文 | English\n---\n中文\n把中文故事文案或一组有序的手绘图片,转换成 3:4 竖屏手绘日记漫画动画:手写体字幕、从左到右的「文字 → 黑白画稿 → 彩色插画」揭示、可选的右下角卷页翻书转场、安全不裁剪的画面构图。基于 Remotion,默认输出无配音、无音乐的 H.264 画面轨,方便后期配音。\n本仓库包含两部分:\n- 渲染器项目(根目录):Remotion 工程,负责实际的分镜、动效和渲染。\n- Codex / Agent Skill(skill-package/):可分发的 Skill,装进 Codex 等 Agent 后用自"
+      "readme_snippet": "!AI copywriter. Human tone. Explains extreme concepts easily. enso\nAI Copywriter\nby Mickey Haslavsky\nA portable agent skill that does the two halves of the copy job most tools split apart: it writes copy that earns attention (clickbait titles, short descriptions, microcopy, subject lines), and it st"
     },
     {
       "id": 1312158335,
@@ -213,14 +190,37 @@
       "html_url": "https://github.com/VictorTaelin/OptMem",
       "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
       "language": "Python",
-      "stargazers_count": 615,
-      "forks_count": 32,
-      "open_issues_count": 1,
+      "stargazers_count": 772,
+      "forks_count": 48,
+      "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-07-25T16:58:43Z",
-      "updated_at": "2026-07-27T19:25:55Z",
+      "updated_at": "2026-07-28T19:25:05Z",
       "license": null,
       "readme_snippet": "OptMem\nPermanent memory for AI agents. A 426-token prompt, a script, plug and play.\n!how OptMem works\nInstall\nIt prints a Memory block. Paste that at the top of your agent's\nAGENTS.md (or CLAUDE.md), and you are done. Run the same line again to\nupdate.\nThe tool lands at ~/.optmem/memo; put ~/.optmem"
+    },
+    {
+      "id": 1310847317,
+      "full_name": "MoonshotAI/MoonEP",
+      "name": "MoonEP",
+      "owner": {
+        "login": "MoonshotAI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
+      },
+      "html_url": "https://github.com/MoonshotAI/MoonEP",
+      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "language": "Python",
+      "stargazers_count": 764,
+      "forks_count": 75,
+      "open_issues_count": 13,
+      "topics": [],
+      "created_at": "2026-07-24T09:07:21Z",
+      "updated_at": "2026-07-28T19:22:12Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "MoonEP\nMoonEP is an Expert Parallelism communication library that keeps token loads perfectly balanced across ranks via dynamic redundant experts.\nNotation: S = input tokens per rank, K = routed top-k per token.\n1. Perfect balance: every rank receives exactly S × K tokens, no matter how skewed the r"
     }
   ]
 }
