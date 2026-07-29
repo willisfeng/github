@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-28T19:28:13.169Z",
-  "query_date_range": "2026-07-21 ~ 2026-07-28",
-  "total_found": 2119005,
+  "updated_at": "2026-07-29T19:20:28.680Z",
+  "query_date_range": "2026-07-22 ~ 2026-07-29",
+  "total_found": 2127724,
   "count": 9,
   "repos": [
     {
@@ -15,40 +15,17 @@
       "html_url": "https://github.com/MoonshotAI/Kimi-K3",
       "description": "Open Frontier Intelligence",
       "language": null,
-      "stargazers_count": 3266,
-      "forks_count": 261,
-      "open_issues_count": 10,
+      "stargazers_count": 5263,
+      "forks_count": 380,
+      "open_issues_count": 11,
       "topics": [],
       "created_at": "2026-07-27T08:01:37Z",
-      "updated_at": "2026-07-28T19:26:38Z",
+      "updated_at": "2026-07-29T19:19:52Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
       },
       "readme_snippet": "📰&nbsp;&nbsp;Tech Blog | &nbsp;&nbsp;&nbsp; 📄&nbsp;&nbsp;Full Report\n1. Model Introduction\nKimi K3 is an open-weight, native multimodal agentic model and our most capable model to date. It is a 2.8T-parameter model built on Kimi Delta Attention (KDA) and Attention Residuals (AttnRes), with native "
-    },
-    {
-      "id": 1309331155,
-      "full_name": "vercel-labs/scriptc",
-      "name": "scriptc",
-      "owner": {
-        "login": "vercel-labs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
-      },
-      "html_url": "https://github.com/vercel-labs/scriptc",
-      "description": "TypeScript-to-Native Compiler",
-      "language": "TypeScript",
-      "stargazers_count": 2076,
-      "forks_count": 36,
-      "open_issues_count": 25,
-      "topics": [],
-      "created_at": "2026-07-22T23:04:54Z",
-      "updated_at": "2026-07-28T19:14:05Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "scriptc\nZero-runtime TypeScript. scriptc compiles ordinary TypeScript into small, fast native executables — no Node, no V8, no JavaScript engine in the binary.\nNo changes to your code. No annotations, no dialect — the same TypeScript you run on Node, type-checked by the real TypeScript compiler and "
     },
     {
       "id": 1310057619,
@@ -61,12 +38,12 @@
       "html_url": "https://github.com/slvDev/esp32-ai",
       "description": null,
       "language": "Python",
-      "stargazers_count": 2018,
-      "forks_count": 215,
+      "stargazers_count": 2272,
+      "forks_count": 253,
       "open_issues_count": 7,
       "topics": [],
       "created_at": "2026-07-23T14:53:51Z",
-      "updated_at": "2026-07-28T19:09:29Z",
+      "updated_at": "2026-07-29T19:16:44Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -84,12 +61,12 @@
       "html_url": "https://github.com/mshumer/Claude-of-Duty",
       "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
       "language": "JavaScript",
-      "stargazers_count": 1545,
-      "forks_count": 253,
-      "open_issues_count": 15,
+      "stargazers_count": 2211,
+      "forks_count": 321,
+      "open_issues_count": 18,
       "topics": [],
       "created_at": "2026-07-25T19:32:36Z",
-      "updated_at": "2026-07-28T19:27:02Z",
+      "updated_at": "2026-07-29T19:19:46Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -107,12 +84,12 @@
       "html_url": "https://github.com/kvcache-ai/AgentENV",
       "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
       "language": "Rust",
-      "stargazers_count": 1396,
-      "forks_count": 121,
-      "open_issues_count": 39,
+      "stargazers_count": 1975,
+      "forks_count": 158,
+      "open_issues_count": 41,
       "topics": [],
       "created_at": "2026-07-23T02:48:07Z",
-      "updated_at": "2026-07-28T19:07:40Z",
+      "updated_at": "2026-07-29T19:17:43Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -120,41 +97,24 @@
       "readme_snippet": "Running agent environments at scale\n📖 Full documentation\nAgentENV (AENV) is a platform for running agent environments at scale, powering agentic RL training for Kimi K3.\n---\n🚀 Why AgentENV\n- Scale across diverse environments: AENV runs massive numbers of Firecracker environments across machines an"
     },
     {
-      "id": 1309102418,
-      "full_name": "makecindy/cindy",
-      "name": "cindy",
+      "id": 1311510441,
+      "full_name": "digimata/quill",
+      "name": "quill",
       "owner": {
-        "login": "makecindy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/306974279?v=4"
+        "login": "digimata",
+        "avatar_url": "https://avatars.githubusercontent.com/u/247467537?v=4"
       },
-      "html_url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "language": "TypeScript",
-      "stargazers_count": 987,
-      "forks_count": 123,
-      "open_issues_count": 254,
-      "topics": [
-        "agent",
-        "ai-agent",
-        "ai-assistant",
-        "android",
-        "claude-code",
-        "codex",
-        "electron",
-        "ios",
-        "llm",
-        "macos",
-        "react-native",
-        "typescript",
-        "windows"
-      ],
-      "created_at": "2026-07-22T17:49:34Z",
-      "updated_at": "2026-07-28T19:09:38Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "English · 简体中文\n  \n  \n  \n  \n  🌐 cindy.app &nbsp;·&nbsp; ⬇️ Download\nCindy is an open-source AI agent that works out of the box. She brings multiple\nharnesses, models and tools into one agent that finishes real work in your\nprojects and apps. Ready from day one, yours to shape over time.\nCindy runs l"
+      "html_url": "https://github.com/digimata/quill",
+      "description": "Ultraminimalist macOS recording + transcription.",
+      "language": "Swift",
+      "stargazers_count": 1184,
+      "forks_count": 66,
+      "open_issues_count": 11,
+      "topics": [],
+      "created_at": "2026-07-24T23:31:27Z",
+      "updated_at": "2026-07-29T19:20:01Z",
+      "license": null,
+      "readme_snippet": "quill\nA minimal, fully local macOS meeting recorder + transcriber. One menu-bar\nclick records your mic and all system audio as two separate tracks; when you\nstop, quill transcribes both on-device and writes a speaker-tagged transcript.\nNothing ever leaves the machine.\nNamed for the feather. Sibling "
     },
     {
       "id": 1311384232,
@@ -167,17 +127,37 @@
       "html_url": "https://github.com/mikiarlo3/ai-copywriter",
       "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
       "language": "Python",
-      "stargazers_count": 984,
-      "forks_count": 19,
+      "stargazers_count": 1037,
+      "forks_count": 23,
       "open_issues_count": 2,
       "topics": [],
       "created_at": "2026-07-24T19:52:13Z",
-      "updated_at": "2026-07-28T19:11:25Z",
+      "updated_at": "2026-07-29T19:11:37Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "!AI copywriter. Human tone. Explains extreme concepts easily. enso\nAI Copywriter\nby Mickey Haslavsky\nA portable agent skill that does the two halves of the copy job most tools split apart: it writes copy that earns attention (clickbait titles, short descriptions, microcopy, subject lines), and it st"
+    },
+    {
+      "id": 1312410567,
+      "full_name": "fuadmefleh/Shared-Claude-Chats",
+      "name": "Shared-Claude-Chats",
+      "owner": {
+        "login": "fuadmefleh",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6284270?v=4"
+      },
+      "html_url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
+      "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+      "language": "Python",
+      "stargazers_count": 925,
+      "forks_count": 148,
+      "open_issues_count": 1,
+      "topics": [],
+      "created_at": "2026-07-26T01:14:17Z",
+      "updated_at": "2026-07-29T18:54:27Z",
+      "license": null,
+      "readme_snippet": "Shared AI Chats\nAn archive of public Claude, Grok, Kimi, Qwen, and DeepSeek conversations,\nexported from their share links as plain markdown, plus the five scripts that\nproduce it. A handful of other conversations, added by hand from sources with\nno public share link, live alongside them.\n1,525 conv"
     },
     {
       "id": 1312158335,
@@ -190,12 +170,12 @@
       "html_url": "https://github.com/VictorTaelin/OptMem",
       "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
       "language": "Python",
-      "stargazers_count": 772,
-      "forks_count": 48,
+      "stargazers_count": 862,
+      "forks_count": 50,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-07-25T16:58:43Z",
-      "updated_at": "2026-07-28T19:25:05Z",
+      "updated_at": "2026-07-29T19:17:19Z",
       "license": null,
       "readme_snippet": "OptMem\nPermanent memory for AI agents. A 426-token prompt, a script, plug and play.\n!how OptMem works\nInstall\nIt prints a Memory block. Paste that at the top of your agent's\nAGENTS.md (or CLAUDE.md), and you are done. Run the same line again to\nupdate.\nThe tool lands at ~/.optmem/memo; put ~/.optmem"
     },
@@ -210,12 +190,12 @@
       "html_url": "https://github.com/MoonshotAI/MoonEP",
       "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
       "language": "Python",
-      "stargazers_count": 764,
-      "forks_count": 75,
-      "open_issues_count": 13,
+      "stargazers_count": 858,
+      "forks_count": 88,
+      "open_issues_count": 16,
       "topics": [],
       "created_at": "2026-07-24T09:07:21Z",
-      "updated_at": "2026-07-28T19:22:12Z",
+      "updated_at": "2026-07-29T19:08:02Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
