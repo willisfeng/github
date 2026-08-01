@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-31T19:37:44.643Z",
-  "query_date_range": "2026-07-24 ~ 2026-07-31",
-  "total_found": 2223122,
+  "updated_at": "2026-08-01T19:12:09.890Z",
+  "query_date_range": "2026-07-25 ~ 2026-08-01",
+  "total_found": 2271163,
   "count": 9,
   "repos": [
     {
@@ -15,106 +15,17 @@
       "html_url": "https://github.com/MoonshotAI/Kimi-K3",
       "description": "Open Frontier Intelligence",
       "language": null,
-      "stargazers_count": 7692,
-      "forks_count": 530,
-      "open_issues_count": 16,
+      "stargazers_count": 7802,
+      "forks_count": 552,
+      "open_issues_count": 17,
       "topics": [],
       "created_at": "2026-07-27T08:01:37Z",
-      "updated_at": "2026-07-31T19:37:21Z",
+      "updated_at": "2026-08-01T19:00:39Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
       },
       "readme_snippet": "📰&nbsp;&nbsp;Tech Blog | &nbsp;&nbsp;&nbsp; 📄&nbsp;&nbsp;Full Report\n1. Model Introduction\nKimi K3 is an open-weight, native multimodal agentic model and our most capable model to date. It is a 2.8T-parameter model built on Kimi Delta Attention (KDA) and Attention Residuals (AttnRes), with native "
-    },
-    {
-      "id": 1312257227,
-      "full_name": "mshumer/Claude-of-Duty",
-      "name": "Claude-of-Duty",
-      "owner": {
-        "login": "mshumer",
-        "avatar_url": "https://avatars.githubusercontent.com/u/41550495?v=4"
-      },
-      "html_url": "https://github.com/mshumer/Claude-of-Duty",
-      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-      "language": "JavaScript",
-      "stargazers_count": 2499,
-      "forks_count": 369,
-      "open_issues_count": 22,
-      "topics": [],
-      "created_at": "2026-07-25T19:32:36Z",
-      "updated_at": "2026-07-31T19:30:49Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Claude of Duty\nGet updates here.\nA first-person shooter built in the browser with Three.js r180 and WebGL2. Roughly\n55k lines across 11 subsystems, written by a fleet of AI agents under orchestration.\nThere are no art assets. Every texture, mesh, animation and sound is generated\nprocedurally at load"
-    },
-    {
-      "id": 1317563975,
-      "full_name": "bashalarmistalt/decimen-optical-transfer",
-      "name": "decimen-optical-transfer",
-      "owner": {
-        "login": "bashalarmistalt",
-        "avatar_url": "https://avatars.githubusercontent.com/u/311128416?v=4"
-      },
-      "html_url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
-      "description": null,
-      "language": "TypeScript",
-      "stargazers_count": 1616,
-      "forks_count": 189,
-      "open_issues_count": 4,
-      "topics": [],
-      "created_at": "2026-07-30T18:17:54Z",
-      "updated_at": "2026-07-31T19:37:16Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Decimen Optical Transfer: fountain-coded QR file transfer\nSend a file between two devices using nothing but a screen and a camera.\nOne page displays the file as an endless stream of animated QR codes; another\ndevice points its camera at it and reconstructs the file. **No network path\nbetween the dev"
-    },
-    {
-      "id": 1312158335,
-      "full_name": "VictorTaelin/OptMem",
-      "name": "OptMem",
-      "owner": {
-        "login": "VictorTaelin",
-        "avatar_url": "https://avatars.githubusercontent.com/u/13090166?v=4"
-      },
-      "html_url": "https://github.com/VictorTaelin/OptMem",
-      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "language": "Python",
-      "stargazers_count": 1012,
-      "forks_count": 59,
-      "open_issues_count": 0,
-      "topics": [],
-      "created_at": "2026-07-25T16:58:43Z",
-      "updated_at": "2026-07-31T19:35:35Z",
-      "license": null,
-      "readme_snippet": "OptMem\nPermanent memory for AI agents. A 426-token prompt, a script, plug and play.\n!how OptMem works\nInstall\nIt prints a Memory block. Paste that at the top of your agent's\nAGENTS.md (or CLAUDE.md), and you are done. Run the same line again to\nupdate.\nThe tool lands at ~/.optmem/memo; put ~/.optmem"
-    },
-    {
-      "id": 1314908790,
-      "full_name": "xikhar/persona",
-      "name": "persona",
-      "owner": {
-        "login": "xikhar",
-        "avatar_url": "https://avatars.githubusercontent.com/u/215908419?v=4"
-      },
-      "html_url": "https://github.com/xikhar/persona",
-      "description": "Bringing real-time voice to life.",
-      "language": "JavaScript",
-      "stargazers_count": 708,
-      "forks_count": 60,
-      "open_issues_count": 1,
-      "topics": [],
-      "created_at": "2026-07-28T11:40:19Z",
-      "updated_at": "2026-07-31T18:43:16Z",
-      "license": {
-        "spdx_id": "NOASSERTION",
-        "key": "other"
-      },
-      "readme_snippet": "Persona\n  A realtime character presence for desktop voice experiences.\n---\nPersona is a cross-platform desktop character that gives voice conversations\nan expressive visual identity alongside your work.\nPlatform support\n| Platform    | Voice output listener            | Distribution               |\n"
     },
     {
       "id": 1316527318,
@@ -127,17 +38,40 @@
       "html_url": "https://github.com/yc-software/qm",
       "description": "Multiplayer agent harness for work",
       "language": "TypeScript",
-      "stargazers_count": 641,
-      "forks_count": 48,
-      "open_issues_count": 8,
+      "stargazers_count": 4552,
+      "forks_count": 436,
+      "open_issues_count": 58,
       "topics": [],
       "created_at": "2026-07-29T20:03:08Z",
-      "updated_at": "2026-07-31T19:37:22Z",
+      "updated_at": "2026-08-01T19:11:32Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "qm\nA multiplayer agent harness for work. In Slack and on the web.\n!The QM web UI: two concurrent sessions, a sidebar of personal files, crons, keychain, deploys, memory, and skills\nWhat is QM?\nMost agents are designed like personal assistants. You can make one work for a whole\ncompany, but it quickl"
+    },
+    {
+      "id": 1317563975,
+      "full_name": "bashalarmistalt/decimen-optical-transfer",
+      "name": "decimen-optical-transfer",
+      "owner": {
+        "login": "bashalarmistalt",
+        "avatar_url": "https://avatars.githubusercontent.com/u/311128416?v=4"
+      },
+      "html_url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "description": null,
+      "language": "TypeScript",
+      "stargazers_count": 2972,
+      "forks_count": 353,
+      "open_issues_count": 7,
+      "topics": [],
+      "created_at": "2026-07-30T18:17:54Z",
+      "updated_at": "2026-08-01T19:09:40Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Decimen Optical Transfer: fountain-coded QR file transfer\nSend a file between two devices using nothing but a screen and a camera.\nOne page displays the file as an endless stream of animated QR codes; another\ndevice points its camera at it and reconstructs the file. **No network path\nbetween the dev"
     },
     {
       "id": 1313435339,
@@ -150,9 +84,9 @@
       "html_url": "https://github.com/QwenAudio/qwen-audio-agent",
       "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "language": "JavaScript",
-      "stargazers_count": 598,
-      "forks_count": 43,
-      "open_issues_count": 5,
+      "stargazers_count": 1077,
+      "forks_count": 76,
+      "open_issues_count": 10,
       "topics": [
         "agent",
         "agentic-ai",
@@ -161,7 +95,7 @@
         "voice-chat"
       ],
       "created_at": "2026-07-27T05:04:26Z",
-      "updated_at": "2026-07-31T18:58:54Z",
+      "updated_at": "2026-08-01T19:11:06Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
@@ -169,81 +103,118 @@
       "readme_snippet": "Qwen Audio Agent\n中文 | English\nAgent，始终在场\n真正的交流，不该在说完一句话后，就陷入漫长的等待。也不该因为 Agent 正在查资料、调用工具或处理任务，整场对话就此暂停。\n交流应该是连续的，Agent 也应该始终在场。\n所以，我们做了 qwen-audio-agent——让 Agent 持续交流、持续工作、持续在场的实时语音运行时。无论是聊天、思考，还是处理任务，Agent 都始终在这场对话里。它会倾听，会回应，也会在任务完成时自然地告诉你：\n“已经好了。”\nNews\n- 2026-07-30 · v1.0.0\n  🚀 正式版发布，推出内置 Gateway"
     },
     {
-      "id": 1315061605,
-      "full_name": "0xwilliamortiz/ponytail-improved",
-      "name": "ponytail-improved",
+      "id": 1316875788,
+      "full_name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "name": "FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
       "owner": {
-        "login": "0xwilliamortiz",
-        "avatar_url": "https://avatars.githubusercontent.com/u/155918204?v=4"
+        "login": "xdash",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1618833?v=4"
       },
-      "html_url": "https://github.com/0xwilliamortiz/ponytail-improved",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "html_url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+      "language": null,
+      "stargazers_count": 883,
+      "forks_count": 119,
+      "open_issues_count": 6,
+      "topics": [],
+      "created_at": "2026-07-30T05:39:38Z",
+      "updated_at": "2026-08-01T19:08:05Z",
+      "license": null,
+      "readme_snippet": "前线部署工程师：人工智能时代的客户价值交付秘籍\n范冰 著 · 免费公开全文，欢迎在线阅读与分享\n---\n关于本书\n2025 年夏天，我的朋友圈被同一个数字刷屏：95%。\n麻省理工学院的一份报告说，过去三年，全球企业在生成式人工智能上烧了三四百亿美元，其中 95% 的项目没能产生任何能写进财务报表的价值。几乎同一时间，另一条新闻在往相反的方向狂奔：硅谷的招聘网站上，一个叫「前线部署工程师」（Forward Deployed Engineer，简称 FDE）的岗位，发布量九个月涨了八倍。OpenAI 在招，Anthropic 在招，YC 孵化器里一百多家创业公司都在招。\n一边是企业人工智能项目 9"
+    },
+    {
+      "id": 1314908790,
+      "full_name": "xikhar/persona",
+      "name": "persona",
+      "owner": {
+        "login": "xikhar",
+        "avatar_url": "https://avatars.githubusercontent.com/u/215908419?v=4"
+      },
+      "html_url": "https://github.com/xikhar/persona",
+      "description": "Bringing real-time voice to life.",
       "language": "JavaScript",
-      "stargazers_count": 569,
-      "forks_count": 127,
-      "open_issues_count": 1,
-      "topics": [
-        "agent-skills",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-code-skill",
-        "claude-skills",
-        "cursor-rules",
-        "ponytail",
-        "prompt-engineering",
-        "prompt-optimization",
-        "yagni"
-      ],
-      "created_at": "2026-07-28T14:16:19Z",
-      "updated_at": "2026-07-31T13:35:06Z",
+      "stargazers_count": 758,
+      "forks_count": 67,
+      "open_issues_count": 3,
+      "topics": [],
+      "created_at": "2026-07-28T11:40:19Z",
+      "updated_at": "2026-08-01T18:22:12Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "54% less code &nbsp;·&nbsp; 20% cheaper &nbsp;·&nbsp; 27% faster &nbsp;·&nbsp; 100% guards kept &nbsp;·&nbsp; MIT\nInstall &nbsp;·&nbsp; Before / after &nbsp;·&nbsp; How it works &nbsp;·&nbsp; Numbers &nbsp;·&nbsp; Commands &nbsp;·&nbsp; FAQ\n---\nYou know him. Long ponytail. Oval glasses. Been at the "
+      "readme_snippet": "Persona\n  A realtime character presence for desktop voice experiences.\nPersona is a cross-platform desktop character that gives voice conversations\nan expressive visual identity alongside your work.\nPlatform support\n| Platform    | Voice output listener            | Distribution               |\n| --"
     },
     {
-      "id": 1313191574,
-      "full_name": "0xwilliamortiz/openclaude-improved",
-      "name": "openclaude-improved",
+      "id": 1315424242,
+      "full_name": "sqliteai/waste",
+      "name": "waste",
       "owner": {
-        "login": "0xwilliamortiz",
-        "avatar_url": "https://avatars.githubusercontent.com/u/155918204?v=4"
+        "login": "sqliteai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/206516623?v=4"
       },
-      "html_url": "https://github.com/0xwilliamortiz/openclaude-improved",
-      "description": "runs anywhere. uses anything",
-      "language": "TypeScript",
-      "stargazers_count": 563,
-      "forks_count": 80,
-      "open_issues_count": 0,
+      "html_url": "https://github.com/sqliteai/waste",
+      "description": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",
+      "language": "C",
+      "stargazers_count": 618,
+      "forks_count": 49,
+      "open_issues_count": 2,
+      "topics": [],
+      "created_at": "2026-07-28T20:56:00Z",
+      "updated_at": "2026-08-01T19:11:43Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "WASTE — Weight-Aware Streaming Tensor Engine\nKimi K3 — 2.78 trillion parameters — running on a consumer laptop.\nWASTE is an embeddable inference engine written in C, with no third-party runtime dependencies. It keeps the model trunk in memory, streams selected experts directly from disk, and uses th"
+    },
+    {
+      "id": 1313185637,
+      "full_name": "DramaticShape/DramaticShapeVoxelMod",
+      "name": "DramaticShapeVoxelMod",
+      "owner": {
+        "login": "DramaticShape",
+        "avatar_url": "https://avatars.githubusercontent.com/u/308877963?v=4"
+      },
+      "html_url": "https://github.com/DramaticShape/DramaticShapeVoxelMod",
+      "description": null,
+      "language": "Lua",
+      "stargazers_count": 606,
+      "forks_count": 31,
+      "open_issues_count": 25,
+      "topics": [],
+      "created_at": "2026-07-26T21:47:59Z",
+      "updated_at": "2026-08-01T19:08:59Z",
+      "license": null,
+      "readme_snippet": "Dramatic Shape Voxel Mod\nA mod for the [Pokémon Gen 1 Recompilation\nProject](https://github.com/bryanthaboi/pokemon-gen1-recomp-project).\nThe overworld as a 3D diorama. Terrain is extruded into real geometry,\nocclusion comes from a depth buffer rather than a y-sort, characters stand\nas leaning sprit"
+    },
+    {
+      "id": 1314404827,
+      "full_name": "gavamedia/deltafin",
+      "name": "deltafin",
+      "owner": {
+        "login": "gavamedia",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1783489?v=4"
+      },
+      "html_url": "https://github.com/gavamedia/deltafin",
+      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "language": "Python",
+      "stargazers_count": 587,
+      "forks_count": 66,
+      "open_issues_count": 6,
       "topics": [
-        "agentic-ai",
-        "ai",
-        "ai-agent",
-        "ai-coding",
-        "ai-coding-agent",
-        "ai-coding-agents",
-        "ai-coding-assistant",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "cli",
-        "coding-agent",
-        "gemini",
-        "gemini-ai",
-        "gemini-cli",
-        "llm",
-        "mcp",
-        "model-context-protocol",
-        "openrouter"
+        "kimi",
+        "kimi-k3",
+        "local-ai",
+        "local-llm"
       ],
-      "created_at": "2026-07-26T21:58:28Z",
-      "updated_at": "2026-07-31T08:07:43Z",
+      "created_at": "2026-07-28T01:01:23Z",
+      "updated_at": "2026-08-01T17:35:57Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
       },
-      "readme_snippet": "OpenClaude — Improved Version\nruns anywhere. uses anything.\nAn open-source coding agent for the CLI. Cloud APIs, gateways, and local models —\nsame tools, same agents, same workflow.\n!node\n!bun\n!platform\nInstall · Quick start · Providers · Sessions · Config · Docs\n---\nInstall\nBuilt from source. Windo"
+      "readme_snippet": "An experiment in running Kimi K3 (2.8T parameters) on one local workstation\nDeltafin is a small research project that runs a Mixture-of-Experts model far\nlarger than the machine it sits on. It supports Apple Silicon macOS and\nx86-64/aarch64 Linux, automatically selecting MPS, CUDA or CPU for the res"
     }
   ]
 }
