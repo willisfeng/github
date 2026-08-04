@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-03T19:40:49.727Z",
-  "query_date_range": "2026-07-27 ~ 2026-08-03",
-  "total_found": 2810311,
+  "updated_at": "2026-08-04T19:40:29.303Z",
+  "query_date_range": "2026-07-28 ~ 2026-08-04",
+  "total_found": 2742690,
   "count": 9,
   "repos": [
     {
@@ -15,12 +15,12 @@
       "html_url": "https://github.com/yc-software/qm",
       "description": "Multiplayer agent harness for work",
       "language": "TypeScript",
-      "stargazers_count": 9292,
-      "forks_count": 971,
-      "open_issues_count": 110,
+      "stargazers_count": 11036,
+      "forks_count": 1194,
+      "open_issues_count": 121,
       "topics": [],
       "created_at": "2026-07-29T20:03:08Z",
-      "updated_at": "2026-08-03T19:40:23Z",
+      "updated_at": "2026-08-04T19:39:33Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -38,12 +38,12 @@
       "html_url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
       "description": null,
       "language": "TypeScript",
-      "stargazers_count": 4200,
-      "forks_count": 492,
+      "stargazers_count": 4512,
+      "forks_count": 545,
       "open_issues_count": 9,
       "topics": [],
       "created_at": "2026-07-30T18:17:54Z",
-      "updated_at": "2026-08-03T19:38:59Z",
+      "updated_at": "2026-08-04T19:39:13Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -61,12 +61,12 @@
       "html_url": "https://github.com/trycompai/crm",
       "description": "An open-source, agentic-first CRM.",
       "language": "TypeScript",
-      "stargazers_count": 2989,
-      "forks_count": 327,
-      "open_issues_count": 1,
+      "stargazers_count": 4455,
+      "forks_count": 468,
+      "open_issues_count": 5,
       "topics": [],
       "created_at": "2026-07-31T21:38:51Z",
-      "updated_at": "2026-08-03T19:40:18Z",
+      "updated_at": "2026-08-04T19:39:56Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -84,101 +84,14 @@
       "html_url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
       "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
       "language": null,
-      "stargazers_count": 2017,
-      "forks_count": 253,
-      "open_issues_count": 7,
+      "stargazers_count": 2849,
+      "forks_count": 346,
+      "open_issues_count": 8,
       "topics": [],
       "created_at": "2026-07-30T05:39:38Z",
-      "updated_at": "2026-08-03T19:33:23Z",
+      "updated_at": "2026-08-04T19:36:06Z",
       "license": null,
       "readme_snippet": "前线部署工程师：人工智能时代的客户价值交付秘籍\n范冰 著 · 免费公开全文，欢迎在线阅读与分享\n---\n关于本书\n2025 年夏天，我的朋友圈被同一个数字刷屏：95%。\n麻省理工学院的一份报告说，过去三年，全球企业在生成式人工智能上烧了三四百亿美元，其中 95% 的项目没能产生任何能写进财务报表的价值。几乎同一时间，另一条新闻在往相反的方向狂奔：硅谷的招聘网站上，一个叫「前线部署工程师」（Forward Deployed Engineer，简称 FDE）的岗位，发布量九个月涨了八倍。OpenAI 在招，Anthropic 在招，YC 孵化器里一百多家创业公司都在招。\n一边是企业人工智能项目 9"
-    },
-    {
-      "id": 1315424242,
-      "full_name": "sqliteai/waste",
-      "name": "waste",
-      "owner": {
-        "login": "sqliteai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/206516623?v=4"
-      },
-      "html_url": "https://github.com/sqliteai/waste",
-      "description": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",
-      "language": "C",
-      "stargazers_count": 1491,
-      "forks_count": 111,
-      "open_issues_count": 5,
-      "topics": [],
-      "created_at": "2026-07-28T20:56:00Z",
-      "updated_at": "2026-08-03T19:37:48Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "WASTE — Weight-Aware Streaming Tensor Engine\nWASTE is an embeddable inference engine written in C, with no third-party runtime dependencies. It keeps the model trunk in memory, streams selected experts directly from disk, and uses the remaining RAM as a bounded expert cache.\nThe project is driven by"
-    },
-    {
-      "id": 1316443307,
-      "full_name": "microsoft/skill-recorder",
-      "name": "skill-recorder",
-      "owner": {
-        "login": "microsoft",
-        "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
-      },
-      "html_url": "https://github.com/microsoft/skill-recorder",
-      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
-      "language": "TypeScript",
-      "stargazers_count": 1342,
-      "forks_count": 139,
-      "open_issues_count": 25,
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "automation",
-        "copilot",
-        "copilot-cli",
-        "copilot-cowork",
-        "copilot-studio",
-        "electron",
-        "microsoft-scout",
-        "screen-recording"
-      ],
-      "created_at": "2026-07-29T18:16:14Z",
-      "updated_at": "2026-08-03T19:31:13Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Skill Recorder\nRecord yourself doing a task once, then turn it into a skill your AI agent can repeat.\nSkill Recorder captures a real work session on your screen: the clicks, the app and\nwindow switches, the pages you visit, and (if you want) your spoken narration. It then uses\nthe GitHub Copilot CLI"
-    },
-    {
-      "id": 1318094168,
-      "full_name": "WilonityDev/WilonityLoader",
-      "name": "WilonityLoader",
-      "owner": {
-        "login": "WilonityDev",
-        "avatar_url": "https://avatars.githubusercontent.com/u/311323366?v=4"
-      },
-      "html_url": "https://github.com/WilonityDev/WilonityLoader",
-      "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.",
-      "language": null,
-      "stargazers_count": 1220,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "topics": [
-        "arc-raiders",
-        "counter-strike-2",
-        "game",
-        "hack",
-        "meccha-chameleon-tools",
-        "minecraft"
-      ],
-      "created_at": "2026-07-31T07:53:54Z",
-      "updated_at": "2026-08-03T11:44:47Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "🚀 Wilonity Loader v3\nNext‑gen game enhancement platform\n---\n📖 About\nWilonity Loader is a modern game enhancement platform designed to elevate your gaming experience. Our mission is to provide gamers with powerful, reliable, and easy‑to‑use tools for their favorite titles.\nWe believe in:\n- ✅ Innova"
     },
     {
       "id": 1319154759,
@@ -191,9 +104,9 @@
       "html_url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
-      "stargazers_count": 1077,
-      "forks_count": 162,
-      "open_issues_count": 4,
+      "stargazers_count": 1867,
+      "forks_count": 310,
+      "open_issues_count": 7,
       "topics": [
         "avx2",
         "c99",
@@ -217,12 +130,69 @@
         "zero-dependencies"
       ],
       "created_at": "2026-08-01T09:29:38Z",
-      "updated_at": "2026-08-03T19:40:11Z",
+      "updated_at": "2026-08-04T19:39:46Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
       "readme_snippet": "kimi-k3-in-c\nA 2.78-trillion-parameter model. One CPU. 8 GB of RAM.\nKimi K3 inference in portable C99.No BLAS. No framework. No GPU.\n2.78Tparameters\n1.56 TBcheckpoint on disk\n8.24 GBpeak RSS, measured\n176 KBthe whole engine\n0GPUs\nSlow, and answering correctly, in 8.24 GB, from a checkpoint of 1.56 T"
+    },
+    {
+      "id": 1316443307,
+      "full_name": "microsoft/skill-recorder",
+      "name": "skill-recorder",
+      "owner": {
+        "login": "microsoft",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+      },
+      "html_url": "https://github.com/microsoft/skill-recorder",
+      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+      "language": "TypeScript",
+      "stargazers_count": 1744,
+      "forks_count": 176,
+      "open_issues_count": 29,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "automation",
+        "copilot",
+        "copilot-cli",
+        "copilot-cowork",
+        "copilot-studio",
+        "electron",
+        "microsoft-scout",
+        "screen-recording"
+      ],
+      "created_at": "2026-07-29T18:16:14Z",
+      "updated_at": "2026-08-04T19:32:04Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Skill Recorder\nRecord yourself doing a task once, then turn it into a skill your AI agent can repeat.\nSkill Recorder captures a real work session on your screen: the clicks, the app and\nwindow switches, the pages you visit, and (if you want) your spoken narration. It then uses\nthe GitHub Copilot CLI"
+    },
+    {
+      "id": 1319484586,
+      "full_name": "imsai-sh/zhuzhiliao",
+      "name": "zhuzhiliao",
+      "owner": {
+        "login": "imsai-sh",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14907300?v=4"
+      },
+      "html_url": "https://github.com/imsai-sh/zhuzhiliao",
+      "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+      "language": "HTML",
+      "stargazers_count": 1629,
+      "forks_count": 215,
+      "open_issues_count": 9,
+      "topics": [],
+      "created_at": "2026-08-01T17:20:54Z",
+      "updated_at": "2026-08-04T19:29:56Z",
+      "license": {
+        "spdx_id": "NOASSERTION",
+        "key": "other"
+      },
+      "readme_snippet": "竹知了\n一转就\"哇哇\"叫的传统玩具，Web 模拟版。零依赖单文件，手机优先。\n在线试玩：\n> [!CAUTION]\n> 本项目不是开源项目，未授权任何人再分发或公开部署。\n>\n> 官方站点只有 ，其他任何域名上的部署都未经授权。\n>\n> 已发现有人擅自修改本项目代码后公开部署，包括将页面中作者原创的手绘小蝉形象替换为\n> 真实人物形象。此类衍生版本与本项目及作者没有任何关系，作者未参与、未授权、也不\n> 认可；其内容以及由此产生的全部法律责任，由该版本的制作者和部署者自行承担。作者\n> 保留就侵犯著作权及其他合法权益的行为追究责任的权利。\n>\n> 源码公开仅供学习交流，权利范围见 LICENS"
     },
     {
       "id": 1319336961,
@@ -235,17 +205,48 @@
       "html_url": "https://github.com/DannyMac180/sol-advisor",
       "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
       "language": "Shell",
-      "stargazers_count": 941,
-      "forks_count": 67,
-      "open_issues_count": 3,
+      "stargazers_count": 1287,
+      "forks_count": 90,
+      "open_issues_count": 7,
       "topics": [],
       "created_at": "2026-08-01T13:56:43Z",
-      "updated_at": "2026-08-03T19:39:22Z",
+      "updated_at": "2026-08-04T19:22:53Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "Sol Advisor\n**Sol runs the show. Choose the native Terra / High lane, or explicitly opt into\nuser-visible Luna tasks; the primary Sol task owns verification and acceptance in\nboth modes.**\nSol Advisor is a Codex-native architect workflow for capability-routed software\ndelivery. The primary session s"
+    },
+    {
+      "id": 1318187016,
+      "full_name": "genspark-ai/genoffice",
+      "name": "genoffice",
+      "owner": {
+        "login": "genspark-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/242390443?v=4"
+      },
+      "html_url": "https://github.com/genspark-ai/genoffice",
+      "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+      "language": "TypeScript",
+      "stargazers_count": 1238,
+      "forks_count": 192,
+      "open_issues_count": 15,
+      "topics": [
+        "ai",
+        "docx",
+        "electron",
+        "office-suite",
+        "pdf",
+        "pptx",
+        "xlsx"
+      ],
+      "created_at": "2026-07-31T09:40:58Z",
+      "updated_at": "2026-08-04T19:38:54Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "GenOffice\nAn AI-native office suite for macOS and Windows: word processor, spreadsheet,\npresentations, and PDF — five Electron apps sharing one engine layer, built\naround AI editing as a first-class workflow rather than a bolted-on chat box.\nWatch the demo video on YouTube\nDownload\nSigned installers"
     }
   ]
 }
