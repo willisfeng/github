@@ -1,31 +1,31 @@
 {
-  "updated_at": "2026-08-04T19:40:29.303Z",
-  "query_date_range": "2026-07-28 ~ 2026-08-04",
-  "total_found": 2742690,
+  "updated_at": "2026-08-05T19:38:51.172Z",
+  "query_date_range": "2026-07-29 ~ 2026-08-05",
+  "total_found": 2717239,
   "count": 9,
   "repos": [
     {
-      "id": 1316527318,
-      "full_name": "yc-software/qm",
-      "name": "qm",
+      "id": 1318768894,
+      "full_name": "trycompai/crm",
+      "name": "crm",
       "owner": {
-        "login": "yc-software",
-        "avatar_url": "https://avatars.githubusercontent.com/u/153323858?v=4"
+        "login": "trycompai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/195194844?v=4"
       },
-      "html_url": "https://github.com/yc-software/qm",
-      "description": "Multiplayer agent harness for work",
+      "html_url": "https://github.com/trycompai/crm",
+      "description": "An open-source, agentic-first CRM.",
       "language": "TypeScript",
-      "stargazers_count": 11036,
-      "forks_count": 1194,
-      "open_issues_count": 121,
+      "stargazers_count": 6039,
+      "forks_count": 622,
+      "open_issues_count": 2,
       "topics": [],
-      "created_at": "2026-07-29T20:03:08Z",
-      "updated_at": "2026-08-04T19:39:33Z",
+      "created_at": "2026-07-31T21:38:51Z",
+      "updated_at": "2026-08-05T19:38:05Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "qm\nA multiplayer agent harness for work. In Slack and on the web.\n!The QM web UI: two concurrent sessions, a sidebar of personal files, crons, keychain, deploys, memory, and skills\nWhat is QM?\nMost agents are designed like personal assistants. You can make one work for a whole\ncompany, but it quickl"
+      "readme_snippet": "CRM\n  An open-source, agentic-first CRM.\n  A durable research agent is the product. The database is just where it writes things down.\n  The agent ·\n  Stack ·\n  Quick start ·\n  Configuration ·\n  Deploying ·\n  Contributing\n  \n  \n  \n  \n  \n    \n    \n  \n---\nWhat this is\nMost CRMs are a database with a fo"
     },
     {
       "id": 1317563975,
@@ -38,12 +38,12 @@
       "html_url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
       "description": null,
       "language": "TypeScript",
-      "stargazers_count": 4512,
-      "forks_count": 545,
-      "open_issues_count": 9,
+      "stargazers_count": 4670,
+      "forks_count": 568,
+      "open_issues_count": 12,
       "topics": [],
       "created_at": "2026-07-30T18:17:54Z",
-      "updated_at": "2026-08-04T19:39:13Z",
+      "updated_at": "2026-08-05T19:12:10Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -51,27 +51,27 @@
       "readme_snippet": "Decimen Optical Transfer: fountain-coded QR file transfer\nSend a file between two devices using nothing but a screen and a camera.\nOne page displays the file as an endless stream of animated QR codes; another\ndevice points its camera at it and reconstructs the file. **No network path\nbetween the dev"
     },
     {
-      "id": 1318768894,
-      "full_name": "trycompai/crm",
-      "name": "crm",
+      "id": 1322012299,
+      "full_name": "firecrawl/anydoc",
+      "name": "anydoc",
       "owner": {
-        "login": "trycompai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/195194844?v=4"
+        "login": "firecrawl",
+        "avatar_url": "https://avatars.githubusercontent.com/u/135057108?v=4"
       },
-      "html_url": "https://github.com/trycompai/crm",
-      "description": "An open-source, agentic-first CRM.",
-      "language": "TypeScript",
-      "stargazers_count": 4455,
-      "forks_count": 468,
-      "open_issues_count": 5,
+      "html_url": "https://github.com/firecrawl/anydoc",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "language": "Rust",
+      "stargazers_count": 4428,
+      "forks_count": 193,
+      "open_issues_count": 16,
       "topics": [],
-      "created_at": "2026-07-31T21:38:51Z",
-      "updated_at": "2026-08-04T19:39:56Z",
+      "created_at": "2026-08-03T16:36:14Z",
+      "updated_at": "2026-08-05T19:37:48Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "CRM\n  An open-source, agentic-first CRM.\n  A durable research agent is the product. The database is just where it writes things down.\n  The agent ·\n  Stack ·\n  Quick start ·\n  Configuration ·\n  Deploying ·\n  Contributing\n  \n  \n  \n  \n  \n    \n    \n  \n---\nWhat this is\nMost CRMs are a database with a fo"
+      "readme_snippet": "anydoc\nFast Rust library that converts documents (Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF) into clean GitHub-Flavored Markdown. Includes bindings for Node.js, Python, and the browser (WebAssembly).\nBuilt by Firecrawl to turn any office document into LLM-ready Markdown in singl"
     },
     {
       "id": 1316875788,
@@ -84,12 +84,12 @@
       "html_url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
       "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
       "language": null,
-      "stargazers_count": 2849,
-      "forks_count": 346,
+      "stargazers_count": 3373,
+      "forks_count": 410,
       "open_issues_count": 8,
       "topics": [],
       "created_at": "2026-07-30T05:39:38Z",
-      "updated_at": "2026-08-04T19:36:06Z",
+      "updated_at": "2026-08-05T18:40:07Z",
       "license": null,
       "readme_snippet": "前线部署工程师：人工智能时代的客户价值交付秘籍\n范冰 著 · 免费公开全文，欢迎在线阅读与分享\n---\n关于本书\n2025 年夏天，我的朋友圈被同一个数字刷屏：95%。\n麻省理工学院的一份报告说，过去三年，全球企业在生成式人工智能上烧了三四百亿美元，其中 95% 的项目没能产生任何能写进财务报表的价值。几乎同一时间，另一条新闻在往相反的方向狂奔：硅谷的招聘网站上，一个叫「前线部署工程师」（Forward Deployed Engineer，简称 FDE）的岗位，发布量九个月涨了八倍。OpenAI 在招，Anthropic 在招，YC 孵化器里一百多家创业公司都在招。\n一边是企业人工智能项目 9"
     },
@@ -104,9 +104,9 @@
       "html_url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
-      "stargazers_count": 1867,
-      "forks_count": 310,
-      "open_issues_count": 7,
+      "stargazers_count": 2512,
+      "forks_count": 418,
+      "open_issues_count": 8,
       "topics": [
         "avx2",
         "c99",
@@ -130,46 +130,12 @@
         "zero-dependencies"
       ],
       "created_at": "2026-08-01T09:29:38Z",
-      "updated_at": "2026-08-04T19:39:46Z",
+      "updated_at": "2026-08-05T19:37:51Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
       "readme_snippet": "kimi-k3-in-c\nA 2.78-trillion-parameter model. One CPU. 8 GB of RAM.\nKimi K3 inference in portable C99.No BLAS. No framework. No GPU.\n2.78Tparameters\n1.56 TBcheckpoint on disk\n8.24 GBpeak RSS, measured\n176 KBthe whole engine\n0GPUs\nSlow, and answering correctly, in 8.24 GB, from a checkpoint of 1.56 T"
-    },
-    {
-      "id": 1316443307,
-      "full_name": "microsoft/skill-recorder",
-      "name": "skill-recorder",
-      "owner": {
-        "login": "microsoft",
-        "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
-      },
-      "html_url": "https://github.com/microsoft/skill-recorder",
-      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
-      "language": "TypeScript",
-      "stargazers_count": 1744,
-      "forks_count": 176,
-      "open_issues_count": 29,
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "automation",
-        "copilot",
-        "copilot-cli",
-        "copilot-cowork",
-        "copilot-studio",
-        "electron",
-        "microsoft-scout",
-        "screen-recording"
-      ],
-      "created_at": "2026-07-29T18:16:14Z",
-      "updated_at": "2026-08-04T19:32:04Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Skill Recorder\nRecord yourself doing a task once, then turn it into a skill your AI agent can repeat.\nSkill Recorder captures a real work session on your screen: the clicks, the app and\nwindow switches, the pages you visit, and (if you want) your spoken narration. It then uses\nthe GitHub Copilot CLI"
     },
     {
       "id": 1319484586,
@@ -182,40 +148,17 @@
       "html_url": "https://github.com/imsai-sh/zhuzhiliao",
       "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
       "language": "HTML",
-      "stargazers_count": 1629,
-      "forks_count": 215,
+      "stargazers_count": 2012,
+      "forks_count": 262,
       "open_issues_count": 9,
       "topics": [],
       "created_at": "2026-08-01T17:20:54Z",
-      "updated_at": "2026-08-04T19:29:56Z",
+      "updated_at": "2026-08-05T19:27:03Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
       },
       "readme_snippet": "竹知了\n一转就\"哇哇\"叫的传统玩具，Web 模拟版。零依赖单文件，手机优先。\n在线试玩：\n> [!CAUTION]\n> 本项目不是开源项目，未授权任何人再分发或公开部署。\n>\n> 官方站点只有 ，其他任何域名上的部署都未经授权。\n>\n> 已发现有人擅自修改本项目代码后公开部署，包括将页面中作者原创的手绘小蝉形象替换为\n> 真实人物形象。此类衍生版本与本项目及作者没有任何关系，作者未参与、未授权、也不\n> 认可；其内容以及由此产生的全部法律责任，由该版本的制作者和部署者自行承担。作者\n> 保留就侵犯著作权及其他合法权益的行为追究责任的权利。\n>\n> 源码公开仅供学习交流，权利范围见 LICENS"
-    },
-    {
-      "id": 1319336961,
-      "full_name": "DannyMac180/sol-advisor",
-      "name": "sol-advisor",
-      "owner": {
-        "login": "DannyMac180",
-        "avatar_url": "https://avatars.githubusercontent.com/u/24324638?v=4"
-      },
-      "html_url": "https://github.com/DannyMac180/sol-advisor",
-      "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
-      "language": "Shell",
-      "stargazers_count": 1287,
-      "forks_count": 90,
-      "open_issues_count": 7,
-      "topics": [],
-      "created_at": "2026-08-01T13:56:43Z",
-      "updated_at": "2026-08-04T19:22:53Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Sol Advisor\n**Sol runs the show. Choose the native Terra / High lane, or explicitly opt into\nuser-visible Luna tasks; the primary Sol task owns verification and acceptance in\nboth modes.**\nSol Advisor is a Codex-native architect workflow for capability-routed software\ndelivery. The primary session s"
     },
     {
       "id": 1318187016,
@@ -228,9 +171,9 @@
       "html_url": "https://github.com/genspark-ai/genoffice",
       "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
       "language": "TypeScript",
-      "stargazers_count": 1238,
-      "forks_count": 192,
-      "open_issues_count": 15,
+      "stargazers_count": 1738,
+      "forks_count": 280,
+      "open_issues_count": 16,
       "topics": [
         "ai",
         "docx",
@@ -241,12 +184,55 @@
         "xlsx"
       ],
       "created_at": "2026-07-31T09:40:58Z",
-      "updated_at": "2026-08-04T19:38:54Z",
+      "updated_at": "2026-08-05T19:33:58Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
       "readme_snippet": "GenOffice\nAn AI-native office suite for macOS and Windows: word processor, spreadsheet,\npresentations, and PDF — five Electron apps sharing one engine layer, built\naround AI editing as a first-class workflow rather than a bolted-on chat box.\nWatch the demo video on YouTube\nDownload\nSigned installers"
+    },
+    {
+      "id": 1320101490,
+      "full_name": "thebuggeddev/anatomy",
+      "name": "anatomy",
+      "owner": {
+        "login": "thebuggeddev",
+        "avatar_url": "https://avatars.githubusercontent.com/u/228721029?v=4"
+      },
+      "html_url": "https://github.com/thebuggeddev/anatomy",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "language": "TypeScript",
+      "stargazers_count": 1553,
+      "forks_count": 427,
+      "open_issues_count": 6,
+      "topics": [],
+      "created_at": "2026-08-02T11:15:16Z",
+      "updated_at": "2026-08-05T19:36:35Z",
+      "license": null,
+      "readme_snippet": "vinext-starter\nA clean full-stack starter running on\nvinext, with optional Cloudflare D1 and\nDrizzle support.\nPrerequisites\n- Node.js >=22.13.0\nQuick Start\nThis starter does not use wrangler.jsonc.\nIncluded Shape\n- edit site code under app/\n- .openai/hosting.json declares optional Sites D1 and R2 bi"
+    },
+    {
+      "id": 1319336961,
+      "full_name": "DannyMac180/sol-advisor",
+      "name": "sol-advisor",
+      "owner": {
+        "login": "DannyMac180",
+        "avatar_url": "https://avatars.githubusercontent.com/u/24324638?v=4"
+      },
+      "html_url": "https://github.com/DannyMac180/sol-advisor",
+      "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+      "language": "Shell",
+      "stargazers_count": 1426,
+      "forks_count": 99,
+      "open_issues_count": 8,
+      "topics": [],
+      "created_at": "2026-08-01T13:56:43Z",
+      "updated_at": "2026-08-05T19:15:22Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Sol Advisor\n**Sol runs the show. Choose the native Terra / High lane, or explicitly opt into\nuser-visible Luna tasks; the primary Sol task owns verification and acceptance in\nboth modes.**\nSol Advisor is a Codex-native architect workflow for capability-routed software\ndelivery. The primary session s"
     }
   ]
 }
