@@ -1,32 +1,9 @@
 {
-  "updated_at": "2026-08-09T18:44:39.841Z",
-  "query_date_range": "2026-08-02 ~ 2026-08-09",
-  "total_found": 2419328,
+  "updated_at": "2026-08-10T19:00:39.219Z",
+  "query_date_range": "2026-08-03 ~ 2026-08-10",
+  "total_found": 1999740,
   "count": 9,
   "repos": [
-    {
-      "id": 1322012299,
-      "full_name": "firecrawl/anydoc",
-      "name": "anydoc",
-      "owner": {
-        "login": "firecrawl",
-        "avatar_url": "https://avatars.githubusercontent.com/u/135057108?v=4"
-      },
-      "html_url": "https://github.com/firecrawl/anydoc",
-      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "language": "Rust",
-      "stargazers_count": 12629,
-      "forks_count": 623,
-      "open_issues_count": 56,
-      "topics": [],
-      "created_at": "2026-08-03T16:36:14Z",
-      "updated_at": "2026-08-09T18:39:30Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "anydoc\nFast Rust library that converts documents (Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF) into clean GitHub-Flavored Markdown. Includes bindings for Node.js, Python, and the browser (WebAssembly).\nBuilt by Firecrawl to turn any office document into LLM-ready Markdown in singl"
-    },
     {
       "id": 1323511527,
       "full_name": "KKKKhazix/human-writing",
@@ -38,8 +15,8 @@
       "html_url": "https://github.com/KKKKhazix/human-writing",
       "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "language": "Python",
-      "stargazers_count": 2088,
-      "forks_count": 184,
+      "stargazers_count": 2257,
+      "forks_count": 197,
       "open_issues_count": 4,
       "topics": [
         "agent-skills",
@@ -48,7 +25,7 @@
         "writing-skill"
       ],
       "created_at": "2026-08-05T01:19:41Z",
-      "updated_at": "2026-08-09T18:25:44Z",
+      "updated_at": "2026-08-10T18:27:21Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -66,12 +43,12 @@
       "html_url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
       "description": null,
       "language": null,
-      "stargazers_count": 1940,
-      "forks_count": 98,
+      "stargazers_count": 2234,
+      "forks_count": 111,
       "open_issues_count": 3,
       "topics": [],
       "created_at": "2026-08-04T09:35:31Z",
-      "updated_at": "2026-08-09T18:18:12Z",
+      "updated_at": "2026-08-10T18:19:00Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
@@ -89,34 +66,14 @@
       "html_url": "https://github.com/Binaryify/open-kimi-ppt-skill",
       "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
       "language": null,
-      "stargazers_count": 1604,
-      "forks_count": 1152,
+      "stargazers_count": 1607,
+      "forks_count": 1182,
       "open_issues_count": 6,
       "topics": [],
       "created_at": "2026-08-05T07:30:56Z",
-      "updated_at": "2026-08-09T16:10:02Z",
+      "updated_at": "2026-08-10T16:10:21Z",
       "license": null,
       "readme_snippet": "open-kimi-ppt-skill\n因版权原因，本仓库内容已全部清空。\nThis repository has been cleared due to copyright reasons."
-    },
-    {
-      "id": 1323322459,
-      "full_name": "mikiarlo3/awesome-growth-hacking-skills",
-      "name": "awesome-growth-hacking-skills",
-      "owner": {
-        "login": "mikiarlo3",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1715109?v=4"
-      },
-      "html_url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
-      "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
-      "language": "Shell",
-      "stargazers_count": 792,
-      "forks_count": 14,
-      "open_issues_count": 0,
-      "topics": [],
-      "created_at": "2026-08-04T19:45:15Z",
-      "updated_at": "2026-08-09T17:00:25Z",
-      "license": null,
-      "readme_snippet": "Awesome Agentic Growth & Marketing Skills\nA curated, categorized directory of open-source AI agent skills for growth hacking, marketing execution, and revenue operations.\nThis collection focuses on Agentic Growth Hacking—leveraging AI agents (like Claude Code, Cursor, and OpenClaw) to scale go-to-ma"
     },
     {
       "id": 1327214801,
@@ -129,12 +86,12 @@
       "html_url": "https://github.com/ShawnPana/phone-harness",
       "description": "let your agent control your phone",
       "language": "Python",
-      "stargazers_count": 720,
-      "forks_count": 55,
-      "open_issues_count": 9,
+      "stargazers_count": 1265,
+      "forks_count": 96,
+      "open_issues_count": 15,
       "topics": [],
       "created_at": "2026-08-07T22:28:53Z",
-      "updated_at": "2026-08-09T18:36:44Z",
+      "updated_at": "2026-08-10T18:53:36Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -142,84 +99,120 @@
       "readme_snippet": "Phone Harness 📱\nConnect an LLM directly to your real iPhone with a thin, editable harness.\nNo jailbreak, no Xcode, no WebDriverAgent.\nThe Mac's iPhone Mirroring window is the whole transport: screencapture +\nVision-framework OCR for eyes, HID-level CGEvents for hands. Nothing between the\nagent and "
     },
     {
-      "id": 1321283895,
-      "full_name": "wumingqi60/lingxi",
-      "name": "lingxi",
+      "id": 1326654671,
+      "full_name": "oil-oil/oil-motion",
+      "name": "oil-motion",
       "owner": {
-        "login": "wumingqi60",
-        "avatar_url": "https://avatars.githubusercontent.com/u/63189147?v=4"
+        "login": "oil-oil",
+        "avatar_url": "https://avatars.githubusercontent.com/u/57465570?v=4"
       },
-      "html_url": "https://github.com/wumingqi60/lingxi",
-      "description": "灵犀跨境-开源共建版",
-      "language": "TypeScript",
-      "stargazers_count": 697,
-      "forks_count": 12,
-      "open_issues_count": 0,
+      "html_url": "https://github.com/oil-oil/oil-motion",
+      "description": "Create smooth, responsive interactive web animations.",
+      "language": "Python",
+      "stargazers_count": 1084,
+      "forks_count": 90,
+      "open_issues_count": 2,
       "topics": [],
-      "created_at": "2026-08-03T05:46:34Z",
-      "updated_at": "2026-08-09T15:25:48Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "灵犀跨境 Community\n灵犀跨境 Community 是一套面向跨境团队的多租户客户经营 SaaS。它将统一消息工作台、多语言翻译、意图与情绪分析、客户画像、知识库、商机、任务、团队协作和经营分析放在同一套产品中。\n本仓库提供可独立运行的 Web、业务 API 和 PostgreSQL 数据层。Telegram 与 WhatsApp 网关实现不在本仓库中；平台仅保留可选的外部适配接口。详细边界见 开源范围。\n> Community edition for multilingual customer operations. The repository includes the SaaS "
-    },
-    {
-      "id": 1324285410,
-      "full_name": "0xwilliamortiz/claude-red",
-      "name": "claude-red",
-      "owner": {
-        "login": "0xwilliamortiz",
-        "avatar_url": "https://avatars.githubusercontent.com/u/155918204?v=4"
-      },
-      "html_url": "https://github.com/0xwilliamortiz/claude-red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "language": "JavaScript",
-      "stargazers_count": 695,
-      "forks_count": 87,
-      "open_issues_count": 1,
-      "topics": [
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-skills",
-        "codex",
-        "codex-skill",
-        "redteam",
-        "redteaming",
-        "skill",
-        "skills"
-      ],
-      "created_at": "2026-08-05T16:54:36Z",
-      "updated_at": "2026-08-09T18:23:16Z",
+      "created_at": "2026-08-07T12:36:33Z",
+      "updated_at": "2026-08-10T18:58:41Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "!claude-red banner\nclaude-red\nOffensive security skills for Claude — drop-in SKILL.md files that turn Claude into a context-aware red team operator.\nMaintained by 0xwilliamortiz.\n---\nTable of Contents\n- What is this\n- Quickstart\n- Categories\n- Skill Index\n  - Web Application\n  - Auth & Identity\n  - "
+      "readme_snippet": "English: README.en.md · 中文: README.md\nOil Motion 是一个 Agent 通用的交互动画 Skill。它负责设计动作、生成连续画面、整理动画资源，并把最终效果接入页面滚动、鼠标、拖动、触摸或设备方向。\n使用时只需要说明希望表达什么、提供哪些素材，以及动画应该跟随什么操作。具体的生成、检查、压缩和前端实现由 Agent 完成。\n演示\nhttps://github.com/user-attachments/assets/08e26ad6-ca23-4f31-ac53-44c7692ba99d\n安装\n告诉 Agent：帮我安装「https://github"
     },
     {
-      "id": 1322136828,
-      "full_name": "google-gemma/gemma-translator",
-      "name": "gemma-translator",
+      "id": 1323322459,
+      "full_name": "mikiarlo3/awesome-growth-hacking-skills",
+      "name": "awesome-growth-hacking-skills",
       "owner": {
-        "login": "google-gemma",
-        "avatar_url": "https://avatars.githubusercontent.com/u/271369873?v=4"
+        "login": "mikiarlo3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1715109?v=4"
       },
-      "html_url": "https://github.com/google-gemma/gemma-translator",
-      "description": null,
-      "language": "JavaScript",
-      "stargazers_count": 676,
-      "forks_count": 85,
+      "html_url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
+      "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+      "language": "Shell",
+      "stargazers_count": 816,
+      "forks_count": 15,
       "open_issues_count": 1,
       "topics": [],
-      "created_at": "2026-08-03T18:50:34Z",
-      "updated_at": "2026-08-09T18:34:30Z",
+      "created_at": "2026-08-04T19:45:15Z",
+      "updated_at": "2026-08-10T18:53:32Z",
+      "license": null,
+      "readme_snippet": "Awesome Agentic Growth & Marketing Skills\nA curated, categorized directory of open-source AI agent skills for growth hacking, marketing execution, and revenue operations.\nThis collection focuses on Agentic Growth Hacking—leveraging AI agents (like Claude Code, Cursor, and OpenClaw) to scale go-to-ma"
+    },
+    {
+      "id": 1327502931,
+      "full_name": "MengTo/kage",
+      "name": "kage",
+      "owner": {
+        "login": "MengTo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1065452?v=4"
+      },
+      "html_url": "https://github.com/MengTo/kage",
+      "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+      "language": "HTML",
+      "stargazers_count": 755,
+      "forks_count": 130,
+      "open_issues_count": 0,
+      "topics": [
+        "creative-coding",
+        "generative-art",
+        "interactive-storytelling",
+        "japanese-design",
+        "threejs",
+        "webgl"
+      ],
+      "created_at": "2026-08-08T07:05:07Z",
+      "updated_at": "2026-08-10T18:20:40Z",
+      "license": null,
+      "readme_snippet": "Kage\nAn interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js and layered with cinematic generated imagery.\nView the live project · View the source · Read the build prompt\n!Kage preview\nWhat it does\n- Moves a live WebGL camera through a mountain temple as the"
+    },
+    {
+      "id": 1324578069,
+      "full_name": "xoreaxeaxeax/asm-hall-of-shame",
+      "name": "asm-hall-of-shame",
+      "owner": {
+        "login": "xoreaxeaxeax",
+        "avatar_url": "https://avatars.githubusercontent.com/u/12904366?v=4"
+      },
+      "html_url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "description": "Racing to the bottom of CPU performance",
+      "language": "C",
+      "stargazers_count": 722,
+      "forks_count": 10,
+      "open_issues_count": 6,
+      "topics": [],
+      "created_at": "2026-08-06T00:08:06Z",
+      "updated_at": "2026-08-10T17:56:09Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Assembly Hall of Shame\n!x86 Leaderboard\nOverview\nInstruction latency analysis usually focuses on performance\n*optimization*—making code run as fast as possible.  The `Assembly Hall of\nShame` takes the opposite approach: searching for the absolute floor of\nsingle-instruction performance.\n:trophy: Cur"
+    },
+    {
+      "id": 1322698650,
+      "full_name": "jd-opensource/JoyAI-Video-Edit",
+      "name": "JoyAI-Video-Edit",
+      "owner": {
+        "login": "jd-opensource",
+        "avatar_url": "https://avatars.githubusercontent.com/u/75349771?v=4"
+      },
+      "html_url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+      "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+      "language": "Python",
+      "stargazers_count": 700,
+      "forks_count": 28,
+      "open_issues_count": 6,
+      "topics": [],
+      "created_at": "2026-08-04T08:22:24Z",
+      "updated_at": "2026-08-10T18:55:11Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
-      "readme_snippet": "Gemma Translator\nThis repo was built with the assistance of Google Antigravity and includes code to run an on-device, fully offline voice translator powered by Gemma 4 and LiteRT-LM. This project features a web frontend optimized for small handheld displays (e.g., 480x320) and a Python API server (h"
+      "readme_snippet": "JoyAI-Video-Edit\nReal-Time Open-Ended Video Editing with Autoregressive Diffusion\n  \n  \n  \n  \n  \n  \nJoyAI-Video-Edit is a real-time, instruction-guided video editing system for open-ended video streams. Given a live camera stream or uploaded video and a natural-language edit instruction, it edits fr"
     }
   ]
 }
