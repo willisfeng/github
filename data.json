@@ -1,59 +1,35 @@
 {
-  "updated_at": "2026-08-12T19:04:33.524Z",
-  "query_date_range": "2026-08-05 ~ 2026-08-12",
-  "total_found": 1992406,
+  "updated_at": "2026-08-13T19:05:45.001Z",
+  "query_date_range": "2026-08-06 ~ 2026-08-13",
+  "total_found": 1986579,
   "count": 9,
   "repos": [
     {
-      "id": 1327214801,
-      "full_name": "ShawnPana/phone-harness",
-      "name": "phone-harness",
+      "id": 1333065091,
+      "full_name": "deepseek-ai/deepseek-harness",
+      "name": "deepseek-harness",
       "owner": {
-        "login": "ShawnPana",
-        "avatar_url": "https://avatars.githubusercontent.com/u/129362299?v=4"
+        "login": "deepseek-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
-      "html_url": "https://github.com/ShawnPana/phone-harness",
-      "description": "let your agent control your phone",
-      "language": "Python",
-      "stargazers_count": 1625,
-      "forks_count": 141,
-      "open_issues_count": 20,
+      "html_url": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "language": "TypeScript",
+      "stargazers_count": 36969,
+      "forks_count": 2851,
+      "open_issues_count": 0,
       "topics": [
-        "agent",
-        "ai",
-        "automation",
-        "developer-tools"
+        "cordis",
+        "dsh",
+        "dsh-plugin"
       ],
-      "created_at": "2026-08-07T22:28:53Z",
-      "updated_at": "2026-08-12T18:33:39Z",
+      "created_at": "2026-08-13T11:56:32Z",
+      "updated_at": "2026-08-13T19:05:16Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "Phone Harness 📱\nConnect an LLM directly to your real iPhone with a thin, editable harness.\nNo jailbreak, no Xcode, no WebDriverAgent.\nThe Mac's iPhone Mirroring window is the whole transport: screencapture +\nVision-framework OCR for eyes, HID-level CGEvents for hands. Nothing between the\nagent and "
-    },
-    {
-      "id": 1326654671,
-      "full_name": "oil-oil/oil-motion",
-      "name": "oil-motion",
-      "owner": {
-        "login": "oil-oil",
-        "avatar_url": "https://avatars.githubusercontent.com/u/57465570?v=4"
-      },
-      "html_url": "https://github.com/oil-oil/oil-motion",
-      "description": "Create smooth, responsive interactive web animations.",
-      "language": "Python",
-      "stargazers_count": 1594,
-      "forks_count": 125,
-      "open_issues_count": 2,
-      "topics": [],
-      "created_at": "2026-08-07T12:36:33Z",
-      "updated_at": "2026-08-12T18:54:41Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "English: README.en.md · 中文: README.md\nOil Motion 是一个 Agent 通用的交互动画 Skill。它负责设计动作、生成连续画面、整理动画资源，并把最终效果接入页面滚动、鼠标、拖动、触摸或设备方向。\n使用时只需要说明希望表达什么、提供哪些素材，以及动画应该跟随什么操作。具体的生成、检查、压缩和前端实现由 Agent 完成。\n演示\nhttps://github.com/user-attachments/assets/08e26ad6-ca23-4f31-ac53-44c7692ba99d\n安装\n告诉 Agent：帮我安装「https://github"
+      "readme_snippet": "DeepSeek Harness\nEnglish | 中文\nDeepSeek Harness (dsh) is an open-source agent harness developed by DeepSeek AI.\nIt uses an architecture where everything is a plugin, and is powered by Cordis, whose design is described in _A Programming Paradigm for Spatiotemporal Composability_.\nDeveloper preview\nDee"
     },
     {
       "id": 1331135699,
@@ -66,9 +42,9 @@
       "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "language": "Python",
-      "stargazers_count": 1589,
-      "forks_count": 150,
-      "open_issues_count": 0,
+      "stargazers_count": 4884,
+      "forks_count": 486,
+      "open_issues_count": 1,
       "topics": [
         "agent-skill",
         "ai",
@@ -79,7 +55,7 @@
         "watermark"
       ],
       "created_at": "2026-08-11T16:32:38Z",
-      "updated_at": "2026-08-12T19:03:40Z",
+      "updated_at": "2026-08-13T19:04:28Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -97,17 +73,45 @@
       "html_url": "https://github.com/antirez/h3.c",
       "description": "MiniMax H3 inference engine for Mac computers",
       "language": "C",
-      "stargazers_count": 1571,
-      "forks_count": 85,
-      "open_issues_count": 17,
+      "stargazers_count": 1759,
+      "forks_count": 113,
+      "open_issues_count": 26,
       "topics": [],
       "created_at": "2026-08-09T09:12:47Z",
-      "updated_at": "2026-08-12T18:54:32Z",
+      "updated_at": "2026-08-13T18:46:13Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "h3-metal\nNative MiniMax-H3 inference for Apple Silicon. The project is being built as a\nsequence of working vertical slices: deterministic host/model metadata first,\nthen portable Metal block parity, prompt encoding, prompt-to-video/audio, and\nfirst/last-frame conditioning and then ordered reference"
+    },
+    {
+      "id": 1327214801,
+      "full_name": "ShawnPana/phone-harness",
+      "name": "phone-harness",
+      "owner": {
+        "login": "ShawnPana",
+        "avatar_url": "https://avatars.githubusercontent.com/u/129362299?v=4"
+      },
+      "html_url": "https://github.com/ShawnPana/phone-harness",
+      "description": "let your agent control your phone",
+      "language": "Python",
+      "stargazers_count": 1708,
+      "forks_count": 152,
+      "open_issues_count": 25,
+      "topics": [
+        "agent",
+        "ai",
+        "automation",
+        "developer-tools"
+      ],
+      "created_at": "2026-08-07T22:28:53Z",
+      "updated_at": "2026-08-13T19:01:50Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Phone Harness 📱\nConnect an LLM directly to your real iPhone with a thin, editable harness.\nNo jailbreak, no Xcode, no WebDriverAgent.\nThe Mac's iPhone Mirroring window is the whole transport: screencapture +\nVision-framework OCR for eyes, HID-level CGEvents for hands. Nothing between the\nagent and "
     },
     {
       "id": 1329629252,
@@ -120,12 +124,12 @@
       "html_url": "https://github.com/SMNETSTUDIO/WeChat-AI",
       "description": null,
       "language": "TypeScript",
-      "stargazers_count": 1519,
-      "forks_count": 1123,
+      "stargazers_count": 1682,
+      "forks_count": 1214,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-08-10T09:06:43Z",
-      "updated_at": "2026-08-12T17:13:21Z",
+      "updated_at": "2026-08-13T18:19:40Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
@@ -133,27 +137,27 @@
       "readme_snippet": "WeChat-AI\n自托管微信角色扮演对话服务 · Self-hosted WeChat roleplay chatbot service\n直连腾讯 iLink，数据存 远端 Redis，登录用 LINUX DO OAuth。\nConnects directly to Tencent iLink, stores data in remote Redis, and authenticates via LINUX DO OAuth.\n功能 Features · 架构 Architecture · 快速开始 Quick Start · 文档 Docs · 许可证 License\n \n---\n功能 F"
     },
     {
-      "id": 1325096132,
-      "full_name": "eternityspring/shuohao-skills",
-      "name": "shuohao-skills",
+      "id": 1326654671,
+      "full_name": "oil-oil/oil-motion",
+      "name": "oil-motion",
       "owner": {
-        "login": "eternityspring",
-        "avatar_url": "https://avatars.githubusercontent.com/u/5795147?v=4"
+        "login": "oil-oil",
+        "avatar_url": "https://avatars.githubusercontent.com/u/57465570?v=4"
       },
-      "html_url": "https://github.com/eternityspring/shuohao-skills",
-      "description": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays. Runs in Claude Code & codex.",
-      "language": "JavaScript",
-      "stargazers_count": 1154,
-      "forks_count": 131,
-      "open_issues_count": 1,
+      "html_url": "https://github.com/oil-oil/oil-motion",
+      "description": "Create smooth, responsive interactive web animations.",
+      "language": "Python",
+      "stargazers_count": 1677,
+      "forks_count": 126,
+      "open_issues_count": 2,
       "topics": [],
-      "created_at": "2026-08-06T10:38:49Z",
-      "updated_at": "2026-08-12T18:45:22Z",
+      "created_at": "2026-08-07T12:36:33Z",
+      "updated_at": "2026-08-13T17:56:23Z",
       "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
+        "spdx_id": "MIT",
+        "key": "mit"
       },
-      "readme_snippet": "中文 · English\n> 👋 找工作 / 合作 — 作者目前在空窗期，这个仓库就是业余的一点小探索。\n> 有缘的朋友欢迎联系。远程工作之外，也接受半合作——每月几千块生活费 + 利润分成。如有必要，FED的话，也是可以考虑到场出差。希望在AI浪潮下，能找到同频朋友一起做点事情。\n> 个人简历：resume.79px.com\n> \n> 我建了一个 AI 短剧交流群（付费），聊 AI 短剧的工作流、工具和实操。\n> 有兴趣的加我：微信 hao_dev，添加时备注 github。\n>\n> \nshuohao-skills\nAI 短剧制作的 skill 集合：从一本小说到能开拍的制作素材——拆角色"
+      "readme_snippet": "English: README.en.md · 中文: README.md\nOil Motion 是一个 Agent 通用的交互动画 Skill。它负责设计动作、生成连续画面、整理动画资源，并把最终效果接入页面滚动、鼠标、拖动、触摸或设备方向。\n使用时只需要说明希望表达什么、提供哪些素材，以及动画应该跟随什么操作。具体的生成、检查、压缩和前端实现由 Agent 完成。\n演示\nhttps://github.com/user-attachments/assets/08e26ad6-ca23-4f31-ac53-44c7692ba99d\n安装\n告诉 Agent：帮我安装「https://github"
     },
     {
       "id": 1326480303,
@@ -166,8 +170,8 @@
       "html_url": "https://github.com/Flaminis/Dalaran",
       "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
       "language": "Rust",
-      "stargazers_count": 881,
-      "forks_count": 55,
+      "stargazers_count": 933,
+      "forks_count": 56,
       "open_issues_count": 8,
       "topics": [
         "apache2",
@@ -182,46 +186,12 @@
         "visualization"
       ],
       "created_at": "2026-08-07T09:37:32Z",
-      "updated_at": "2026-08-12T18:56:29Z",
+      "updated_at": "2026-08-13T18:47:07Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
       "readme_snippet": "Dalaran\n**Dalaran is an Apache-2.0, robotics-first observability and visualization stack\nfor multimodal time-series data — ROS 2 topics, LiDAR sweeps, camera streams,\nIMU, and TF transforms, recorded and replayed on one timeline.**\nYou log data from your robot, your simulator, or an offline pipeline"
-    },
-    {
-      "id": 1324717617,
-      "full_name": "LaoFeng-mouse/flyingmouse-format",
-      "name": "flyingmouse-format",
-      "owner": {
-        "login": "LaoFeng-mouse",
-        "avatar_url": "https://avatars.githubusercontent.com/u/273417284?v=4"
-      },
-      "html_url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
-      "description": "飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换",
-      "language": "JavaScript",
-      "stargazers_count": 850,
-      "forks_count": 62,
-      "open_issues_count": 6,
-      "topics": [
-        "desktop-app",
-        "electron",
-        "ffmpeg",
-        "file-converter",
-        "format-converter",
-        "libreoffice",
-        "ocr",
-        "pdf",
-        "windows",
-        "wps"
-      ],
-      "created_at": "2026-08-06T03:59:32Z",
-      "updated_at": "2026-08-12T18:44:13Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "FlyingMouse Format / 飞鼠格式\n> A mouse-themed, offline Windows file converter. / 一款鼠鼠主题、可离线使用的 Windows 文件格式转换工具。\n!CI\n!Platform\n!License\n下载最新版 / Download · 问题反馈 / Issues\n!FlyingMouse Format mouse UI\n中文\n主要功能\n- 鼠鼠原版界面：鼠鼠会跟随上传、识别、批量、OCR、转换成功或失败切换状态。\n- 本地离线转换：内置 FFmpeg、LibreOffice、Poppler、Tesseract 和 AVS3 解"
     },
     {
       "id": 1327502931,
@@ -234,8 +204,8 @@
       "html_url": "https://github.com/MengTo/kage",
       "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
       "language": "HTML",
-      "stargazers_count": 850,
-      "forks_count": 153,
+      "stargazers_count": 887,
+      "forks_count": 158,
       "open_issues_count": 0,
       "topics": [
         "creative-coding",
@@ -246,9 +216,32 @@
         "webgl"
       ],
       "created_at": "2026-08-08T07:05:07Z",
-      "updated_at": "2026-08-12T18:30:45Z",
+      "updated_at": "2026-08-13T18:13:21Z",
       "license": null,
       "readme_snippet": "Kage\nAn interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js and layered with cinematic generated imagery.\nView the live project · View the source · Read the build prompt\n!Kage preview\nWhat it does\n- Moves a live WebGL camera through a mountain temple as the"
+    },
+    {
+      "id": 1330135801,
+      "full_name": "gvzdv/claudish-to-english",
+      "name": "claudish-to-english",
+      "owner": {
+        "login": "gvzdv",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44172510?v=4"
+      },
+      "html_url": "https://github.com/gvzdv/claudish-to-english",
+      "description": null,
+      "language": "Shell",
+      "stargazers_count": 870,
+      "forks_count": 55,
+      "open_issues_count": 4,
+      "topics": [],
+      "created_at": "2026-08-10T18:32:23Z",
+      "updated_at": "2026-08-13T19:00:23Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "claudish-to-english\n  \nA Claude Code plugin that shows a plain-English rewrite of each assistant\nmessage, produced by a local LLM via ollama (default), the **Anthropic\nAPI, or any OpenAI-compatible API. It is display-only**:\nClaude's own reasoning and the saved transcript keep the original text — on"
     }
   ]
 }
