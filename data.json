@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-13T19:05:45.001Z",
-  "query_date_range": "2026-08-06 ~ 2026-08-13",
-  "total_found": 1986579,
+  "updated_at": "2026-08-14T18:57:44.106Z",
+  "query_date_range": "2026-08-07 ~ 2026-08-14",
+  "total_found": 1987124,
   "count": 9,
   "repos": [
     {
@@ -15,16 +15,17 @@
       "html_url": "https://github.com/deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "language": "TypeScript",
-      "stargazers_count": 36969,
-      "forks_count": 2851,
+      "stargazers_count": 94070,
+      "forks_count": 8640,
       "open_issues_count": 0,
       "topics": [
+        "ai-agents",
         "cordis",
         "dsh",
         "dsh-plugin"
       ],
       "created_at": "2026-08-13T11:56:32Z",
-      "updated_at": "2026-08-13T19:05:16Z",
+      "updated_at": "2026-08-14T18:57:16Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -42,9 +43,9 @@
       "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "language": "Python",
-      "stargazers_count": 4884,
-      "forks_count": 486,
-      "open_issues_count": 1,
+      "stargazers_count": 7633,
+      "forks_count": 807,
+      "open_issues_count": 7,
       "topics": [
         "agent-skill",
         "ai",
@@ -55,12 +56,40 @@
         "watermark"
       ],
       "created_at": "2026-08-11T16:32:38Z",
-      "updated_at": "2026-08-13T19:04:28Z",
+      "updated_at": "2026-08-14T18:57:13Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "watermarks-remover\nAgent skill + stdlib Python scripts to strip multi-vendor AI provenance marks from text and files — for privacy and hygiene on content you own.\n| Layer | Target | How |\n| --- | --- | --- |\n| A | Invisible Unicode, exotic spaces, bidi, tag chars | Deterministic Python scripts |\n| B"
+    },
+    {
+      "id": 1331636953,
+      "full_name": "zhu1090093659/dsh-web-ui",
+      "name": "dsh-web-ui",
+      "owner": {
+        "login": "zhu1090093659",
+        "avatar_url": "https://avatars.githubusercontent.com/u/46916148?v=4"
+      },
+      "html_url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "language": "TypeScript",
+      "stargazers_count": 1902,
+      "forks_count": 92,
+      "open_issues_count": 44,
+      "topics": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "web-ui"
+      ],
+      "created_at": "2026-08-12T05:15:20Z",
+      "updated_at": "2026-08-14T18:57:16Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "dsh-web-ui · DSH Web UI\n中文 | English\n!dsh-web-ui\ndsh-web-ui 是 DeepSeek Harness（DSH）Web UI 的插件与皮肤集合：任务看板、Git 图谱、右侧面板、移动端远程、远程连接、图像理解工具、鲸鱼娘宠物、实时令牌统计，以及皮肤中心。所有插件既可独立安装，也可通过聚合包一次装齐。\n!DSH Web UI 主界面\n功能插件\n任务看板\n在侧边栏点击「任务看板」进入。任务按五列状态组织：待规划、待办、进行中、已完成、已失败。点击卡片上的「执行」，任务将由真实的 DSH 智能体会话执行，完成后状态自动回写；需要复盘时，可直接跳转"
     },
     {
       "id": 1328627783,
@@ -73,45 +102,17 @@
       "html_url": "https://github.com/antirez/h3.c",
       "description": "MiniMax H3 inference engine for Mac computers",
       "language": "C",
-      "stargazers_count": 1759,
-      "forks_count": 113,
-      "open_issues_count": 26,
+      "stargazers_count": 1835,
+      "forks_count": 120,
+      "open_issues_count": 29,
       "topics": [],
       "created_at": "2026-08-09T09:12:47Z",
-      "updated_at": "2026-08-13T18:46:13Z",
+      "updated_at": "2026-08-14T17:50:26Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "h3-metal\nNative MiniMax-H3 inference for Apple Silicon. The project is being built as a\nsequence of working vertical slices: deterministic host/model metadata first,\nthen portable Metal block parity, prompt encoding, prompt-to-video/audio, and\nfirst/last-frame conditioning and then ordered reference"
-    },
-    {
-      "id": 1327214801,
-      "full_name": "ShawnPana/phone-harness",
-      "name": "phone-harness",
-      "owner": {
-        "login": "ShawnPana",
-        "avatar_url": "https://avatars.githubusercontent.com/u/129362299?v=4"
-      },
-      "html_url": "https://github.com/ShawnPana/phone-harness",
-      "description": "let your agent control your phone",
-      "language": "Python",
-      "stargazers_count": 1708,
-      "forks_count": 152,
-      "open_issues_count": 25,
-      "topics": [
-        "agent",
-        "ai",
-        "automation",
-        "developer-tools"
-      ],
-      "created_at": "2026-08-07T22:28:53Z",
-      "updated_at": "2026-08-13T19:01:50Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Phone Harness 📱\nConnect an LLM directly to your real iPhone with a thin, editable harness.\nNo jailbreak, no Xcode, no WebDriverAgent.\nThe Mac's iPhone Mirroring window is the whole transport: screencapture +\nVision-framework OCR for eyes, HID-level CGEvents for hands. Nothing between the\nagent and "
     },
     {
       "id": 1329629252,
@@ -124,12 +125,12 @@
       "html_url": "https://github.com/SMNETSTUDIO/WeChat-AI",
       "description": null,
       "language": "TypeScript",
-      "stargazers_count": 1682,
-      "forks_count": 1214,
+      "stargazers_count": 1709,
+      "forks_count": 1224,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-08-10T09:06:43Z",
-      "updated_at": "2026-08-13T18:19:40Z",
+      "updated_at": "2026-08-14T16:27:06Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
@@ -137,88 +138,77 @@
       "readme_snippet": "WeChat-AI\n自托管微信角色扮演对话服务 · Self-hosted WeChat roleplay chatbot service\n直连腾讯 iLink，数据存 远端 Redis，登录用 LINUX DO OAuth。\nConnects directly to Tencent iLink, stores data in remote Redis, and authenticates via LINUX DO OAuth.\n功能 Features · 架构 Architecture · 快速开始 Quick Start · 文档 Docs · 许可证 License\n \n---\n功能 F"
     },
     {
-      "id": 1326654671,
-      "full_name": "oil-oil/oil-motion",
-      "name": "oil-motion",
+      "id": 1333321333,
+      "full_name": "anywhere-labs/deepseek-harness-desktop",
+      "name": "deepseek-harness-desktop",
       "owner": {
-        "login": "oil-oil",
-        "avatar_url": "https://avatars.githubusercontent.com/u/57465570?v=4"
+        "login": "anywhere-labs",
+        "avatar_url": "https://avatars.githubusercontent.com/u/286827603?v=4"
       },
-      "html_url": "https://github.com/oil-oil/oil-motion",
-      "description": "Create smooth, responsive interactive web animations.",
-      "language": "Python",
-      "stargazers_count": 1677,
-      "forks_count": 126,
-      "open_issues_count": 2,
-      "topics": [],
-      "created_at": "2026-08-07T12:36:33Z",
-      "updated_at": "2026-08-13T17:56:23Z",
+      "html_url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+      "language": "TypeScript",
+      "stargazers_count": 1658,
+      "forks_count": 87,
+      "open_issues_count": 17,
+      "topics": [
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "created_at": "2026-08-13T16:30:50Z",
+      "updated_at": "2026-08-14T18:56:09Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "English: README.en.md · 中文: README.md\nOil Motion 是一个 Agent 通用的交互动画 Skill。它负责设计动作、生成连续画面、整理动画资源，并把最终效果接入页面滚动、鼠标、拖动、触摸或设备方向。\n使用时只需要说明希望表达什么、提供哪些素材，以及动画应该跟随什么操作。具体的生成、检查、压缩和前端实现由 Agent 完成。\n演示\nhttps://github.com/user-attachments/assets/08e26ad6-ca23-4f31-ac53-44c7692ba99d\n安装\n告诉 Agent：帮我安装「https://github"
+      "readme_snippet": "DeepSeek Harness Desktop\n  \n  \n  \n  \n  \n中文 · English\n为DeepSeek Harness生态打造的现代化桌面端体验（插件）\n  DeepSeek Harness 官方目前通过命令行启动本地 Web UI。本项目将服务启动、运行管理和桌面窗口整合为开箱即用的桌面体验，让用户无需配置 Node.js 或执行命令，即可直接使用。\nDownload Desktop\n  \n主要功能\n  \n    \n      Desktop\n      把官方 DeepSeek Harness 的本地 Web UI 带到原生桌面。应用自动启动和管理本地 Harness"
     },
     {
-      "id": 1326480303,
-      "full_name": "Flaminis/Dalaran",
-      "name": "Dalaran",
+      "id": 1333170396,
+      "full_name": "xoreaxeaxeax/skitter-creek-bath-salts",
+      "name": "skitter-creek-bath-salts",
       "owner": {
-        "login": "Flaminis",
-        "avatar_url": "https://avatars.githubusercontent.com/u/20280711?v=4"
+        "login": "xoreaxeaxeax",
+        "avatar_url": "https://avatars.githubusercontent.com/u/12904366?v=4"
       },
-      "html_url": "https://github.com/Flaminis/Dalaran",
-      "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
-      "language": "Rust",
-      "stargazers_count": 933,
-      "forks_count": 56,
-      "open_issues_count": 8,
-      "topics": [
-        "apache2",
-        "computer-vision",
-        "lidar",
-        "pointcloud",
-        "python",
-        "robotics",
-        "ros2",
-        "rust",
-        "time-series",
-        "visualization"
-      ],
-      "created_at": "2026-08-07T09:37:32Z",
-      "updated_at": "2026-08-13T18:47:07Z",
+      "html_url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "language": "C",
+      "stargazers_count": 1510,
+      "forks_count": 125,
+      "open_issues_count": 2,
+      "topics": [],
+      "created_at": "2026-08-13T13:50:42Z",
+      "updated_at": "2026-08-14T18:45:53Z",
       "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
+        "spdx_id": "MIT",
+        "key": "mit"
       },
-      "readme_snippet": "Dalaran\n**Dalaran is an Apache-2.0, robotics-first observability and visualization stack\nfor multimodal time-series data — ROS 2 topics, LiDAR sweeps, camera streams,\nIMU, and TF transforms, recorded and replayed on one timeline.**\nYou log data from your robot, your simulator, or an offline pipeline"
+      "readme_snippet": "skitter-creek-bath-salts\n> *Unlocking everything on the CPU with DRAM scrambling — PSP, C6, microcode,\n> SMM, and anything else the specs left out.*\n&x == &x.\nUsually.\n!Unspaghettifying DRAM\nPoke the DRAM controller and an address can be made to land wherever you want in\nmemory. skitter-creek-bath-s"
     },
     {
-      "id": 1327502931,
-      "full_name": "MengTo/kage",
-      "name": "kage",
+      "id": 1332959628,
+      "full_name": "cordiverse/paper",
+      "name": "paper",
       "owner": {
-        "login": "MengTo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1065452?v=4"
+        "login": "cordiverse",
+        "avatar_url": "https://avatars.githubusercontent.com/u/152786899?v=4"
       },
-      "html_url": "https://github.com/MengTo/kage",
-      "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
-      "language": "HTML",
-      "stargazers_count": 887,
-      "forks_count": 158,
+      "html_url": "https://github.com/cordiverse/paper",
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "language": null,
+      "stargazers_count": 1267,
+      "forks_count": 46,
       "open_issues_count": 0,
-      "topics": [
-        "creative-coding",
-        "generative-art",
-        "interactive-storytelling",
-        "japanese-design",
-        "threejs",
-        "webgl"
-      ],
-      "created_at": "2026-08-08T07:05:07Z",
-      "updated_at": "2026-08-13T18:13:21Z",
+      "topics": [],
+      "created_at": "2026-08-13T09:53:33Z",
+      "updated_at": "2026-08-14T18:49:16Z",
       "license": null,
-      "readme_snippet": "Kage\nAn interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js and layered with cinematic generated imagery.\nView the live project · View the source · Read the build prompt\n!Kage preview\nWhat it does\n- Moves a live WebGL camera through a mountain temple as the"
+      "readme_snippet": "A Programming Paradigm for Spatiotemporal Composability\nRead the paper (PDF) · Draft of August 13, 2026\n> This is a preprint under active revision. The content may change substantially; please cite the latest version and check back before relying on specific results.\nModern software---from plugin sy"
     },
     {
       "id": 1330135801,
@@ -231,12 +221,12 @@
       "html_url": "https://github.com/gvzdv/claudish-to-english",
       "description": null,
       "language": "Shell",
-      "stargazers_count": 870,
-      "forks_count": 55,
-      "open_issues_count": 4,
+      "stargazers_count": 1064,
+      "forks_count": 68,
+      "open_issues_count": 3,
       "topics": [],
       "created_at": "2026-08-10T18:32:23Z",
-      "updated_at": "2026-08-13T19:00:23Z",
+      "updated_at": "2026-08-14T18:53:16Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
