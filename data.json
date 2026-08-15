@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-14T18:57:44.106Z",
-  "query_date_range": "2026-08-07 ~ 2026-08-14",
-  "total_found": 1987124,
+  "updated_at": "2026-08-15T18:32:36.648Z",
+  "query_date_range": "2026-08-08 ~ 2026-08-15",
+  "total_found": 1999605,
   "count": 9,
   "repos": [
     {
@@ -15,8 +15,8 @@
       "html_url": "https://github.com/deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "language": "TypeScript",
-      "stargazers_count": 94070,
-      "forks_count": 8640,
+      "stargazers_count": 113494,
+      "forks_count": 11026,
       "open_issues_count": 0,
       "topics": [
         "ai-agents",
@@ -25,7 +25,7 @@
         "dsh-plugin"
       ],
       "created_at": "2026-08-13T11:56:32Z",
-      "updated_at": "2026-08-14T18:57:16Z",
+      "updated_at": "2026-08-15T18:32:14Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -43,9 +43,9 @@
       "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "language": "Python",
-      "stargazers_count": 7633,
-      "forks_count": 807,
-      "open_issues_count": 7,
+      "stargazers_count": 9506,
+      "forks_count": 977,
+      "open_issues_count": 21,
       "topics": [
         "agent-skill",
         "ai",
@@ -56,12 +56,71 @@
         "watermark"
       ],
       "created_at": "2026-08-11T16:32:38Z",
-      "updated_at": "2026-08-14T18:57:13Z",
+      "updated_at": "2026-08-15T18:31:18Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "watermarks-remover\nAgent skill + stdlib Python scripts to strip multi-vendor AI provenance marks from text and files — for privacy and hygiene on content you own.\n| Layer | Target | How |\n| --- | --- | --- |\n| A | Invisible Unicode, exotic spaces, bidi, tag chars | Deterministic Python scripts |\n| B"
+      "readme_snippet": "watermarks-remover\nAgent skill + stdlib Python service to strip multi-vendor AI provenance marks from text and files — for privacy and hygiene on content you own. The skill is a thin client: it drives the machinery over HTTP, so the agent host needs no Python.\n| Layer | Target | How |\n| --- | --- | "
+    },
+    {
+      "id": 1333321333,
+      "full_name": "anywhere-labs/deepseek-harness-desktop",
+      "name": "deepseek-harness-desktop",
+      "owner": {
+        "login": "anywhere-labs",
+        "avatar_url": "https://avatars.githubusercontent.com/u/286827603?v=4"
+      },
+      "html_url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+      "language": "TypeScript",
+      "stargazers_count": 5614,
+      "forks_count": 236,
+      "open_issues_count": 76,
+      "topics": [
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop"
+      ],
+      "created_at": "2026-08-13T16:30:50Z",
+      "updated_at": "2026-08-15T18:32:03Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "中文 · English\n为DeepSeek Harness生态打造的现代化桌面端体验（插件）\n立刻下载 MacOS/Windows\n  \n文档\n| 目标 | 入口 |\n| --- | --- |\n| 了解项目为什么存在 | 为什么做 DSH Desktop |\n| 安装和日常使用 | 用户指南 |\n| 编写普通或 Desktop 插件 | 插件开发 |\n| 了解桌面插件可以使用的能力 | 桌面插件接口说明 |\n| 了解桌面应用如何工作 | 架构说明 |\n| 查看全部文档与 README 分工 | 文档索引 |\n| 查阅包级构建与发布细节 | dsh-plugin-desktop/README"
+    },
+    {
+      "id": 1333175049,
+      "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "name": "awesome-dsh-plugin",
+      "owner": {
+        "login": "awesome-dsh-plugin",
+        "avatar_url": "https://avatars.githubusercontent.com/u/316603077?v=4"
+      },
+      "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "language": "Python",
+      "stargazers_count": 2893,
+      "forks_count": 573,
+      "open_issues_count": 60,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "created_at": "2026-08-13T13:55:31Z",
+      "updated_at": "2026-08-15T18:31:00Z",
+      "license": {
+        "spdx_id": "CC0-1.0",
+        "key": "cc0-1.0"
+      },
+      "readme_snippet": "Awesome DeepSeek Harness (DSH) Plugin  !awesome · DSH plugin !plugin count\nEnglish | 中文\n> A curated list of plugins for DeepSeek Harness (dsh).\nDeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding agent (Web and headless), built on a framework where everything is a plugin: mo"
     },
     {
       "id": 1331636953,
@@ -74,9 +133,9 @@
       "html_url": "https://github.com/zhu1090093659/dsh-web-ui",
       "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
       "language": "TypeScript",
-      "stargazers_count": 1902,
-      "forks_count": 92,
-      "open_issues_count": 44,
+      "stargazers_count": 2657,
+      "forks_count": 147,
+      "open_issues_count": 49,
       "topics": [
         "deepseek-harness",
         "dsh",
@@ -84,12 +143,40 @@
         "web-ui"
       ],
       "created_at": "2026-08-12T05:15:20Z",
-      "updated_at": "2026-08-14T18:57:16Z",
+      "updated_at": "2026-08-15T18:29:05Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
       "readme_snippet": "dsh-web-ui · DSH Web UI\n中文 | English\n!dsh-web-ui\ndsh-web-ui 是 DeepSeek Harness（DSH）Web UI 的插件与皮肤集合：任务看板、Git 图谱、右侧面板、移动端远程、远程连接、图像理解工具、鲸鱼娘宠物、实时令牌统计，以及皮肤中心。所有插件既可独立安装，也可通过聚合包一次装齐。\n!DSH Web UI 主界面\n功能插件\n任务看板\n在侧边栏点击「任务看板」进入。任务按五列状态组织：待规划、待办、进行中、已完成、已失败。点击卡片上的「执行」，任务将由真实的 DSH 智能体会话执行，完成后状态自动回写；需要复盘时，可直接跳转"
+    },
+    {
+      "id": 1334245678,
+      "full_name": "xiaobright/dsh-anchored-standard",
+      "name": "dsh-anchored-standard",
+      "owner": {
+        "login": "xiaobright",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104243166?v=4"
+      },
+      "html_url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "language": "JavaScript",
+      "stargazers_count": 2107,
+      "forks_count": 66,
+      "open_issues_count": 29,
+      "topics": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "llm-agent"
+      ],
+      "created_at": "2026-08-14T14:06:39Z",
+      "updated_at": "2026-08-15T18:30:16Z",
+      "license": {
+        "spdx_id": "NOASSERTION",
+        "key": "other"
+      },
+      "readme_snippet": "dsh-anchored-standard\n中文说明\nAn experimental DeepSeek Harness agent preset that bootstraps the first model\nrequest with a Minimal-aligned prompt, the Minimal preset's real tool schema\n(bash + str_replace_editor), and no auto-injected workspace/skill context,\nthen exposes the complete Standard tool cat"
     },
     {
       "id": 1328627783,
@@ -102,12 +189,12 @@
       "html_url": "https://github.com/antirez/h3.c",
       "description": "MiniMax H3 inference engine for Mac computers",
       "language": "C",
-      "stargazers_count": 1835,
-      "forks_count": 120,
-      "open_issues_count": 29,
+      "stargazers_count": 1906,
+      "forks_count": 125,
+      "open_issues_count": 33,
       "topics": [],
       "created_at": "2026-08-09T09:12:47Z",
-      "updated_at": "2026-08-14T17:50:26Z",
+      "updated_at": "2026-08-15T18:29:45Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -125,47 +212,17 @@
       "html_url": "https://github.com/SMNETSTUDIO/WeChat-AI",
       "description": null,
       "language": "TypeScript",
-      "stargazers_count": 1709,
-      "forks_count": 1224,
+      "stargazers_count": 1730,
+      "forks_count": 1240,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-08-10T09:06:43Z",
-      "updated_at": "2026-08-14T16:27:06Z",
+      "updated_at": "2026-08-15T13:30:29Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
       "readme_snippet": "WeChat-AI\n自托管微信角色扮演对话服务 · Self-hosted WeChat roleplay chatbot service\n直连腾讯 iLink，数据存 远端 Redis，登录用 LINUX DO OAuth。\nConnects directly to Tencent iLink, stores data in remote Redis, and authenticates via LINUX DO OAuth.\n功能 Features · 架构 Architecture · 快速开始 Quick Start · 文档 Docs · 许可证 License\n \n---\n功能 F"
-    },
-    {
-      "id": 1333321333,
-      "full_name": "anywhere-labs/deepseek-harness-desktop",
-      "name": "deepseek-harness-desktop",
-      "owner": {
-        "login": "anywhere-labs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/286827603?v=4"
-      },
-      "html_url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
-      "language": "TypeScript",
-      "stargazers_count": 1658,
-      "forks_count": 87,
-      "open_issues_count": 17,
-      "topics": [
-        "deepseek",
-        "deepseek-harness",
-        "desktop",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugin-desktop"
-      ],
-      "created_at": "2026-08-13T16:30:50Z",
-      "updated_at": "2026-08-14T18:56:09Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "DeepSeek Harness Desktop\n  \n  \n  \n  \n  \n中文 · English\n为DeepSeek Harness生态打造的现代化桌面端体验（插件）\n  DeepSeek Harness 官方目前通过命令行启动本地 Web UI。本项目将服务启动、运行管理和桌面窗口整合为开箱即用的桌面体验，让用户无需配置 Node.js 或执行命令，即可直接使用。\nDownload Desktop\n  \n主要功能\n  \n    \n      Desktop\n      把官方 DeepSeek Harness 的本地 Web UI 带到原生桌面。应用自动启动和管理本地 Harness"
     },
     {
       "id": 1333170396,
@@ -178,60 +235,17 @@
       "html_url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
       "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
       "language": "C",
-      "stargazers_count": 1510,
-      "forks_count": 125,
+      "stargazers_count": 1659,
+      "forks_count": 133,
       "open_issues_count": 2,
       "topics": [],
       "created_at": "2026-08-13T13:50:42Z",
-      "updated_at": "2026-08-14T18:45:53Z",
+      "updated_at": "2026-08-15T18:14:27Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "skitter-creek-bath-salts\n> *Unlocking everything on the CPU with DRAM scrambling — PSP, C6, microcode,\n> SMM, and anything else the specs left out.*\n&x == &x.\nUsually.\n!Unspaghettifying DRAM\nPoke the DRAM controller and an address can be made to land wherever you want in\nmemory. skitter-creek-bath-s"
-    },
-    {
-      "id": 1332959628,
-      "full_name": "cordiverse/paper",
-      "name": "paper",
-      "owner": {
-        "login": "cordiverse",
-        "avatar_url": "https://avatars.githubusercontent.com/u/152786899?v=4"
-      },
-      "html_url": "https://github.com/cordiverse/paper",
-      "description": "A Programming Paradigm for Spatiotemporal Composability",
-      "language": null,
-      "stargazers_count": 1267,
-      "forks_count": 46,
-      "open_issues_count": 0,
-      "topics": [],
-      "created_at": "2026-08-13T09:53:33Z",
-      "updated_at": "2026-08-14T18:49:16Z",
-      "license": null,
-      "readme_snippet": "A Programming Paradigm for Spatiotemporal Composability\nRead the paper (PDF) · Draft of August 13, 2026\n> This is a preprint under active revision. The content may change substantially; please cite the latest version and check back before relying on specific results.\nModern software---from plugin sy"
-    },
-    {
-      "id": 1330135801,
-      "full_name": "gvzdv/claudish-to-english",
-      "name": "claudish-to-english",
-      "owner": {
-        "login": "gvzdv",
-        "avatar_url": "https://avatars.githubusercontent.com/u/44172510?v=4"
-      },
-      "html_url": "https://github.com/gvzdv/claudish-to-english",
-      "description": null,
-      "language": "Shell",
-      "stargazers_count": 1064,
-      "forks_count": 68,
-      "open_issues_count": 3,
-      "topics": [],
-      "created_at": "2026-08-10T18:32:23Z",
-      "updated_at": "2026-08-14T18:53:16Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "claudish-to-english\n  \nA Claude Code plugin that shows a plain-English rewrite of each assistant\nmessage, produced by a local LLM via ollama (default), the **Anthropic\nAPI, or any OpenAI-compatible API. It is display-only**:\nClaude's own reasoning and the saved transcript keep the original text — on"
     }
   ]
 }
