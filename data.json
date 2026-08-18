@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-17T18:42:27.947Z",
-  "query_date_range": "2026-08-10 ~ 2026-08-17",
-  "total_found": 2384154,
+  "updated_at": "2026-08-18T18:40:56.767Z",
+  "query_date_range": "2026-08-11 ~ 2026-08-18",
+  "total_found": 2473876,
   "count": 9,
   "repos": [
     {
@@ -15,8 +15,8 @@
       "html_url": "https://github.com/deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "language": "TypeScript",
-      "stargazers_count": 148744,
-      "forks_count": 15221,
+      "stargazers_count": 159702,
+      "forks_count": 16681,
       "open_issues_count": 0,
       "topics": [
         "ai-agents",
@@ -25,43 +25,12 @@
         "dsh-plugin"
       ],
       "created_at": "2026-08-13T11:56:32Z",
-      "updated_at": "2026-08-17T18:41:40Z",
+      "updated_at": "2026-08-18T18:40:21Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "DeepSeek Harness\nEnglish | 中文\nDeepSeek Harness (dsh) is an open-source agent harness developed by DeepSeek AI.\nIt uses an architecture where everything is a plugin, and is powered by Cordis, whose design is described in _A Programming Paradigm for Spatiotemporal Composability_.\nDeveloper preview\nDee"
-    },
-    {
-      "id": 1331135699,
-      "full_name": "guillaumemeyer/watermarks-remover",
-      "name": "watermarks-remover",
-      "owner": {
-        "login": "guillaumemeyer",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1385518?v=4"
-      },
-      "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "language": "Python",
-      "stargazers_count": 13202,
-      "forks_count": 1430,
-      "open_issues_count": 17,
-      "topics": [
-        "agent-skill",
-        "ai",
-        "c2pa",
-        "claude",
-        "provenance",
-        "synthid",
-        "watermark"
-      ],
-      "created_at": "2026-08-11T16:32:38Z",
-      "updated_at": "2026-08-17T18:41:24Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "watermarks-remover\nAgent skill + stdlib Python service to strip multi-vendor AI provenance marks from text and files — for privacy and hygiene on content you own. The skill is a thin client: it drives the machinery over HTTP, so the agent host needs no Python.\n| Layer | Target | How |\n| --- | --- | "
     },
     {
       "id": 1333321333,
@@ -74,9 +43,9 @@
       "html_url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
       "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "language": "TypeScript",
-      "stargazers_count": 11549,
-      "forks_count": 517,
-      "open_issues_count": 174,
+      "stargazers_count": 13520,
+      "forks_count": 608,
+      "open_issues_count": 140,
       "topics": [
         "cordis",
         "cordis-plugin",
@@ -88,7 +57,7 @@
         "dsh-plugin-desktop"
       ],
       "created_at": "2026-08-13T16:30:50Z",
-      "updated_at": "2026-08-17T18:39:22Z",
+      "updated_at": "2026-08-18T18:39:05Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -106,9 +75,9 @@
       "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
       "language": "Python",
-      "stargazers_count": 7509,
-      "forks_count": 1078,
-      "open_issues_count": 157,
+      "stargazers_count": 8757,
+      "forks_count": 1282,
+      "open_issues_count": 209,
       "topics": [
         "awesome",
         "awesome-list",
@@ -117,7 +86,7 @@
         "dsh-plugin"
       ],
       "created_at": "2026-08-13T13:55:31Z",
-      "updated_at": "2026-08-17T18:39:47Z",
+      "updated_at": "2026-08-18T18:37:30Z",
       "license": {
         "spdx_id": "CC0-1.0",
         "key": "cc0-1.0"
@@ -135,12 +104,12 @@
       "html_url": "https://github.com/yjh051108/dsh-routing-suite",
       "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
       "language": "PowerShell",
-      "stargazers_count": 4235,
-      "forks_count": 86,
-      "open_issues_count": 38,
+      "stargazers_count": 6003,
+      "forks_count": 105,
+      "open_issues_count": 45,
       "topics": [],
       "created_at": "2026-08-14T21:20:55Z",
-      "updated_at": "2026-08-17T18:42:02Z",
+      "updated_at": "2026-08-18T18:36:31Z",
       "license": null,
       "readme_snippet": "dsh-routing-suite — 注入器 × 思维模式路由 套装\n一个仓库装齐「运行时手术台 + 思维模式路由预设」：先装注入器（免重启运行时管理层），\n再用它装配 router-standard 预设（任务感知思维模式路由，P1-P23 实测）。\n中文 | English\n安装链（三步）\n或手动：\n组件\n| 路径 | 仓库 | 版本 | 作用 |\n|---|---|---|---|\n| injector/ | dsh-super-injector | v0.3.3 | 运行时注入器：dev_* 工具全家桶（注入/热重载/侧挂转正/卸载/路由自愈） |\n| preset/ | dsh-r"
     },
@@ -155,9 +124,9 @@
       "html_url": "https://github.com/zhu1090093659/dsh-web-ui",
       "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
       "language": "TypeScript",
-      "stargazers_count": 4083,
-      "forks_count": 249,
-      "open_issues_count": 40,
+      "stargazers_count": 4551,
+      "forks_count": 272,
+      "open_issues_count": 42,
       "topics": [
         "deepseek-harness",
         "dsh",
@@ -165,12 +134,12 @@
         "web-ui"
       ],
       "created_at": "2026-08-12T05:15:20Z",
-      "updated_at": "2026-08-17T18:34:12Z",
+      "updated_at": "2026-08-18T18:34:43Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
-      "readme_snippet": "dsh-web-ui · DSH Web UI\n中文 | English\n  \n  \n  &nbsp;\n  \n  &nbsp;\n  \n  &nbsp;\n  \n  &nbsp;\n  \n  \n  \n  &nbsp;\n  \n  DeepSeek Harness（DSH）Web GUI 的插件与皮肤全家桶\n  梁神模式 · 任务看板 · Git 图谱 · 右侧面板 · 移动端远程 · SSH 运维 · 图像理解 · 鲸鱼娘宠物 · 实时吞吐 · 皮肤中心\n是什么 · 功能插件 · 皮肤 · 快速开始 · 常见问题 · 已知限制 · 社区\n是什么\ndsh-web-ui 是给 DeepSeek Harne"
+      "readme_snippet": "dsh-web-ui · DSH Web UI\n中文 | English\n  \n  \n  &nbsp;\n  \n  &nbsp;\n  \n  &nbsp;\n  \n  &nbsp;\n  \n  \n  \n  &nbsp;\n  \n  DeepSeek Harness（DSH）Web GUI 的插件与皮肤全家桶 · 一切皆开发，一切皆插件\n  梁神模式 · 任务看板 · Git 图谱 · 右侧面板 · 移动端远程 · SSH 运维 · 图像理解 · 鲸鱼娘宠物 · 皮肤中心\n是什么 · 功能插件 · 皮肤 · 快速开始 · 常见问题 · 已知限制 · 社区\n是什么\ndsh-web-ui 继承 DeepSee"
     },
     {
       "id": 1334245678,
@@ -183,9 +152,9 @@
       "html_url": "https://github.com/xiaobright/dsh-anchored-standard",
       "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
       "language": "JavaScript",
-      "stargazers_count": 3416,
-      "forks_count": 102,
-      "open_issues_count": 24,
+      "stargazers_count": 3549,
+      "forks_count": 106,
+      "open_issues_count": 25,
       "topics": [
         "deepseek",
         "deepseek-harness",
@@ -193,7 +162,7 @@
         "llm-agent"
       ],
       "created_at": "2026-08-14T14:06:39Z",
-      "updated_at": "2026-08-17T18:40:42Z",
+      "updated_at": "2026-08-18T18:22:46Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
@@ -211,8 +180,8 @@
       "html_url": "https://github.com/dmmulroy/anti-slop",
       "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
       "language": "TypeScript",
-      "stargazers_count": 2267,
-      "forks_count": 39,
+      "stargazers_count": 2593,
+      "forks_count": 47,
       "open_issues_count": 2,
       "topics": [
         "agent-skills",
@@ -221,12 +190,35 @@
         "typescript"
       ],
       "created_at": "2026-08-12T13:48:50Z",
-      "updated_at": "2026-08-17T18:41:45Z",
+      "updated_at": "2026-08-18T18:32:36Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "anti-slop\nOpinionated Oxlint rules that reject low-evidence and low-signal TypeScript and JavaScript patterns.\nThis project is meant to be vendored, not treated as a fixed npm dependency. Copy the rules into your repository, read them, and change them to match your team's standards. The bundled agen"
+    },
+    {
+      "id": 1336933337,
+      "full_name": "yetone/cumora",
+      "name": "cumora",
+      "owner": {
+        "login": "yetone",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
+      },
+      "html_url": "https://github.com/yetone/cumora",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "language": "TypeScript",
+      "stargazers_count": 2316,
+      "forks_count": 256,
+      "open_issues_count": 8,
+      "topics": [],
+      "created_at": "2026-08-17T09:13:52Z",
+      "updated_at": "2026-08-18T18:40:10Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Cumora\n> Where agent teams gather.\ncumora.ai · Web app · Latest release\nCumora is cross-platform team chat where AI agents are first-class participants alongside humans — same roster, same DMs, same group conversations, same Kanban board and calendar. Agents don't just answer when poked: they hold p"
     },
     {
       "id": 1332959628,
@@ -239,12 +231,12 @@
       "html_url": "https://github.com/cordiverse/paper",
       "description": "A Programming Paradigm for Spatiotemporal Composability",
       "language": null,
-      "stargazers_count": 2088,
-      "forks_count": 84,
+      "stargazers_count": 2271,
+      "forks_count": 97,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-08-13T09:53:33Z",
-      "updated_at": "2026-08-17T18:41:51Z",
+      "updated_at": "2026-08-18T18:32:26Z",
       "license": null,
       "readme_snippet": "A Programming Paradigm for Spatiotemporal Composability\nRead the paper (PDF) · Draft of August 13, 2026\n> This is a preprint under active revision. The content may change substantially; please cite the latest version and check back before relying on specific results.\nModern software---from plugin sy"
     }
