@@ -1,98 +1,9 @@
 {
-  "updated_at": "2026-08-19T18:38:28.060Z",
-  "query_date_range": "2026-08-12 ~ 2026-08-19",
-  "total_found": 2525872,
+  "updated_at": "2026-08-20T18:42:14.615Z",
+  "query_date_range": "2026-08-13 ~ 2026-08-20",
+  "total_found": 2548728,
   "count": 9,
   "repos": [
-    {
-      "id": 1333065091,
-      "full_name": "deepseek-ai/deepseek-harness",
-      "name": "deepseek-harness",
-      "owner": {
-        "login": "deepseek-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
-      },
-      "html_url": "https://github.com/deepseek-ai/deepseek-harness",
-      "description": "DeepSeek Harness: Everything is a Plugin.",
-      "language": "TypeScript",
-      "stargazers_count": 166525,
-      "forks_count": 17740,
-      "open_issues_count": 0,
-      "topics": [
-        "ai-agents",
-        "cordis",
-        "dsh",
-        "dsh-plugin"
-      ],
-      "created_at": "2026-08-13T11:56:32Z",
-      "updated_at": "2026-08-19T18:37:23Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "DeepSeek Harness\nEnglish | 中文\nDeepSeek Harness (dsh) is an open-source agent harness developed by DeepSeek AI.\nIt uses an architecture where everything is a plugin, and is powered by Cordis, whose design is described in _A Programming Paradigm for Spatiotemporal Composability_.\nDeveloper preview\nDee"
-    },
-    {
-      "id": 1333321333,
-      "full_name": "anywhere-labs/deepseek-harness-desktop",
-      "name": "deepseek-harness-desktop",
-      "owner": {
-        "login": "anywhere-labs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/286827603?v=4"
-      },
-      "html_url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "language": "TypeScript",
-      "stargazers_count": 15058,
-      "forks_count": 709,
-      "open_issues_count": 170,
-      "topics": [
-        "cordis",
-        "cordis-plugin",
-        "deepseek",
-        "deepseek-harness",
-        "desktop",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugin-desktop"
-      ],
-      "created_at": "2026-08-13T16:30:50Z",
-      "updated_at": "2026-08-19T18:34:04Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "DSH Desktop\n  基于 DeepSeek Harness 构建的 Windows 和 macOS 开源桌面客户端。\n  一键下载，开箱即用。\n  万物皆「插件」，桌面本身也是「插件」。\n独立的社区开源项目，与深度求索不存在隶属、合作、授权或背书关系。本仓库目前无深度求索员工或 DeepSeek Harness 上游官方团队成员参与；GitHub Contributors 中显示的上游贡献者来自 fork 继承和同步的提交历史。中文 · English\n  \n  \n  \n  \n  \n  \n  \n  \nDSH Desktop 将 DeepSeek Harness 的本地 Web UI、H"
-    },
-    {
-      "id": 1333175049,
-      "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "name": "awesome-dsh-plugin",
-      "owner": {
-        "login": "awesome-dsh-plugin",
-        "avatar_url": "https://avatars.githubusercontent.com/u/316603077?v=4"
-      },
-      "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "language": "Python",
-      "stargazers_count": 10010,
-      "forks_count": 1473,
-      "open_issues_count": 189,
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin"
-      ],
-      "created_at": "2026-08-13T13:55:31Z",
-      "updated_at": "2026-08-19T18:31:23Z",
-      "license": {
-        "spdx_id": "CC0-1.0",
-        "key": "cc0-1.0"
-      },
-      "readme_snippet": "Awesome DeepSeek Harness (DSH) Plugin  !awesome · DSH plugin !plugin count\nEnglish | 中文\n> A curated list of plugins for DeepSeek Harness (dsh).\nDeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding agent (Web and headless), built on a framework where everything is a plugin: mo"
-    },
     {
       "id": 1334586481,
       "full_name": "yjh051108/dsh-routing-suite",
@@ -104,12 +15,12 @@
       "html_url": "https://github.com/yjh051108/dsh-routing-suite",
       "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
       "language": "PowerShell",
-      "stargazers_count": 6283,
-      "forks_count": 112,
-      "open_issues_count": 47,
+      "stargazers_count": 6445,
+      "forks_count": 119,
+      "open_issues_count": 48,
       "topics": [],
       "created_at": "2026-08-14T21:20:55Z",
-      "updated_at": "2026-08-19T18:36:34Z",
+      "updated_at": "2026-08-20T18:13:16Z",
       "license": null,
       "readme_snippet": "dsh-routing-suite — 注入器 × 思维模式路由 套装\n一个仓库装齐「运行时手术台 + 思维模式路由预设」：先装注入器（免重启运行时管理层），\n再用它装配 router-standard 预设（任务感知思维模式路由，P1-P23 实测）。\n中文 | English\n安装链（三步）\n或手动：\n组件\n| 路径 | 仓库 | 版本 | 作用 |\n|---|---|---|---|\n| injector/ | dsh-super-injector | v0.3.3 | 运行时注入器：dev_* 工具全家桶（注入/热重载/侧挂转正/卸载/路由自愈） |\n| preset/ | dsh-r"
     },
@@ -124,8 +35,8 @@
       "html_url": "https://github.com/xiaobright/dsh-anchored-standard",
       "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
       "language": "JavaScript",
-      "stargazers_count": 3634,
-      "forks_count": 108,
+      "stargazers_count": 3678,
+      "forks_count": 110,
       "open_issues_count": 27,
       "topics": [
         "deepseek",
@@ -134,88 +45,12 @@
         "llm-agent"
       ],
       "created_at": "2026-08-14T14:06:39Z",
-      "updated_at": "2026-08-19T18:37:02Z",
+      "updated_at": "2026-08-20T18:41:40Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
       },
       "readme_snippet": "dsh-anchored-standard\n中文说明\nExperimental DeepSeek Harness agent presets — a base mode, two live-anchor\nvariants, and one seeded prefab mode — that anchor a session's model trajectory\non the Minimal condition\n(real Minimal tool schema, no auto-injected context), then promote to a small\nresident catalo"
-    },
-    {
-      "id": 1336933337,
-      "full_name": "yetone/cumora",
-      "name": "cumora",
-      "owner": {
-        "login": "yetone",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
-      },
-      "html_url": "https://github.com/yetone/cumora",
-      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-      "language": "TypeScript",
-      "stargazers_count": 2673,
-      "forks_count": 304,
-      "open_issues_count": 14,
-      "topics": [],
-      "created_at": "2026-08-17T09:13:52Z",
-      "updated_at": "2026-08-19T18:33:11Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Cumora\n> Where agent teams gather.\ncumora.ai · Web app · Latest release\nCumora is cross-platform team chat where AI agents are first-class participants alongside humans — same roster, same DMs, same group conversations, same Kanban board and calendar. Agents don't just answer when poked: they hold p"
-    },
-    {
-      "id": 1332959628,
-      "full_name": "cordiverse/paper",
-      "name": "paper",
-      "owner": {
-        "login": "cordiverse",
-        "avatar_url": "https://avatars.githubusercontent.com/u/152786899?v=4"
-      },
-      "html_url": "https://github.com/cordiverse/paper",
-      "description": "A Programming Paradigm for Spatiotemporal Composability",
-      "language": null,
-      "stargazers_count": 2383,
-      "forks_count": 101,
-      "open_issues_count": 0,
-      "topics": [],
-      "created_at": "2026-08-13T09:53:33Z",
-      "updated_at": "2026-08-19T17:45:55Z",
-      "license": null,
-      "readme_snippet": "A Programming Paradigm for Spatiotemporal Composability\nRead the paper (PDF) · Draft of August 13, 2026\n> This is a preprint under active revision. The content may change substantially; please cite the latest version and check back before relying on specific results.\nModern software---from plugin sy"
-    },
-    {
-      "id": 1333111893,
-      "full_name": "ccch1mneyyy/dsh-TUI",
-      "name": "dsh-TUI",
-      "owner": {
-        "login": "ccch1mneyyy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/268149062?v=4"
-      },
-      "html_url": "https://github.com/ccch1mneyyy/dsh-TUI",
-      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
-      "language": "TypeScript",
-      "stargazers_count": 2074,
-      "forks_count": 92,
-      "open_issues_count": 64,
-      "topics": [
-        "claude-code",
-        "coding-agent",
-        "deepseek",
-        "deepseek-harness",
-        "dsh-plugin",
-        "ink",
-        "react",
-        "terminal",
-        "tui"
-      ],
-      "created_at": "2026-08-13T12:49:31Z",
-      "updated_at": "2026-08-19T18:29:39Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "简体中文 | English\n  \n  \n  \n  \n  \n  \n  \n  \ndsh-TUI\n>一个美观且实用的 Claude Code 风格 TUI 插件：像素鲸鱼顶栏、双流光大字、实时工作状态行、思考流式展开、双击 Esc 时间回溯、蓝白上下文进度条 + TPS 仪表。\n>零核心改动，纯插件挂载。安装插件即可启用，卸载后不会留下核心补丁。\n>献给钟爱tui的各位极客们~\n>\n>A beautiful, practical Claude Code-style TUI plugin: pixel whale top bar, dual flowing-glow title, real-time"
     },
     {
       "id": 1338470635,
@@ -228,8 +63,8 @@
       "html_url": "https://github.com/s1dashu/ip-as-logo-skill",
       "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "language": null,
-      "stargazers_count": 1977,
-      "forks_count": 88,
+      "stargazers_count": 3004,
+      "forks_count": 145,
       "open_issues_count": 3,
       "topics": [
         "codex",
@@ -239,12 +74,181 @@
         "mascot-design"
       ],
       "created_at": "2026-08-18T13:59:23Z",
-      "updated_at": "2026-08-19T18:35:53Z",
+      "updated_at": "2026-08-20T18:40:26Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "IP as Logo\nip-as-logo is a compact Agent Skill for generating highly simplified company-ready mascot logos. It treats the result as a logo first and a character second: familiar cute animals by default, bold rounded silhouettes, strict complexity limits, oversized corner composition, and extremely s"
+      "readme_snippet": "IP as Logo\nip-as-logo is a compact Agent Skill for generating extremely simple, cute, company-ready IP mascots. It prioritizes lovable character appeal, bold rounded silhouettes, strict complexity limits, a dominant lower-corner composition, and a solid named background color.\nIt follows the open Ag"
+    },
+    {
+      "id": 1336933337,
+      "full_name": "yetone/cumora",
+      "name": "cumora",
+      "owner": {
+        "login": "yetone",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
+      },
+      "html_url": "https://github.com/yetone/cumora",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "language": "TypeScript",
+      "stargazers_count": 2769,
+      "forks_count": 325,
+      "open_issues_count": 3,
+      "topics": [],
+      "created_at": "2026-08-17T09:13:52Z",
+      "updated_at": "2026-08-20T18:11:05Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Cumora\n> Where agent teams gather.\ncumora.ai · Web app · Latest release\nCumora is cross-platform team chat where AI agents are first-class participants alongside humans — same roster, same DMs, same group conversations, same Kanban board and calendar. Agents don't just answer when poked: they hold p"
+    },
+    {
+      "id": 1333807290,
+      "full_name": "dsh-market/dsh-market",
+      "name": "dsh-market",
+      "owner": {
+        "login": "dsh-market",
+        "avatar_url": "https://avatars.githubusercontent.com/u/316826596?v=4"
+      },
+      "html_url": "https://github.com/dsh-market/dsh-market",
+      "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+      "language": "TypeScript",
+      "stargazers_count": 1440,
+      "forks_count": 85,
+      "open_issues_count": 32,
+      "topics": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "marketplace"
+      ],
+      "created_at": "2026-08-14T04:58:15Z",
+      "updated_at": "2026-08-20T18:12:39Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "dsh-market\nEnglish | 中文\n> dsh-market is independent of any particular client — it works in any host that speaks the standard DeepSeek Harness protocol. We're currently in discussions with anywhere-labs/deepseek-harness-desktop about future cooperation, and we'll share updates here as they happen. Us"
+    },
+    {
+      "id": 1336502227,
+      "full_name": "CopilotKit/OpenBot",
+      "name": "OpenBot",
+      "owner": {
+        "login": "CopilotKit",
+        "avatar_url": "https://avatars.githubusercontent.com/u/131273140?v=4"
+      },
+      "html_url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "language": "TypeScript",
+      "stargazers_count": 1407,
+      "forks_count": 147,
+      "open_issues_count": 27,
+      "topics": [
+        "ag-ui",
+        "agent-governance",
+        "ai-agents",
+        "browser-automation",
+        "copilotkit",
+        "generative-ui",
+        "mcp"
+      ],
+      "created_at": "2026-08-17T00:44:59Z",
+      "updated_at": "2026-08-20T18:41:06Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "OpenBot\nAI coworkers you can hand real work to, and actually trust with the access. Each gets a computer of its own: a real browser with its own logins, its own files, and only the tools you grant. Every action decided before it happens and recorded after.\ncopilotkit.ai/openbot · Quick start · Featu"
+    },
+    {
+      "id": 1337089243,
+      "full_name": "cinderline/northcinder",
+      "name": "northcinder",
+      "owner": {
+        "login": "cinderline",
+        "avatar_url": "https://avatars.githubusercontent.com/u/150383880?v=4"
+      },
+      "html_url": "https://github.com/cinderline/northcinder",
+      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "language": "JavaScript",
+      "stargazers_count": 1198,
+      "forks_count": 5,
+      "open_issues_count": 0,
+      "topics": [
+        "agentic-commerce",
+        "human-in-the-loop",
+        "local-first",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "privacy",
+        "self-hosted",
+        "shopping-agent",
+        "typescript"
+      ],
+      "created_at": "2026-08-17T11:42:31Z",
+      "updated_at": "2026-08-20T12:34:32Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "NorthCinder\nMake your shopping agent compare, explain, and ask before buying.\nNorthCinder is an open-source MCP server that helps an AI agent compare products against your brief. It\nreturns a ranked shortlist with reasons, reports which stores it could and could not search, and requires a\nseparate a"
+    },
+    {
+      "id": 1333884889,
+      "full_name": "ZSvirt/zsvirt",
+      "name": "zsvirt",
+      "owner": {
+        "login": "ZSvirt",
+        "avatar_url": "https://avatars.githubusercontent.com/u/312406847?v=4"
+      },
+      "html_url": "https://github.com/ZSvirt/zsvirt",
+      "description": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
+      "language": "Java",
+      "stargazers_count": 1132,
+      "forks_count": 156,
+      "open_issues_count": 0,
+      "topics": [
+        "cloud-native",
+        "hypervisor",
+        "infrastructure",
+        "kvm",
+        "proxmox",
+        "virtual-machine",
+        "virtualization",
+        "vm",
+        "vmware-labs",
+        "vsphere"
+      ],
+      "created_at": "2026-08-14T06:47:26Z",
+      "updated_at": "2026-08-20T18:26:38Z",
+      "license": {
+        "spdx_id": "GPL-3.0",
+        "key": "gpl-3.0"
+      },
+      "readme_snippet": "Open Source Virtualization\n    \n    Enterprise Ready, Community Driven\n  \n  \n    \n      \n    \n    \n      \n    \n    \n      \n    \n    \n      \n    \n  \n  \n    English\n    &nbsp;&middot;&nbsp;\n    简体中文\n  \nWhat is ZSvirt\nZSvirt brings ZStack's enterprise-proven ZSphere virtualization engine into the open-"
+    },
+    {
+      "id": 1333742677,
+      "full_name": "alchaincyf/deepseek-harness-orange-book",
+      "name": "deepseek-harness-orange-book",
+      "owner": {
+        "login": "alchaincyf",
+        "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+      },
+      "html_url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+      "description": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
+      "language": "HTML",
+      "stargazers_count": 1099,
+      "forks_count": 98,
+      "open_issues_count": 6,
+      "topics": [],
+      "created_at": "2026-08-14T03:14:33Z",
+      "updated_at": "2026-08-20T15:58:44Z",
+      "license": null,
+      "readme_snippet": "中文 | English summary\n  \nDeepSeek Harness：从开机到拆开\n> 橙皮书系列 · 花叔 著 · v260814（2026年8月14日）\n一个不写代码的人，把一个刚出厂24小时的agent框架装在自己机器上跑穿了。这本书记录它此刻的样子。\n2026年8月13日，DeepSeek开源了agent框架Harness（MIT协议，发布当天开源）。官方发布稿的主语从头到尾是「它」——它怎么造的、它是什么架构。而这本书把主语换回「我」：我装上之后第一件事干什么、会不会花我的钱、会不会动我硬盘上别的文件。\n🎬 15秒发布动画\n  \n  使用DeepSeek官方VI · 由"
     }
   ]
 }
