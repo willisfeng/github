@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-25T18:42:08.619Z",
-  "query_date_range": "2026-08-18 ~ 2026-08-25",
-  "total_found": 2469263,
+  "updated_at": "2026-08-26T19:49:55.847Z",
+  "query_date_range": "2026-08-19 ~ 2026-08-26",
+  "total_found": 2514615,
   "count": 9,
   "repos": [
     {
@@ -15,9 +15,9 @@
       "html_url": "https://github.com/MengTo/threeui",
       "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
       "language": "HTML",
-      "stargazers_count": 3866,
-      "forks_count": 380,
-      "open_issues_count": 4,
+      "stargazers_count": 4158,
+      "forks_count": 417,
+      "open_issues_count": 3,
       "topics": [
         "react",
         "shaders",
@@ -26,12 +26,12 @@
         "webgl"
       ],
       "created_at": "2026-08-21T11:56:39Z",
-      "updated_at": "2026-08-25T18:27:57Z",
+      "updated_at": "2026-08-26T19:29:29Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "ThreeUI Community\nThe open-source, login-free edition of ThreeUI. It uses the same application shell, layout, navigation, browse grid, search, themes, responsive behavior, component pages, live renderers, controls, variant picker, and source tabs as the main project.\nThe catalog is the only product-"
+      "readme_snippet": "ThreeUI Community\n> Sponsor ThreeUI: Linked README placements start at $500/month, with website placements from $1,500/month. View sponsorship plans.\nThe open-source, login-free edition of ThreeUI. It uses the same application shell, layout, navigation, browse grid, search, themes, responsive behavi"
     },
     {
       "id": 1344208527,
@@ -44,12 +44,12 @@
       "html_url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
       "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
       "language": "TypeScript",
-      "stargazers_count": 2471,
-      "forks_count": 2796,
-      "open_issues_count": 12,
+      "stargazers_count": 2915,
+      "forks_count": 3087,
+      "open_issues_count": 14,
       "topics": [],
       "created_at": "2026-08-23T20:53:01Z",
-      "updated_at": "2026-08-25T18:36:05Z",
+      "updated_at": "2026-08-26T19:45:29Z",
       "license": null,
       "readme_snippet": "Grok Bot 0.18 — reconstructed and extended\n!Grok Bot Router settings with Codex selected and local usage totals\nThis repository is an unofficial, source-oriented reconstruction of the\npublicly shipped Grok Bot 0.18.0 macOS app.\nThe project began as an attempt to understand how the desktop app was pu"
     },
@@ -64,12 +64,12 @@
       "html_url": "https://github.com/tobi/walgit",
       "description": null,
       "language": "Rust",
-      "stargazers_count": 1472,
-      "forks_count": 80,
-      "open_issues_count": 3,
+      "stargazers_count": 1935,
+      "forks_count": 100,
+      "open_issues_count": 7,
       "topics": [],
       "created_at": "2026-08-23T22:28:01Z",
-      "updated_at": "2026-08-25T18:38:44Z",
+      "updated_at": "2026-08-26T19:47:29Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -87,8 +87,8 @@
       "html_url": "https://github.com/duty1g/x64dbg-mcp-server",
       "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "language": "Zig",
-      "stargazers_count": 1359,
-      "forks_count": 134,
+      "stargazers_count": 1462,
+      "forks_count": 142,
       "open_issues_count": 0,
       "topics": [
         "ai-agents",
@@ -112,41 +112,12 @@
         "ziglang"
       ],
       "created_at": "2026-08-22T14:28:41Z",
-      "updated_at": "2026-08-25T18:35:26Z",
+      "updated_at": "2026-08-26T19:38:01Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "x64dbg-MCP Server\nMCP-powered agentic reverse engineering for x64dbg.\n  \n  \n  \n  \n  \n  \n  \n  \n  Features •\n  Install •\n  Usage •\n  Tools •\n  Configuration •\n  Building •\n  Structure\nx64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full function"
-    },
-    {
-      "id": 1340743476,
-      "full_name": "cclank/lanshu-create-ai-presenter-video",
-      "name": "lanshu-create-ai-presenter-video",
-      "owner": {
-        "login": "cclank",
-        "avatar_url": "https://avatars.githubusercontent.com/u/29557585?v=4"
-      },
-      "html_url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "language": "Python",
-      "stargazers_count": 907,
-      "forks_count": 162,
-      "open_issues_count": 0,
-      "topics": [
-        "ai-video",
-        "codex",
-        "codex-skill",
-        "digital-human",
-        "video-generation"
-      ],
-      "created_at": "2026-08-20T13:40:06Z",
-      "updated_at": "2026-08-25T18:33:47Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "lanshu-create-ai-presenter-video\n!Codex Skill\n!Provider Neutral\n一个面向 Codex 的通用数字人视频制作 Skill。输入主题或文案与授权人物图后，它会组织文案、配音、人物生成、口型校准、字幕与关键词动效、剪辑、渲染和质量验收。\n它按能力选择当前环境可用的工具，项目源码不绑定服务商、模型名称或私有接口。\n最少需要提供什么\n1. 一个主题或一份完整文案。\n2. 一张经过授权、包含清晰成年人物的参考图。\n可选输入包括声音样本、屏幕录制、图片、B-roll、品牌素材、目标平台、时长、横竖屏、风格、水印和结尾引导。\n安装\n安装后的 Sk"
     },
     {
       "id": 1342930695,
@@ -159,8 +130,8 @@
       "html_url": "https://github.com/nateherkai/scroll-craft",
       "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
       "language": "JavaScript",
-      "stargazers_count": 852,
-      "forks_count": 135,
+      "stargazers_count": 991,
+      "forks_count": 160,
       "open_issues_count": 1,
       "topics": [
         "accessibility",
@@ -180,12 +151,73 @@
         "web-design"
       ],
       "created_at": "2026-08-22T15:25:08Z",
-      "updated_at": "2026-08-25T18:38:36Z",
+      "updated_at": "2026-08-26T19:40:20Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "scrollcraft\nA Claude Code skill that builds premium, scroll-driven websites, and holds them to a real design standard.\nMost AI website output fails in one of two directions. It is either well behaved and forgettable, or it is a flashy scroll animation with 2.1:1 body text, a headline that wraps to s"
+    },
+    {
+      "id": 1340743476,
+      "full_name": "cclank/lanshu-create-ai-presenter-video",
+      "name": "lanshu-create-ai-presenter-video",
+      "owner": {
+        "login": "cclank",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29557585?v=4"
+      },
+      "html_url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "language": "Python",
+      "stargazers_count": 937,
+      "forks_count": 171,
+      "open_issues_count": 1,
+      "topics": [
+        "ai-video",
+        "codex",
+        "codex-skill",
+        "digital-human",
+        "video-generation"
+      ],
+      "created_at": "2026-08-20T13:40:06Z",
+      "updated_at": "2026-08-26T18:27:07Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "lanshu-create-ai-presenter-video\n!Codex Skill\n!Provider Neutral\n一个面向 Codex 的通用数字人视频制作 Skill。输入主题或文案与授权人物图后，它会组织文案、配音、人物生成、口型校准、字幕与关键词动效、剪辑、渲染和质量验收。\n它按能力选择当前环境可用的工具，项目源码不绑定服务商、模型名称或私有接口。\n最少需要提供什么\n1. 一个主题或一份完整文案。\n2. 一张经过授权、包含清晰成年人物的参考图。\n可选输入包括声音样本、屏幕录制、图片、B-roll、品牌素材、目标平台、时长、横竖屏、风格、水印和结尾引导。\n安装\n安装后的 Sk"
+    },
+    {
+      "id": 1342461518,
+      "full_name": "ApodexAI/FrontierAgent",
+      "name": "FrontierAgent",
+      "owner": {
+        "login": "ApodexAI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/276468590?v=4"
+      },
+      "html_url": "https://github.com/ApodexAI/FrontierAgent",
+      "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+      "language": "Python",
+      "stargazers_count": 904,
+      "forks_count": 80,
+      "open_issues_count": 1,
+      "topics": [
+        "agent-orchestration",
+        "agentic-ai",
+        "agentic-framework",
+        "ai-agents",
+        "harness",
+        "multi-agent",
+        "terminal-agent",
+        "tui"
+      ],
+      "created_at": "2026-08-22T05:07:35Z",
+      "updated_at": "2026-08-26T19:18:51Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "Tech Blog ·\n  Tech Report\nFrontierAgent\nFrontierAgent is an open-source agent runtime, terminal product, and evaluation\nsuite for long-horizon research and file-based work. The frontier-agent TUI\nships two native workflows:\n- ReAct — one stateful agent researches, reads files, writes deliverables,\n "
     },
     {
       "id": 1344223757,
@@ -198,8 +230,8 @@
       "html_url": "https://github.com/ShadowAqueduct/watermark-remover",
       "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
       "language": "Python",
-      "stargazers_count": 789,
-      "forks_count": 75,
+      "stargazers_count": 798,
+      "forks_count": 76,
       "open_issues_count": 6,
       "topics": [
         "claude-ai",
@@ -213,7 +245,7 @@
         "watermark"
       ],
       "created_at": "2026-08-23T21:14:28Z",
-      "updated_at": "2026-08-25T14:35:16Z",
+      "updated_at": "2026-08-26T18:39:35Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -221,47 +253,35 @@
       "readme_snippet": "watermarks-remover\nAgent skill + stdlib Python service that strips multi-vendor AI provenance marks from text and files. For privacy and hygiene on content you own.\nThe skill is a thin HTTP client — the agent host needs no Python. All work runs in the service.\nAuthor: ShadowAqueduct\nLatest release: "
     },
     {
-      "id": 1339208118,
-      "full_name": "missuo/herdrm",
-      "name": "herdrm",
+      "id": 1344425591,
+      "full_name": "bryllim/workout-guide",
+      "name": "workout-guide",
       "owner": {
-        "login": "missuo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/55200481?v=4"
+        "login": "bryllim",
+        "avatar_url": "https://avatars.githubusercontent.com/u/37092544?v=4"
       },
-      "html_url": "https://github.com/missuo/herdrm",
-      "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
-      "language": "Swift",
-      "stargazers_count": 630,
-      "forks_count": 39,
-      "open_issues_count": 9,
-      "topics": [],
-      "created_at": "2026-08-19T06:55:39Z",
-      "updated_at": "2026-08-25T17:53:20Z",
-      "license": null,
-      "readme_snippet": "The native macOS console for herdr — see Claude Code, Codex,\n  Gemini, Grok and OpenCode across your Mac and every SSH box you own, and jump into any one\n  of them at full-TUI fidelity.\n  \n  \n  \n  \n  \n  What it does ·\n  Why herdrm? ·\n  Install ·\n  Quick Start ·\n  Architecture\n---\n  \n✨ What it does\nh"
-    },
-    {
-      "id": 1339742577,
-      "full_name": "amagine-ai/Amagine3D",
-      "name": "Amagine3D",
-      "owner": {
-        "login": "amagine-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/285729589?v=4"
-      },
-      "html_url": "https://github.com/amagine-ai/Amagine3D",
-      "description": "Amagine3D: From hardware requirements to editable 3D designs",
-      "language": "TypeScript",
-      "stargazers_count": 556,
-      "forks_count": 29,
-      "open_issues_count": 4,
-      "topics": [],
-      "created_at": "2026-08-19T15:31:34Z",
-      "updated_at": "2026-08-25T17:53:57Z",
+      "html_url": "https://github.com/bryllim/workout-guide",
+      "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
+      "language": "Astro",
+      "stargazers_count": 791,
+      "forks_count": 125,
+      "open_issues_count": 0,
+      "topics": [
+        "exercise",
+        "expo",
+        "fitness",
+        "npm-package",
+        "open-source",
+        "react-native",
+        "workout"
+      ],
+      "created_at": "2026-08-24T02:14:20Z",
+      "updated_at": "2026-08-26T19:49:12Z",
       "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
+        "spdx_id": "MIT",
+        "key": "mit"
       },
-      "readme_snippet": "Amagine3D\nFrom hardware requirements to editable 3D designs\n  Amagine3D is the open-source 3D capability layer Amagine is developing for hardware creation.\n  Give it a product description and reference images, add the key dimensions, and Amagine3D can design an enclosure and assembly structures arou"
+      "readme_snippet": "Workout Guide\nAn open exercise illustration library containing 302 exercises, three consistent frames per exercise, a typed framework-neutral npm package, and a searchable static gallery.\nThe original pose artwork used by this project comes from Everkinetic under CC BY-SA 4.0. Bryl Lim expanded upon"
     }
   ]
 }
