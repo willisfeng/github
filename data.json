@@ -1,38 +1,9 @@
 {
-  "updated_at": "2026-08-26T19:49:55.847Z",
-  "query_date_range": "2026-08-19 ~ 2026-08-26",
-  "total_found": 2514615,
+  "updated_at": "2026-08-28T02:05:12.977Z",
+  "query_date_range": "2026-08-21 ~ 2026-08-28",
+  "total_found": 2268991,
   "count": 9,
   "repos": [
-    {
-      "id": 1341759590,
-      "full_name": "MengTo/threeui",
-      "name": "threeui",
-      "owner": {
-        "login": "MengTo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1065452?v=4"
-      },
-      "html_url": "https://github.com/MengTo/threeui",
-      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
-      "language": "HTML",
-      "stargazers_count": 4158,
-      "forks_count": 417,
-      "open_issues_count": 3,
-      "topics": [
-        "react",
-        "shaders",
-        "threejs",
-        "ui-components",
-        "webgl"
-      ],
-      "created_at": "2026-08-21T11:56:39Z",
-      "updated_at": "2026-08-26T19:29:29Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "ThreeUI Community\n> Sponsor ThreeUI: Linked README placements start at $500/month, with website placements from $1,500/month. View sponsorship plans.\nThe open-source, login-free edition of ThreeUI. It uses the same application shell, layout, navigation, browse grid, search, themes, responsive behavi"
-    },
     {
       "id": 1344208527,
       "full_name": "b-nnett/grok-bot-0.18-reconstructed",
@@ -44,12 +15,12 @@
       "html_url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
       "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
       "language": "TypeScript",
-      "stargazers_count": 2915,
-      "forks_count": 3087,
+      "stargazers_count": 3351,
+      "forks_count": 3243,
       "open_issues_count": 14,
       "topics": [],
       "created_at": "2026-08-23T20:53:01Z",
-      "updated_at": "2026-08-26T19:45:29Z",
+      "updated_at": "2026-08-28T02:03:54Z",
       "license": null,
       "readme_snippet": "Grok Bot 0.18 — reconstructed and extended\n!Grok Bot Router settings with Codex selected and local usage totals\nThis repository is an unofficial, source-oriented reconstruction of the\npublicly shipped Grok Bot 0.18.0 macOS app.\nThe project began as an attempt to understand how the desktop app was pu"
     },
@@ -64,12 +35,12 @@
       "html_url": "https://github.com/tobi/walgit",
       "description": null,
       "language": "Rust",
-      "stargazers_count": 1935,
-      "forks_count": 100,
-      "open_issues_count": 7,
+      "stargazers_count": 2249,
+      "forks_count": 118,
+      "open_issues_count": 19,
       "topics": [],
       "created_at": "2026-08-23T22:28:01Z",
-      "updated_at": "2026-08-26T19:47:29Z",
+      "updated_at": "2026-08-28T01:59:03Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -87,8 +58,8 @@
       "html_url": "https://github.com/duty1g/x64dbg-mcp-server",
       "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "language": "Zig",
-      "stargazers_count": 1462,
-      "forks_count": 142,
+      "stargazers_count": 1552,
+      "forks_count": 157,
       "open_issues_count": 0,
       "topics": [
         "ai-agents",
@@ -112,12 +83,64 @@
         "ziglang"
       ],
       "created_at": "2026-08-22T14:28:41Z",
-      "updated_at": "2026-08-26T19:38:01Z",
+      "updated_at": "2026-08-28T02:04:36Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "x64dbg-MCP Server\nMCP-powered agentic reverse engineering for x64dbg.\n  \n  \n  \n  \n  \n  \n  \n  \n  Features •\n  Install •\n  Usage •\n  Tools •\n  Configuration •\n  Building •\n  Structure\nx64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full function"
+    },
+    {
+      "id": 1348410551,
+      "full_name": "HEJustinSun/my-girlfriend-jingtian-latex",
+      "name": "my-girlfriend-jingtian-latex",
+      "owner": {
+        "login": "HEJustinSun",
+        "avatar_url": "https://avatars.githubusercontent.com/u/320896847?v=4"
+      },
+      "html_url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
+      "description": null,
+      "language": "TeX",
+      "stargazers_count": 1484,
+      "forks_count": 290,
+      "open_issues_count": 225,
+      "topics": [],
+      "created_at": "2026-08-27T11:28:44Z",
+      "updated_at": "2026-08-28T02:03:35Z",
+      "license": null,
+      "readme_snippet": "我的女友景甜\n这是一个 5 x 8 英寸的 XeLaTeX 排版工程。\n编译\n需要 XeLaTeX 和标准 TeX Live 发行版："
+    },
+    {
+      "id": 1342461518,
+      "full_name": "ApodexAI/FrontierAgent",
+      "name": "FrontierAgent",
+      "owner": {
+        "login": "ApodexAI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/276468590?v=4"
+      },
+      "html_url": "https://github.com/ApodexAI/FrontierAgent",
+      "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+      "language": "Python",
+      "stargazers_count": 1135,
+      "forks_count": 95,
+      "open_issues_count": 3,
+      "topics": [
+        "agent-orchestration",
+        "agentic-ai",
+        "agentic-framework",
+        "ai-agents",
+        "harness",
+        "multi-agent",
+        "terminal-agent",
+        "tui"
+      ],
+      "created_at": "2026-08-22T05:07:35Z",
+      "updated_at": "2026-08-28T02:03:30Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "Tech Blog ·\n  Tech Report\nFrontierAgent\nFrontierAgent is an open-source agent runtime, terminal product, and evaluation\nsuite for long-horizon research and file-based work. The frontier-agent TUI\nships two native workflows:\n- ReAct — one stateful agent researches, reads files, writes deliverables,\n "
     },
     {
       "id": 1342930695,
@@ -130,9 +153,9 @@
       "html_url": "https://github.com/nateherkai/scroll-craft",
       "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
       "language": "JavaScript",
-      "stargazers_count": 991,
-      "forks_count": 160,
-      "open_issues_count": 1,
+      "stargazers_count": 1104,
+      "forks_count": 179,
+      "open_issues_count": 2,
       "topics": [
         "accessibility",
         "agent-skills",
@@ -151,7 +174,7 @@
         "web-design"
       ],
       "created_at": "2026-08-22T15:25:08Z",
-      "updated_at": "2026-08-26T19:40:20Z",
+      "updated_at": "2026-08-28T01:57:58Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -159,65 +182,55 @@
       "readme_snippet": "scrollcraft\nA Claude Code skill that builds premium, scroll-driven websites, and holds them to a real design standard.\nMost AI website output fails in one of two directions. It is either well behaved and forgettable, or it is a flashy scroll animation with 2.1:1 body text, a headline that wraps to s"
     },
     {
-      "id": 1340743476,
-      "full_name": "cclank/lanshu-create-ai-presenter-video",
-      "name": "lanshu-create-ai-presenter-video",
+      "id": 1344425591,
+      "full_name": "bryllim/workout-guide",
+      "name": "workout-guide",
       "owner": {
-        "login": "cclank",
-        "avatar_url": "https://avatars.githubusercontent.com/u/29557585?v=4"
+        "login": "bryllim",
+        "avatar_url": "https://avatars.githubusercontent.com/u/37092544?v=4"
       },
-      "html_url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "language": "Python",
-      "stargazers_count": 937,
-      "forks_count": 171,
-      "open_issues_count": 1,
+      "html_url": "https://github.com/bryllim/workout-guide",
+      "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
+      "language": "Astro",
+      "stargazers_count": 931,
+      "forks_count": 146,
+      "open_issues_count": 0,
       "topics": [
-        "ai-video",
-        "codex",
-        "codex-skill",
-        "digital-human",
-        "video-generation"
+        "exercise",
+        "expo",
+        "fitness",
+        "npm-package",
+        "open-source",
+        "react-native",
+        "workout"
       ],
-      "created_at": "2026-08-20T13:40:06Z",
-      "updated_at": "2026-08-26T18:27:07Z",
+      "created_at": "2026-08-24T02:14:20Z",
+      "updated_at": "2026-08-28T00:44:03Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "lanshu-create-ai-presenter-video\n!Codex Skill\n!Provider Neutral\n一个面向 Codex 的通用数字人视频制作 Skill。输入主题或文案与授权人物图后，它会组织文案、配音、人物生成、口型校准、字幕与关键词动效、剪辑、渲染和质量验收。\n它按能力选择当前环境可用的工具，项目源码不绑定服务商、模型名称或私有接口。\n最少需要提供什么\n1. 一个主题或一份完整文案。\n2. 一张经过授权、包含清晰成年人物的参考图。\n可选输入包括声音样本、屏幕录制、图片、B-roll、品牌素材、目标平台、时长、横竖屏、风格、水印和结尾引导。\n安装\n安装后的 Sk"
+      "readme_snippet": "Workout Guide\nAn open exercise illustration library containing 302 exercises, three consistent frames per exercise, a typed framework-neutral npm package, and a searchable static gallery.\nThe original pose artwork used by this project comes from Everkinetic under CC BY-SA 4.0. Bryl Lim expanded upon"
     },
     {
-      "id": 1342461518,
-      "full_name": "ApodexAI/FrontierAgent",
-      "name": "FrontierAgent",
+      "id": 1346970181,
+      "full_name": "wide-trace/open-higgsfield",
+      "name": "open-higgsfield",
       "owner": {
-        "login": "ApodexAI",
-        "avatar_url": "https://avatars.githubusercontent.com/u/276468590?v=4"
+        "login": "wide-trace",
+        "avatar_url": "https://avatars.githubusercontent.com/u/321257738?v=4"
       },
-      "html_url": "https://github.com/ApodexAI/FrontierAgent",
-      "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-      "language": "Python",
-      "stargazers_count": 904,
-      "forks_count": 80,
-      "open_issues_count": 1,
-      "topics": [
-        "agent-orchestration",
-        "agentic-ai",
-        "agentic-framework",
-        "ai-agents",
-        "harness",
-        "multi-agent",
-        "terminal-agent",
-        "tui"
-      ],
-      "created_at": "2026-08-22T05:07:35Z",
-      "updated_at": "2026-08-26T19:18:51Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "Tech Blog ·\n  Tech Report\nFrontierAgent\nFrontierAgent is an open-source agent runtime, terminal product, and evaluation\nsuite for long-horizon research and file-based work. The frontier-agent TUI\nships two native workflows:\n- ReAct — one stateful agent researches, reads files, writes deliverables,\n "
+      "html_url": "https://github.com/wide-trace/open-higgsfield",
+      "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "language": "TypeScript",
+      "stargazers_count": 829,
+      "forks_count": 5,
+      "open_issues_count": 0,
+      "topics": [],
+      "created_at": "2026-08-26T06:09:58Z",
+      "updated_at": "2026-08-28T02:04:07Z",
+      "license": null,
+      "readme_snippet": "OpenHiggsfield AI — Open-Source Alternative to Higgsfield AI\n> The free, open-source alternative to Higgsfield AI. Generate images and\n> videos with 40 models from one prompt bar — no closed ecosystem, no studio\n> subscription.\n🌐 Try it Online — No Install Required\nHosted version: openhiggsfield.ai"
     },
     {
       "id": 1344223757,
@@ -230,8 +243,8 @@
       "html_url": "https://github.com/ShadowAqueduct/watermark-remover",
       "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
       "language": "Python",
-      "stargazers_count": 798,
-      "forks_count": 76,
+      "stargazers_count": 820,
+      "forks_count": 78,
       "open_issues_count": 6,
       "topics": [
         "claude-ai",
@@ -245,43 +258,12 @@
         "watermark"
       ],
       "created_at": "2026-08-23T21:14:28Z",
-      "updated_at": "2026-08-26T18:39:35Z",
+      "updated_at": "2026-08-28T01:58:46Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "watermarks-remover\nAgent skill + stdlib Python service that strips multi-vendor AI provenance marks from text and files. For privacy and hygiene on content you own.\nThe skill is a thin HTTP client — the agent host needs no Python. All work runs in the service.\nAuthor: ShadowAqueduct\nLatest release: "
-    },
-    {
-      "id": 1344425591,
-      "full_name": "bryllim/workout-guide",
-      "name": "workout-guide",
-      "owner": {
-        "login": "bryllim",
-        "avatar_url": "https://avatars.githubusercontent.com/u/37092544?v=4"
-      },
-      "html_url": "https://github.com/bryllim/workout-guide",
-      "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
-      "language": "Astro",
-      "stargazers_count": 791,
-      "forks_count": 125,
-      "open_issues_count": 0,
-      "topics": [
-        "exercise",
-        "expo",
-        "fitness",
-        "npm-package",
-        "open-source",
-        "react-native",
-        "workout"
-      ],
-      "created_at": "2026-08-24T02:14:20Z",
-      "updated_at": "2026-08-26T19:49:12Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Workout Guide\nAn open exercise illustration library containing 302 exercises, three consistent frames per exercise, a typed framework-neutral npm package, and a searchable static gallery.\nThe original pose artwork used by this project comes from Everkinetic under CC BY-SA 4.0. Bryl Lim expanded upon"
     }
   ]
 }
