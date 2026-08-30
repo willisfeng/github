@@ -1,49 +1,9 @@
 {
-  "updated_at": "2026-08-29T20:37:46.673Z",
-  "query_date_range": "2026-08-22 ~ 2026-08-29",
-  "total_found": 2514016,
+  "updated_at": "2026-08-30T20:45:04.452Z",
+  "query_date_range": "2026-08-23 ~ 2026-08-30",
+  "total_found": 2399985,
   "count": 9,
   "repos": [
-    {
-      "id": 1348410551,
-      "full_name": "HEJustinSun/my-girlfriend-jingtian-latex",
-      "name": "my-girlfriend-jingtian-latex",
-      "owner": {
-        "login": "HEJustinSun",
-        "avatar_url": "https://avatars.githubusercontent.com/u/320896847?v=4"
-      },
-      "html_url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
-      "description": null,
-      "language": "TeX",
-      "stargazers_count": 3883,
-      "forks_count": 620,
-      "open_issues_count": 511,
-      "topics": [],
-      "created_at": "2026-08-27T11:28:44Z",
-      "updated_at": "2026-08-29T20:35:01Z",
-      "license": null,
-      "readme_snippet": "我的女友景甜\n这是一个 5 x 8 英寸的 XeLaTeX 排版工程。\n编译\n需要 XeLaTeX 和标准 TeX Live 发行版："
-    },
-    {
-      "id": 1344208527,
-      "full_name": "b-nnett/grok-bot-0.18-reconstructed",
-      "name": "grok-bot-0.18-reconstructed",
-      "owner": {
-        "login": "b-nnett",
-        "avatar_url": "https://avatars.githubusercontent.com/u/62760393?v=4"
-      },
-      "html_url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
-      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "language": "TypeScript",
-      "stargazers_count": 3429,
-      "forks_count": 3368,
-      "open_issues_count": 14,
-      "topics": [],
-      "created_at": "2026-08-23T20:53:01Z",
-      "updated_at": "2026-08-29T20:36:55Z",
-      "license": null,
-      "readme_snippet": "Grok Bot 0.18 — reconstructed and extended\n!Grok Bot Router settings with Codex selected and local usage totals\nThis repository is an unofficial, source-oriented reconstruction of the\npublicly shipped Grok Bot 0.18.0 macOS app.\nThe project began as an attempt to understand how the desktop app was pu"
-    },
     {
       "id": 1348577064,
       "full_name": "sapientinc/PRAXIST",
@@ -55,12 +15,12 @@
       "html_url": "https://github.com/sapientinc/PRAXIST",
       "description": "Autonomous research system for measurable, computer-executable research.",
       "language": "Python",
-      "stargazers_count": 2922,
-      "forks_count": 257,
+      "stargazers_count": 4517,
+      "forks_count": 364,
       "open_issues_count": 4,
       "topics": [],
       "created_at": "2026-08-27T14:20:58Z",
-      "updated_at": "2026-08-29T20:37:01Z",
+      "updated_at": "2026-08-30T20:26:56Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
@@ -68,27 +28,95 @@
       "readme_snippet": "Praxist: meet your personal R&amp;D team\n  \n  \n  \n  \n  \nPraxist is an autonomous research system for measurable, computer-executable\nresearch. It coordinates parallel research peers, task-owned evaluation,\ndurable evidence, and generation-to-generation synthesis.\nPraxist treats research as a persist"
     },
     {
-      "id": 1344273611,
-      "full_name": "tobi/walgit",
-      "name": "walgit",
+      "id": 1348410551,
+      "full_name": "HEJustinSun/my-girlfriend-jingtian-latex",
+      "name": "my-girlfriend-jingtian-latex",
       "owner": {
-        "login": "tobi",
-        "avatar_url": "https://avatars.githubusercontent.com/u/347?v=4"
+        "login": "HEJustinSun",
+        "avatar_url": "https://avatars.githubusercontent.com/u/320896847?v=4"
       },
-      "html_url": "https://github.com/tobi/walgit",
+      "html_url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
       "description": null,
-      "language": "Rust",
-      "stargazers_count": 2321,
-      "forks_count": 125,
-      "open_issues_count": 24,
+      "language": "TeX",
+      "stargazers_count": 4138,
+      "forks_count": 650,
+      "open_issues_count": 532,
       "topics": [],
-      "created_at": "2026-08-23T22:28:01Z",
-      "updated_at": "2026-08-29T19:47:27Z",
+      "created_at": "2026-08-27T11:28:44Z",
+      "updated_at": "2026-08-30T20:06:37Z",
+      "license": null,
+      "readme_snippet": "我的女友景甜\n这是一个 5 x 8 英寸的 XeLaTeX 排版工程。\n编译\n需要 XeLaTeX 和标准 TeX Live 发行版："
+    },
+    {
+      "id": 1349601607,
+      "full_name": "XiaoDuoYa/codex-with-chatgpt",
+      "name": "codex-with-chatgpt",
+      "owner": {
+        "login": "XiaoDuoYa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/113528266?v=4"
+      },
+      "html_url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "language": "TypeScript",
+      "stargazers_count": 1337,
+      "forks_count": 151,
+      "open_issues_count": 2,
+      "topics": [
+        "ai-agents",
+        "chatgpt",
+        "codex",
+        "mcp",
+        "model-context-protocol",
+        "oauth"
+      ],
+      "created_at": "2026-08-28T12:57:24Z",
+      "updated_at": "2026-08-30T20:43:54Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "walgit — a git server that is one binary in front of an object store\nwalgit hosts git repositories with no database, no leader and no local state that matters. You run a\nsingle binary, point it at an S3 or GCS bucket, and you have: smart HTTP (v0/v2) fetch and push, bundle-uri\nclones served as stati"
+      "readme_snippet": "Codex with ChatGPT\n> ChatGPT thinks. Codex works.\n> ChatGPT 负责思考，Codex 负责干活。\n> [!IMPORTANT]\n> 遇到问题？ 请先向 Codex 发送 「更新 Codex with ChatGPT」 并重试。更新到最新版本可以解决大多数已知问题。  \n> Having trouble? First ask Codex to “Update Codex with ChatGPT” and try again. Updating to the latest version resolves most known issues"
+    },
+    {
+      "id": 1349354292,
+      "full_name": "MetaMask-AI/metamask-desktop",
+      "name": "metamask-desktop",
+      "owner": {
+        "login": "MetaMask-AI",
+        "avatar_url": "https://avatars.githubusercontent.com/u/306329710?v=4"
+      },
+      "html_url": "https://github.com/MetaMask-AI/metamask-desktop",
+      "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+      "language": "CSS",
+      "stargazers_count": 1132,
+      "forks_count": 91,
+      "open_issues_count": 1,
+      "topics": [
+        "bitcoin",
+        "bitcoin-wallet",
+        "crypto",
+        "cryptocoins",
+        "cryptocompare-api",
+        "cryptocurrency",
+        "dapp",
+        "ethereum",
+        "ethereum-blockchain",
+        "ethereum-wallet",
+        "evm",
+        "evm-wallet",
+        "macos",
+        "metamask",
+        "metamask-dapp",
+        "metamask-desktop",
+        "metamask-io",
+        "solana",
+        "web3",
+        "windows"
+      ],
+      "created_at": "2026-08-28T08:07:10Z",
+      "updated_at": "2026-08-30T20:44:41Z",
+      "license": null,
+      "readme_snippet": "MetaMask Desktop Wallet for Windows, macOS and Linux\nOverview\nMetaMask Desktop is a cross-platform desktop application for managing a cryptocurrency wallet, interacting with Web3 applications, and accessing decentralized ecosystems such as DeFi and NFTs.\nThe project provides a desktop-first alternat"
     },
     {
       "id": 1346970181,
@@ -101,12 +129,12 @@
       "html_url": "https://github.com/wide-trace/open-higgsfield",
       "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
       "language": "TypeScript",
-      "stargazers_count": 1064,
-      "forks_count": 13,
+      "stargazers_count": 1076,
+      "forks_count": 15,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-08-26T06:09:58Z",
-      "updated_at": "2026-08-29T20:27:52Z",
+      "updated_at": "2026-08-30T20:29:49Z",
       "license": null,
       "readme_snippet": "OpenHiggsfield AI — Open-Source Alternative to Higgsfield AI\n> The free, open-source alternative to Higgsfield AI. Generate images and\n> videos with 40 models from one prompt bar — no closed ecosystem, no studio\n> subscription.\n🌐 Try it Online — No Install Required\nHosted version: openhiggsfield.ai"
     },
@@ -121,8 +149,8 @@
       "html_url": "https://github.com/bryllim/workout-guide",
       "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
       "language": "Astro",
-      "stargazers_count": 998,
-      "forks_count": 156,
+      "stargazers_count": 1020,
+      "forks_count": 161,
       "open_issues_count": 0,
       "topics": [
         "exercise",
@@ -134,7 +162,7 @@
         "workout"
       ],
       "created_at": "2026-08-24T02:14:20Z",
-      "updated_at": "2026-08-29T20:28:14Z",
+      "updated_at": "2026-08-30T19:55:58Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -152,8 +180,8 @@
       "html_url": "https://github.com/Tencent/WeMM-Embedding",
       "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
       "language": "Python",
-      "stargazers_count": 901,
-      "forks_count": 58,
+      "stargazers_count": 930,
+      "forks_count": 65,
       "open_issues_count": 5,
       "topics": [
         "embedding-models",
@@ -161,7 +189,7 @@
         "multimodal-llm"
       ],
       "created_at": "2026-08-25T02:46:10Z",
-      "updated_at": "2026-08-29T16:59:23Z",
+      "updated_at": "2026-08-30T19:38:06Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
@@ -169,69 +197,60 @@
       "readme_snippet": "WeMM-Embedding: WeChat Multi-Modal Embedding\n  English | 中文\n  \n    \n  \n  \n    \n  \n  \n    \n  \nWeMM-Embedding is a family of universal multimodal embedding models developed by the WeChat Vision team. It provides unified representations for text, images, videos, visual documents, and interleaved multim"
     },
     {
-      "id": 1349601607,
-      "full_name": "XiaoDuoYa/codex-with-chatgpt",
-      "name": "codex-with-chatgpt",
+      "id": 1345185947,
+      "full_name": "amosblomqvist/learn",
+      "name": "learn",
       "owner": {
-        "login": "XiaoDuoYa",
-        "avatar_url": "https://avatars.githubusercontent.com/u/113528266?v=4"
+        "login": "amosblomqvist",
+        "avatar_url": "https://avatars.githubusercontent.com/u/255718537?v=4"
       },
-      "html_url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "html_url": "https://github.com/amosblomqvist/learn",
+      "description": "My AI learning system.",
       "language": "TypeScript",
-      "stargazers_count": 889,
-      "forks_count": 97,
-      "open_issues_count": 11,
-      "topics": [
-        "ai-agents",
-        "chatgpt",
-        "codex",
-        "mcp",
-        "model-context-protocol",
-        "oauth"
-      ],
-      "created_at": "2026-08-28T12:57:24Z",
-      "updated_at": "2026-08-29T20:37:23Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Codex with ChatGPT\n> ChatGPT thinks. Codex works.\n> ChatGPT 负责思考，Codex 负责干活。\nThe problem · 解决什么问题\n中文 — ChatGPT 付费订阅的网页版额度大量闲置，Codex 却在消耗紧张的\nAPI 额度做规划和 Review。本项目把\"思考\"交给你已付费的网页版 ChatGPT，\nCodex 只负责执行。不用 API Key、不搞逆向代理——官方网页 + 只读 MCP 桥接。\nEN — ChatGPT Plus/Pro web quota sits idle while your coding agent"
+      "stargazers_count": 883,
+      "forks_count": 88,
+      "open_issues_count": 4,
+      "topics": [],
+      "created_at": "2026-08-24T16:45:07Z",
+      "updated_at": "2026-08-30T20:39:59Z",
+      "license": null,
+      "readme_snippet": "learn\nMy AI learning system from this video: How I Use AI to Learn Things.\nThis is a personal system I built for myself, shared as-is. Built as a pi configuration: the teaching philosophy encoded in a skill, a few small extensions, and agent definitions.\nWhat's in it\n- skills/teach/ — the philosophy"
     },
     {
-      "id": 1344252356,
-      "full_name": "themartiano/try-omarchy",
-      "name": "try-omarchy",
+      "id": 1349253750,
+      "full_name": "Nanako0129/sepia",
+      "name": "sepia",
       "owner": {
-        "login": "themartiano",
-        "avatar_url": "https://avatars.githubusercontent.com/u/32342284?v=4"
+        "login": "Nanako0129",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44753291?v=4"
       },
-      "html_url": "https://github.com/themartiano/try-omarchy",
-      "description": "Run Omarchy on MacOS without any setup.",
-      "language": "Shell",
-      "stargazers_count": 864,
-      "forks_count": 39,
-      "open_issues_count": 10,
+      "html_url": "https://github.com/Nanako0129/sepia",
+      "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "language": null,
+      "stargazers_count": 878,
+      "forks_count": 50,
+      "open_issues_count": 0,
       "topics": [
-        "aarch64",
-        "apple-silicon",
-        "archlinux",
-        "arm",
-        "arm64",
-        "community",
-        "linux",
-        "macos",
-        "omarchy",
-        "qemu",
-        "virtualization"
+        "agent-skills",
+        "ai-writing",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "fiction",
+        "grok",
+        "humanizer",
+        "llm",
+        "prompt-engineering",
+        "writing-tools"
       ],
-      "created_at": "2026-08-23T21:55:30Z",
-      "updated_at": "2026-08-29T20:28:43Z",
+      "created_at": "2026-08-28T05:56:49Z",
+      "updated_at": "2026-08-30T20:15:03Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "Try Omarchy\nRun the upstream Omarchy desktop as a native, hardware-accelerated app on an Apple Silicon Mac.\nTry Omarchy packages a project-built ARM64 Arch Linux image configured with Omarchy Quattro, a QEMU runtime using Apple Hypervisor Framework, and a small Swift/AppKit launcher into one macOS a"
+      "readme_snippet": "sepia\nEnglish | 繁體中文\n> De-AI writing at the layer that actually gives AI away. Fiction gets its narrative architecture repaired before anyone touches word choice; professional documents (release notes, PR replies, postmortems, tickets, technical articles) each get rules matched to their venue.\nA por"
     }
   ]
 }
