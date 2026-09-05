@@ -1,32 +1,9 @@
 {
-  "updated_at": "2026-09-04T20:28:23.142Z",
-  "query_date_range": "2026-08-28 ~ 2026-09-04",
-  "total_found": 2276644,
+  "updated_at": "2026-09-05T20:04:53.319Z",
+  "query_date_range": "2026-08-29 ~ 2026-09-05",
+  "total_found": 2349970,
   "count": 9,
   "repos": [
-    {
-      "id": 1353548665,
-      "full_name": "anthropics/commerce-agents",
-      "name": "commerce-agents",
-      "owner": {
-        "login": "anthropics",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
-      },
-      "html_url": "https://github.com/anthropics/commerce-agents",
-      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-      "language": "Python",
-      "stargazers_count": 1905,
-      "forks_count": 312,
-      "open_issues_count": 4,
-      "topics": [],
-      "created_at": "2026-09-01T12:30:12Z",
-      "updated_at": "2026-09-04T20:23:54Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "Claude Commerce Agents\nTwo commerce agents built on Claude: a shopping agent a business embeds in its app for\ncustomers, and a merchant agent its staff use to run the back office. Each is defined\nonce (prompt, skills, tool contracts, gates) and runs on the Messages API, the Claude Agent\nSDK, and Man"
-    },
     {
       "id": 1354310030,
       "full_name": "lnkiai/m3e-canvas",
@@ -38,9 +15,9 @@
       "html_url": "https://github.com/lnkiai/m3e-canvas",
       "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
       "language": "TypeScript",
-      "stargazers_count": 1613,
-      "forks_count": 110,
-      "open_issues_count": 6,
+      "stargazers_count": 3545,
+      "forks_count": 289,
+      "open_issues_count": 2,
       "topics": [
         "design-tool",
         "material-3-expressive",
@@ -52,35 +29,35 @@
         "vibe-coding"
       ],
       "created_at": "2026-09-02T04:36:34Z",
-      "updated_at": "2026-09-04T20:27:08Z",
+      "updated_at": "2026-09-05T20:01:15Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "M3E Canvas\n  Sketch Material 3 Expressive screens in the browser, link them, tap through them, and copy a prompt for your AI coding tool.\n  \n  \n  \n  \n  \n  \n  \n  \n  日本語 · 中文 · Open the app\n!Sketching a recipes app in M3E Canvas, changing its theme, copying the prompt, an AI coding tool building it, a"
+      "readme_snippet": "M3E Canvas\n  Sketch Material 3 Expressive screens in the browser, link them, tap through them, and copy a prompt for your AI coding tool.\n  \n  \n  \n  \n  \n  \n  \n  \n  \n  日本語 · 中文 · 한국어 · Open the app\n!Sketching a recipes app in M3E Canvas, changing its theme, copying the prompt, an AI coding tool build"
     },
     {
-      "id": 1350984217,
-      "full_name": "rakanki911/DLSS5-Swapper",
-      "name": "DLSS5-Swapper",
+      "id": 1353548665,
+      "full_name": "anthropics/commerce-agents",
+      "name": "commerce-agents",
       "owner": {
-        "login": "rakanki911",
-        "avatar_url": "https://avatars.githubusercontent.com/u/199753947?v=4"
+        "login": "anthropics",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "html_url": "https://github.com/rakanki911/DLSS5-Swapper",
-      "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
-      "language": "JavaScript",
-      "stargazers_count": 1460,
-      "forks_count": 68,
-      "open_issues_count": 41,
+      "html_url": "https://github.com/anthropics/commerce-agents",
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "language": "Python",
+      "stargazers_count": 2038,
+      "forks_count": 344,
+      "open_issues_count": 4,
       "topics": [],
-      "created_at": "2026-08-29T23:51:32Z",
-      "updated_at": "2026-09-04T20:11:15Z",
+      "created_at": "2026-09-01T12:30:12Z",
+      "updated_at": "2026-09-05T19:37:34Z",
       "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
       },
-      "readme_snippet": "DLSS 5 Swapper\n  Install and manage DLSS 5 Neural Rendering for compatible games and emulators.\n  \n  \n  \n  \n  \n  \nDownload 2.2.1\nWindows Installer ·\nPortable ·\nChecksums\n  \nFeatures\n- Easy installation: native DLSS games, or compatible non-DLSS games through DLSS5-Feeder.\n- Your library: Steam, Epic"
+      "readme_snippet": "Claude Commerce Agents\nTwo commerce agents built on Claude: a shopping agent a business embeds in its app for\ncustomers, and a merchant agent its staff use to run the back office. Each is defined\nonce (prompt, skills, tool contracts, gates) and runs on the Messages API, the Claude Agent\nSDK, and Man"
     },
     {
       "id": 1352104394,
@@ -93,8 +70,8 @@
       "html_url": "https://github.com/shadcn-ui/cn",
       "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
       "language": "TypeScript",
-      "stargazers_count": 1092,
-      "forks_count": 7,
+      "stargazers_count": 1165,
+      "forks_count": 9,
       "open_issues_count": 5,
       "topics": [
         "clsx",
@@ -104,7 +81,7 @@
         "tailwindcss"
       ],
       "created_at": "2026-08-31T07:04:03Z",
-      "updated_at": "2026-09-04T20:18:33Z",
+      "updated_at": "2026-09-05T19:57:39Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -122,7 +99,7 @@
       "html_url": "https://github.com/GangTailorUpgrade/undress-service",
       "description": "Dress AI Sponsor",
       "language": "Python",
-      "stargazers_count": 1048,
+      "stargazers_count": 1083,
       "forks_count": 1,
       "open_issues_count": 0,
       "topics": [
@@ -148,7 +125,7 @@
         "unrestricted-ai"
       ],
       "created_at": "2026-08-31T00:12:45Z",
-      "updated_at": "2026-09-04T20:23:59Z",
+      "updated_at": "2026-09-05T19:50:51Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -164,21 +141,21 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/14812897?v=4"
       },
       "html_url": "https://github.com/2akouwu/reverify",
-      "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
+      "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
       "language": "Python",
-      "stargazers_count": 875,
-      "forks_count": 187,
+      "stargazers_count": 920,
+      "forks_count": 199,
       "open_issues_count": 3,
       "topics": [
         "ai",
         "ai-agents",
+        "ai-coding",
         "anti-hallucination",
         "binary-analysis",
         "context-engineering",
         "ctf",
         "developer-tools",
         "disassembler",
-        "frida",
         "grounding",
         "hallucination",
         "hallucination-detection",
@@ -192,95 +169,104 @@
         "verification"
       ],
       "created_at": "2026-08-31T01:02:18Z",
-      "updated_at": "2026-09-04T20:25:17Z",
+      "updated_at": "2026-09-05T16:24:55Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "Reverify\n  The AI proposes. The bytes decide.\n  Anti-hallucination for AI agents that read binaries: every claim is checked against the real bytes.\n  \n  \n  \n  \n  \n  \n    \n  \nAsk an AI to reverse-engineer a file and it will make things up — offsets, structs, what the\ncode does — and say it like it's "
+      "readme_snippet": "Reverify\n  Stop your AI from making things up.\n  It proposes; deterministic tools check every claim against ground truth, and only what's verified counts.\n  \n  \n  \n  \n  \n  \n    \n  \nAI is confident and often wrong: it invents an API, a struct field, an offset, or what a\nfunction does, and says it lik"
     },
     {
-      "id": 1350871465,
-      "full_name": "jlrouzies-fr/DLSS5-Feeder",
-      "name": "DLSS5-Feeder",
+      "id": 1354127227,
+      "full_name": "yczz/oc-english",
+      "name": "oc-english",
       "owner": {
-        "login": "jlrouzies-fr",
-        "avatar_url": "https://avatars.githubusercontent.com/u/57990274?v=4"
+        "login": "yczz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8897432?v=4"
       },
-      "html_url": "https://github.com/jlrouzies-fr/DLSS5-Feeder",
-      "description": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
-      "language": "C++",
-      "stargazers_count": 711,
-      "forks_count": 32,
-      "open_issues_count": 17,
-      "topics": [],
-      "created_at": "2026-08-29T19:52:37Z",
-      "updated_at": "2026-09-04T20:25:12Z",
-      "license": {
-        "spdx_id": "NOASSERTION",
-        "key": "other"
-      },
-      "readme_snippet": "!DLSS5 Feeder\nDescription\nDLSS 5 neural rendering in games that ship without any DLSS — D3D11, D3D12, Vulkan, OpenGL, 32-bit, even DirectX 9.\nDLSS 5's neural-rendering add-on only works by hooking a game's own DLSS calls. A game that has no\nDLSS never makes those calls, so the add-on sits idle. DLSS"
-    },
-    {
-      "id": 1355442495,
-      "full_name": "MSNightmare/FalconFlank",
-      "name": "FalconFlank",
-      "owner": {
-        "login": "MSNightmare",
-        "avatar_url": "https://avatars.githubusercontent.com/u/291905677?v=4"
-      },
-      "html_url": "https://github.com/MSNightmare/FalconFlank",
-      "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
-      "language": "C",
-      "stargazers_count": 492,
-      "forks_count": 132,
+      "html_url": "https://github.com/yczz/oc-english",
+      "description": "养成类游戏英语学习",
+      "language": "JavaScript",
+      "stargazers_count": 822,
+      "forks_count": 8,
       "open_issues_count": 0,
       "topics": [],
-      "created_at": "2026-09-03T02:48:22Z",
-      "updated_at": "2026-09-04T20:13:37Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "FalconFlank\nCrowdstrike Falcon 0day Privilege Escalation Vulnerability\nFalconFlank is a 0day privilege escalation that abuses the office malicious macros remediation in Crowdstrike Falcon Sensor, obviously by the time I drop this Crowdstrike would already have detections for it so if you want to tes"
+      "created_at": "2026-09-01T23:45:27Z",
+      "updated_at": "2026-09-05T19:52:32Z",
+      "license": null,
+      "readme_snippet": "带着OC学英语\n> 创建一只属于你的 Q 版 OC，给它捏脸、换装、布置小家——而赚积分的唯一方式，是认真学英语。\nTauri 2.0 桌面应用 · Rust 后端 + Vanilla JS 前端 · SVG 矢量 Q 版角色 · PixiJS 等距 2.5D 房间 · macOS\n---\n📸 界面一览\n| 注册档案 | 捏脸工坊 |\n| :---: | :---: |\n| !注册屏 | !捏脸 |\n| 衣橱换装（一键同款蝴蝶少女） | 2.5D 小家 |\n| :---: | :---: |\n| !衣橱 | !房间 |\n| 商店 | 学习中心（13 册教材） |\n| :---: | :---"
     },
     {
-      "id": 1351701238,
-      "full_name": "Merserk/dlss5-visual-enhancer",
-      "name": "dlss5-visual-enhancer",
+      "id": 1357228959,
+      "full_name": "anthropics/fermats-last-theorem",
+      "name": "fermats-last-theorem",
       "owner": {
-        "login": "Merserk",
-        "avatar_url": "https://avatars.githubusercontent.com/u/119538451?v=4"
+        "login": "anthropics",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
-      "html_url": "https://github.com/Merserk/dlss5-visual-enhancer",
-      "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+      "html_url": "https://github.com/anthropics/fermats-last-theorem",
+      "description": null,
+      "language": "Lean",
+      "stargazers_count": 660,
+      "forks_count": 48,
+      "open_issues_count": 1,
+      "topics": [],
+      "created_at": "2026-09-04T14:21:04Z",
+      "updated_at": "2026-09-05T20:02:47Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "Fermat's Last Theorem in Lean 4\nA complete, machine-checked proof of Fermat's Last Theorem in Lean 4, built on\nMathlib (Lean 4.33.1; Mathlib v4.33.0, pinned by commit in\nlakefile.lean). The argument is that of Frey, Serre, Ribet, Wiles and Taylor-Wiles. PROOF-PATH.md names each step\nand the Lean the"
+    },
+    {
+      "id": 1355366032,
+      "full_name": "danielblnc/DLSS-NR-on-AMD",
+      "name": "DLSS-NR-on-AMD",
+      "owner": {
+        "login": "danielblnc",
+        "avatar_url": "https://avatars.githubusercontent.com/u/60046864?v=4"
+      },
+      "html_url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
+      "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+      "language": null,
+      "stargazers_count": 631,
+      "forks_count": 25,
+      "open_issues_count": 69,
+      "topics": [],
+      "created_at": "2026-09-03T00:42:03Z",
+      "updated_at": "2026-09-05T19:47:36Z",
+      "license": null,
+      "readme_snippet": "DLSS-NR on AMD\nRun DLSS 5 Neural Rendering on AMD Radeon RX 9000 (RDNA4) and 7000 (RDNA3) cards, in any DirectX 12 game that uses FSR.\nJoin the Discord for support, early access to new mod builds and testing.\nDownload\nGet dlssnr_on_amd_setup.exe from the latest release.\nInstall\n1. Place dlssnr_on_am"
+    },
+    {
+      "id": 1355017800,
+      "full_name": "nahrek/polyledger",
+      "name": "polyledger",
+      "owner": {
+        "login": "nahrek",
+        "avatar_url": "https://avatars.githubusercontent.com/u/138802404?v=4"
+      },
+      "html_url": "https://github.com/nahrek/polyledger",
+      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
       "language": "Python",
-      "stargazers_count": 483,
-      "forks_count": 38,
-      "open_issues_count": 13,
+      "stargazers_count": 619,
+      "forks_count": 109,
+      "open_issues_count": 0,
       "topics": [
-        "ai-upscaling",
-        "dlss",
-        "dlss-5",
-        "dlssg",
-        "frame-generation",
-        "frame-interpolation",
-        "image-enhancement",
-        "image-upscaling",
-        "neural-rendering",
-        "nvidia",
-        "nvidia-rtx",
-        "video-enhancement",
-        "video-upscaling"
+        "data-science",
+        "hypersync",
+        "polymarket",
+        "polymarketprediction-markets",
+        "prediction-market"
       ],
-      "created_at": "2026-08-30T19:45:52Z",
-      "updated_at": "2026-09-04T20:01:42Z",
+      "created_at": "2026-09-02T17:00:13Z",
+      "updated_at": "2026-09-05T15:11:50Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "DLSS 5 Visual Enhancer\n !Platform !NVIDIA !DLSS !DLSS Frame Generation !Type \nWindows application for applying a DLSS 5 Neural Rendering feature-18 pipeline to images and video, NVIDIA DLSS Frame Generation to video frame interpolation, and DLSS 5 Neural Rendering during Live video playback through "
+      "readme_snippet": "PolyLedger\nA resumable indexer for Polymarket market metadata and on-chain trade data, backed by DuckDB.\nPolyLedger pulls every market from the Polymarket CLOB API, streams every OrderFilled event from Polygon via Envio HyperSync, and writes both into a single DuckDB file you can query with SQL imme"
     }
   ]
 }
