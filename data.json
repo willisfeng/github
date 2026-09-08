@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-07T21:16:14.495Z",
-  "query_date_range": "2026-08-31 ~ 2026-09-07",
-  "total_found": 2498865,
+  "updated_at": "2026-09-08T20:52:24.421Z",
+  "query_date_range": "2026-09-01 ~ 2026-09-08",
+  "total_found": 2540437,
   "count": 9,
   "repos": [
     {
@@ -15,9 +15,9 @@
       "html_url": "https://github.com/lnkiai/m3e-canvas",
       "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
       "language": "TypeScript",
-      "stargazers_count": 4639,
-      "forks_count": 400,
-      "open_issues_count": 1,
+      "stargazers_count": 5177,
+      "forks_count": 472,
+      "open_issues_count": 4,
       "topics": [
         "design-tool",
         "material-3-expressive",
@@ -29,35 +29,12 @@
         "vibe-coding"
       ],
       "created_at": "2026-09-02T04:36:34Z",
-      "updated_at": "2026-09-07T21:00:51Z",
+      "updated_at": "2026-09-08T20:51:09Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "M3E Canvas\n  Sketch Material 3 Expressive screens in the browser, link them, tap through them, and copy a prompt for your AI coding tool.\n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  日本語 · 中文 · 한국어 · Open the app\n!Sketching a recipes app in M3E Canvas, changing its theme, copying the prompt, an AI coding tool bu"
-    },
-    {
-      "id": 1353548665,
-      "full_name": "anthropics/commerce-agents",
-      "name": "commerce-agents",
-      "owner": {
-        "login": "anthropics",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
-      },
-      "html_url": "https://github.com/anthropics/commerce-agents",
-      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-      "language": "Python",
-      "stargazers_count": 2389,
-      "forks_count": 414,
-      "open_issues_count": 6,
-      "topics": [],
-      "created_at": "2026-09-01T12:30:12Z",
-      "updated_at": "2026-09-07T21:10:28Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "Claude Commerce Agents\nTwo commerce agents built on Claude: a shopping agent a business embeds in its app for\ncustomers, and a merchant agent its staff use to run the back office. Each is defined\nonce (prompt, skills, tool contracts, gates) and runs on the Messages API, the Claude Agent\nSDK, and Man"
     },
     {
       "id": 1357699236,
@@ -70,17 +47,40 @@
       "html_url": "https://github.com/ashemag/human-atlas",
       "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
       "language": "TypeScript",
-      "stargazers_count": 1968,
-      "forks_count": 508,
-      "open_issues_count": 16,
+      "stargazers_count": 2437,
+      "forks_count": 622,
+      "open_issues_count": 21,
       "topics": [],
       "created_at": "2026-09-05T00:24:43Z",
-      "updated_at": "2026-09-07T21:15:06Z",
+      "updated_at": "2026-09-08T20:42:11Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "Human Atlas\nAn interactive 3D anatomy explorer built with React, Three.js, and shadcn/ui. Take the BodyParts3D adult male reference apart into 2,234 individually selectable meshes, explore 15 anatomical systems, and search 3,432 named concepts.\nExplore the live demo\nExplore\n- Orbit, zoom, and select"
+    },
+    {
+      "id": 1356159928,
+      "full_name": "Albert-Weasker/niubigeo",
+      "name": "niubigeo",
+      "owner": {
+        "login": "Albert-Weasker",
+        "avatar_url": "https://avatars.githubusercontent.com/u/186366929?v=4"
+      },
+      "html_url": "https://github.com/Albert-Weasker/niubigeo",
+      "description": "Open-source AI brand visibility and competitor reports",
+      "language": "TypeScript",
+      "stargazers_count": 2158,
+      "forks_count": 66,
+      "open_issues_count": 12,
+      "topics": [],
+      "created_at": "2026-09-03T15:55:54Z",
+      "updated_at": "2026-09-08T20:51:08Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "Does AI recommend your product? Who shows up instead?\nEnter a domain. Compare how models describe your product, who they recommend, and which sources they cite.\n  GitHub · 简体中文 · Quick start · 20 real cases · Releases · Packages · Docs\n  \n  Features · How to use it · Monitoring · Compare tools · Why"
     },
     {
       "id": 1357272370,
@@ -93,12 +93,12 @@
       "html_url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
       "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
       "language": "Python",
-      "stargazers_count": 1754,
-      "forks_count": 2283,
+      "stargazers_count": 1935,
+      "forks_count": 2509,
       "open_issues_count": 3,
       "topics": [],
       "created_at": "2026-09-04T15:00:53Z",
-      "updated_at": "2026-09-07T20:35:15Z",
+      "updated_at": "2026-09-08T19:55:40Z",
       "license": {
         "spdx_id": "AGPL-3.0",
         "key": "agpl-3.0"
@@ -106,56 +106,27 @@
       "readme_snippet": "WeChat Intelligence Hub\n微信个人情报库：把本地微信聊天变成可检索、可核查、可行动的个人情报，包括联系人历史、群聊主题、待回复、承诺、商机、复联线索，以及任意指定时间范围的情报报告。\n这不是 Prompt 大礼包，而是一个独立的微信旗舰项目。仓库同时提供只读数据入口和情报工作流，并配有可执行入口、边界、测试和全虚构样例。\n当前首发版本为 v0.9.2-preview.2。微信相关代码已经具备公开测试条件，但不是“安装后自动读取所有人的完整微信历史”：完整数据库模式需要本人授权的本地数据库和访问材料。Reader 核心不获取密钥、不重签名、不注入、不 Hook 微信；可选的"
     },
     {
-      "id": 1358140812,
-      "full_name": "pierrenade/short-video-generator-AI",
-      "name": "short-video-generator-AI",
+      "id": 1359610661,
+      "full_name": "EverettFish/holo-card-studio",
+      "name": "holo-card-studio",
       "owner": {
-        "login": "pierrenade",
-        "avatar_url": "https://avatars.githubusercontent.com/u/121039398?v=4"
+        "login": "EverettFish",
+        "avatar_url": "https://avatars.githubusercontent.com/u/222453586?v=4"
       },
-      "html_url": "https://github.com/pierrenade/short-video-generator-AI",
-      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "html_url": "https://github.com/EverettFish/holo-card-studio",
+      "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
       "language": "Python",
-      "stargazers_count": 1162,
-      "forks_count": 157,
-      "open_issues_count": 0,
-      "topics": [
-        "ai",
-        "ai-video",
-        "python",
-        "short-video-maker",
-        "video-generation"
-      ],
-      "created_at": "2026-09-05T11:55:18Z",
-      "updated_at": "2026-09-07T20:42:11Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "AI shorts generator\n!Python !Stars !Forks\nA free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to s"
-    },
-    {
-      "id": 1357228959,
-      "full_name": "anthropics/fermats-last-theorem",
-      "name": "fermats-last-theorem",
-      "owner": {
-        "login": "anthropics",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
-      },
-      "html_url": "https://github.com/anthropics/fermats-last-theorem",
-      "description": null,
-      "language": "Lean",
-      "stargazers_count": 933,
-      "forks_count": 78,
-      "open_issues_count": 3,
+      "stargazers_count": 1115,
+      "forks_count": 169,
+      "open_issues_count": 2,
       "topics": [],
-      "created_at": "2026-09-04T14:21:04Z",
-      "updated_at": "2026-09-07T20:28:08Z",
+      "created_at": "2026-09-07T00:41:18Z",
+      "updated_at": "2026-09-08T20:15:07Z",
       "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
+        "spdx_id": "NOASSERTION",
+        "key": "other"
       },
-      "readme_snippet": "Fermat's Last Theorem in Lean 4\nA complete, machine-checked proof of Fermat's Last Theorem in Lean 4, built on\nMathlib (Lean 4.33.1; Mathlib v4.33.0, pinned by commit in\nlakefile.lean). The argument is that of Frey, Serre, Ribet, Wiles and Taylor-Wiles. PROOF-PATH.md names each step\nand the Lean the"
+      "readme_snippet": "🃏 Holo Card Studio\nEnglish\n实现教程来源（补上，感谢大佬的教程）：小红书@乌托邦的香蕉🍌\n> 一个 Codex Skill：对 Codex 说一句话，收获一张会随视角流光溢彩的 3D 全息闪卡。\n> 能在浏览器里拖着转、翻到背面、拉滑块看它闪；还附赠一个可以随便改的 Blender 工程。\n小时候在文具店门口舍不得买的那种闪卡，现在你想印谁就印谁。\n---\n✨ 三十秒看懂\n你只负责想，剩下的它来。\n---\n🎬 你可以拿它做什么\n🐱 给自家毛孩子发一张\"传说级\"卡\n上传一张猫主子的照片，加一句\"传说稀有度、金色边框、名字叫布丁\"。\n主体保留它本猫的神态和构图，背"
     },
     {
       "id": 1358295353,
@@ -168,17 +139,40 @@
       "html_url": "https://github.com/vinzdg/codenotch",
       "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
       "language": "Swift",
-      "stargazers_count": 917,
-      "forks_count": 142,
-      "open_issues_count": 25,
+      "stargazers_count": 1076,
+      "forks_count": 175,
+      "open_issues_count": 31,
       "topics": [],
       "created_at": "2026-09-05T14:55:35Z",
-      "updated_at": "2026-09-07T21:04:43Z",
+      "updated_at": "2026-09-08T20:49:20Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "Codenotch\nA macOS app that pins a small black notch to a screen edge, showing how much of\neach coding assistant's usage limit you have burned — and whether it is still\nworking, done, or waiting on you.\n!Collapsed notch with hover tooltip\nHover a ring for its limit windows and when they reset. Claude"
+      "readme_snippet": "Codenotch\n!Platform\n!Swift\n!License\n**A macOS app that pins a small black notch to a screen edge, showing how much\nof each coding assistant's usage limit you have burned — and whether it is\nstill working, done, or waiting on you.**\n!Collapsed notch with hover tooltip\nHover a ring for its limit windo"
+    },
+    {
+      "id": 1357228959,
+      "full_name": "anthropics/fermats-last-theorem",
+      "name": "fermats-last-theorem",
+      "owner": {
+        "login": "anthropics",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+      },
+      "html_url": "https://github.com/anthropics/fermats-last-theorem",
+      "description": null,
+      "language": "Lean",
+      "stargazers_count": 971,
+      "forks_count": 81,
+      "open_issues_count": 5,
+      "topics": [],
+      "created_at": "2026-09-04T14:21:04Z",
+      "updated_at": "2026-09-08T20:18:58Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "Fermat's Last Theorem in Lean 4\nA complete, machine-checked proof of Fermat's Last Theorem in Lean 4, built on\nMathlib (Lean 4.33.1; Mathlib v4.33.0, pinned by commit in\nlakefile.lean). The argument is that of Frey, Serre, Ribet, Wiles and Taylor-Wiles. PROOF-PATH.md names each step\nand the Lean the"
     },
     {
       "id": 1355366032,
@@ -191,12 +185,12 @@
       "html_url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
       "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
       "language": null,
-      "stargazers_count": 854,
-      "forks_count": 35,
-      "open_issues_count": 79,
+      "stargazers_count": 927,
+      "forks_count": 36,
+      "open_issues_count": 92,
       "topics": [],
       "created_at": "2026-09-03T00:42:03Z",
-      "updated_at": "2026-09-07T20:30:28Z",
+      "updated_at": "2026-09-08T20:11:07Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
@@ -204,24 +198,27 @@
       "readme_snippet": "DLSS-NR on AMD\nRun DLSS 5 Neural Rendering on AMD Radeon RX 9000 (RDNA4) and 7000 (RDNA3) cards, in any DirectX 12 game that uses FSR.\nJoin the Discord for support, early access to new mod builds and testing.\nDownload\nGet dlssnr_on_amd_setup.exe from the latest release.\nInstall\n1. Place dlssnr_on_am"
     },
     {
-      "id": 1354127227,
-      "full_name": "yczz/oc-english",
-      "name": "oc-english",
+      "id": 1355833393,
+      "full_name": "ahujasid/camera-to-blender",
+      "name": "camera-to-blender",
       "owner": {
-        "login": "yczz",
-        "avatar_url": "https://avatars.githubusercontent.com/u/8897432?v=4"
+        "login": "ahujasid",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11807284?v=4"
       },
-      "html_url": "https://github.com/yczz/oc-english",
-      "description": "养成类游戏英语学习",
+      "html_url": "https://github.com/ahujasid/camera-to-blender",
+      "description": "Take a photo of real objects, and paste them in Blender",
       "language": "JavaScript",
-      "stargazers_count": 848,
-      "forks_count": 13,
+      "stargazers_count": 771,
+      "forks_count": 77,
       "open_issues_count": 0,
       "topics": [],
-      "created_at": "2026-09-01T23:45:27Z",
-      "updated_at": "2026-09-07T15:06:47Z",
-      "license": null,
-      "readme_snippet": "带着OC学英语\n> 创建一只属于你的 Q 版 OC，给它捏脸、换装、布置小家——而赚积分的唯一方式，是认真学英语。\nTauri 2.0 桌面应用 · Rust 后端 + Vanilla JS 前端 · SVG 矢量 Q 版角色 · PixiJS 等距 2.5D 房间 · macOS\n---\n📸 界面一览\n| 注册档案 | 捏脸工坊 |\n| :---: | :---: |\n| !注册屏 | !捏脸 |\n| 衣橱换装（一键同款蝴蝶少女） | 2.5D 小家 |\n| :---: | :---: |\n| !衣橱 | !房间 |\n| 商店 | 学习中心（13 册教材） |\n| :---: | :---"
+      "created_at": "2026-09-03T10:34:30Z",
+      "updated_at": "2026-09-08T18:29:45Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Camera to 3D\nPoint your phone at an object, take a photo, and watch a 3D model appear in Blender in under a minute.\nTake photo → background removed → 3D model generated → auto-imported into Blender.\nThe camera UI is built for phone. You run the server on the computer where Blender is open, then open"
     }
   ]
 }
