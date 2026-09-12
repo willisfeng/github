@@ -1,31 +1,28 @@
 {
-  "updated_at": "2026-09-11T20:39:39.347Z",
-  "query_date_range": "2026-09-04 ~ 2026-09-11",
-  "total_found": 2428321,
+  "updated_at": "2026-09-12T20:19:36.517Z",
+  "query_date_range": "2026-09-05 ~ 2026-09-12",
+  "total_found": 2499442,
   "count": 9,
   "repos": [
     {
-      "id": 1357699236,
-      "full_name": "ashemag/human-atlas",
-      "name": "human-atlas",
+      "id": 1360432710,
+      "full_name": "sdli1995/dlssg_for_sm86",
+      "name": "dlssg_for_sm86",
       "owner": {
-        "login": "ashemag",
-        "avatar_url": "https://avatars.githubusercontent.com/u/8096590?v=4"
+        "login": "sdli1995",
+        "avatar_url": "https://avatars.githubusercontent.com/u/28560351?v=4"
       },
-      "html_url": "https://github.com/ashemag/human-atlas",
-      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
-      "language": "TypeScript",
-      "stargazers_count": 3201,
-      "forks_count": 778,
-      "open_issues_count": 31,
+      "html_url": "https://github.com/sdli1995/dlssg_for_sm86",
+      "description": "Here is a dlssg for RTX30 Series GPU ",
+      "language": null,
+      "stargazers_count": 2156,
+      "forks_count": 132,
+      "open_issues_count": 88,
       "topics": [],
-      "created_at": "2026-09-05T00:24:43Z",
-      "updated_at": "2026-09-11T20:34:36Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Human Atlas\nAn interactive 3D anatomy explorer built with React, Three.js, and shadcn/ui. Take the BodyParts3D adult male reference apart into 2,234 individually selectable meshes, explore 15 anatomical systems, and search 3,432 named concepts.\nExplore the live demo\nExplore\n- Orbit, zoom, and select"
+      "created_at": "2026-09-07T16:16:48Z",
+      "updated_at": "2026-09-12T19:57:58Z",
+      "license": null,
+      "readme_snippet": "DLSSG Native 0.2.4\r\n\r\n简体中文 | English\r\n\r\nWindows x64 / D3D12。运行文件为 version.dll 和 dlssg_sm86.ini。\r\n\r\n自有 C++ 包装层、SM75/SM86 PTX/Cubin、310.1 模型和推理图都在一个 DLL 内。运行时不解压、加载或内存映射原厂 nvngx_dlssg.dll；仍使用系统 NVIDIA NGX/NVAPI/CUDA 驱动接口，无需 CUDA Toolkit。\r\n\r\n0.2.4 简略更新说明\r\n\r\n- 显存修复：修复输入纹理重建后旧帧资源滞留，资源实际销毁后回收视图，减少长时间运行时显存"
     },
     {
       "id": 1361260630,
@@ -38,60 +35,17 @@
       "html_url": "https://github.com/openai/NavierStokesAndEuler",
       "description": "Lean certificates accompanying Navier-Stokes and Euler results",
       "language": "Lean",
-      "stargazers_count": 1776,
-      "forks_count": 176,
+      "stargazers_count": 1816,
+      "forks_count": 181,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-09-08T10:53:38Z",
-      "updated_at": "2026-09-11T20:24:30Z",
+      "updated_at": "2026-09-12T20:00:48Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
       "readme_snippet": "Finite time blowup for Navier–Stokes and Euler equations\nThis repository contains Lean 4 formalizations of the results presented in\n“Finite time blowup for Navier–Stokes” and\n“Finite time blowup for the Euler equation” by OpenAI.\n- Read the blog post\n- Read the Navier-Stokes paper\n- Read the Euler p"
-    },
-    {
-      "id": 1360432710,
-      "full_name": "sdli1995/dlssg_for_sm86",
-      "name": "dlssg_for_sm86",
-      "owner": {
-        "login": "sdli1995",
-        "avatar_url": "https://avatars.githubusercontent.com/u/28560351?v=4"
-      },
-      "html_url": "https://github.com/sdli1995/dlssg_for_sm86",
-      "description": "Here is a dlssg for RTX30 Series GPU ",
-      "language": null,
-      "stargazers_count": 1744,
-      "forks_count": 103,
-      "open_issues_count": 78,
-      "topics": [],
-      "created_at": "2026-09-07T16:16:48Z",
-      "updated_at": "2026-09-11T20:30:11Z",
-      "license": null,
-      "readme_snippet": "DLSSG Native 0.2.4\r\n\r\n简体中文 | English\r\n\r\nWindows x64 / D3D12。运行文件为 version.dll 和 dlssg_sm86.ini。\r\n\r\n自有 C++ 包装层、SM75/SM86 PTX/Cubin、310.1 模型和推理图都在一个 DLL 内。运行时不解压、加载或内存映射原厂 nvngx_dlssg.dll；仍使用系统 NVIDIA NGX/NVAPI/CUDA 驱动接口，无需 CUDA Toolkit。\r\n\r\n0.2.4 简略更新说明\r\n\r\n- 显存修复：修复输入纹理重建后旧帧资源滞留，资源实际销毁后回收视图，减少长时间运行时显存"
-    },
-    {
-      "id": 1358295353,
-      "full_name": "vinzdg/codenotch",
-      "name": "codenotch",
-      "owner": {
-        "login": "vinzdg",
-        "avatar_url": "https://avatars.githubusercontent.com/u/199352226?v=4"
-      },
-      "html_url": "https://github.com/vinzdg/codenotch",
-      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
-      "language": "Swift",
-      "stargazers_count": 1456,
-      "forks_count": 226,
-      "open_issues_count": 34,
-      "topics": [],
-      "created_at": "2026-09-05T14:55:35Z",
-      "updated_at": "2026-09-11T19:26:03Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "!Codenotch\n!Platform\n!Swift\n!License\n**A macOS app that pins a small black notch to a screen edge, showing how much\nof each coding assistant's usage limit you have burned — and whether it is\nstill working, done, or waiting on you.**\n!Collapsed notch with hover tooltip\nHover a ring for its limit wind"
     },
     {
       "id": 1359610661,
@@ -104,37 +58,17 @@
       "html_url": "https://github.com/EverettFish/holo-card-studio",
       "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
       "language": "Python",
-      "stargazers_count": 1440,
-      "forks_count": 207,
-      "open_issues_count": 4,
+      "stargazers_count": 1466,
+      "forks_count": 209,
+      "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-09-07T00:41:18Z",
-      "updated_at": "2026-09-11T19:34:17Z",
+      "updated_at": "2026-09-12T17:49:21Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
       },
       "readme_snippet": "🃏 Holo Card Studio\nEnglish\n实现教程来源（感谢大佬！）：小红书@乌托邦的香蕉🍌\n> 一个 Codex Skill：对 Codex 说一句话，收获一张会随视角流光溢彩的 3D 全息闪卡。\n> 能在浏览器里拖着转、翻到背面、拉滑块看它闪；还附赠一个可以随便改的 Blender 工程。\n小时候在文具店门口舍不得买的那种闪卡，现在你想印谁就印谁。\n---\n✨ 三十秒看懂\n你只负责想，剩下的它来。\n---\n🎬 你可以拿它做什么\n🐱 给自家毛孩子发一张\"传说级\"卡\n上传一张猫主子的照片，加一句\"传说稀有度、金色边框、名字叫布丁\"。\n主体保留它本猫的神态和构图，背景和线稿全"
-    },
-    {
-      "id": 1358588929,
-      "full_name": "yang0/handraw-style",
-      "name": "handraw-style",
-      "owner": {
-        "login": "yang0",
-        "avatar_url": "https://avatars.githubusercontent.com/u/3478629?v=4"
-      },
-      "html_url": "https://github.com/yang0/handraw-style",
-      "description": "手绘风格编号画廊与双语提示词 Skill",
-      "language": "HTML",
-      "stargazers_count": 1430,
-      "forks_count": 182,
-      "open_issues_count": 1,
-      "topics": [],
-      "created_at": "2026-09-05T21:57:22Z",
-      "updated_at": "2026-09-11T20:05:55Z",
-      "license": null,
-      "readme_snippet": "手绘风格提示词库\n不会描述画风，也能快速做出有辨识度的图片。\n这里整理了 001–261 种手绘风格。先选一个编号，再告诉 Skill 你想表现的主题，就能得到带有风格名称的中文和英文提示词，直接交给支持生图的 AI 使用。\n它适合谁\n- 不知道该怎么描述画风的创作者\n- 做公众号、小红书、短视频和品牌内容的人\n- 想让自己的图片保持稳定视觉气质的人\n它解决什么问题\n很多人只能说“可爱一点”“文艺一点”，每次生成结果却不一样；同一个主题换一次 AI，画风也会漂移；面对一整页参考图，又很难准确说出自己喜欢哪一种。\n这个风格库把“凭感觉选图”变成“记住一个编号”。你不需要背诵画风名称，也不需要自己"
     },
     {
       "id": 1361439328,
@@ -147,40 +81,17 @@
       "html_url": "https://github.com/Edge0-AI/Edge0",
       "description": null,
       "language": "Python",
-      "stargazers_count": 1318,
-      "forks_count": 106,
-      "open_issues_count": 9,
+      "stargazers_count": 1426,
+      "forks_count": 115,
+      "open_issues_count": 14,
       "topics": [],
       "created_at": "2026-09-08T13:41:47Z",
-      "updated_at": "2026-09-11T20:32:24Z",
+      "updated_at": "2026-09-12T19:08:58Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
       "readme_snippet": "edge0\nAn open-source streaming MoE inference framework — SSD expert offload + Recover-LoRA + prerouter routing prediction.\nEnglish | 中文\nedge0 is an open-source streaming MoE inference framework. It\ngeneralizes the production-proven recipe — **SSD expert offload +\nRecover-LoRA + prerouter routing pre"
-    },
-    {
-      "id": 1358346534,
-      "full_name": "donvito/codex-astra-luna-orchestrator",
-      "name": "codex-astra-luna-orchestrator",
-      "owner": {
-        "login": "donvito",
-        "avatar_url": "https://avatars.githubusercontent.com/u/890270?v=4"
-      },
-      "html_url": "https://github.com/donvito/codex-astra-luna-orchestrator",
-      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
-      "language": "Python",
-      "stargazers_count": 972,
-      "forks_count": 79,
-      "open_issues_count": 2,
-      "topics": [],
-      "created_at": "2026-09-05T16:03:06Z",
-      "updated_at": "2026-09-11T20:28:47Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "Codex Astra Orchestrator + Luna Subagents\nA configurable Codex setup where GPT-6 Astra is the root/orchestrator and reviewer, while GPT-5.6 Luna is the default and pinned model for execution subagents.\nThe installer asks which Codex plan you are on. Pro uses GPT-6 Astra at medium reasoning to orches"
     },
     {
       "id": 1361693766,
@@ -193,9 +104,9 @@
       "html_url": "https://github.com/Vincentwei1021/anything2explainer",
       "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
       "language": "TypeScript",
-      "stargazers_count": 921,
-      "forks_count": 168,
-      "open_issues_count": 1,
+      "stargazers_count": 1048,
+      "forks_count": 184,
+      "open_issues_count": 2,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -217,12 +128,98 @@
         "video-generation"
       ],
       "created_at": "2026-09-08T17:19:54Z",
-      "updated_at": "2026-09-11T20:31:38Z",
+      "updated_at": "2026-09-12T20:04:16Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
       },
       "readme_snippet": "anything2explainer\nEnglish | 简体中文\nTopic in, narrated explainer video out. anything2explainer is a Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar, in Chinese or English. Every frame is drawn i"
+    },
+    {
+      "id": 1365202470,
+      "full_name": "Faizpi/bank-sampah",
+      "name": "bank-sampah",
+      "owner": {
+        "login": "Faizpi",
+        "avatar_url": "https://avatars.githubusercontent.com/u/143463503?v=4"
+      },
+      "html_url": "https://github.com/Faizpi/bank-sampah",
+      "description": null,
+      "language": "PHP",
+      "stargazers_count": 921,
+      "forks_count": 1,
+      "open_issues_count": 0,
+      "topics": [],
+      "created_at": "2026-09-11T02:13:29Z",
+      "updated_at": "2026-09-12T13:20:33Z",
+      "license": null,
+      "readme_snippet": "Bank Sampah Digital\nBank Sampah Digital adalah aplikasi web untuk mengelola bank sampah. Warga bisa menabung sampah, memantau saldo, mengajukan penjemputan, dan mencairkan saldo. Pengelola bisa mencatat setoran, memverifikasi transaksi, dan melihat laporan.\nAplikasi ini dibuat mobile-first, jadi nya"
+    },
+    {
+      "id": 1360317501,
+      "full_name": "achimala/dream-loop",
+      "name": "dream-loop",
+      "owner": {
+        "login": "achimala",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1448366?v=4"
+      },
+      "html_url": "https://github.com/achimala/dream-loop",
+      "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+      "language": "JavaScript",
+      "stargazers_count": 913,
+      "forks_count": 104,
+      "open_issues_count": 1,
+      "topics": [],
+      "created_at": "2026-09-07T14:19:20Z",
+      "updated_at": "2026-09-12T19:49:09Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "dream-loop\nBy @anshuc.\nAn agent skill that builds a game, app, or scene with impressive visuals, by creating a closed loop:\n1. AI \"dreams\" up a high-quality target screenshot using image generation\n2. AI builds with this target in mind\n3. A separate AI critic compares the live screenshot to the targ"
+    },
+    {
+      "id": 1359120685,
+      "full_name": "jtydhr88/screenwriting-skills",
+      "name": "screenwriting-skills",
+      "owner": {
+        "login": "jtydhr88",
+        "avatar_url": "https://avatars.githubusercontent.com/u/860985?v=4"
+      },
+      "html_url": "https://github.com/jtydhr88/screenwriting-skills",
+      "description": null,
+      "language": "Python",
+      "stargazers_count": 856,
+      "forks_count": 103,
+      "open_issues_count": 0,
+      "topics": [],
+      "created_at": "2026-09-06T12:28:23Z",
+      "updated_at": "2026-09-12T19:55:41Z",
+      "license": null,
+      "readme_snippet": "screenwriting-skills\n中文版 · 日本語 · 한국어 · Français\n21 agent skills (for Claude Code and OpenAI Codex) for screenwriting, television writing and dramaturgy, distilled from 32 craft books and 12 volumes of published scripts and plays (Chinese, American, British, Japanese and Korean).\nThe SKILL.md files f"
+    },
+    {
+      "id": 1360942455,
+      "full_name": "gazijarin/itsgiving",
+      "name": "itsgiving",
+      "owner": {
+        "login": "gazijarin",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32211479?v=4"
+      },
+      "html_url": "https://github.com/gazijarin/itsgiving",
+      "description": "Express yourself in meetings (with memes, of course).",
+      "language": "Python",
+      "stargazers_count": 780,
+      "forks_count": 90,
+      "open_issues_count": 7,
+      "topics": [],
+      "created_at": "2026-09-08T05:02:01Z",
+      "updated_at": "2026-09-12T20:02:00Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "It's giving...\n  \n    \n    \n  \nPull a face at your webcam. It works out *which* face, and drops the matching\nmeme over your head, scaled to follow you around the frame. You can extend and\nadd more memes to your heart's desire.\nPoint Zoom at its virtual camera and the whole call sees it.\nFourteen rea"
     }
   ]
 }
