@@ -1,28 +1,31 @@
 {
-  "updated_at": "2026-09-16T21:01:55.322Z",
-  "query_date_range": "2026-09-09 ~ 2026-09-16",
-  "total_found": 2786479,
+  "updated_at": "2026-09-17T21:04:26.563Z",
+  "query_date_range": "2026-09-10 ~ 2026-09-17",
+  "total_found": 2847193,
   "count": 9,
   "repos": [
     {
-      "id": 1369254248,
-      "full_name": "ai-sucks-butt/ai-sucks-butt",
-      "name": "ai-sucks-butt",
+      "id": 1373655162,
+      "full_name": "browser-use/jev-ultrafast",
+      "name": "jev-ultrafast",
       "owner": {
-        "login": "ai-sucks-butt",
-        "avatar_url": "https://avatars.githubusercontent.com/u/328935899?v=4"
+        "login": "browser-use",
+        "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
       },
-      "html_url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
-      "description": "If you think AI sucks, star the repo.",
+      "html_url": "https://github.com/browser-use/jev-ultrafast",
+      "description": null,
       "language": "Python",
-      "stargazers_count": 1319,
-      "forks_count": 0,
-      "open_issues_count": 0,
+      "stargazers_count": 1700,
+      "forks_count": 90,
+      "open_issues_count": 15,
       "topics": [],
-      "created_at": "2026-09-14T04:02:58Z",
-      "updated_at": "2026-09-16T21:01:24Z",
-      "license": null,
-      "readme_snippet": "If you think AI sucks ass (butt), star the repo."
+      "created_at": "2026-09-16T21:30:12Z",
+      "updated_at": "2026-09-17T21:04:00Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Jev Ultrafast ⚡\nA browser agent with a dynamic, indexed action space.\nGive it one goal. TypeSafe's Jev picks an operation and an element. A small LLM writes text only when the operation is TYPE_TEXT.\nZürich → London on Google Flights in 7.1 seconds. One natural-language goal, actual text generation,"
     },
     {
       "id": 1367251447,
@@ -35,9 +38,9 @@
       "html_url": "https://github.com/Chuloo/mural",
       "description": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
       "language": "Kotlin",
-      "stargazers_count": 1241,
-      "forks_count": 241,
-      "open_issues_count": 24,
+      "stargazers_count": 1312,
+      "forks_count": 256,
+      "open_issues_count": 26,
       "topics": [
         "ios",
         "language-learning",
@@ -45,44 +48,12 @@
         "swiftui"
       ],
       "created_at": "2026-09-12T11:51:08Z",
-      "updated_at": "2026-09-16T20:55:10Z",
+      "updated_at": "2026-09-17T20:59:52Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "Mural\nThe language app you eventually delete.\n  \n  \n  \n  \nMural is a native iPhone and Android app for learning through conversation. Speak to a warm, animated orb, follow the meaning when you need it, and practise words again in later conversations. Mural adjusts the challenge from the evidence in "
-    },
-    {
-      "id": 1364767317,
-      "full_name": "sumimakito/Mac-Duo",
-      "name": "Mac-Duo",
-      "owner": {
-        "login": "sumimakito",
-        "avatar_url": "https://avatars.githubusercontent.com/u/5277268?v=4"
-      },
-      "html_url": "https://github.com/sumimakito/Mac-Duo",
-      "description": "Wish you could bring the iPhone Duo effect to your MacBook?",
-      "language": "Swift",
-      "stargazers_count": 937,
-      "forks_count": 69,
-      "open_issues_count": 31,
-      "topics": [
-        "flip",
-        "iphone",
-        "iphoneduo",
-        "mac",
-        "macos",
-        "menubar",
-        "menubar-app",
-        "menubarapp"
-      ],
-      "created_at": "2026-09-10T18:55:39Z",
-      "updated_at": "2026-09-16T19:12:57Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "Mac Duo\nWish you could bring the iPhone Duo effect to your MacBook?\nhttps://github.com/user-attachments/assets/3ea3b098-c6d2-4398-8f3a-e9087bbb33f2\nClose the lid and watch your screen content tilt, blur, and fade as it moves.  \nMac Duo adds this effect to your MacBook, with controls in the menu bar."
     },
     {
       "id": 1367606050,
@@ -95,12 +66,12 @@
       "html_url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer",
       "description": "Official Project Page for Recurrent Looped Transformer (RLT)",
       "language": "HTML",
-      "stargazers_count": 856,
-      "forks_count": 84,
+      "stargazers_count": 870,
+      "forks_count": 85,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-09-12T19:02:46Z",
-      "updated_at": "2026-09-16T19:26:00Z",
+      "updated_at": "2026-09-17T17:21:53Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
@@ -118,8 +89,8 @@
       "html_url": "https://github.com/kruzovic7/ai-data-extractor",
       "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
       "language": "Python",
-      "stargazers_count": 825,
-      "forks_count": 132,
+      "stargazers_count": 834,
+      "forks_count": 135,
       "open_issues_count": 0,
       "topics": [
         "ai",
@@ -128,7 +99,7 @@
         "cursor"
       ],
       "created_at": "2026-09-11T18:12:58Z",
-      "updated_at": "2026-09-16T12:38:10Z",
+      "updated_at": "2026-09-17T18:28:04Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -146,99 +117,119 @@
       "html_url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
       "description": "GPT-6 Astra for embodied AI and robotics.",
       "language": null,
-      "stargazers_count": 760,
-      "forks_count": 14,
-      "open_issues_count": 1,
+      "stargazers_count": 821,
+      "forks_count": 16,
+      "open_issues_count": 3,
       "topics": [],
       "created_at": "2026-09-12T12:20:24Z",
-      "updated_at": "2026-09-16T19:58:01Z",
+      "updated_at": "2026-09-17T19:59:36Z",
       "license": null,
       "readme_snippet": "Awesome Astra Embodied AI\nGPT-6 Astra with embodied AI / robotics workflows and demos.\nContents\nCases are grouped by workflow and ordered by publication date, newest first within each section.\n- 🤖 Zero-shot Control\n  - 🧪 Deploy in Simulation — 12 cases\n  - 🌍 Deploy in Real World — 10 cases\n- 🧠 A"
     },
     {
-      "id": 1363950922,
-      "full_name": "unstablebuild/rune",
-      "name": "rune",
+      "id": 1367577373,
+      "full_name": "agentverse-os/AgentVerse-OS",
+      "name": "AgentVerse-OS",
       "owner": {
-        "login": "unstablebuild",
-        "avatar_url": "https://avatars.githubusercontent.com/u/60412273?v=4"
+        "login": "agentverse-os",
+        "avatar_url": "https://avatars.githubusercontent.com/u/328451092?v=4"
       },
-      "html_url": "https://github.com/unstablebuild/rune",
-      "description": "the development environment for pros",
-      "language": "Go",
-      "stargazers_count": 742,
-      "forks_count": 52,
-      "open_issues_count": 76,
+      "html_url": "https://github.com/agentverse-os/AgentVerse-OS",
+      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "language": "Rust",
+      "stargazers_count": 737,
+      "forks_count": 21,
+      "open_issues_count": 0,
+      "topics": [],
+      "created_at": "2026-09-12T18:20:00Z",
+      "updated_at": "2026-09-17T20:55:41Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "AgentVerse OS is a personal cloud operating system for a developer and their AI agents: your own cloud running on a single server,\nused from any device through the browser. It is built as a cross-platform vibe coding flow: the same desktop, workspaces and agents\nopen on a laptop, a tablet or a phone"
+    },
+    {
+      "id": 1365350772,
+      "full_name": "eternityspring/reelbench-skills",
+      "name": "reelbench-skills",
+      "owner": {
+        "login": "eternityspring",
+        "avatar_url": "https://avatars.githubusercontent.com/u/5795147?v=4"
+      },
+      "html_url": "https://github.com/eternityspring/reelbench-skills",
+      "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+      "language": "HTML",
+      "stargazers_count": 729,
+      "forks_count": 93,
+      "open_issues_count": 0,
       "topics": [
-        "agent-orchestration",
-        "ai",
-        "cli",
-        "coding-agents",
-        "developer-tool",
-        "devtools",
-        "go",
-        "golang",
-        "ide",
-        "rune",
-        "terminal-multiplexer",
-        "text-editor",
-        "tmux",
-        "tui",
-        "workspace-manager"
+        "ai-video",
+        "claude-skills",
+        "ffmpeg",
+        "shot-analysis",
+        "video-analysis"
       ],
-      "created_at": "2026-09-10T10:50:03Z",
-      "updated_at": "2026-09-16T20:36:00Z",
+      "created_at": "2026-09-11T04:55:49Z",
+      "updated_at": "2026-09-17T16:32:55Z",
       "license": {
-        "spdx_id": "GPL-3.0",
-        "key": "gpl-3.0"
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
       },
-      "readme_snippet": "rune.build · quick start · hack on rune\n  \n  \n  \n  \n  \n  \n  \n    \n---\nhttps://github.com/user-attachments/assets/4ab84f7f-47c8-47af-9d32-7c69afd02669\nRune is a fast, GPU-accelerated, full-featured IDE and terminal multiplexer, suitable both for automatic and manual programming.\n- continue working fr"
+      "readme_snippet": "reelbench-skills\n视频侧的 Claude Code / Codex skill。\n| skill | 干什么 |\n| --- | --- |\n| video-shots | 拉片：把一条成片拆成逐镜头的分析表——时长、景别、类别、运镜、画面、节奏。切点与时长由 ffmpeg 量，模型只判断该判断的那几件事，15 道质量门逐条对账 |\n| video-sync | 合成带分镜信息的视频：画面一边、分镜信息一边，镜头切了信息跟着切、镜头表自动滚动高亮。横版上下叠、竖版左右并，布局改一份 CSS 就行 |\nAI 视频交流社群\n我建了一个付费AI视频交流群，聊 AI 视频的工作流、工具"
     },
     {
-      "id": 1363844653,
-      "full_name": "angusdevgo/IDM_Pro_Tool",
-      "name": "IDM_Pro_Tool",
+      "id": 1367068508,
+      "full_name": "youngyangyang04/llm-master",
+      "name": "llm-master",
       "owner": {
-        "login": "angusdevgo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/89133686?v=4"
+        "login": "youngyangyang04",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8636020?v=4"
       },
-      "html_url": "https://github.com/angusdevgo/IDM_Pro_Tool",
-      "description": "IDM激活与状态维护工具",
-      "language": "C#",
-      "stargazers_count": 719,
-      "forks_count": 182,
+      "html_url": "https://github.com/youngyangyang04/llm-master",
+      "description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+      "language": null,
+      "stargazers_count": 684,
+      "forks_count": 66,
       "open_issues_count": 3,
-      "topics": [],
-      "created_at": "2026-09-10T09:39:06Z",
-      "updated_at": "2026-09-16T20:31:36Z",
+      "topics": [
+        "agent",
+        "large-language-models",
+        "llm",
+        "llm-learning",
+        "llm-tutorial",
+        "rag"
+      ],
+      "created_at": "2026-09-12T07:33:31Z",
+      "updated_at": "2026-09-17T15:27:46Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "IDM Pro Tool\n  多功能 Internet Download Manager 原生 C激活与状态维护套件\n  \n  \n  \n  \n  \n  \n  项目特色 •\n  功能全景 •\n  核心实现原理 •\n  快速开始 •\n  命令行模式 •\n  验证版本与指纹 •\n  构建指南 •\n  免责声明\n---\n🌟 项目特色\n- 🚀 零外部依赖，系统原生直驱  \n  无需安装任何 .NET SDK、Visual Studio 或繁重依赖，仅使用 Windows 系统自带的 csc.exe 即可毫秒级编译，产物仅 200 KB 左右。\n- 🎨 纯代码构建的精美 WPF 界面  \n  零 X"
+      "readme_snippet": "LLM-Master\n> 本仓库资料来自卡码笔记-大模型专栏。\n程序员的大模型全栈学习路线\n从第一次调用模型 API，到构建可评估的 RAG、可靠的 Agent 与可上线的 AI 系统。\n开始学习 · 全部教程 · 专题索引 · 面试题库\n---\n网上从来不缺大模型资料，缺的是一条真正适合程序员的学习路径。\nLLM Master 不是零散文章的合集，而是一套从基础认知 → 应用开发 → RAG → Agent → 微调与部署 → Transformer → 项目与面试逐级展开的完整知识体系。它关心的不只是“这个概念是什么”，更关心：为什么这样设计、工程上如何落地、出了问题怎么排查、面试时如何讲"
     },
     {
-      "id": 1363438862,
-      "full_name": "nftechie/stonkfly",
-      "name": "stonkfly",
+      "id": 1369428487,
+      "full_name": "nilbuild/page-mascot",
+      "name": "page-mascot",
       "owner": {
-        "login": "nftechie",
-        "avatar_url": "https://avatars.githubusercontent.com/u/2530972?v=4"
+        "login": "nilbuild",
+        "avatar_url": "https://avatars.githubusercontent.com/u/4921183?v=4"
       },
-      "html_url": "https://github.com/nftechie/stonkfly",
-      "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+      "html_url": "https://github.com/nilbuild/page-mascot",
+      "description": "A mascot that watches the cursor and blinks when you poke it",
       "language": "Python",
-      "stargazers_count": 713,
-      "forks_count": 123,
-      "open_issues_count": 2,
+      "stargazers_count": 676,
+      "forks_count": 61,
+      "open_issues_count": 1,
       "topics": [],
-      "created_at": "2026-09-10T02:40:30Z",
-      "updated_at": "2026-09-16T20:21:42Z",
+      "created_at": "2026-09-14T06:55:59Z",
+      "updated_at": "2026-09-17T19:00:23Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "!Stonkfly: a pixel fly beside a candlestick chart\nStonkfly\nA fly-connectome simulation that can operate a crypto trading account. Actual neural output, actual Coinbase integration. Profitable learning has not been demonstrated.\nHow it works: Public Coinbase prices become an RGB chart. It stimulates "
+      "readme_snippet": "page-mascot\nAn interactive character that watches the cursor and blinks when you poke it.\nSee the fifty-two &rarr;\nInstall\nUse existing mascots\nPick a character on the demo page and download its two\nsheets into public/mascots, then point the component at them:\nThe paths are whatever your app serves,"
     }
   ]
 }
