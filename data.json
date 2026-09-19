@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-18T20:36:16.868Z",
-  "query_date_range": "2026-09-11 ~ 2026-09-18",
-  "total_found": 2969377,
+  "updated_at": "2026-09-19T20:14:28.424Z",
+  "query_date_range": "2026-09-12 ~ 2026-09-19",
+  "total_found": 3163616,
   "count": 9,
   "repos": [
     {
@@ -15,12 +15,12 @@
       "html_url": "https://github.com/browser-use/jev-ultrafast",
       "description": "i. am. speed.",
       "language": "Python",
-      "stargazers_count": 5204,
-      "forks_count": 319,
-      "open_issues_count": 29,
+      "stargazers_count": 7981,
+      "forks_count": 504,
+      "open_issues_count": 50,
       "topics": [],
       "created_at": "2026-09-16T21:30:12Z",
-      "updated_at": "2026-09-18T20:35:11Z",
+      "updated_at": "2026-09-19T20:13:59Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -38,17 +38,40 @@
       "html_url": "https://github.com/tamaratran/fast-jev-compaction",
       "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
       "language": "TypeScript",
-      "stargazers_count": 2999,
-      "forks_count": 149,
-      "open_issues_count": 44,
+      "stargazers_count": 4088,
+      "forks_count": 215,
+      "open_issues_count": 47,
       "topics": [],
       "created_at": "2026-09-17T05:57:20Z",
-      "updated_at": "2026-09-18T20:35:50Z",
+      "updated_at": "2026-09-19T20:13:22Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "fast-jev-compaction\nClaude Code plugin that replaces the compaction summary with Jev decisions:\nevery tool call and result is scored in one fast request, stale ones are\ndropped or truncated, everything kept stays verbatim. Also usable as an npm\nlibrary.\nWhat and why\nMost context compaction asks an L"
+    },
+    {
+      "id": 1373614120,
+      "full_name": "robbietilton/Compositor",
+      "name": "Compositor",
+      "owner": {
+        "login": "robbietilton",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1269226?v=4"
+      },
+      "html_url": "https://github.com/robbietilton/Compositor",
+      "description": "The Photoshop alternative for Mac",
+      "language": "Swift",
+      "stargazers_count": 2157,
+      "forks_count": 232,
+      "open_issues_count": 25,
+      "topics": [],
+      "created_at": "2026-09-16T20:35:54Z",
+      "updated_at": "2026-09-19T20:14:02Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Compositor\nAdobe Photoshop costs too much and tools like GIMP don’t feel familiar enough for me to stay in flow. That’s why I built Compositor.\nThe goal was to create a full-featured image editor that is completely free and open source. I use Photoshop for compositing and post-processing, so Composi"
     },
     {
       "id": 1372482979,
@@ -61,45 +84,17 @@
       "html_url": "https://github.com/TheoLeeCJ/SemIf",
       "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
       "language": "Python",
-      "stargazers_count": 1545,
-      "forks_count": 99,
-      "open_issues_count": 5,
+      "stargazers_count": 1868,
+      "forks_count": 120,
+      "open_issues_count": 6,
       "topics": [],
       "created_at": "2026-09-16T03:51:21Z",
-      "updated_at": "2026-09-18T20:34:18Z",
+      "updated_at": "2026-09-19T20:12:32Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "SemIf (formerly OpenJev)\nSemantic ifs from open models, on a 3090 at home.\n*Independent project; not affiliated with Jev or TypeSafe.*\nWow! No waitlist. Run it in your browser today.\n*Same frozen 4B model · same state · same 21 questions · measured separately, aligned at t=0 in the replay*\n> Indepen"
-    },
-    {
-      "id": 1367251447,
-      "full_name": "Chuloo/mural",
-      "name": "mural",
-      "owner": {
-        "login": "Chuloo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/22301208?v=4"
-      },
-      "html_url": "https://github.com/Chuloo/mural",
-      "description": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
-      "language": "Kotlin",
-      "stargazers_count": 1358,
-      "forks_count": 263,
-      "open_issues_count": 27,
-      "topics": [
-        "ios",
-        "language-learning",
-        "open-source",
-        "swiftui"
-      ],
-      "created_at": "2026-09-12T11:51:08Z",
-      "updated_at": "2026-09-18T19:49:23Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Mural\nThe language app you eventually delete.\n  \n  \n  \n  \nMural is a native iPhone and Android app for learning through conversation. Speak to a warm, animated orb, follow the meaning when you need it, and practise words again in later conversations. Mural adjusts the challenge from the evidence in "
     },
     {
       "id": 1371378654,
@@ -112,40 +107,63 @@
       "html_url": "https://github.com/mcncarl/jianying-headless",
       "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
       "language": "Python",
-      "stargazers_count": 976,
-      "forks_count": 481,
-      "open_issues_count": 2,
+      "stargazers_count": 1503,
+      "forks_count": 645,
+      "open_issues_count": 5,
       "topics": [],
       "created_at": "2026-09-15T11:51:15Z",
-      "updated_at": "2026-09-18T20:34:27Z",
+      "updated_at": "2026-09-19T20:13:20Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
       },
-      "readme_snippet": "Jianying Headless\n剪映专业版 macOS 的本地自动化工具：从剪辑计划生成可继续编辑的原生草稿，\n在独立副本里修改已有多轨草稿，并在明确要求时调用本机原生引擎导出 MP4。\n这是私有源码预览，不是剪映官方 SDK，也不是无需安装剪映的独立剪辑软件。\n官方程序库、账号资料、真实素材与效果资源均不随仓库分发。\n项目与 Skill 分开\n| 目录 | 职责 |\n| --- | --- |\n| engine/ | 草稿构建、独立副本编辑、资源校验与原生导出 |\n| bridge/ | 自有文件/管道适配源码，以及保留 MIT 来源声明的接口头文件 |\n| skills/yichen-"
+      "readme_snippet": "Jianying Headless\n面向剪映专业版 macOS 的本地自动化工具。通过结构化剪辑计划生成可编辑草稿，\n在独立副本中修改多轨工程，并调用本机剪映引擎导出 MP4。\n主要适配版本：11.5.0 · 兼容版本：11.4.2\n首次使用请从 从零生成第一个剪映草稿 开始。\n教程包含安装前提、环境检查、拖入自己的视频、首页登记、保存重开和常见报错处理。\n11.5.0 仍需匹配具体安装身份与工具链，尚不保证任意电脑安装即用。\n项目适用于 AI 视频工作流的工程交接、批量草稿生成和 Agent 辅助剪辑。\n提供 Python 命令行入口及配套 Agent Skill。它不是剪映官方 SDK，运"
     },
     {
-      "id": 1367606050,
-      "full_name": "yifanzhang-pro/recurrent-looped-tranformer",
-      "name": "recurrent-looped-tranformer",
+      "id": 1373659194,
+      "full_name": "jarrodwatts/jev-trader",
+      "name": "jev-trader",
       "owner": {
-        "login": "yifanzhang-pro",
-        "avatar_url": "https://avatars.githubusercontent.com/u/35550115?v=4"
+        "login": "jarrodwatts",
+        "avatar_url": "https://avatars.githubusercontent.com/u/35651410?v=4"
       },
-      "html_url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer",
-      "description": "Official Project Page for Recurrent Looped Transformer (RLT)",
-      "language": "HTML",
-      "stargazers_count": 878,
-      "forks_count": 86,
-      "open_issues_count": 0,
+      "html_url": "https://github.com/jarrodwatts/jev-trader",
+      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "language": "TypeScript",
+      "stargazers_count": 1217,
+      "forks_count": 235,
+      "open_issues_count": 3,
       "topics": [],
-      "created_at": "2026-09-12T19:02:46Z",
-      "updated_at": "2026-09-18T15:15:59Z",
+      "created_at": "2026-09-16T21:36:20Z",
+      "updated_at": "2026-09-19T20:13:26Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "jev-trader\nOne decision every Monad block. A TypeSafe Jev model watches the Kuru MON-USDC order book and answers buy or sell every ~300 ms. Every block posts a real post-only limit order on that side, one tick inside the touch, replacing the last one. Fills happen when a taker hits it, so the bot ea"
+    },
+    {
+      "id": 1375382253,
+      "full_name": "NandhaKishorM/laya",
+      "name": "laya",
+      "owner": {
+        "login": "NandhaKishorM",
+        "avatar_url": "https://avatars.githubusercontent.com/u/48623612?v=4"
+      },
+      "html_url": "https://github.com/NandhaKishorM/laya",
+      "description": null,
+      "language": "Python",
+      "stargazers_count": 1060,
+      "forks_count": 89,
+      "open_issues_count": 11,
+      "topics": [],
+      "created_at": "2026-09-18T04:46:33Z",
+      "updated_at": "2026-09-19T20:13:26Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
-      "readme_snippet": "Recurrent Looped Transformer\nRecurrent computation across prompt and response\nRecurrent Looped Transformer (RLT-1) passes the decoder's final hidden state to the next token, together with that token's causal encoder representation.\nThe decoder reads encoder-derived global KV memory and maintains a s"
+      "readme_snippet": "Multilingual, non-autoregressive System 1 decision engine. Typed decisions over 100+ languages in a single forward pass — 33 ms — trained with reinforcement learning against strictly proper scoring rules (RLCD), with a router that picks the right checkpoint per request.\n  \nLaya evaluates typed quest"
     },
     {
       "id": 1372867305,
@@ -158,12 +176,12 @@
       "html_url": "https://github.com/vinnylarouge/jevlike",
       "description": null,
       "language": "Python",
-      "stargazers_count": 865,
-      "forks_count": 74,
-      "open_issues_count": 2,
+      "stargazers_count": 967,
+      "forks_count": 81,
+      "open_issues_count": 4,
       "topics": [],
       "created_at": "2026-09-16T10:26:01Z",
-      "updated_at": "2026-09-18T20:21:50Z",
+      "updated_at": "2026-09-19T19:30:51Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -171,47 +189,24 @@
       "readme_snippet": "Jevlike\nTrain a small model that chooses among a changing list of text options.\nA Jev-like model takes a piece of text and a list of N text options. It returns one probability for each option. It does this in one pass instead of writing an answer word by word. Jev is TypeSafe's commercial model for "
     },
     {
-      "id": 1367271141,
-      "full_name": "zjwzcx/Awesome-Astra-Embodied-AI",
-      "name": "Awesome-Astra-Embodied-AI",
+      "id": 1368866379,
+      "full_name": "zhengkid/Dream-RSI",
+      "name": "Dream-RSI",
       "owner": {
-        "login": "zjwzcx",
-        "avatar_url": "https://avatars.githubusercontent.com/u/43678835?v=4"
+        "login": "zhengkid",
+        "avatar_url": "https://avatars.githubusercontent.com/u/52874273?v=4"
       },
-      "html_url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
-      "description": "GPT-6 Astra for embodied AI and robotics.",
+      "html_url": "https://github.com/zhengkid/Dream-RSI",
+      "description": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
       "language": null,
-      "stargazers_count": 857,
-      "forks_count": 17,
+      "stargazers_count": 854,
+      "forks_count": 80,
       "open_issues_count": 4,
       "topics": [],
-      "created_at": "2026-09-12T12:20:24Z",
-      "updated_at": "2026-09-18T18:38:56Z",
+      "created_at": "2026-09-13T20:39:43Z",
+      "updated_at": "2026-09-19T20:07:13Z",
       "license": null,
-      "readme_snippet": "Awesome Astra Embodied AI\nGPT-6 Astra with embodied AI / robotics workflows and demos.\nContents\nCases are grouped by workflow and ordered by publication date, newest first within each section.\n- 🤖 Zero-shot Control\n  - 🧪 Deploy in Simulation — 12 cases\n  - 🌍 Deploy in Real World — 10 cases\n- 🧠 A"
-    },
-    {
-      "id": 1367577373,
-      "full_name": "agentverse-os/AgentVerse-OS",
-      "name": "AgentVerse-OS",
-      "owner": {
-        "login": "agentverse-os",
-        "avatar_url": "https://avatars.githubusercontent.com/u/328451092?v=4"
-      },
-      "html_url": "https://github.com/agentverse-os/AgentVerse-OS",
-      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
-      "language": "Rust",
-      "stargazers_count": 838,
-      "forks_count": 22,
-      "open_issues_count": 1,
-      "topics": [],
-      "created_at": "2026-09-12T18:20:00Z",
-      "updated_at": "2026-09-18T20:12:23Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "AgentVerse OS is a personal cloud operating system for a developer and their AI agents: your own cloud running on a single server,\nused from any device through the browser. It is built as a cross-platform vibe coding flow: the same desktop, workspaces and agents\nopen on a laptop, a tablet or a phone"
+      "readme_snippet": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n  \n    \n    \n  \n  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n  \n    \n    \n  \n  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n  \n    \n    \n  \nDream-RSI: Recursive Self-Improvementthrough Evolving Worlds\n  \n  \nTong Zheng1,2,\nXidong Wu1✉,\nZheng Zhang1✉,\nZhankui He3,\nChaoyi Zhang1,"
     }
   ]
 }
