@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-20T20:30:26.689Z",
-  "query_date_range": "2026-09-13 ~ 2026-09-20",
-  "total_found": 3038700,
+  "updated_at": "2026-09-21T21:48:45.730Z",
+  "query_date_range": "2026-09-14 ~ 2026-09-21",
+  "total_found": 3267748,
   "count": 9,
   "repos": [
     {
@@ -13,42 +13,19 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
       },
       "html_url": "https://github.com/browser-use/jev-ultrafast",
-      "description": "i. am. speed.",
+      "description": "Fastest and cheapest web agent",
       "language": "Python",
-      "stargazers_count": 11537,
-      "forks_count": 712,
-      "open_issues_count": 79,
+      "stargazers_count": 15491,
+      "forks_count": 964,
+      "open_issues_count": 108,
       "topics": [],
       "created_at": "2026-09-16T21:30:12Z",
-      "updated_at": "2026-09-20T20:29:51Z",
+      "updated_at": "2026-09-21T21:47:47Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "Jev Ultrafast ⚡\n> [!IMPORTANT]\n> The Browser Use Cloud waitlist is open. Get early access to ultrafast browser agents in the cloud.\n> Join the waitlist →\nA browser agent with a dynamic, indexed action space.\nGive it one goal. TypeSafe's Jev picks an operation and an element. A small LLM writes text "
-    },
-    {
-      "id": 1374005005,
-      "full_name": "tamaratran/fast-jev-compaction",
-      "name": "fast-jev-compaction",
-      "owner": {
-        "login": "tamaratran",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65584429?v=4"
-      },
-      "html_url": "https://github.com/tamaratran/fast-jev-compaction",
-      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "language": "TypeScript",
-      "stargazers_count": 5031,
-      "forks_count": 278,
-      "open_issues_count": 56,
-      "topics": [],
-      "created_at": "2026-09-17T05:57:20Z",
-      "updated_at": "2026-09-20T20:29:50Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "fast-jev-compaction\nClaude Code plugin that replaces the compaction summary with Jev decisions:\nevery tool call and result is scored in one fast request, stale ones are\ndropped or truncated, everything kept stays verbatim. Also usable as an npm\nlibrary.\nWhat and why\nMost context compaction asks an L"
     },
     {
       "id": 1375382253,
@@ -61,17 +38,63 @@
       "html_url": "https://github.com/NandhaKishorM/laya",
       "description": null,
       "language": "Python",
-      "stargazers_count": 3593,
-      "forks_count": 321,
-      "open_issues_count": 24,
+      "stargazers_count": 9747,
+      "forks_count": 806,
+      "open_issues_count": 47,
       "topics": [],
       "created_at": "2026-09-18T04:46:33Z",
-      "updated_at": "2026-09-20T20:28:19Z",
+      "updated_at": "2026-09-21T21:48:13Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
       "readme_snippet": "Multilingual, non-autoregressive System 1 decision engine. Typed decisions over 100+ languages in a single forward pass — 33 ms — trained with reinforcement learning against strictly proper scoring rules (RLCD), with a router that picks the right checkpoint per request.\n  \nLaya evaluates typed quest"
+    },
+    {
+      "id": 1374005005,
+      "full_name": "tamaratran/fast-jev-compaction",
+      "name": "fast-jev-compaction",
+      "owner": {
+        "login": "tamaratran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65584429?v=4"
+      },
+      "html_url": "https://github.com/tamaratran/fast-jev-compaction",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "language": "TypeScript",
+      "stargazers_count": 5925,
+      "forks_count": 330,
+      "open_issues_count": 65,
+      "topics": [],
+      "created_at": "2026-09-17T05:57:20Z",
+      "updated_at": "2026-09-21T21:40:58Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "fast-jev-compaction\nClaude Code plugin that replaces the compaction summary with Jev decisions:\nevery tool call and result is scored in one fast request, stale ones are\ndropped or truncated, everything kept stays verbatim. Also usable as an npm\nlibrary.\nWhat and why\nMost context compaction asks an L"
+    },
+    {
+      "id": 1378288598,
+      "full_name": "zai-org/ZCode",
+      "name": "ZCode",
+      "owner": {
+        "login": "zai-org",
+        "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
+      },
+      "html_url": "https://github.com/zai-org/ZCode",
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "language": "TypeScript",
+      "stargazers_count": 5523,
+      "forks_count": 1571,
+      "open_issues_count": 11,
+      "topics": [],
+      "created_at": "2026-09-20T12:01:16Z",
+      "updated_at": "2026-09-21T21:47:50Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "ZCode\n  \n  飞书社群 ·\n  Discord\n  简体中文 | English\nZCode 是 AI 编程工作台，提供桌面应用、浏览器界面和终端 Agent。本仓库包含客户端、后端服务、共享 UI，以及 Agent CLI 与运行时源码。\n| 入口                 | 用途                                                           | 开发命令                       |\n| -------------------- | -----------------------------------"
     },
     {
       "id": 1373614120,
@@ -84,17 +107,51 @@
       "html_url": "https://github.com/robbietilton/Compositor",
       "description": "The Photoshop alternative for Mac",
       "language": "Swift",
-      "stargazers_count": 3543,
-      "forks_count": 370,
-      "open_issues_count": 39,
+      "stargazers_count": 4338,
+      "forks_count": 458,
+      "open_issues_count": 14,
       "topics": [],
       "created_at": "2026-09-16T20:35:54Z",
-      "updated_at": "2026-09-20T20:28:48Z",
+      "updated_at": "2026-09-21T21:44:40Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "Compositor\nAdobe Photoshop costs too much and tools like GIMP don’t feel familiar enough for me to stay in flow. That’s why I built Compositor.\nThe goal was to create a full-featured image editor that is completely free and open source. I use Photoshop for compositing and post-processing, so Composi"
+    },
+    {
+      "id": 1377211520,
+      "full_name": "mizorewww/laya-mlx",
+      "name": "laya-mlx",
+      "owner": {
+        "login": "mizorewww",
+        "avatar_url": "https://avatars.githubusercontent.com/u/252857002?v=4"
+      },
+      "html_url": "https://github.com/mizorewww/laya-mlx",
+      "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "language": "Python",
+      "stargazers_count": 3625,
+      "forks_count": 217,
+      "open_issues_count": 5,
+      "topics": [
+        "apple-silicon",
+        "decision-model",
+        "inference",
+        "laya",
+        "local-ai",
+        "machine-learning",
+        "mlx",
+        "modernbert",
+        "system-one",
+        "typed-decisions"
+      ],
+      "created_at": "2026-09-19T13:50:26Z",
+      "updated_at": "2026-09-21T21:48:14Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "Laya-MLX\n!Laya MLX playing Snake — actual decisions, original speed\nOpen-weight typed decisions, running natively on Apple Silicon.\n13.4 ms median end-to-end for a short English typed decision. 7.4 ms with the multilingual checkpoint. 0 output tokens. Local MLX inference, with no PyTorch, Transforme"
     },
     {
       "id": 1372482979,
@@ -107,12 +164,12 @@
       "html_url": "https://github.com/TheoLeeCJ/SemIf",
       "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
       "language": "Python",
-      "stargazers_count": 2380,
-      "forks_count": 149,
-      "open_issues_count": 13,
+      "stargazers_count": 3156,
+      "forks_count": 203,
+      "open_issues_count": 12,
       "topics": [],
       "created_at": "2026-09-16T03:51:21Z",
-      "updated_at": "2026-09-20T20:21:41Z",
+      "updated_at": "2026-09-21T21:42:33Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -130,12 +187,12 @@
       "html_url": "https://github.com/mcncarl/jianying-headless",
       "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
       "language": "Python",
-      "stargazers_count": 1932,
-      "forks_count": 1160,
-      "open_issues_count": 9,
+      "stargazers_count": 2354,
+      "forks_count": 1773,
+      "open_issues_count": 10,
       "topics": [],
       "created_at": "2026-09-15T11:51:15Z",
-      "updated_at": "2026-09-20T20:11:42Z",
+      "updated_at": "2026-09-21T21:13:49Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
@@ -143,84 +200,31 @@
       "readme_snippet": "Jianying Headless\n面向剪映专业版 macOS 的本地自动化工具。通过结构化剪辑计划生成可编辑草稿，\n在独立副本中修改多轨工程，并调用本机剪映引擎导出 MP4。\n主要适配版本：11.5.0 · 兼容版本：11.4.2\n首次使用请从 从零生成第一个剪映草稿 开始。\n教程包含安装前提、环境检查、拖入自己的视频、首页登记、保存重开和常见报错处理。\n11.5.0 仍需匹配具体安装身份与工具链，尚不保证任意电脑安装即用。\n项目适用于 AI 视频工作流的工程交接、批量草稿生成和 Agent 辅助剪辑。\n提供 Python 命令行入口及配套 Agent Skill。它不是剪映官方 SDK，运"
     },
     {
-      "id": 1373659194,
-      "full_name": "jarrodwatts/jev-trader",
-      "name": "jev-trader",
+      "id": 1375069862,
+      "full_name": "jaredpalmer/kev",
+      "name": "kev",
       "owner": {
-        "login": "jarrodwatts",
-        "avatar_url": "https://avatars.githubusercontent.com/u/35651410?v=4"
+        "login": "jaredpalmer",
+        "avatar_url": "https://avatars.githubusercontent.com/u/4060187?v=4"
       },
-      "html_url": "https://github.com/jarrodwatts/jev-trader",
-      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-      "language": "TypeScript",
-      "stargazers_count": 1492,
-      "forks_count": 280,
-      "open_issues_count": 3,
-      "topics": [],
-      "created_at": "2026-09-16T21:36:20Z",
-      "updated_at": "2026-09-20T20:23:46Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "jev-trader\nOne decision every Monad block. A TypeSafe Jev model watches the Kuru MON-USDC order book and answers buy or sell every ~300 ms. Every block posts a real post-only limit order on that side, one tick inside the touch, replacing the last one. Fills happen when a taker hits it, so the bot ea"
-    },
-    {
-      "id": 1377211520,
-      "full_name": "mizorewww/laya-mlx",
-      "name": "laya-mlx",
-      "owner": {
-        "login": "mizorewww",
-        "avatar_url": "https://avatars.githubusercontent.com/u/252857002?v=4"
-      },
-      "html_url": "https://github.com/mizorewww/laya-mlx",
-      "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "html_url": "https://github.com/jaredpalmer/kev",
+      "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
       "language": "Python",
-      "stargazers_count": 1436,
-      "forks_count": 72,
-      "open_issues_count": 2,
+      "stargazers_count": 2332,
+      "forks_count": 120,
+      "open_issues_count": 3,
       "topics": [
-        "apple-silicon",
         "decision-model",
-        "inference",
-        "laya",
-        "local-ai",
-        "machine-learning",
-        "mlx",
-        "modernbert",
-        "system-one",
-        "typed-decisions"
+        "jev",
+        "qwen3"
       ],
-      "created_at": "2026-09-19T13:50:26Z",
-      "updated_at": "2026-09-20T20:29:00Z",
+      "created_at": "2026-09-17T20:49:39Z",
+      "updated_at": "2026-09-21T21:43:36Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
-      "readme_snippet": "Laya-MLX\n!Laya MLX playing Snake — actual decisions, original speed\nOpen-weight typed decisions, running natively on Apple Silicon.\n13.4 ms median end-to-end for a short English typed decision. 7.4 ms with the multilingual checkpoint. 0 output tokens. Local MLX inference, with no PyTorch, Transforme"
-    },
-    {
-      "id": 1374702542,
-      "full_name": "TianyuCodings/NanoJev",
-      "name": "NanoJev",
-      "owner": {
-        "login": "TianyuCodings",
-        "avatar_url": "https://avatars.githubusercontent.com/u/48460209?v=4"
-      },
-      "html_url": "https://github.com/TianyuCodings/NanoJev",
-      "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
-      "language": "Python",
-      "stargazers_count": 1364,
-      "forks_count": 169,
-      "open_issues_count": 7,
-      "topics": [],
-      "created_at": "2026-09-17T16:08:30Z",
-      "updated_at": "2026-09-20T20:28:47Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "NanoJev — A nano replica of Jev\nEnglish | 简体中文\nA 0.6B parallel decision model: states and questions in, complete probability distributions out. Zero output-token decoding.\nPlay ViZDoom · Maze & Snake · Model · Dataset\nNow playing ViZDoom: one shared checkpoint handles Basic aiming and Predict Positi"
+      "readme_snippet": "Kev\nSmall Jev-like decision models you can train and run yourself.\n  \n  \n  \n  \n  \n  \nKev is a family of small decision models built on Qwen3.5 and based on the architecture described in Jev's Architecture Unmasked. You can use the pretrained weights or train your own. The API matches TypeSafe's Syst"
     }
   ]
 }
