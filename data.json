@@ -1,61 +1,9 @@
 {
-  "updated_at": "2026-09-27T21:04:09.221Z",
-  "query_date_range": "2026-09-20 ~ 2026-09-27",
-  "total_found": 5091999,
+  "updated_at": "2026-09-28T23:02:17.589Z",
+  "query_date_range": "2026-09-21 ~ 2026-09-28",
+  "total_found": 5999579,
   "count": 9,
   "repos": [
-    {
-      "id": 1379574728,
-      "full_name": "jev-chat/jev-chat-jarvis",
-      "name": "jev-chat-jarvis",
-      "owner": {
-        "login": "jev-chat",
-        "avatar_url": "https://avatars.githubusercontent.com/u/332283779?v=4"
-      },
-      "html_url": "https://github.com/jev-chat/jev-chat-jarvis",
-      "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "language": "Kotlin",
-      "stargazers_count": 6771,
-      "forks_count": 1165,
-      "open_issues_count": 29,
-      "topics": [
-        "accessibility-service",
-        "android",
-        "chat-assistant",
-        "llm",
-        "qq"
-      ],
-      "created_at": "2026-09-21T11:12:53Z",
-      "updated_at": "2026-09-27T20:52:46Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Jev 聊天助手\n装在手机上的「对话副驾」：在支持的聊天 App 里读懂对方、告诉你该怎么回，一键填进输入框，发不发由你。\n官网 · 隐私政策 · 下载 APK · 历史版本 · 更新日志 · macOS 版 · Windows 版\n❤️赞助商\n> 想出现在这里？\n点击折叠\n感谢 博查 赞助了本项目！博查是一个给 AI 用的搜索引擎，让你的 AI 应用连接世界知识，获得干净、准确、高质量的搜索结果。提供 Web Search API、Bocha Jev API 等多种联网搜索和模型服务。open.bocha.cn\n感谢 小优店铺 赞助了本项目！小优店铺是一家数字商品与账号服务店铺，为本项目的用"
-    },
-    {
-      "id": 1380635125,
-      "full_name": "unreallabsai/unreal-agent",
-      "name": "unreal-agent",
-      "owner": {
-        "login": "unreallabsai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/181495282?v=4"
-      },
-      "html_url": "https://github.com/unreallabsai/unreal-agent",
-      "description": "Async-first agent harness",
-      "language": "Go",
-      "stargazers_count": 1985,
-      "forks_count": 107,
-      "open_issues_count": 8,
-      "topics": [],
-      "created_at": "2026-09-21T23:14:02Z",
-      "updated_at": "2026-09-27T20:52:50Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Unreal Agent\nAn async-first agent harness from Unreal Labs.\n- harness/ — the library.\n- cmd/ — executables that use the library.\n- benchmarks/ — benchmark runners.\nGlossary\n- Input: an event with a caller-supplied globally unique ID that remains\n  stable across redeliveries.\n- Inbox: session-scoped,"
-    },
     {
       "id": 1384094559,
       "full_name": "Contrastive-LM/CLM",
@@ -67,12 +15,12 @@
       "html_url": "https://github.com/Contrastive-LM/CLM",
       "description": null,
       "language": "Python",
-      "stargazers_count": 1879,
-      "forks_count": 164,
-      "open_issues_count": 15,
+      "stargazers_count": 2269,
+      "forks_count": 197,
+      "open_issues_count": 19,
       "topics": [],
       "created_at": "2026-09-23T19:29:56Z",
-      "updated_at": "2026-09-27T21:02:49Z",
+      "updated_at": "2026-09-28T22:49:25Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
@@ -90,90 +38,17 @@
       "html_url": "https://github.com/tobi/disktree",
       "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
       "language": "Rust",
-      "stargazers_count": 1561,
-      "forks_count": 97,
-      "open_issues_count": 8,
+      "stargazers_count": 1808,
+      "forks_count": 117,
+      "open_issues_count": 18,
       "topics": [],
       "created_at": "2026-09-24T20:56:29Z",
-      "updated_at": "2026-09-27T20:49:17Z",
+      "updated_at": "2026-09-28T22:29:29Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "disktree\n!disktree: a home directory as a treemap, coloured by kind of data, with reclaimable space hatched and the selection, findings and free space in the side panel\nFind what is filling a disk, mark what should go, and remove it — with the\nvolume's free space in view the whole time.\ndisktree is "
-    },
-    {
-      "id": 1382467199,
-      "full_name": "JohnHeibel/PDoomVideo",
-      "name": "PDoomVideo",
-      "owner": {
-        "login": "JohnHeibel",
-        "avatar_url": "https://avatars.githubusercontent.com/u/25869466?v=4"
-      },
-      "html_url": "https://github.com/JohnHeibel/PDoomVideo",
-      "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
-      "language": "JavaScript",
-      "stargazers_count": 1229,
-      "forks_count": 130,
-      "open_issues_count": 2,
-      "topics": [],
-      "created_at": "2026-09-22T23:32:19Z",
-      "updated_at": "2026-09-27T21:02:26Z",
-      "license": null,
-      "readme_snippet": "I'm Upping My P(doom)\nSource code for the Claude Opus 5.5 music video for *I'm Upping My P(doom)*.\nI've also made a new more reliable and general base for making Claude animations with Claude Opus 5.5. \nHighly recommend checking it out!\nCredits\n- Inspired by: this post on X\n- Song: as far as I could"
-    },
-    {
-      "id": 1383809012,
-      "full_name": "yetone/magpie",
-      "name": "magpie",
-      "owner": {
-        "login": "yetone",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
-      },
-      "html_url": "https://github.com/yetone/magpie",
-      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "language": "Go",
-      "stargazers_count": 1228,
-      "forks_count": 68,
-      "open_issues_count": 1,
-      "topics": [
-        "claude-code",
-        "codex",
-        "deepseek",
-        "gemini-cli",
-        "llm",
-        "macos"
-      ],
-      "created_at": "2026-09-23T16:22:35Z",
-      "updated_at": "2026-09-27T20:53:42Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "magpie\nOne place to pick every agent's model: Codex on DeepSeek, Claude Code\non Kimi, Gemini CLI on GLM, from the menu bar. usemagpie.ai\nmagpie is a single screen that lists each AI agent on your machine and\nthe model it is set to. Click a value, pick a model. That is the whole app.\nIt lives in the "
-    },
-    {
-      "id": 1378971656,
-      "full_name": "deepopen-com/deepopen",
-      "name": "deepopen",
-      "owner": {
-        "login": "deepopen-com",
-        "avatar_url": "https://avatars.githubusercontent.com/u/331844194?v=4"
-      },
-      "html_url": "https://github.com/deepopen-com/deepopen",
-      "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
-      "language": "Python",
-      "stargazers_count": 1044,
-      "forks_count": 112,
-      "open_issues_count": 7,
-      "topics": [],
-      "created_at": "2026-09-21T02:12:24Z",
-      "updated_at": "2026-09-27T11:53:56Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "DeepOpen:    中文\nOpen-Source Multilingual System 1 Decision Engine Technical Whitepaper\nIntroduction\nDeepOpen is a fully open-source non-autoregressive System 1 decision engine built on Laya, purpose-built for structured decision-making scenarios. It breaks away from the conventional token-by-token t"
     },
     {
       "id": 1386391454,
@@ -186,17 +61,103 @@
       "html_url": "https://github.com/mexicat/pdoom-video",
       "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
       "language": "TypeScript",
-      "stargazers_count": 1020,
-      "forks_count": 101,
-      "open_issues_count": 2,
+      "stargazers_count": 1759,
+      "forks_count": 179,
+      "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-09-24T21:33:53Z",
-      "updated_at": "2026-09-27T21:03:00Z",
+      "updated_at": "2026-09-28T22:49:37Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "I'm Upping My P(doom) — music video\nA generative, code-rendered music video with word-synced karaoke typography. Every frame is a deterministic function of song time, so the live preview in the browser and the offline 1080p60 (or 4K60) export are identical.\nWatch it in 4K on YouTube: https://www.you"
+    },
+    {
+      "id": 1383809012,
+      "full_name": "yetone/magpie",
+      "name": "magpie",
+      "owner": {
+        "login": "yetone",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
+      },
+      "html_url": "https://github.com/yetone/magpie",
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "language": "Go",
+      "stargazers_count": 1586,
+      "forks_count": 95,
+      "open_issues_count": 10,
+      "topics": [
+        "claude-code",
+        "codex",
+        "deepseek",
+        "gemini-cli",
+        "llm",
+        "macos"
+      ],
+      "created_at": "2026-09-23T16:22:35Z",
+      "updated_at": "2026-09-28T22:53:23Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "magpie\nOne place to pick every agent's model: Codex on DeepSeek, Claude Code\non Kimi, Gemini CLI on GLM, from the menu bar. usemagpie.ai\nmagpie is a single screen that lists each AI agent on your machine and\nthe model it is set to. Click a value, pick a model. That is the whole app.\nIt lives in the "
+    },
+    {
+      "id": 1382467199,
+      "full_name": "JohnHeibel/PDoomVideo",
+      "name": "PDoomVideo",
+      "owner": {
+        "login": "JohnHeibel",
+        "avatar_url": "https://avatars.githubusercontent.com/u/25869466?v=4"
+      },
+      "html_url": "https://github.com/JohnHeibel/PDoomVideo",
+      "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+      "language": "JavaScript",
+      "stargazers_count": 1423,
+      "forks_count": 155,
+      "open_issues_count": 3,
+      "topics": [],
+      "created_at": "2026-09-22T23:32:19Z",
+      "updated_at": "2026-09-28T22:56:54Z",
+      "license": null,
+      "readme_snippet": "I'm Upping My P(doom)\nSource code for the Claude Opus 5.5 music video for *I'm Upping My P(doom)*.\nI've also made a new more reliable and general base for making Claude animations with Claude Opus 5.5. \nHighly recommend checking it out!\nCredits\n- Inspired by: this post on X\n- Song: as far as I could"
+    },
+    {
+      "id": 1388482474,
+      "full_name": "dzhng/jevgrep",
+      "name": "jevgrep",
+      "owner": {
+        "login": "dzhng",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1329503?v=4"
+      },
+      "html_url": "https://github.com/dzhng/jevgrep",
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "language": "TypeScript",
+      "stargazers_count": 1400,
+      "forks_count": 86,
+      "open_issues_count": 23,
+      "topics": [
+        "ai-sdk",
+        "claude-code",
+        "cli",
+        "code-search",
+        "codex",
+        "coding-agents",
+        "context-retrieval",
+        "developer-tools",
+        "jev",
+        "semantic-search",
+        "typescript",
+        "vercel-ai-gateway"
+      ],
+      "created_at": "2026-09-26T04:06:56Z",
+      "updated_at": "2026-09-28T23:00:47Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "!jevgrep — Same intelligence. About 30% lower cost.\njevgrep\nSame intelligence. ~30% lower cost.\nFind code by asking what it does. In our ten-task SWE-bench comparison, Jevgrep\nsuccessfully completed the same 8 of 10 tasks as the baseline, at lower cost.\nCoding agents spend part of every unfamiliar t"
     },
     {
       "id": 1383518430,
@@ -209,8 +170,8 @@
       "html_url": "https://github.com/mikehasa/golive-skill",
       "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
       "language": "TypeScript",
-      "stargazers_count": 1010,
-      "forks_count": 72,
+      "stargazers_count": 1044,
+      "forks_count": 77,
       "open_issues_count": 1,
       "topics": [
         "agent-skill",
@@ -235,12 +196,66 @@
         "vercel"
       ],
       "created_at": "2026-09-23T13:37:26Z",
-      "updated_at": "2026-09-27T19:39:05Z",
+      "updated_at": "2026-09-28T21:32:59Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "GoLive\nEnglish · 简体中文 · 日本語 · 한국어 · Español · Português (Brasil) · Deutsch\nTake your agent-built product live: hosting, database, auth, domain, email, payments — on your own accounts. Then hand it over, or tear it all down.\nYour coding agent can build an app in minutes. Getting it to real users stil"
+    },
+    {
+      "id": 1381900816,
+      "full_name": "kryvora-network/kryvora-node",
+      "name": "kryvora-node",
+      "owner": {
+        "login": "kryvora-network",
+        "avatar_url": "https://avatars.githubusercontent.com/u/332587460?v=4"
+      },
+      "html_url": "https://github.com/kryvora-network/kryvora-node",
+      "description": "Reference client daemon and verification worker for Kryvora Network nodes.",
+      "language": "Go",
+      "stargazers_count": 1042,
+      "forks_count": 29,
+      "open_issues_count": 0,
+      "topics": [
+        "depin",
+        "distributed-systems",
+        "golang",
+        "infrastructure",
+        "node-runner",
+        "telemetry",
+        "worker-daemon"
+      ],
+      "created_at": "2026-09-22T16:10:23Z",
+      "updated_at": "2026-09-28T19:23:03Z",
+      "license": {
+        "spdx_id": "NOASSERTION",
+        "key": "other"
+      },
+      "readme_snippet": "kryvora-node\nOfficial client daemon for Kryvora Network nodes.\nOverview\nKryvora is a decentralized physical infrastructure network designed for distributed verification and worker coordination. The kryvora-node daemon connects worker hardware to the Kryvora Hub, executes telemetry probes, verifies p"
+    },
+    {
+      "id": 1385946301,
+      "full_name": "Niko1221/Strata",
+      "name": "Strata",
+      "owner": {
+        "login": "Niko1221",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86886444?v=4"
+      },
+      "html_url": "https://github.com/Niko1221/Strata",
+      "description": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "language": "C++",
+      "stargazers_count": 1039,
+      "forks_count": 113,
+      "open_issues_count": 34,
+      "topics": [],
+      "created_at": "2026-09-24T16:40:20Z",
+      "updated_at": "2026-09-28T22:59:00Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Strata\nRun a 125-billion-parameter AI model on a normal gaming PC\none NVIDIA card (12-24 GB) + 64 GB of RAM · Windows or Linux · one click to install\nA voxel pagoda garden, 1 shot prompt running on an RTX 5070 with Strata (IQ3_S, 128K context) ·\nfull video (49 s)\nStrata runs Qwen3.8-Flash-Next - a l"
     }
   ]
 }
