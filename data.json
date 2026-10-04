@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-03T20:45:03.791Z",
-  "query_date_range": "2026-09-26 ~ 2026-10-03",
-  "total_found": 4068675,
+  "updated_at": "2026-10-04T21:01:13.795Z",
+  "query_date_range": "2026-09-27 ~ 2026-10-04",
+  "total_found": 3019678,
   "count": 9,
   "repos": [
     {
@@ -13,70 +13,89 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/239590580?v=4"
       },
       "html_url": "https://github.com/KKKKhazix/AIHOT",
-      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "description": "一个自己找热点、自己写日报��网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "language": "TypeScript",
-      "stargazers_count": 5374,
-      "forks_count": 1421,
-      "open_issues_count": 16,
+      "stargazers_count": 5756,
+      "forks_count": 1483,
+      "open_issues_count": 2,
       "topics": [
         "ai",
+        "chinese",
         "content-curation",
+        "daily-digest",
+        "docker-compose",
         "llm",
         "mcp",
         "news-aggregator",
+        "postgresql",
         "rss",
         "self-hosted",
         "typescript"
       ],
       "created_at": "2026-09-28T23:40:05Z",
-      "updated_at": "2026-10-03T19:56:24Z",
+      "updated_at": "2026-10-04T20:56:25Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "一个自己找热点、自己写日报的网站框架。\n  把信源换成你的，把精选标准换成你的 KnowHow，它就是你的行业热点站。\n  跑起来 ·\n  改成你的行业 ·\n  它是怎么工作的 ·\n  文档 ·\n  社区交流\n这是什么\nAIHOT 是我做的一个 AI 热点网站。它每天从一批信源里收资料，用大模型先筛一遍、再独立打两次分，挑出真正值得看的，写成中文标题和摘要；把不同来源说的同一件事聚成一个事件，按有多少人在说排出热点；每天早上出一份日报。\n这个仓库是它的完整框架：网站、后台、精选流程、聚簇和热度算法，所有提示词的原文和入选门槛，都在这里。\n为什么开源\n这半年，很多做法律、做 HR、做金融、做贵金"
+      "readme_snippet": "一个自己找热点、自己写日报的网站框架。\n  把信源换成你的，把精选标准换成你的 KnowHow，它就是你的行业热点站。\n  跑起来 ·\n  改成你的行业 ·\n  它是怎么工作的 ·\n  文档 ·\n  社区交流\n这是什么\nAIHOT 是我做的一个 AI 热点网站。它每天从一批信源里收资料，用大模型先筛一遍、再独立打两次分，挑出真正值得看的，写成中文标题和摘要；把不同来源说的同一件事聚成一个事件，按有多少人在说排出热点；每天早上出一份日报。\n这个仓库是它的引擎和框架：网站、后台、精选流程、聚簇和热度算法，所有提示词的原文和入选门槛，都在这里。\n为什么开源\n这半年，很多做法律、做 HR、做金融、做贵"
     },
     {
-      "id": 1391438314,
-      "full_name": "Louis-CFM/coucou",
-      "name": "coucou",
+      "id": 1396117711,
+      "full_name": "CopilotKit/OpenDots",
+      "name": "OpenDots",
       "owner": {
-        "login": "Louis-CFM",
-        "avatar_url": "https://avatars.githubusercontent.com/u/72659375?v=4"
+        "login": "CopilotKit",
+        "avatar_url": "https://avatars.githubusercontent.com/u/131273140?v=4"
       },
-      "html_url": "https://github.com/Louis-CFM/coucou",
-      "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
-      "language": "Swift",
-      "stargazers_count": 3206,
-      "forks_count": 499,
-      "open_issues_count": 124,
-      "topics": [
-        "ai-agents",
-        "anthropic",
-        "antigravity",
-        "claude",
-        "claude-code",
-        "codex",
-        "cursor",
-        "dynamic-island",
-        "gemini-cli",
-        "linux",
-        "macos",
-        "macos-app",
-        "menubar-app",
-        "notch",
-        "open-source",
-        "swift",
-        "swiftui",
-        "windows"
-      ],
-      "created_at": "2026-09-27T21:54:12Z",
-      "updated_at": "2026-10-03T20:38:08Z",
+      "html_url": "https://github.com/CopilotKit/OpenDots",
+      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "language": "TypeScript",
+      "stargazers_count": 3151,
+      "forks_count": 408,
+      "open_issues_count": 60,
+      "topics": [],
+      "created_at": "2026-09-29T17:13:58Z",
+      "updated_at": "2026-10-04T20:59:57Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "Coucou\nA tiny friend that lives in your Mac's notch — or at the top of your screen on Windows and Linux — and keeps an eye on your AI coding agent sessions.\nApprove permissions, watch your agents work, drop a file, chat with Claude — all without leaving what you're doing.\n!macOS 15+\n!Windows 10/11\n!"
+      "readme_snippet": "OpenDots\nAlways-on AI coworkers that move between text, calls, and Slack.\nAn open-source template for persistent AI agents, each with its own computer. Available on Web and Mobile.\nBuilt with CopilotKit and AG-UI. · Get started · Overview · Architecture · Features · Contributing\n!Alpha\nFully self-ho"
+    },
+    {
+      "id": 1397016507,
+      "full_name": "rehan-remade/universal-modder",
+      "name": "universal-modder",
+      "owner": {
+        "login": "rehan-remade",
+        "avatar_url": "https://avatars.githubusercontent.com/u/173837546?v=4"
+      },
+      "html_url": "https://github.com/rehan-remade/universal-modder",
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "language": "Python",
+      "stargazers_count": 3042,
+      "forks_count": 266,
+      "open_issues_count": 25,
+      "topics": [
+        "age-of-empires",
+        "claude-code",
+        "claude-code-plugin",
+        "fal",
+        "game-assets",
+        "game-modding",
+        "mcp",
+        "modding",
+        "reverse-engineering",
+        "tmodloader"
+      ],
+      "created_at": "2026-09-30T05:00:35Z",
+      "updated_at": "2026-10-04T20:59:55Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Skills, tools and a shared knowledge base that let any AI coding agent mod almost any PC game you own.\n  Works with Claude Code, Codex, Cursor, Gemini CLI, GitHub Copilot, OpenCode, or anything that reads AGENTS.md.\n  The agent finds the game, works out the engine and the route, reads the real code,"
     },
     {
       "id": 1396688303,
@@ -89,8 +108,8 @@
       "html_url": "https://github.com/feder-cr/dots",
       "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
       "language": "Python",
-      "stargazers_count": 2573,
-      "forks_count": 435,
+      "stargazers_count": 2598,
+      "forks_count": 437,
       "open_issues_count": 1,
       "topics": [
         "ai-agent",
@@ -115,102 +134,12 @@
         "web-automation"
       ],
       "created_at": "2026-09-29T23:06:00Z",
-      "updated_at": "2026-10-03T19:47:59Z",
+      "updated_at": "2026-10-04T19:19:03Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "dots\nEvery AI agent is a model and a browser.You can swap the model with one flag. The browser is what the website sees.\n---\nWindows, in PowerShell:\nLinux:\nThen open http://127.0.0.1:8765. The conversation on the left, the browser on the right, live.\nIt all comes down to the browser\nWhen a web agent"
-    },
-    {
-      "id": 1397016507,
-      "full_name": "rehan-remade/universal-modder",
-      "name": "universal-modder",
-      "owner": {
-        "login": "rehan-remade",
-        "avatar_url": "https://avatars.githubusercontent.com/u/173837546?v=4"
-      },
-      "html_url": "https://github.com/rehan-remade/universal-modder",
-      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-      "language": "Python",
-      "stargazers_count": 2565,
-      "forks_count": 216,
-      "open_issues_count": 26,
-      "topics": [
-        "age-of-empires",
-        "claude-code",
-        "claude-code-plugin",
-        "fal",
-        "game-assets",
-        "game-modding",
-        "mcp",
-        "modding",
-        "reverse-engineering",
-        "tmodloader"
-      ],
-      "created_at": "2026-09-30T05:00:35Z",
-      "updated_at": "2026-10-03T20:44:20Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Skills, tools and a shared knowledge base that let any AI coding agent mod almost any PC game you own.\n  Works with Claude Code, Codex, Cursor, Gemini CLI, GitHub Copilot, OpenCode, or anything that reads AGENTS.md.\n  The agent finds the game, works out the engine and the route, reads the real code,"
-    },
-    {
-      "id": 1396117711,
-      "full_name": "CopilotKit/OpenDots",
-      "name": "OpenDots",
-      "owner": {
-        "login": "CopilotKit",
-        "avatar_url": "https://avatars.githubusercontent.com/u/131273140?v=4"
-      },
-      "html_url": "https://github.com/CopilotKit/OpenDots",
-      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
-      "language": "TypeScript",
-      "stargazers_count": 2318,
-      "forks_count": 292,
-      "open_issues_count": 25,
-      "topics": [],
-      "created_at": "2026-09-29T17:13:58Z",
-      "updated_at": "2026-10-03T20:43:52Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "OpenDots\nAlways-on AI coworkers that move between text, calls, and Slack.\nAn open-source template for persistent AI agents, each with its own computer. Available on Web and Mobile.\nBuilt with CopilotKit and AG-UI. · Get started · Overview · Architecture · Features · Contributing\n!Alpha\nFully self-ho"
-    },
-    {
-      "id": 1390273274,
-      "full_name": "yihui-dev/awesome-opus5-5-videos",
-      "name": "awesome-opus5-5-videos",
-      "owner": {
-        "login": "yihui-dev",
-        "avatar_url": "https://avatars.githubusercontent.com/u/26054274?v=4"
-      },
-      "html_url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
-      "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
-      "language": null,
-      "stargazers_count": 1544,
-      "forks_count": 166,
-      "open_issues_count": 0,
-      "topics": [
-        "ai-video",
-        "awesome",
-        "awesome-list",
-        "claude",
-        "claude-opus",
-        "creative-coding",
-        "motion-graphics",
-        "prompts",
-        "threejs"
-      ],
-      "created_at": "2026-09-27T06:19:36Z",
-      "updated_at": "2026-10-03T20:20:26Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Awesome Opus 5.5 Videos\nViral videos people made with Claude Opus 5.5, each with the prompt the creator shared (or, where no prompt was published, their original post).\nEvery video here was made by asking Claude Opus 5.5 to write the animation as code (HTML, Canvas, SVG, Three.js and friends). Pick "
     },
     {
       "id": 1394134758,
@@ -223,40 +152,17 @@
       "html_url": "https://github.com/wy51ai/floorplan-3d",
       "description": null,
       "language": "HTML",
-      "stargazers_count": 1360,
-      "forks_count": 277,
+      "stargazers_count": 1382,
+      "forks_count": 285,
       "open_issues_count": 5,
       "topics": [],
       "created_at": "2026-09-29T02:57:30Z",
-      "updated_at": "2026-10-03T16:15:23Z",
+      "updated_at": "2026-10-04T20:24:31Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "户型装修设计\n中文 | English\n纯前端的户型装修设计工具：在 2D 平面图上摆放家具、拆改墙体、测量尺寸，一键切换到 Three.js 3D 场景，可以鸟瞰，也可以第一人称漫游。整个应用就是一个 index.html，无需构建，打开即用。\n功能\n2D 平面布置\n- 按原始户型 1:60 / 1:100 比例显示，尺寸单位 mm\n- 从左侧家具库拖入 60 余种家具家电（卧室、客厅、餐厨、卫浴、家电、书房休闲）\n- 拖动移动、旋转（Shift 自由角度）、调整尺寸，贴墙自动吸附\n- 测量工具（靠近墙面自动吸附，Shift 锁定水平 / 垂直）\n- 拆改非承重墙，承重墙单独标示\n- 图层开"
-    },
-    {
-      "id": 1393229560,
-      "full_name": "firelex/jeff",
-      "name": "jeff",
-      "owner": {
-        "login": "firelex",
-        "avatar_url": "https://avatars.githubusercontent.com/u/3168549?v=4"
-      },
-      "html_url": "https://github.com/firelex/jeff",
-      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-      "language": "Python",
-      "stargazers_count": 1347,
-      "forks_count": 65,
-      "open_issues_count": 6,
-      "topics": [],
-      "created_at": "2026-09-28T16:18:39Z",
-      "updated_at": "2026-10-03T19:03:02Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Jeff\nMillisecond decisions. Any domain.\n  jeffhub.ai ·\n  Hugging Face ·\n  Adapters ·\n  Quick start ·\n  Changelog\n> Community preview: Jeff v1.2 and nine adapters (1 October 2026). Try them and tell us what works\n> (issues). A stable long-term-support base, v1.3, is due in about 36\n> hours; the offic"
     },
     {
       "id": 1397771878,
@@ -269,8 +175,8 @@
       "html_url": "https://github.com/nanaism/yomiyasu",
       "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
       "language": "Python",
-      "stargazers_count": 1299,
-      "forks_count": 28,
+      "stargazers_count": 1378,
+      "forks_count": 29,
       "open_issues_count": 0,
       "topics": [
         "agent-skills",
@@ -289,12 +195,91 @@
         "writing-tool"
       ],
       "created_at": "2026-09-30T11:49:32Z",
-      "updated_at": "2026-10-03T20:14:39Z",
+      "updated_at": "2026-10-04T20:44:03Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "yomiyasu（よみやす）\nこれは何？\n『yomiyasu（よみやす）』は、AIが生成した日本語の不自然さを解消し、人間が読みやすく情報密度の高い日本語へ推敲するためのスキルです。\n主に技術記事、設計書・仕様書、PR説明文、社内レポートなどの実務的な文章を対象として設計されています。\nCodex、Claude Code、CursorをはじめとするAIコーディング環境に読み込ませて使用してください。\n開発背景や言語学的病理の分析、複数のコーパスによる検証結果については、以下の解説記事で詳しく紹介しています。\n- 解説記事: AI臭い日本語を脱臭するAgent Skill『yomiyasu』を作"
+    },
+    {
+      "id": 1393229560,
+      "full_name": "firelex/jeff",
+      "name": "jeff",
+      "owner": {
+        "login": "firelex",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3168549?v=4"
+      },
+      "html_url": "https://github.com/firelex/jeff",
+      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+      "language": "Python",
+      "stargazers_count": 1368,
+      "forks_count": 64,
+      "open_issues_count": 5,
+      "topics": [],
+      "created_at": "2026-09-28T16:18:39Z",
+      "updated_at": "2026-10-04T20:40:05Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Jeff\nMillisecond decisions. Any domain.\n  jeffhub.ai ·\n  Hugging Face ·\n  Adapters ·\n  Quick start ·\n  Changelog\n> Community preview: Jeff v1.2 and nine adapters (1 October 2026). Try them and tell us what works\n> (issues). A stable long-term-support base, v1.3, is due in about 36\n> hours; the offic"
+    },
+    {
+      "id": 1393689296,
+      "full_name": "edenfunf/reelmimic",
+      "name": "reelmimic",
+      "owner": {
+        "login": "edenfunf",
+        "avatar_url": "https://avatars.githubusercontent.com/u/146086744?v=4"
+      },
+      "html_url": "https://github.com/edenfunf/reelmimic",
+      "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+      "language": "JavaScript",
+      "stargazers_count": 1265,
+      "forks_count": 154,
+      "open_issues_count": 27,
+      "topics": [
+        "2d-animation",
+        "ai-agents",
+        "ai-video",
+        "animation",
+        "claude-code",
+        "codex",
+        "multi-agent",
+        "style-transfer",
+        "video-generation"
+      ],
+      "created_at": "2026-09-28T19:14:59Z",
+      "updated_at": "2026-10-04T20:49:04Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "ReelMimic\nShow it a video you love. Get a new video in the same style.\n!Node 22.18+\n!Python 3.10+\nEnglish · 繁體中文 · 简体中文\n  \n    \n    \n    \n  \n  \n    Sugar Rushmusic video · hand-painted · 58 s\n    Sunshine Boymusic video · hand-painted · 63 s\n    Bath Timenarrated comic · 30 s\n  \nEach one made with R"
+    },
+    {
+      "id": 1402193143,
+      "full_name": "facebookincubator/muse-gadget-sdk",
+      "name": "muse-gadget-sdk",
+      "owner": {
+        "login": "facebookincubator",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19538647?v=4"
+      },
+      "html_url": "https://github.com/facebookincubator/muse-gadget-sdk",
+      "description": "Open source SDK to build Muse gadgets",
+      "language": "C",
+      "stargazers_count": 1145,
+      "forks_count": 205,
+      "open_issues_count": 48,
+      "topics": [],
+      "created_at": "2026-10-02T18:21:23Z",
+      "updated_at": "2026-10-04T21:00:28Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "Muse Gadgets\n  \n    \n    \n  \nMuse gadgets are open source devices you build yourself. Program an\noff-the-shelf ESP32 board or set up a Raspberry Pi with our device SDKs, then\nconnect Muse to your displays, buttons, sensors, actuators, and whatever else\nyou've got lying on your workbench.\nWe open sou"
     }
   ]
 }
