@@ -1,110 +1,9 @@
 {
-  "updated_at": "2026-10-05T23:52:03.896Z",
-  "query_date_range": "2026-09-28 ~ 2026-10-05",
-  "total_found": 2916626,
+  "updated_at": "2026-10-06T22:28:54.344Z",
+  "query_date_range": "2026-09-29 ~ 2026-10-06",
+  "total_found": 2921420,
   "count": 9,
   "repos": [
-    {
-      "id": 1397016507,
-      "full_name": "rehan-remade/universal-modder",
-      "name": "universal-modder",
-      "owner": {
-        "login": "rehan-remade",
-        "avatar_url": "https://avatars.githubusercontent.com/u/173837546?v=4"
-      },
-      "html_url": "https://github.com/rehan-remade/universal-modder",
-      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-      "language": "Python",
-      "stargazers_count": 3839,
-      "forks_count": 338,
-      "open_issues_count": 22,
-      "topics": [
-        "age-of-empires",
-        "claude-code",
-        "claude-code-plugin",
-        "fal",
-        "game-assets",
-        "game-modding",
-        "mcp",
-        "modding",
-        "reverse-engineering",
-        "tmodloader"
-      ],
-      "created_at": "2026-09-30T05:00:35Z",
-      "updated_at": "2026-10-05T23:44:55Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Skills, tools and a shared knowledge base that let any AI coding agent mod almost any PC game you own.\n  The agent finds the game, works out the engine and the route, reads the real code, builds the mod, makes art, 3D and sound\n  with fal, tests it in the running game, cuts the video, and writes dow"
-    },
-    {
-      "id": 1396117711,
-      "full_name": "CopilotKit/OpenDots",
-      "name": "OpenDots",
-      "owner": {
-        "login": "CopilotKit",
-        "avatar_url": "https://avatars.githubusercontent.com/u/131273140?v=4"
-      },
-      "html_url": "https://github.com/CopilotKit/OpenDots",
-      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
-      "language": "TypeScript",
-      "stargazers_count": 3669,
-      "forks_count": 487,
-      "open_issues_count": 41,
-      "topics": [],
-      "created_at": "2026-09-29T17:13:58Z",
-      "updated_at": "2026-10-05T23:46:37Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "OpenDots\nAlways-on AI coworkers that move between text, calls, and Slack.\nAn open-source template for persistent AI agents, each with its own computer. Available on Web and Mobile.\nBuilt with CopilotKit and AG-UI. · Get started · Overview · Architecture · Features · Contributing\n!Alpha\nHost OpenDots"
-    },
-    {
-      "id": 1396688303,
-      "full_name": "feder-cr/dots",
-      "name": "dots",
-      "owner": {
-        "login": "feder-cr",
-        "avatar_url": "https://avatars.githubusercontent.com/u/85809106?v=4"
-      },
-      "html_url": "https://github.com/feder-cr/dots",
-      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-      "language": "Python",
-      "stargazers_count": 2619,
-      "forks_count": 438,
-      "open_issues_count": 1,
-      "topics": [
-        "ai-agent",
-        "ai-agents",
-        "ai-browser",
-        "anti-detect-browser",
-        "browser-agent",
-        "browser-automation",
-        "chatgpt",
-        "dotfiles",
-        "dots",
-        "firefox",
-        "llm-agent",
-        "mcp",
-        "open-source-alternative",
-        "openai",
-        "openai-dots",
-        "openrouter",
-        "playwright",
-        "stealth-browser",
-        "web-agent",
-        "web-automation"
-      ],
-      "created_at": "2026-09-29T23:06:00Z",
-      "updated_at": "2026-10-05T23:03:31Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "dots\nEvery AI agent is a model and a browser.You can swap the model with one flag. The browser is what the website sees.\n---\nWindows, in PowerShell:\nLinux:\nThen open http://127.0.0.1:8765. The conversation on the left, the browser on the right, live.\nIt all comes down to the browser\nWhen a web agent"
-    },
     {
       "id": 1398080271,
       "full_name": "storytold/photocraft",
@@ -116,9 +15,9 @@
       "html_url": "https://github.com/storytold/photocraft",
       "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
       "language": "Rust",
-      "stargazers_count": 2040,
-      "forks_count": 203,
-      "open_issues_count": 26,
+      "stargazers_count": 6021,
+      "forks_count": 763,
+      "open_issues_count": 87,
       "topics": [
         "adobe",
         "adobe-photoshop-2026",
@@ -134,7 +33,7 @@
         "rust"
       ],
       "created_at": "2026-09-30T13:37:48Z",
-      "updated_at": "2026-10-05T23:50:59Z",
+      "updated_at": "2026-10-06T22:28:18Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
@@ -142,59 +41,74 @@
       "readme_snippet": "PhotoCraft\n  Image editing; an open-source, clean-room reimplementation of Adobe Photoshop, rebuilt in pure Rust.\n  Layers, masks, adjustment layers, layer styles, type, vectors, brushes and real PSD files,\n  in a native app written entirely in Rust. Open source, offline, and yours.\n  \n  \n  \n  \n  \n "
     },
     {
-      "id": 1394989252,
-      "full_name": "omlahore/RemoveMacAI",
-      "name": "RemoveMacAI",
+      "id": 1397016507,
+      "full_name": "rehan-remade/universal-modder",
+      "name": "universal-modder",
       "owner": {
-        "login": "omlahore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/119071446?v=4"
+        "login": "rehan-remade",
+        "avatar_url": "https://avatars.githubusercontent.com/u/173837546?v=4"
       },
-      "html_url": "https://github.com/omlahore/RemoveMacAI",
-      "description": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
-      "language": "Swift",
-      "stargazers_count": 2003,
-      "forks_count": 43,
-      "open_issues_count": 4,
+      "html_url": "https://github.com/rehan-remade/universal-modder",
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "language": "Python",
+      "stargazers_count": 4544,
+      "forks_count": 399,
+      "open_issues_count": 31,
       "topics": [
-        "apple-intelligence",
-        "cli",
-        "debloat",
-        "macos",
-        "macos-27",
-        "privacy",
-        "siri",
-        "swift"
+        "age-of-empires",
+        "claude-code",
+        "claude-code-plugin",
+        "fal",
+        "game-assets",
+        "game-modding",
+        "mcp",
+        "modding",
+        "reverse-engineering",
+        "tmodloader"
       ],
-      "created_at": "2026-09-29T11:02:39Z",
-      "updated_at": "2026-10-05T23:46:35Z",
+      "created_at": "2026-09-30T05:00:35Z",
+      "updated_at": "2026-10-06T22:28:06Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "RemoveMacAI\nTurn off Apple Intelligence on macOS 27 and remove its downloaded models.\nmacOS 27 no longer has a single switch for Apple Intelligence, and its models stay on disk after the features are turned off. RemoveMacAI turns the features off, removes the models and prevents macOS from downloadi"
+      "readme_snippet": "Skills, tools and a shared knowledge base that let any AI coding agent mod almost any PC game you own.\n  The agent finds the game, works out the engine and the route, reads the real code, builds the mod, makes art, 3D and sound\n  with fal, tests it in the running game, cuts the video, and writes dow"
     },
     {
-      "id": 1394045721,
-      "full_name": "nykooi1/vibe-wise",
-      "name": "vibe-wise",
+      "id": 1401476500,
+      "full_name": "QingYunA/answer-me-with-html",
+      "name": "answer-me-with-html",
       "owner": {
-        "login": "nykooi1",
-        "avatar_url": "https://avatars.githubusercontent.com/u/74839315?v=4"
+        "login": "QingYunA",
+        "avatar_url": "https://avatars.githubusercontent.com/u/41177312?v=4"
       },
-      "html_url": "https://github.com/nykooi1/vibe-wise",
-      "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
-      "language": "Python",
-      "stargazers_count": 1759,
-      "forks_count": 83,
-      "open_issues_count": 11,
-      "topics": [],
-      "created_at": "2026-09-29T01:29:57Z",
-      "updated_at": "2026-10-05T23:51:39Z",
+      "html_url": "https://github.com/QingYunA/answer-me-with-html",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "language": "JavaScript",
+      "stargazers_count": 1756,
+      "forks_count": 123,
+      "open_issues_count": 9,
+      "topics": [
+        "agent-skill",
+        "ai-agent",
+        "claude-code",
+        "claude-code-skill",
+        "claude-skill",
+        "claude-skills",
+        "cli",
+        "diagram",
+        "explainer",
+        "html",
+        "llm",
+        "ste100"
+      ],
+      "created_at": "2026-10-02T09:57:40Z",
+      "updated_at": "2026-10-06T22:20:20Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "VibeWise\nYou build. AI writes.\nA Claude Code plugin that puts learning first and keeps you in control while AI writes the code you designed. Claude asks for your approach first, helps you examine tradeoffs, and explains unfamiliar concepts. You shape the design and decide when it's ready to implemen"
+      "readme_snippet": "Answer me with HTML\n  Super Fast&nbsp;&nbsp;|&nbsp;&nbsp;ASD-STE100&nbsp;&nbsp;|&nbsp;&nbsp;Explainer Videos&nbsp;&nbsp;|&nbsp;&nbsp;One File, Offline\n  An agent skill. Ask a hard question, get a page you can actually read instead of a wall of text.The model writes about 1/7 of the tokens it would n"
     },
     {
       "id": 1397771878,
@@ -207,9 +121,9 @@
       "html_url": "https://github.com/nanaism/yomiyasu",
       "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
       "language": "Python",
-      "stargazers_count": 1505,
-      "forks_count": 34,
-      "open_issues_count": 2,
+      "stargazers_count": 1593,
+      "forks_count": 36,
+      "open_issues_count": 0,
       "topics": [
         "agent-skills",
         "ai-writing",
@@ -227,45 +141,12 @@
         "writing-tool"
       ],
       "created_at": "2026-09-30T11:49:32Z",
-      "updated_at": "2026-10-05T23:44:48Z",
+      "updated_at": "2026-10-06T22:19:55Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "yomiyasu（よみやす）\nこれは何？\n『yomiyasu（よみやす）』は、AIが生成した日本語の不自然な比喩、曖昧な主述関係、不要な装飾を直し、読みやすい文章に整えるスキルです。\n主に技術記事、設計書・仕様書、PR説明文、社内レポートなどの実務的な文章を対象として設計されています。\nCodex、Claude Code、CursorをはじめとするAIコーディング環境に読み込ませて使用してください。\n開発の背景、AI生成文の読みにくさ、コーパスを使った検証については、次の解説記事で紹介しています。\n- 解説記事: AI臭い日本語を脱臭するAgent Skill『yomiyasu』を作った話（Z"
-    },
-    {
-      "id": 1401476500,
-      "full_name": "QingYunA/answer-me-with-html",
-      "name": "answer-me-with-html",
-      "owner": {
-        "login": "QingYunA",
-        "avatar_url": "https://avatars.githubusercontent.com/u/41177312?v=4"
-      },
-      "html_url": "https://github.com/QingYunA/answer-me-with-html",
-      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "language": "JavaScript",
-      "stargazers_count": 1472,
-      "forks_count": 102,
-      "open_issues_count": 4,
-      "topics": [
-        "agent-skill",
-        "ai-agent",
-        "claude-code",
-        "cli",
-        "diagram",
-        "explainer",
-        "html",
-        "llm",
-        "ste100"
-      ],
-      "created_at": "2026-10-02T09:57:40Z",
-      "updated_at": "2026-10-05T23:39:02Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Answer me with HTML\n  An agent skill. Ask a hard question, get a page you can actually read instead of a wall of text.The model writes about 1/7 of the tokens it would need to hand-write the HTML.\n  \n  \n  \n  English · 简体中文\nOnce installed, ask questions the way you always do:\nThe agent writes a short"
+      "readme_snippet": "yomiyasu（よみやす）\nこれは何？\n『yomiyasu（よみやす）』は、AIが生成した日本語の不自然な比喩、曖昧な主述関係、不要な装飾を直し、読みやすい文章に整えるスキルです。\n主に技術記事、設計書・仕様書、PR説明文、社内レポートなどの実務的な文章を対象として設計されています。\nCodex、Claude Code、CursorをはじめとするAIコーディング環境に読み込ませて使用してください。\n開発の背景、AI生成文の読みにくさ、コーパスを使った検証については、次の解説記事で紹介しています。\n- 解説記事: AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（"
     },
     {
       "id": 1404266247,
@@ -278,14 +159,125 @@
       "html_url": "https://github.com/kargulstudio/sales-crm",
       "description": null,
       "language": "TypeScript",
-      "stargazers_count": 1445,
-      "forks_count": 299,
-      "open_issues_count": 5,
+      "stargazers_count": 1578,
+      "forks_count": 329,
+      "open_issues_count": 10,
       "topics": [],
       "created_at": "2026-10-04T10:55:58Z",
-      "updated_at": "2026-10-05T23:45:14Z",
-      "license": null,
+      "updated_at": "2026-10-06T22:20:02Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
       "readme_snippet": "Kargul Starter\nNext.js 16 + React 19 + Tailwind CSS 4 boilerplate. Read CONVENTIONS.md before writing any component, section, or page — it is the whole spec for how this repo is built.\nGetting started\nOpen http://localhost:3000.\n| Script                 | What it does                                "
+    },
+    {
+      "id": 1402193143,
+      "full_name": "facebookincubator/muse-gadget-sdk",
+      "name": "muse-gadget-sdk",
+      "owner": {
+        "login": "facebookincubator",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19538647?v=4"
+      },
+      "html_url": "https://github.com/facebookincubator/muse-gadget-sdk",
+      "description": "Open source SDK to build Muse gadgets",
+      "language": "C",
+      "stargazers_count": 1535,
+      "forks_count": 297,
+      "open_issues_count": 60,
+      "topics": [],
+      "created_at": "2026-10-02T18:21:23Z",
+      "updated_at": "2026-10-06T21:47:21Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "Muse Gadgets\n  \n    \n    \n  \nMuse gadgets are open source devices you build yourself. Program an\noff-the-shelf ESP32 board or set up a Raspberry Pi with our device SDKs, then\nconnect Muse to your displays, buttons, sensors, actuators, and whatever else\nyou've got lying on your workbench.\nWe open sou"
+    },
+    {
+      "id": 1398091865,
+      "full_name": "storytold/filmcraft",
+      "name": "filmcraft",
+      "owner": {
+        "login": "storytold",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+      },
+      "html_url": "https://github.com/storytold/filmcraft",
+      "description": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
+      "language": "Rust",
+      "stargazers_count": 1515,
+      "forks_count": 414,
+      "open_issues_count": 46,
+      "topics": [
+        "adobe",
+        "art",
+        "rust",
+        "video",
+        "video-editing",
+        "video-editor",
+        "video-processing"
+      ],
+      "created_at": "2026-09-30T13:41:20Z",
+      "updated_at": "2026-10-06T22:27:56Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "FilmCraft\n  Video editing, color and sound; an open-source, clean-room reimplementation of Adobe Premiere Pro, rebuilt in pure Rust.\n  An open-source, clean-room take on the Adobe Premiere Pro workflow: native on macOS, Windows and Linux, and in the browser via WebAssembly.\n  By the ArtCraft team.\n "
+    },
+    {
+      "id": 1399236672,
+      "full_name": "deadinside28/bloodborne_pc",
+      "name": "bloodborne_pc",
+      "owner": {
+        "login": "deadinside28",
+        "avatar_url": "https://avatars.githubusercontent.com/u/225147579?v=4"
+      },
+      "html_url": "https://github.com/deadinside28/bloodborne_pc",
+      "description": null,
+      "language": "C++",
+      "stargazers_count": 1206,
+      "forks_count": 95,
+      "open_issues_count": 40,
+      "topics": [],
+      "created_at": "2026-10-01T05:50:31Z",
+      "updated_at": "2026-10-06T22:27:48Z",
+      "license": {
+        "spdx_id": "GPL-2.0",
+        "key": "gpl-2.0"
+      },
+      "readme_snippet": "THIS PROJECT IS NOT RELATED TO SHADPS4. ALL QUESTIONS RELATED TO THIS PROJECT SHOULD BE SENT TO THE DISCORD SERVER https://discord.gg/KYZRKk9CB, NOT TO THE SHADPS4 SERVER.\nbbport — a native Linux port of Bloodborne\nEnglish · Русский\nbbport is the counterpart of Wine + DXVK for a single game: *Bloodb"
+    },
+    {
+      "id": 1398185212,
+      "full_name": "storytold/lightcraft",
+      "name": "lightcraft",
+      "owner": {
+        "login": "storytold",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+      },
+      "html_url": "https://github.com/storytold/lightcraft",
+      "description": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
+      "language": "Rust",
+      "stargazers_count": 1139,
+      "forks_count": 321,
+      "open_issues_count": 16,
+      "topics": [
+        "art",
+        "lightroom",
+        "photography",
+        "raw",
+        "raw-editor",
+        "raw-processing",
+        "rust"
+      ],
+      "created_at": "2026-09-30T14:09:27Z",
+      "updated_at": "2026-10-06T22:27:20Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "LightCraft\nYour photos. Your pixels. Your machine.\n  Photo library and raw development; an open-source, clean-room reimplementation of Adobe Lightroom, rebuilt in pure Rust.\n  Native on macOS, Windows and Linux. In the browser via WebAssembly. Drivable end to end by AI agents over MCP.\n  \n  \n  \n  \n "
     }
   ]
 }
