@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-07T22:52:48.821Z",
-  "query_date_range": "2026-09-30 ~ 2026-10-07",
-  "total_found": 2997847,
+  "updated_at": "2026-10-08T23:04:35.387Z",
+  "query_date_range": "2026-10-01 ~ 2026-10-08",
+  "total_found": 3142358,
   "count": 9,
   "repos": [
     {
@@ -15,17 +15,40 @@
       "html_url": "https://github.com/openai/math",
       "description": null,
       "language": "Lean",
-      "stargazers_count": 9286,
-      "forks_count": 896,
+      "stargazers_count": 12035,
+      "forks_count": 1250,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-10-06T21:47:02Z",
-      "updated_at": "2026-10-07T22:52:10Z",
+      "updated_at": "2026-10-08T23:01:01Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
       "readme_snippet": "Readme\nThis repository contains mathematical manuscripts and supporting proof artifacts produced by an internal OpenAI model. \nAs part of model development, we evaluate our models on open research problems. We expanded these evaluations after performance on our existing mathematical evaluations satu"
+    },
+    {
+      "id": 1406706284,
+      "full_name": "alchaincyf/huashu-art-motion",
+      "name": "huashu-art-motion",
+      "owner": {
+        "login": "alchaincyf",
+        "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+      },
+      "html_url": "https://github.com/alchaincyf/huashu-art-motion",
+      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "language": "JavaScript",
+      "stargazers_count": 2412,
+      "forks_count": 252,
+      "open_issues_count": 1,
+      "topics": [],
+      "created_at": "2026-10-06T04:49:37Z",
+      "updated_at": "2026-10-08T23:01:27Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "huashu-art-motion · 艺术动画\n让你的coding agent，把艺术风格写成会动的画。\n35种艺术风格 · 9种解说语法 · 8种参数化片段 · 口播整片参考代码\n看动画 · 看风格 · 开始使用 · 下载完整样片\n动画样片\n核心案例：花叔闯进超级玛丽\n把自己做成像素主角，跑完一整关。砖块、水管、关卡运动与转场用代码完成，人物用生成帧合成；下面直接截自65秒成片。\n连吃蘑菇都得先选会员：OpenAI，还是Claude？选完Claude，星芒道具落下来，花叔变大。\n连踩带踢 · 像素Sam与Dario客串敌人\n钻进水管 · 金币密室与扫描线甩镜\n这组展示的是成片效果；GIF无"
     },
     {
       "id": 1401476500,
@@ -38,9 +61,9 @@
       "html_url": "https://github.com/QingYunA/answer-me-with-html",
       "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "language": "JavaScript",
-      "stargazers_count": 2032,
-      "forks_count": 138,
-      "open_issues_count": 7,
+      "stargazers_count": 2319,
+      "forks_count": 155,
+      "open_issues_count": 17,
       "topics": [
         "agent-skill",
         "ai-agent",
@@ -56,7 +79,7 @@
         "ste100"
       ],
       "created_at": "2026-10-02T09:57:40Z",
-      "updated_at": "2026-10-07T22:49:52Z",
+      "updated_at": "2026-10-08T18:34:48Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -74,12 +97,12 @@
       "html_url": "https://github.com/facebookincubator/muse-gadget-sdk",
       "description": "Open source SDK to build Muse gadgets",
       "language": "C",
-      "stargazers_count": 1647,
-      "forks_count": 325,
+      "stargazers_count": 1789,
+      "forks_count": 359,
       "open_issues_count": 72,
       "topics": [],
       "created_at": "2026-10-02T18:21:23Z",
-      "updated_at": "2026-10-07T20:54:08Z",
+      "updated_at": "2026-10-08T23:02:07Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
@@ -97,12 +120,12 @@
       "html_url": "https://github.com/kargulstudio/sales-crm",
       "description": null,
       "language": "TypeScript",
-      "stargazers_count": 1635,
-      "forks_count": 352,
-      "open_issues_count": 12,
+      "stargazers_count": 1657,
+      "forks_count": 360,
+      "open_issues_count": 13,
       "topics": [],
       "created_at": "2026-10-04T10:55:58Z",
-      "updated_at": "2026-10-07T22:40:28Z",
+      "updated_at": "2026-10-08T22:59:40Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -110,126 +133,113 @@
       "readme_snippet": "Kargul Starter\nNext.js 16 + React 19 + Tailwind CSS 4 boilerplate. Read CONVENTIONS.md before writing any component, section, or page — it is the whole spec for how this repo is built.\nGetting started\nOpen http://localhost:3000.\n| Script                 | What it does                                "
     },
     {
-      "id": 1399236672,
-      "full_name": "deadinside28/bloodborne_pc",
-      "name": "bloodborne_pc",
+      "id": 1401506630,
+      "full_name": "mizorewww/x_gift_bot",
+      "name": "x_gift_bot",
       "owner": {
-        "login": "deadinside28",
-        "avatar_url": "https://avatars.githubusercontent.com/u/225147579?v=4"
+        "login": "mizorewww",
+        "avatar_url": "https://avatars.githubusercontent.com/u/252857002?v=4"
       },
-      "html_url": "https://github.com/deadinside28/bloodborne_pc",
-      "description": null,
-      "language": "C++",
-      "stargazers_count": 1615,
-      "forks_count": 164,
-      "open_issues_count": 52,
+      "html_url": "https://github.com/mizorewww/x_gift_bot",
+      "description": "X Premium gift CLI and redemption site",
+      "language": "Go",
+      "stargazers_count": 1077,
+      "forks_count": 344,
+      "open_issues_count": 1,
       "topics": [],
-      "created_at": "2026-10-01T05:50:31Z",
-      "updated_at": "2026-10-07T22:51:29Z",
-      "license": {
-        "spdx_id": "GPL-2.0",
-        "key": "gpl-2.0"
-      },
-      "readme_snippet": "THIS PROJECT IS NOT RELATED TO SHADPS4. ALL QUESTIONS RELATED TO THIS PROJECT SHOULD BE SENT TO THE DISCORD SERVER https://discord.gg/KYZRKk9CB, NOT TO THE SHADPS4 SERVER.\nbbport — a native Linux port of Bloodborne\nEnglish · Русский\nbbport is the counterpart of Wine + DXVK for a single game: *Bloodb"
-    },
-    {
-      "id": 1400136506,
-      "full_name": "storytold/effectcraft",
-      "name": "effectcraft",
-      "owner": {
-        "login": "storytold",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
-      },
-      "html_url": "https://github.com/storytold/effectcraft",
-      "description": null,
-      "language": "Rust",
-      "stargazers_count": 1612,
-      "forks_count": 651,
-      "open_issues_count": 12,
-      "topics": [],
-      "created_at": "2026-10-01T14:24:46Z",
-      "updated_at": "2026-10-07T22:50:06Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "EffectCraft\n  Motion graphics and visual effects; an open-source, clean-room reimplementation of Adobe After Effects, rebuilt in pure Rust.\n  A free, open-source compositor in the spirit of After Effects: compositions, layers,\n  keyframes, 306 effects, layer styles, expressions, 3D cameras and light"
-    },
-    {
-      "id": 1406706284,
-      "full_name": "alchaincyf/huashu-art-motion",
-      "name": "huashu-art-motion",
-      "owner": {
-        "login": "alchaincyf",
-        "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
-      },
-      "html_url": "https://github.com/alchaincyf/huashu-art-motion",
-      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-      "language": "JavaScript",
-      "stargazers_count": 1574,
-      "forks_count": 185,
-      "open_issues_count": 2,
-      "topics": [],
-      "created_at": "2026-10-06T04:49:37Z",
-      "updated_at": "2026-10-07T22:51:22Z",
+      "created_at": "2026-10-02T10:29:43Z",
+      "updated_at": "2026-10-08T22:57:10Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "huashu-art-motion · 艺术动画\n让你的coding agent，把艺术风格写成会动的画。\n35种艺术风格 · 9种解说语法 · 8种参数化片段 · 口播整片参考代码\n看动画 · 看风格 · 开始使用 · 下载完整样片\n动画样片\n核心案例：花叔闯进超级玛丽\n把自己做成像素主角，跑完一整关。砖块、水管、关卡运动与转场用代码完成，人物用生成帧合成；下面直接截自65秒成片。\n连吃蘑菇都得先选会员：OpenAI，还是Claude？选完Claude，星芒道具落下来，花叔变大。\n连踩带踢 · 像素Sam与Dario客串敌人\n钻进水管 · 金币密室与扫描线甩镜\n这组展示的是成片效果；GIF无"
+      "readme_snippet": "XGift\nX (Twitter) Premium 礼品兑换平台。你生成兑换码发给用户，用户在网页上输入兑换码和自己的 X 用户名，系统自动完成 Premium 赠送的下单与付款。\n- 兑换页：用户自助兑换，实时显示处理进度\n- 管理后台：生成/停用兑换码、批次文件夹、统计面板、订单状态\n- 安全：凭据逐条 AES-256-GCM 加密存储，付款前逐项校验金额与商户，付款确认只提交一次\n截图\n以下截图来自本地模拟预览（全部为示例数据）：\n| 兑换页 | 管理页（统计概览） |\n|---|---|\n| !兑换页 | !管理页 · 浅色 |\n管理页深色模式：\n!管理页 · 深色\n本地预览（不写任何"
     },
     {
-      "id": 1400080206,
-      "full_name": "lucasmarkes/hairline",
-      "name": "hairline",
+      "id": 1403115747,
+      "full_name": "Jakeschincariol/replica-skill",
+      "name": "replica-skill",
       "owner": {
-        "login": "lucasmarkes",
-        "avatar_url": "https://avatars.githubusercontent.com/u/66750157?v=4"
+        "login": "Jakeschincariol",
+        "avatar_url": "https://avatars.githubusercontent.com/u/196724947?v=4"
       },
-      "html_url": "https://github.com/lucasmarkes/hairline",
-      "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
-      "language": "TypeScript",
-      "stargazers_count": 1070,
-      "forks_count": 55,
-      "open_issues_count": 3,
+      "html_url": "https://github.com/Jakeschincariol/replica-skill",
+      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "language": "Python",
+      "stargazers_count": 1067,
+      "forks_count": 132,
+      "open_issues_count": 4,
       "topics": [
-        "animation",
-        "isometric",
-        "react",
-        "shadcn",
-        "svg",
-        "typescript"
+        "agent",
+        "agent-skills",
+        "app-clone",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "indie-hacker",
+        "reverse-engineering",
+        "saas"
       ],
-      "created_at": "2026-10-01T13:52:19Z",
-      "updated_at": "2026-10-07T22:51:38Z",
+      "created_at": "2026-10-03T12:07:49Z",
+      "updated_at": "2026-10-08T23:01:25Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "hairline\nTwenty-seven isometric line figures that answer the pointer. For React and for anything with a DOM.\n!The six figures: a tray of cards, a field of pillars, a window in layers, a dot matrix, a conveyor belt and a turntable\nLive, with a slider for intensity: hairline.lucasmarkes.com\nInstall\nNo"
+      "readme_snippet": "The Replica skill\nEleven Claude skills that clone any app. Free, MIT, no signup, no API key,\nnothing to connect.\nOne reverse-engineers the app you want to clone. One rebuilds it. One tests it\nfor bugs. And one is the Entrepreneur: it reads what the app's users hate and\nfixes it in yours, so you have"
     },
     {
-      "id": 1400018213,
-      "full_name": "storytold/designcraft",
-      "name": "designcraft",
+      "id": 1408465463,
+      "full_name": "nullmoth/nvidia-macos-driver",
+      "name": "nvidia-macos-driver",
       "owner": {
-        "login": "storytold",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+        "login": "nullmoth",
+        "avatar_url": "https://avatars.githubusercontent.com/u/333880792?v=4"
       },
-      "html_url": "https://github.com/storytold/designcraft",
-      "description": null,
+      "html_url": "https://github.com/nullmoth/nvidia-macos-driver",
+      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
       "language": "Rust",
-      "stargazers_count": 939,
-      "forks_count": 496,
-      "open_issues_count": 61,
+      "stargazers_count": 1015,
+      "forks_count": 102,
+      "open_issues_count": 36,
       "topics": [],
-      "created_at": "2026-10-01T13:13:14Z",
-      "updated_at": "2026-10-07T22:50:12Z",
+      "created_at": "2026-10-07T08:13:12Z",
+      "updated_at": "2026-10-08T23:03:07Z",
       "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
+        "spdx_id": "NOASSERTION",
+        "key": "other"
       },
-      "readme_snippet": "DesignCraft\n  Page layout and publishing; an open-source, clean-room reimplementation of Adobe InDesign, rebuilt in pure Rust.\n  A fast, open-source, clean-room take on the Adobe InDesign workflow. It runs natively on macOS,\n  Windows and Linux, and in the browser via WebAssembly.\n  By the ArtCraft "
+      "readme_snippet": "NullMoth NVIDIA Driver for macOS\nA Metal driver for NVIDIA Turing-and-later cards on Intel Macs and OpenCore systems running macOS 15 Sequoia.\nThe device table includes GTX 16, RTX 20/30/40/50, TITAN RTX, and supported Quadro/RTX workstation cards.\nThe driver implements NVIDIA-backed display and Met"
+    },
+    {
+      "id": 1401457273,
+      "full_name": "sganggs/Stronghold-Protocol",
+      "name": "Stronghold-Protocol",
+      "owner": {
+        "login": "sganggs",
+        "avatar_url": "https://avatars.githubusercontent.com/u/64717086?v=4"
+      },
+      "html_url": "https://github.com/sganggs/Stronghold-Protocol",
+      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "language": "JavaScript",
+      "stargazers_count": 1001,
+      "forks_count": 227,
+      "open_issues_count": 56,
+      "topics": [
+        "arknights",
+        "auto-chess",
+        "fan-game",
+        "nodejs",
+        "tower-defense",
+        "websocket"
+      ],
+      "created_at": "2026-10-02T09:38:41Z",
+      "updated_at": "2026-10-08T22:29:27Z",
+      "license": {
+        "spdx_id": "GPL-3.0",
+        "key": "gpl-3.0"
+      },
+      "readme_snippet": "卫戍协议：盟约 · Stronghold Protocol: Alliance\n《明日方舟》季节性自走棋塔防玩法「卫戍协议：盟约」的非官方同人复刻：浏览器即开即玩，单人或 1–4 人联机合作。\n!version\n!license\n!node\n声明\n> [!IMPORTANT]\n> - 本项目是玩家自制的非官方同人作品，与上海鹰角网络科技有限公司（Hypergryph）、Yostar 及其关联方没有任何关系，未获其授权或认可。\n> - 《明日方舟》及「卫戍协议」相关的名称、角色、美术、音乐、音效、文本与数据等素材，版权归原权利人所有。这些素材不适用本项目的 GPL-3.0 许可证；GPL 只覆盖"
     }
   ]
 }
