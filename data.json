@@ -1,32 +1,9 @@
 {
-  "updated_at": "2026-10-13T22:24:53.336Z",
-  "query_date_range": "2026-10-06 ~ 2026-10-13",
-  "total_found": 2946738,
+  "updated_at": "2026-10-14T21:22:50.059Z",
+  "query_date_range": "2026-10-07 ~ 2026-10-14",
+  "total_found": 2879288,
   "count": 9,
   "repos": [
-    {
-      "id": 1408489772,
-      "full_name": "storytold/wordcraft",
-      "name": "wordcraft",
-      "owner": {
-        "login": "storytold",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
-      },
-      "html_url": "https://github.com/storytold/wordcraft",
-      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-      "language": "Rust",
-      "stargazers_count": 10984,
-      "forks_count": 2756,
-      "open_issues_count": 722,
-      "topics": [],
-      "created_at": "2026-10-07T08:34:24Z",
-      "updated_at": "2026-10-13T22:22:51Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "WordCraft\n  Writing and document design; an open-source, clean-room reimplementation of Microsoft Word, rebuilt in pure Rust.\n  A fast, open-source word processor with the Word workflow you already know: the ribbon, styles,\n  tables, track changes, references and mail merge. It reads and writes .doc"
-    },
     {
       "id": 1410124849,
       "full_name": "wheresryan22/anatomy",
@@ -38,9 +15,9 @@
       "html_url": "https://github.com/wheresryan22/anatomy",
       "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
       "language": "JavaScript",
-      "stargazers_count": 8088,
-      "forks_count": 577,
-      "open_issues_count": 5,
+      "stargazers_count": 9878,
+      "forks_count": 709,
+      "open_issues_count": 8,
       "topics": [
         "agent-skill",
         "open-source",
@@ -48,58 +25,12 @@
         "vizualization"
       ],
       "created_at": "2026-10-08T10:12:49Z",
-      "updated_at": "2026-10-13T22:24:01Z",
+      "updated_at": "2026-10-14T21:20:17Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "Anatomy\nA Claude skill that explains an idea by building it as a real, working object.Also runs in OpenCode and Codex.Crafted, interactive isometric figures with many small precise parts, in SVG, WebGL and 3D.\n  \n  \n  \n  \n  \n  \n  \n  &nbsp;\n  \n  &nbsp;\n  \n  Quick start ·\n  Gallery ·\n  What it makes ·"
-    },
-    {
-      "id": 1408285582,
-      "full_name": "storytold/gridcraft",
-      "name": "gridcraft",
-      "owner": {
-        "login": "storytold",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
-      },
-      "html_url": "https://github.com/storytold/gridcraft",
-      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
-      "language": "Rust",
-      "stargazers_count": 4415,
-      "forks_count": 1925,
-      "open_issues_count": 558,
-      "topics": [],
-      "created_at": "2026-10-07T05:18:16Z",
-      "updated_at": "2026-10-13T22:23:02Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "GridCraft\n  Spreadsheets and data; an open-source, clean-room reimplementation of Microsoft Excel, rebuilt in pure Rust.\n  A fast, open-source, clean-room take on the Excel workflow. It runs natively on macOS,\n  Windows, Linux and BSD, and in the browser via WebAssembly.\n  By the ArtCraft team.\n  \n "
-    },
-    {
-      "id": 1408289866,
-      "full_name": "storytold/cadcraft",
-      "name": "cadcraft",
-      "owner": {
-        "login": "storytold",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
-      },
-      "html_url": "https://github.com/storytold/cadcraft",
-      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
-      "language": "Rust",
-      "stargazers_count": 4159,
-      "forks_count": 1893,
-      "open_issues_count": 284,
-      "topics": [],
-      "created_at": "2026-10-07T05:22:31Z",
-      "updated_at": "2026-10-13T22:23:11Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "CADCraft\n  Computer-aided design and drafting; an open-source, clean-room reimplementation of Autodesk AutoCAD, rebuilt in pure Rust.\n  A fast, open-source take on the AutoCAD workflow: the command line, object snaps, layers,\n  dimensions, hatches, blocks and DXF drawings you already know. It runs n"
     },
     {
       "id": 1409787646,
@@ -112,12 +43,12 @@
       "html_url": "https://github.com/mhtsec/ARTEX",
       "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "language": "Go",
-      "stargazers_count": 3868,
-      "forks_count": 6197,
-      "open_issues_count": 0,
+      "stargazers_count": 4070,
+      "forks_count": 6363,
+      "open_issues_count": 2,
       "topics": [],
       "created_at": "2026-10-08T05:33:06Z",
-      "updated_at": "2026-10-13T21:27:03Z",
+      "updated_at": "2026-10-14T20:27:38Z",
       "license": {
         "spdx_id": "AGPL-3.0",
         "key": "agpl-3.0"
@@ -125,57 +56,42 @@
       "readme_snippet": "ARTEX\nAI 自主渗透测试系统（Go 后端 + Next.js 前端）\n🌐 在线 Demo（模拟数据）： https://artex-demo.mhtsec.com\n📦 该仓库为ARTEX最后一个版本纯源码备份。原 Docker 镜像源 autumn27/artex 已失效，现由本仓库自维护镜像 mianhuatang11/artex（Docker Hub）；拉取失败时可 docker compose build 从纯源码本地构建，无任何外部预编译依赖。\n---\n截图预览\n> 完整交互见在线 Demo（纯前端 + Mock 数据，无需后端）。\n| 仪表盘（总览 / Token 消耗 /"
     },
     {
-      "id": 1408294296,
-      "full_name": "storytold/deckcraft",
-      "name": "deckcraft",
+      "id": 1410929004,
+      "full_name": "ARahim3/DigUp",
+      "name": "DigUp",
       "owner": {
-        "login": "storytold",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+        "login": "ARahim3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/41390319?v=4"
       },
-      "html_url": "https://github.com/storytold/deckcraft",
-      "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
-      "language": "Rust",
-      "stargazers_count": 2938,
-      "forks_count": 1595,
-      "open_issues_count": 478,
-      "topics": [],
-      "created_at": "2026-10-07T05:27:21Z",
-      "updated_at": "2026-10-13T22:23:10Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "DeckCraft\n  Presentations and slide shows; an open-source, clean-room reimplementation of Microsoft PowerPoint, rebuilt in pure Rust.\n  Build decks with themes, layouts, shapes, pictures, tables, charts, transitions and animations,\n  open and save PowerPoint files, and present them full screen. Nati"
-    },
-    {
-      "id": 1408465463,
-      "full_name": "nullmoth/nvidia-macos-driver",
-      "name": "nvidia-macos-driver",
-      "owner": {
-        "login": "nullmoth",
-        "avatar_url": "https://avatars.githubusercontent.com/u/333880792?v=4"
-      },
-      "html_url": "https://github.com/nullmoth/nvidia-macos-driver",
-      "description": "Metal driver for NVIDIA GeForce cards on macOS Sequoia",
-      "language": "Rust",
-      "stargazers_count": 2900,
-      "forks_count": 271,
-      "open_issues_count": 143,
+      "html_url": "https://github.com/ARahim3/DigUp",
+      "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
+      "language": "Swift",
+      "stargazers_count": 3556,
+      "forks_count": 235,
+      "open_issues_count": 63,
       "topics": [
-        "kext",
+        "embeddinggemma",
+        "embeddings",
+        "file-search",
+        "linux",
+        "llama-cpp",
+        "local-first",
         "macos",
-        "metal",
-        "nvidia",
-        "opencore",
-        "vulkan"
+        "menubar-app",
+        "multimodal",
+        "on-device",
+        "semantic-search",
+        "swift",
+        "tauri",
+        "windows"
       ],
-      "created_at": "2026-10-07T08:13:12Z",
-      "updated_at": "2026-10-13T21:55:59Z",
+      "created_at": "2026-10-08T20:37:51Z",
+      "updated_at": "2026-10-14T21:19:19Z",
       "license": {
-        "spdx_id": "NOASSERTION",
-        "key": "other"
+        "spdx_id": "MIT",
+        "key": "mit"
       },
-      "readme_snippet": "NullMoth NVIDIA Driver for macOS\nA Metal driver for NVIDIA GeForce cards on macOS 15 Sequoia (Intel Macs and OpenCore PCs). It is open source; the\nkernel extensions, the Metal plugin, the shader translator and the Mac app are all in this repository.\nSupported cards are Turing and newer: GTX 16, RTX "
+      "readme_snippet": "DigUp\nDescribe it. Dig it up.\nSearch the files on your computer by what's in them, with Google DeepMind's\nEmbeddingGemma 2.\nDownload for Mac ·\nWindows and Linux (beta)\nFree and open source. Everything runs on your computer.\nEmbeddingGemma 2 is the multimodal embedding model Google DeepMind released "
     },
     {
       "id": 1409860044,
@@ -188,9 +104,9 @@
       "html_url": "https://github.com/t4t5/omdrop-owl",
       "description": "airdrop for non-apple devices",
       "language": "Shell",
-      "stargazers_count": 2579,
-      "forks_count": 189,
-      "open_issues_count": 18,
+      "stargazers_count": 2666,
+      "forks_count": 206,
+      "open_issues_count": 21,
       "topics": [
         "airdrop",
         "awdl",
@@ -198,32 +114,146 @@
         "owl"
       ],
       "created_at": "2026-10-08T06:38:33Z",
-      "updated_at": "2026-10-13T22:23:59Z",
+      "updated_at": "2026-10-14T20:42:03Z",
       "license": null,
-      "readme_snippet": "omdrop-owl\nhttps://github.com/user-attachments/assets/b195ce4c-e078-49be-bc13-44a72b6dc189\nAirDrop between iPhones and Linux laptops whose Wi-Fi isn't Apple's Broadcom\nchip. Pairs with omdrop.\nSee supported hardware.\nInstall\nInstall this package (omdrop-owl) first, then omdrop.\nOn Arch/Omarchy (AUR)"
+      "readme_snippet": "omdrop-owl\nhttps://github.com/user-attachments/assets/b195ce4c-e078-49be-bc13-44a72b6dc189\nAirDrop between iPhones and Linux laptops whose Wi-Fi isn't Apple's Broadcom\nchip. Pairs with omdrop.\nSee supported hardware.\nInstall\nOn Arch/Omarchy (AUR):\nOn Debian or Ubuntu (from source)\nThis builds OWL at"
     },
     {
-      "id": 1408486424,
-      "full_name": "storytold/soundcraft",
-      "name": "soundcraft",
+      "id": 1412548284,
+      "full_name": "storytold/craft-launcher",
+      "name": "craft-launcher",
       "owner": {
         "login": "storytold",
         "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
       },
-      "html_url": "https://github.com/storytold/soundcraft",
-      "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+      "html_url": "https://github.com/storytold/craft-launcher",
+      "description": "The Craft App Launcher",
       "language": "Rust",
-      "stargazers_count": 2546,
-      "forks_count": 1571,
-      "open_issues_count": 234,
+      "stargazers_count": 2612,
+      "forks_count": 879,
+      "open_issues_count": 289,
       "topics": [],
-      "created_at": "2026-10-07T08:31:31Z",
-      "updated_at": "2026-10-13T22:21:52Z",
+      "created_at": "2026-10-09T23:21:59Z",
+      "updated_at": "2026-10-14T21:20:17Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
-      "readme_snippet": "SoundCraft\n  Recording, editing and mixing audio; an open-source, clean-room reimplementation of Avid Pro Tools, rebuilt in pure Rust.\n  A complete digital audio workstation that runs natively on macOS, Windows, Linux and FreeBSD, and\n  in the browser. Multitrack editing, a full mixer with plugins, "
+      "readme_snippet": "ArtCraft Launcher\n  One place to install, update and open every app in the Craft App Suite, rebuilt in pure Rust.\n  PhotoCraft, LightCraft, FilmCraft, DesignCraft, VectorCraft, PdfCraft, EffectCraft, WordCraft,\n  DeckCraft, GridCraft, CADCraft, SoundCraft and FigCraft: the right build for your compu"
+    },
+    {
+      "id": 1413898431,
+      "full_name": "liseami/CCBaga",
+      "name": "CCBaga",
+      "owner": {
+        "login": "liseami",
+        "avatar_url": "https://avatars.githubusercontent.com/u/51239614?v=4"
+      },
+      "html_url": "https://github.com/liseami/CCBaga",
+      "description": null,
+      "language": "Rust",
+      "stargazers_count": 2244,
+      "forks_count": 222,
+      "open_issues_count": 9,
+      "topics": [],
+      "created_at": "2026-10-11T03:47:06Z",
+      "updated_at": "2026-10-14T21:13:33Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "CCBaga\n  A native macOS, Linux and Windows toolkit for a cleaner workspace and an environment you can verify.\n  Claude identities · Browser fingerprints · System settings · Network Skill\n  \n    \n    \n    \n    \n    \n  \n  \n    Features ·\n    Installation ·\n    Updates ·\n    Quick start ·\n    Usage gui"
+    },
+    {
+      "id": 1414685342,
+      "full_name": "onehumanbeing/esp32-iphone-agent",
+      "name": "esp32-iphone-agent",
+      "owner": {
+        "login": "onehumanbeing",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20528382?v=4"
+      },
+      "html_url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "language": "Python",
+      "stargazers_count": 2061,
+      "forks_count": 275,
+      "open_issues_count": 3,
+      "topics": [
+        "ai-agent",
+        "airplay",
+        "automation",
+        "computer-use",
+        "esp32",
+        "esp32-s3",
+        "iphone",
+        "llm",
+        "usb-hid"
+      ],
+      "created_at": "2026-10-11T19:10:25Z",
+      "updated_at": "2026-10-14T21:16:02Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "ESP32 iPhone Agent\nLet an AI model use a real iPhone — with a $7 ESP32. No Mac, no developer account, no jailbreak.\nEnglish · 简体中文\nDemo video and updates: X @iamhenryyuan · YouTube demo\n!Python\n!Board\nExample 1 — draw on a canvas. *\"Open Whiteboard and draw a smiley face\"*: the agent searches for th"
+    },
+    {
+      "id": 1415313946,
+      "full_name": "jhaizhou-ops/d2r-mobile",
+      "name": "d2r-mobile",
+      "owner": {
+        "login": "jhaizhou-ops",
+        "avatar_url": "https://avatars.githubusercontent.com/u/258432107?v=4"
+      },
+      "html_url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生���术士君临 iOS / macOS 兼容层",
+      "language": "C",
+      "stargazers_count": 2057,
+      "forks_count": 677,
+      "open_issues_count": 10,
+      "topics": [
+        "compatibility-layer",
+        "diablo-2-resurrected",
+        "diablo2",
+        "game-port",
+        "ios",
+        "ipad",
+        "iphone",
+        "mac",
+        "macos",
+        "metal",
+        "reign-of-the-warlock"
+      ],
+      "created_at": "2026-10-12T08:41:19Z",
+      "updated_at": "2026-10-14T21:19:37Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "D2R Mobile\nAn open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. It brings the Nintendo Switch release you bought, expansion included, to iPhone, iPad and Mac in full: the original game code runs natively, every control is rebuilt for touc"
+    },
+    {
+      "id": 1410750399,
+      "full_name": "noahdunnagan/fsearch",
+      "name": "fsearch",
+      "owner": {
+        "login": "noahdunnagan",
+        "avatar_url": "https://avatars.githubusercontent.com/u/119903110?v=4"
+      },
+      "html_url": "https://github.com/noahdunnagan/fsearch",
+      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+      "language": "Rust",
+      "stargazers_count": 2050,
+      "forks_count": 133,
+      "open_issues_count": 3,
+      "topics": [],
+      "created_at": "2026-10-08T17:50:33Z",
+      "updated_at": "2026-10-14T21:14:28Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "FSearch\nWhole-disk file search for macOS: names in about 0.1 ms, typo-tolerant,\nplus indexed search inside files. A CLI with a small daemon, a Rust crate,\nor an MCP server for coding agents.\nOr skip the Rust toolchain with a release build for Apple Silicon:\nSpeed\nM4 Mac mini, a home holding the Linu"
     }
   ]
 }
