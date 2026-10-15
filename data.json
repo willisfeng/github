@@ -1,202 +1,9 @@
 {
-  "updated_at": "2026-10-14T21:22:50.059Z",
-  "query_date_range": "2026-10-07 ~ 2026-10-14",
-  "total_found": 2879288,
+  "updated_at": "2026-10-15T21:04:03.972Z",
+  "query_date_range": "2026-10-08 ~ 2026-10-15",
+  "total_found": 2796178,
   "count": 9,
   "repos": [
-    {
-      "id": 1410124849,
-      "full_name": "wheresryan22/anatomy",
-      "name": "anatomy",
-      "owner": {
-        "login": "wheresryan22",
-        "avatar_url": "https://avatars.githubusercontent.com/u/96392276?v=4"
-      },
-      "html_url": "https://github.com/wheresryan22/anatomy",
-      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-      "language": "JavaScript",
-      "stargazers_count": 9878,
-      "forks_count": 709,
-      "open_issues_count": 8,
-      "topics": [
-        "agent-skill",
-        "open-source",
-        "svg",
-        "vizualization"
-      ],
-      "created_at": "2026-10-08T10:12:49Z",
-      "updated_at": "2026-10-14T21:20:17Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Anatomy\nA Claude skill that explains an idea by building it as a real, working object.Also runs in OpenCode and Codex.Crafted, interactive isometric figures with many small precise parts, in SVG, WebGL and 3D.\n  \n  \n  \n  \n  \n  \n  \n  &nbsp;\n  \n  &nbsp;\n  \n  Quick start ·\n  Gallery ·\n  What it makes ·"
-    },
-    {
-      "id": 1409787646,
-      "full_name": "mhtsec/ARTEX",
-      "name": "ARTEX",
-      "owner": {
-        "login": "mhtsec",
-        "avatar_url": "https://avatars.githubusercontent.com/u/83952182?v=4"
-      },
-      "html_url": "https://github.com/mhtsec/ARTEX",
-      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "language": "Go",
-      "stargazers_count": 4070,
-      "forks_count": 6363,
-      "open_issues_count": 2,
-      "topics": [],
-      "created_at": "2026-10-08T05:33:06Z",
-      "updated_at": "2026-10-14T20:27:38Z",
-      "license": {
-        "spdx_id": "AGPL-3.0",
-        "key": "agpl-3.0"
-      },
-      "readme_snippet": "ARTEX\nAI 自主渗透测试系统（Go 后端 + Next.js 前端）\n🌐 在线 Demo（模拟数据）： https://artex-demo.mhtsec.com\n📦 该仓库为ARTEX最后一个版本纯源码备份。原 Docker 镜像源 autumn27/artex 已失效，现由本仓库自维护镜像 mianhuatang11/artex（Docker Hub）；拉取失败时可 docker compose build 从纯源码本地构建，无任何外部预编译依赖。\n---\n截图预览\n> 完整交互见在线 Demo（纯前端 + Mock 数据，无需后端）。\n| 仪表盘（总览 / Token 消耗 /"
-    },
-    {
-      "id": 1410929004,
-      "full_name": "ARahim3/DigUp",
-      "name": "DigUp",
-      "owner": {
-        "login": "ARahim3",
-        "avatar_url": "https://avatars.githubusercontent.com/u/41390319?v=4"
-      },
-      "html_url": "https://github.com/ARahim3/DigUp",
-      "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
-      "language": "Swift",
-      "stargazers_count": 3556,
-      "forks_count": 235,
-      "open_issues_count": 63,
-      "topics": [
-        "embeddinggemma",
-        "embeddings",
-        "file-search",
-        "linux",
-        "llama-cpp",
-        "local-first",
-        "macos",
-        "menubar-app",
-        "multimodal",
-        "on-device",
-        "semantic-search",
-        "swift",
-        "tauri",
-        "windows"
-      ],
-      "created_at": "2026-10-08T20:37:51Z",
-      "updated_at": "2026-10-14T21:19:19Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "DigUp\nDescribe it. Dig it up.\nSearch the files on your computer by what's in them, with Google DeepMind's\nEmbeddingGemma 2.\nDownload for Mac ·\nWindows and Linux (beta)\nFree and open source. Everything runs on your computer.\nEmbeddingGemma 2 is the multimodal embedding model Google DeepMind released "
-    },
-    {
-      "id": 1409860044,
-      "full_name": "t4t5/omdrop-owl",
-      "name": "omdrop-owl",
-      "owner": {
-        "login": "t4t5",
-        "avatar_url": "https://avatars.githubusercontent.com/u/2598660?v=4"
-      },
-      "html_url": "https://github.com/t4t5/omdrop-owl",
-      "description": "airdrop for non-apple devices",
-      "language": "Shell",
-      "stargazers_count": 2666,
-      "forks_count": 206,
-      "open_issues_count": 21,
-      "topics": [
-        "airdrop",
-        "awdl",
-        "omarchy",
-        "owl"
-      ],
-      "created_at": "2026-10-08T06:38:33Z",
-      "updated_at": "2026-10-14T20:42:03Z",
-      "license": null,
-      "readme_snippet": "omdrop-owl\nhttps://github.com/user-attachments/assets/b195ce4c-e078-49be-bc13-44a72b6dc189\nAirDrop between iPhones and Linux laptops whose Wi-Fi isn't Apple's Broadcom\nchip. Pairs with omdrop.\nSee supported hardware.\nInstall\nOn Arch/Omarchy (AUR):\nOn Debian or Ubuntu (from source)\nThis builds OWL at"
-    },
-    {
-      "id": 1412548284,
-      "full_name": "storytold/craft-launcher",
-      "name": "craft-launcher",
-      "owner": {
-        "login": "storytold",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
-      },
-      "html_url": "https://github.com/storytold/craft-launcher",
-      "description": "The Craft App Launcher",
-      "language": "Rust",
-      "stargazers_count": 2612,
-      "forks_count": 879,
-      "open_issues_count": 289,
-      "topics": [],
-      "created_at": "2026-10-09T23:21:59Z",
-      "updated_at": "2026-10-14T21:20:17Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "ArtCraft Launcher\n  One place to install, update and open every app in the Craft App Suite, rebuilt in pure Rust.\n  PhotoCraft, LightCraft, FilmCraft, DesignCraft, VectorCraft, PdfCraft, EffectCraft, WordCraft,\n  DeckCraft, GridCraft, CADCraft, SoundCraft and FigCraft: the right build for your compu"
-    },
-    {
-      "id": 1413898431,
-      "full_name": "liseami/CCBaga",
-      "name": "CCBaga",
-      "owner": {
-        "login": "liseami",
-        "avatar_url": "https://avatars.githubusercontent.com/u/51239614?v=4"
-      },
-      "html_url": "https://github.com/liseami/CCBaga",
-      "description": null,
-      "language": "Rust",
-      "stargazers_count": 2244,
-      "forks_count": 222,
-      "open_issues_count": 9,
-      "topics": [],
-      "created_at": "2026-10-11T03:47:06Z",
-      "updated_at": "2026-10-14T21:13:33Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "CCBaga\n  A native macOS, Linux and Windows toolkit for a cleaner workspace and an environment you can verify.\n  Claude identities · Browser fingerprints · System settings · Network Skill\n  \n    \n    \n    \n    \n    \n  \n  \n    Features ·\n    Installation ·\n    Updates ·\n    Quick start ·\n    Usage gui"
-    },
-    {
-      "id": 1414685342,
-      "full_name": "onehumanbeing/esp32-iphone-agent",
-      "name": "esp32-iphone-agent",
-      "owner": {
-        "login": "onehumanbeing",
-        "avatar_url": "https://avatars.githubusercontent.com/u/20528382?v=4"
-      },
-      "html_url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "language": "Python",
-      "stargazers_count": 2061,
-      "forks_count": 275,
-      "open_issues_count": 3,
-      "topics": [
-        "ai-agent",
-        "airplay",
-        "automation",
-        "computer-use",
-        "esp32",
-        "esp32-s3",
-        "iphone",
-        "llm",
-        "usb-hid"
-      ],
-      "created_at": "2026-10-11T19:10:25Z",
-      "updated_at": "2026-10-14T21:16:02Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "ESP32 iPhone Agent\nLet an AI model use a real iPhone — with a $7 ESP32. No Mac, no developer account, no jailbreak.\nEnglish · 简体中文\nDemo video and updates: X @iamhenryyuan · YouTube demo\n!Python\n!Board\nExample 1 — draw on a canvas. *\"Open Whiteboard and draw a smiley face\"*: the agent searches for th"
-    },
     {
       "id": 1415313946,
       "full_name": "jhaizhou-ops/d2r-mobile",
@@ -206,11 +13,11 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/258432107?v=4"
       },
       "html_url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生���术士君临 iOS / macOS 兼容层",
+      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
       "language": "C",
-      "stargazers_count": 2057,
-      "forks_count": 677,
-      "open_issues_count": 10,
+      "stargazers_count": 3048,
+      "forks_count": 932,
+      "open_issues_count": 19,
       "topics": [
         "compatibility-layer",
         "diablo-2-resurrected",
@@ -225,7 +32,7 @@
         "reign-of-the-warlock"
       ],
       "created_at": "2026-10-12T08:41:19Z",
-      "updated_at": "2026-10-14T21:19:37Z",
+      "updated_at": "2026-10-15T20:59:59Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -233,27 +40,219 @@
       "readme_snippet": "D2R Mobile\nAn open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. It brings the Nintendo Switch release you bought, expansion included, to iPhone, iPad and Mac in full: the original game code runs natively, every control is rebuilt for touc"
     },
     {
-      "id": 1410750399,
-      "full_name": "noahdunnagan/fsearch",
-      "name": "fsearch",
+      "id": 1412548284,
+      "full_name": "storytold/craft-launcher",
+      "name": "craft-launcher",
       "owner": {
-        "login": "noahdunnagan",
-        "avatar_url": "https://avatars.githubusercontent.com/u/119903110?v=4"
+        "login": "storytold",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
       },
-      "html_url": "https://github.com/noahdunnagan/fsearch",
-      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+      "html_url": "https://github.com/storytold/craft-launcher",
+      "description": "The Craft App Launcher",
       "language": "Rust",
-      "stargazers_count": 2050,
-      "forks_count": 133,
-      "open_issues_count": 3,
+      "stargazers_count": 2845,
+      "forks_count": 956,
+      "open_issues_count": 344,
       "topics": [],
-      "created_at": "2026-10-08T17:50:33Z",
-      "updated_at": "2026-10-14T21:14:28Z",
+      "created_at": "2026-10-09T23:21:59Z",
+      "updated_at": "2026-10-15T20:56:34Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "ArtCraft Launcher\n  One place to install, update and open every app in the Craft App Suite, rebuilt in pure Rust.\n  PhotoCraft, LightCraft, FilmCraft, DesignCraft, VectorCraft, PdfCraft, EffectCraft, WordCraft,\n  DeckCraft, GridCraft, CADCraft, SoundCraft and FigCraft: the right build for your compu"
+    },
+    {
+      "id": 1414685342,
+      "full_name": "onehumanbeing/esp32-iphone-agent",
+      "name": "esp32-iphone-agent",
+      "owner": {
+        "login": "onehumanbeing",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20528382?v=4"
+      },
+      "html_url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "language": "C",
+      "stargazers_count": 2386,
+      "forks_count": 320,
+      "open_issues_count": 3,
+      "topics": [
+        "ai-agent",
+        "airplay",
+        "automation",
+        "computer-use",
+        "esp32",
+        "esp32-s3",
+        "iphone",
+        "llm",
+        "usb-hid"
+      ],
+      "created_at": "2026-10-11T19:10:25Z",
+      "updated_at": "2026-10-15T20:52:11Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "FSearch\nWhole-disk file search for macOS: names in about 0.1 ms, typo-tolerant,\nplus indexed search inside files. A CLI with a small daemon, a Rust crate,\nor an MCP server for coding agents.\nOr skip the Rust toolchain with a release build for Apple Silicon:\nSpeed\nM4 Mac mini, a home holding the Linu"
+      "readme_snippet": "ESP32 iPhone Agent\nLet an AI model use a real iPhone with a $7 ESP32. Just the phone and the board: no computer, no jailbreak.\nEnglish · 简体中文\nDemo video and updates: X @iamhenryyuan · YouTube demo\n!iOS\n!Board\n> New: the computer is gone. The board is now the AirPlay receiver and the mouse, and the a"
+    },
+    {
+      "id": 1413898431,
+      "full_name": "liseami/CCBaga",
+      "name": "CCBaga",
+      "owner": {
+        "login": "liseami",
+        "avatar_url": "https://avatars.githubusercontent.com/u/51239614?v=4"
+      },
+      "html_url": "https://github.com/liseami/CCBaga",
+      "description": null,
+      "language": "Rust",
+      "stargazers_count": 2336,
+      "forks_count": 234,
+      "open_issues_count": 3,
+      "topics": [],
+      "created_at": "2026-10-11T03:47:06Z",
+      "updated_at": "2026-10-15T18:27:18Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "CCBaga\n  English · 简体中文\n  A native macOS, Linux and Windows toolkit for a cleaner workspace and an environment you can verify.\n  Claude identities · Browser fingerprints · System settings · Network Skill\n  \n    \n    \n    \n    \n    \n  \n  \n    Features ·\n    Installation ·\n    Updates ·\n    Quick star"
+    },
+    {
+      "id": 1416386910,
+      "full_name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "name": "qwen21-nsfw-pose-skill",
+      "owner": {
+        "login": "Arekejoker",
+        "avatar_url": "https://avatars.githubusercontent.com/u/131444687?v=4"
+      },
+      "html_url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "language": "Python",
+      "stargazers_count": 1977,
+      "forks_count": 409,
+      "open_issues_count": 2,
+      "topics": [
+        "agent-skill",
+        "comfyui",
+        "image-generation",
+        "openclaw",
+        "pose-control",
+        "qwen-image"
+      ],
+      "created_at": "2026-10-13T03:09:42Z",
+      "updated_at": "2026-10-15T21:03:17Z",
+      "license": null,
+      "readme_snippet": "qwen21-nsfw-pose\nQwen-Image 2.1 本地 NSFW / 姿势出图完整配方 — 作者级提示词结构 + NSFW LoRA + 136 个 3D 姿势库 + VNCCS 人偶精确姿势控制。\n基于 ComfyUI + qwen_image_2.1_int8_convrot 底模（与 Civitai 作者同款底模），复刻并验证过 Civitai 作者样图（2026-10-12）。\n- 适用：Claude Code / Codex / Cursor / OpenClaw（agent 技能）+ 人类手动使用\n- 内容：可跟跑的作者案例、强制配方、姿势大胆度阶梯（L0–L3）、完"
+    },
+    {
+      "id": 1412112308,
+      "full_name": "storytold/figcraft",
+      "name": "figcraft",
+      "owner": {
+        "login": "storytold",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+      },
+      "html_url": "https://github.com/storytold/figcraft",
+      "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
+      "language": "Rust",
+      "stargazers_count": 1369,
+      "forks_count": 606,
+      "open_issues_count": 125,
+      "topics": [
+        "design",
+        "rust",
+        "tools"
+      ],
+      "created_at": "2026-10-09T16:02:13Z",
+      "updated_at": "2026-10-15T21:01:01Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "FigCraft\n  Interface design; an open-source, clean-room reimplementation of Figma, rebuilt in pure Rust.\n  Frames, auto layout, components and variants, vector networks, styles, variables and prototypes,\n  in a native app that opens instantly and works offline. Open source, and yours.\n  \n  \n  \n  \n  "
+    },
+    {
+      "id": 1412573009,
+      "full_name": "shaongitbd/doory",
+      "name": "doory",
+      "owner": {
+        "login": "shaongitbd",
+        "avatar_url": "https://avatars.githubusercontent.com/u/83664154?v=4"
+      },
+      "html_url": "https://github.com/shaongitbd/doory",
+      "description": "Open source canva alternative",
+      "language": "TypeScript",
+      "stargazers_count": 1297,
+      "forks_count": 81,
+      "open_issues_count": 17,
+      "topics": [],
+      "created_at": "2026-10-10T00:03:25Z",
+      "updated_at": "2026-10-15T20:23:40Z",
+      "license": {
+        "spdx_id": "NOASSERTION",
+        "key": "other"
+      },
+      "readme_snippet": "Doory\nDoory is a design editor that runs in the browser: posters, social posts, stories, slides, invitations, resumes,\nthumbnails and business cards. You start from a template or a blank page, edit everything on it, and export PNG,\nJPG, SVG, PDF, MP4 or GIF. There is no paid plan, you don't need an "
+    },
+    {
+      "id": 1417456983,
+      "full_name": "HeyPuter/everything",
+      "name": "everything",
+      "owner": {
+        "login": "HeyPuter",
+        "avatar_url": "https://avatars.githubusercontent.com/u/103972607?v=4"
+      },
+      "html_url": "https://github.com/HeyPuter/everything",
+      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+      "language": "JavaScript",
+      "stargazers_count": 1236,
+      "forks_count": 161,
+      "open_issues_count": 1,
+      "topics": [
+        "adobe",
+        "cad",
+        "office",
+        "photoshop",
+        "saas",
+        "spreadsheet"
+      ],
+      "created_at": "2026-10-13T16:18:22Z",
+      "updated_at": "2026-10-15T21:03:20Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "The world’s software. Rebuilt, open-sourced, and MIT-licensed.\nThe Everything Project is an effort to rebuild and open-source the world’s software from scratch. From Office to Slack and Photoshop to AutoCAD, we are recreating free, open-source alternatives to all proprietary software. This is a mono"
+    },
+    {
+      "id": 1413549354,
+      "full_name": "opengeos/RustGIS",
+      "name": "RustGIS",
+      "owner": {
+        "login": "opengeos",
+        "avatar_url": "https://avatars.githubusercontent.com/u/129896036?v=4"
+      },
+      "html_url": "https://github.com/opengeos/RustGIS",
+      "description": "A fast, free and open-source GIS in pure Rust.",
+      "language": "Rust",
+      "stargazers_count": 1197,
+      "forks_count": 163,
+      "open_issues_count": 36,
+      "topics": [
+        "geospatial",
+        "gis",
+        "remote-sensing",
+        "rust",
+        "rust-lang"
+      ],
+      "created_at": "2026-10-10T18:45:41Z",
+      "updated_at": "2026-10-15T20:49:51Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "RustGIS\n  A fast, free and open-source GIS in pure Rust for mapping, analyzing and sharing geospatial data.\n  Native on Windows, macOS and Linux, and in your web browser. Your data stays on your machine\n  unless you send it to an AI model you choose, and every action is a command you can script.\n  \n"
     }
   ]
 }
