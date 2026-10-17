@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-16T20:40:04.012Z",
-  "query_date_range": "2026-10-09 ~ 2026-10-16",
-  "total_found": 2559152,
+  "updated_at": "2026-10-17T20:18:06.046Z",
+  "query_date_range": "2026-10-10 ~ 2026-10-17",
+  "total_found": 2431978,
   "count": 9,
   "repos": [
     {
@@ -15,9 +15,9 @@
       "html_url": "https://github.com/jhaizhou-ops/d2r-mobile",
       "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
       "language": "C",
-      "stargazers_count": 3517,
-      "forks_count": 1022,
-      "open_issues_count": 21,
+      "stargazers_count": 3696,
+      "forks_count": 1052,
+      "open_issues_count": 28,
       "topics": [
         "compatibility-layer",
         "diablo-2-resurrected",
@@ -32,7 +32,7 @@
         "reign-of-the-warlock"
       ],
       "created_at": "2026-10-12T08:41:19Z",
-      "updated_at": "2026-10-16T20:03:54Z",
+      "updated_at": "2026-10-17T19:43:56Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -50,9 +50,9 @@
       "html_url": "https://github.com/onehumanbeing/esp32-iphone-agent",
       "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "language": "C",
-      "stargazers_count": 2841,
-      "forks_count": 366,
-      "open_issues_count": 6,
+      "stargazers_count": 2985,
+      "forks_count": 387,
+      "open_issues_count": 10,
       "topics": [
         "ai-agent",
         "airplay",
@@ -65,7 +65,7 @@
         "usb-hid"
       ],
       "created_at": "2026-10-11T19:10:25Z",
-      "updated_at": "2026-10-16T20:31:26Z",
+      "updated_at": "2026-10-17T19:49:19Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -83,8 +83,8 @@
       "html_url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
       "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
       "language": "Python",
-      "stargazers_count": 2493,
-      "forks_count": 486,
+      "stargazers_count": 2625,
+      "forks_count": 504,
       "open_issues_count": 4,
       "topics": [
         "agent-skill",
@@ -95,7 +95,7 @@
         "qwen-image"
       ],
       "created_at": "2026-10-13T03:09:42Z",
-      "updated_at": "2026-10-16T20:37:13Z",
+      "updated_at": "2026-10-17T19:58:09Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
@@ -113,12 +113,12 @@
       "html_url": "https://github.com/liseami/CCBaga",
       "description": null,
       "language": "Rust",
-      "stargazers_count": 2399,
-      "forks_count": 240,
+      "stargazers_count": 2564,
+      "forks_count": 256,
       "open_issues_count": 9,
       "topics": [],
       "created_at": "2026-10-11T03:47:06Z",
-      "updated_at": "2026-10-16T18:14:52Z",
+      "updated_at": "2026-10-17T19:37:56Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -136,9 +136,9 @@
       "html_url": "https://github.com/HeyPuter/everything",
       "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
       "language": "JavaScript",
-      "stargazers_count": 1685,
-      "forks_count": 245,
-      "open_issues_count": 5,
+      "stargazers_count": 2013,
+      "forks_count": 292,
+      "open_issues_count": 6,
       "topics": [
         "adobe",
         "cad",
@@ -148,35 +148,12 @@
         "spreadsheet"
       ],
       "created_at": "2026-10-13T16:18:22Z",
-      "updated_at": "2026-10-16T20:31:36Z",
+      "updated_at": "2026-10-17T20:15:24Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "The world’s software. Rebuilt, open-sourced, and MIT-licensed.\nThe Everything Project is an effort to rebuild and open-source the world’s software from scratch. From Office to Slack and Photoshop to AutoCAD, we are recreating free, open-source alternatives to all proprietary software. This is a mono"
-    },
-    {
-      "id": 1420063501,
-      "full_name": "chenglou/handwired",
-      "name": "handwired",
-      "owner": {
-        "login": "chenglou",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1909539?v=4"
-      },
-      "html_url": "https://github.com/chenglou/handwired",
-      "description": "Turn your regular JavaScript code into a neural net.",
-      "language": "TypeScript",
-      "stargazers_count": 1505,
-      "forks_count": 115,
-      "open_issues_count": 4,
-      "topics": [],
-      "created_at": "2026-10-15T02:15:09Z",
-      "updated_at": "2026-10-16T20:17:44Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Handwired\nTurn your regular JavaScript code into a neural net; no training, exact, yet also fully differentiable!\nHow It Works\nA program's made of if-else, loops, and state. Handwired transforms them into matrix multiplication + reglu over floats. For example:\nThe above can be expressed as basic ari"
     },
     {
       "id": 1419746236,
@@ -189,40 +166,23 @@
       "html_url": "https://github.com/ahwootech/BRUTAL",
       "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
       "language": "C#",
-      "stargazers_count": 1503,
-      "forks_count": 75,
-      "open_issues_count": 6,
-      "topics": [],
+      "stargazers_count": 1770,
+      "forks_count": 93,
+      "open_issues_count": 10,
+      "topics": [
+        "csharp",
+        "dotnet",
+        "game-engine",
+        "gamedev",
+        "vulkan"
+      ],
       "created_at": "2026-10-14T19:33:56Z",
-      "updated_at": "2026-10-16T20:35:29Z",
+      "updated_at": "2026-10-17T20:13:28Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
       },
       "readme_snippet": "BRUTAL Framework\nA free, open source Cframework for making games, or your own game engine.\nBRUTAL is a framework. You can make a game directly with it, or use it as the foundation for a separate engine. We made Kitten Space Agency directly on BRUTAL. Ludeon built their Waylith engine on it to move R"
-    },
-    {
-      "id": 1412573009,
-      "full_name": "shaongitbd/doory",
-      "name": "doory",
-      "owner": {
-        "login": "shaongitbd",
-        "avatar_url": "https://avatars.githubusercontent.com/u/83664154?v=4"
-      },
-      "html_url": "https://github.com/shaongitbd/doory",
-      "description": "Open source canva alternative",
-      "language": "TypeScript",
-      "stargazers_count": 1414,
-      "forks_count": 100,
-      "open_issues_count": 19,
-      "topics": [],
-      "created_at": "2026-10-10T00:03:25Z",
-      "updated_at": "2026-10-16T20:28:16Z",
-      "license": {
-        "spdx_id": "NOASSERTION",
-        "key": "other"
-      },
-      "readme_snippet": "Doory\nDoory is a design editor that runs in the browser: posters, social posts, stories, slides, invitations, resumes,\nthumbnails and business cards. You start from a template or a blank page, edit everything on it, and export PNG,\nJPG, SVG, PDF, MP4 or GIF. There is no paid plan, you don't need an "
     },
     {
       "id": 1415358670,
@@ -235,7 +195,7 @@
       "html_url": "https://github.com/deeplethe/solid-glass",
       "description": "A design system for AI applications. Material, physical, tactile, technical.",
       "language": "TypeScript",
-      "stargazers_count": 1351,
+      "stargazers_count": 1687,
       "forks_count": 21,
       "open_issues_count": 7,
       "topics": [
@@ -252,12 +212,58 @@
         "theme"
       ],
       "created_at": "2026-10-12T09:19:02Z",
-      "updated_at": "2026-10-16T19:53:15Z",
+      "updated_at": "2026-10-17T20:01:53Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "Solid Glass\nThe style · Install · What is here · Contributing\nA refined glass-inspired aesthetic that feels solid from afar and reveals its subtle materiality up\nclose. Delicate highlights, fine borders, and soft shadows create depth, while a restrained finish\nemphasizes clarity, stability, and a se"
+    },
+    {
+      "id": 1420063501,
+      "full_name": "chenglou/handwired",
+      "name": "handwired",
+      "owner": {
+        "login": "chenglou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1909539?v=4"
+      },
+      "html_url": "https://github.com/chenglou/handwired",
+      "description": "Turn your regular JavaScript code into a neural net.",
+      "language": "TypeScript",
+      "stargazers_count": 1669,
+      "forks_count": 135,
+      "open_issues_count": 8,
+      "topics": [],
+      "created_at": "2026-10-15T02:15:09Z",
+      "updated_at": "2026-10-17T20:13:04Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Handwired\nTurn your regular JavaScript code into a neural net; no training, exact, yet also fully differentiable!\nHow It Works\nA program's made of if-else, loops, and state. Handwired transforms them into matrix multiplication + reglu over floats. For example:\nThe above can be expressed as basic ari"
+    },
+    {
+      "id": 1419982962,
+      "full_name": "Supermedo/uncharted_pc",
+      "name": "uncharted_pc",
+      "owner": {
+        "login": "Supermedo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/28518750?v=4"
+      },
+      "html_url": "https://github.com/Supermedo/uncharted_pc",
+      "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+      "language": "C++",
+      "stargazers_count": 1224,
+      "forks_count": 64,
+      "open_issues_count": 225,
+      "topics": [],
+      "created_at": "2026-10-15T00:17:23Z",
+      "updated_at": "2026-10-17T20:15:12Z",
+      "license": {
+        "spdx_id": "GPL-2.0",
+        "key": "gpl-2.0"
+      },
+      "readme_snippet": "Uncharted: The Nathan Drake Collection for Windows\nUncharted 1, 2 and 3 from the PS4 collection running natively on Windows 10 and 11, by SuperMedo. Mohammed Albarghouthi\nSame idea as my Bloodborne port: the original PS4 game\ncode runs directly on your PC and the graphics are translated to Vulkan. U"
     }
   ]
 }
