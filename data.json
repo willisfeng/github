@@ -1,43 +1,49 @@
 {
-  "updated_at": "2026-10-18T20:17:19.532Z",
-  "query_date_range": "2026-10-11 ~ 2026-10-18",
-  "total_found": 2426306,
+  "updated_at": "2026-10-19T22:07:09.087Z",
+  "query_date_range": "2026-10-12 ~ 2026-10-19",
+  "total_found": 2343585,
   "count": 9,
   "repos": [
     {
-      "id": 1415313946,
-      "full_name": "jhaizhou-ops/d2r-mobile",
-      "name": "d2r-mobile",
+      "id": 1423101235,
+      "full_name": "Gathin23/cleanyourtv",
+      "name": "cleanyourtv",
       "owner": {
-        "login": "jhaizhou-ops",
-        "avatar_url": "https://avatars.githubusercontent.com/u/258432107?v=4"
+        "login": "Gathin23",
+        "avatar_url": "https://avatars.githubusercontent.com/u/94786511?v=4"
       },
-      "html_url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
-      "language": "C",
-      "stargazers_count": 3823,
-      "forks_count": 1077,
-      "open_issues_count": 31,
+      "html_url": "https://github.com/Gathin23/cleanyourtv",
+      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "language": "Java",
+      "stargazers_count": 4917,
+      "forks_count": 592,
+      "open_issues_count": 62,
       "topics": [
-        "compatibility-layer",
-        "diablo-2-resurrected",
-        "diablo2",
-        "game-port",
-        "ios",
-        "ipad",
-        "iphone",
-        "mac",
-        "macos",
-        "metal",
-        "reign-of-the-warlock"
+        "adb",
+        "adblock",
+        "android-tv",
+        "android-tv-launcher",
+        "apple-tv",
+        "bloatware-removal",
+        "claude-code",
+        "debloat",
+        "fire-tv",
+        "google-tv",
+        "launcher",
+        "privacy",
+        "smart-tv",
+        "sony-bravia",
+        "tcl",
+        "vibe-coding",
+        "xiaomi"
       ],
-      "created_at": "2026-10-12T08:41:19Z",
-      "updated_at": "2026-10-18T20:15:20Z",
+      "created_at": "2026-10-17T08:12:35Z",
+      "updated_at": "2026-10-19T22:06:36Z",
       "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
+        "spdx_id": "NOASSERTION",
+        "key": "other"
       },
-      "readme_snippet": "D2R Mobile\nAn open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. It brings the Nintendo Switch release you bought, expansion included, to iPhone, iPad and Mac in full: the original game code runs natively, every control is rebuilt for touc"
+      "readme_snippet": "cleanyour.tv ·\n  The prompt ·\n  54 TV lists ·\n  12 built on it ·\n  The tweet\n  \n  \n  \n  \n  \n  \nStrip the bloatware from any Android TV or Google TV over Wi-Fi, and replace the ad-filled home\nscreen with a clean launcher that looks like an Apple TV. **No root, no cable, nothing uninstalled,\nand a one"
     },
     {
       "id": 1416386910,
@@ -50,9 +56,9 @@
       "html_url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
       "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
       "language": "Python",
-      "stargazers_count": 2727,
-      "forks_count": 522,
-      "open_issues_count": 5,
+      "stargazers_count": 3360,
+      "forks_count": 609,
+      "open_issues_count": 4,
       "topics": [
         "agent-skill",
         "comfyui",
@@ -62,12 +68,42 @@
         "qwen-image"
       ],
       "created_at": "2026-10-13T03:09:42Z",
-      "updated_at": "2026-10-18T19:09:22Z",
+      "updated_at": "2026-10-19T22:03:53Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
       "readme_snippet": "qwen21-nsfw-pose\nQwen-Image 2.1 本地 NSFW / 姿势出图完整配方 — 作者级提示词结构 + NSFW LoRA + 136 个 3D 姿势库 + VNCCS 人偶精确姿势控制。\n基于 ComfyUI + qwen_image_2.1_int8_convrot 底模（与 Civitai 作者同款底模），复刻并验证过 Civitai 作者样图（2026-10-12）。\n- 适用：Claude Code / Codex / Cursor / OpenClaw（agent 技能）+ 人类手动使用\n- 内容：可跟跑的作者案例、强制配方、姿势大胆度阶梯（L0–L3）、完"
+    },
+    {
+      "id": 1420751050,
+      "full_name": "feder-cr/git-ai",
+      "name": "git-ai",
+      "owner": {
+        "login": "feder-cr",
+        "avatar_url": "https://avatars.githubusercontent.com/u/85809106?v=4"
+      },
+      "html_url": "https://github.com/feder-cr/git-ai",
+      "description": "Git designed for AI agents.",
+      "language": "Go",
+      "stargazers_count": 2443,
+      "forks_count": 268,
+      "open_issues_count": 0,
+      "topics": [
+        "ai-agents",
+        "coding-agents",
+        "git",
+        "golang",
+        "scion",
+        "version-control"
+      ],
+      "created_at": "2026-10-15T13:12:02Z",
+      "updated_at": "2026-10-19T21:19:15Z",
+      "license": {
+        "spdx_id": "NOASSERTION",
+        "key": "other"
+      },
+      "readme_snippet": "Git designed for AI agents.\nAnthropic built Scion, a faster version control system for coding agents,\nand described it in\nRedesigning source control:\na server-centric system built for hundreds of agents that read, write and land\ncode at the same time. Scion is internal to Anthropic and is not availa"
     },
     {
       "id": 1417456983,
@@ -80,9 +116,9 @@
       "html_url": "https://github.com/HeyPuter/everything",
       "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
       "language": "JavaScript",
-      "stargazers_count": 2194,
-      "forks_count": 310,
-      "open_issues_count": 7,
+      "stargazers_count": 2328,
+      "forks_count": 328,
+      "open_issues_count": 9,
       "topics": [
         "adobe",
         "cad",
@@ -92,47 +128,12 @@
         "spreadsheet"
       ],
       "created_at": "2026-10-13T16:18:22Z",
-      "updated_at": "2026-10-18T20:16:56Z",
+      "updated_at": "2026-10-19T21:53:10Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "The world’s software. Rebuilt, open-sourced, and MIT-licensed.\nThe Everything Project is an effort to rebuild and open-source the world’s software from scratch. From Office to Slack and Photoshop to AutoCAD, we are recreating free, open-source alternatives to all proprietary software. This is a mono"
-    },
-    {
-      "id": 1415358670,
-      "full_name": "deeplethe/solid-glass",
-      "name": "solid-glass",
-      "owner": {
-        "login": "deeplethe",
-        "avatar_url": "https://avatars.githubusercontent.com/u/282846749?v=4"
-      },
-      "html_url": "https://github.com/deeplethe/solid-glass",
-      "description": "A design system for AI applications. Material, physical, tactile, technical.",
-      "language": "TypeScript",
-      "stargazers_count": 2011,
-      "forks_count": 27,
-      "open_issues_count": 3,
-      "topics": [
-        "agent-ui",
-        "ai",
-        "ai-agents",
-        "chat-ui",
-        "design-system",
-        "llm",
-        "react",
-        "shadcn",
-        "shadcn-ui",
-        "tailwindcss",
-        "theme"
-      ],
-      "created_at": "2026-10-12T09:19:02Z",
-      "updated_at": "2026-10-18T20:06:19Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Solid Glass\nThe style · Install · What is here · Contributing\nA refined glass-inspired aesthetic that feels solid from afar and reveals its subtle materiality up\nclose. Delicate highlights, fine borders, and soft shadows create depth, while a restrained finish\nemphasizes clarity, stability, and a se"
     },
     {
       "id": 1419746236,
@@ -145,8 +146,8 @@
       "html_url": "https://github.com/ahwootech/BRUTAL",
       "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
       "language": "C#",
-      "stargazers_count": 1883,
-      "forks_count": 102,
+      "stargazers_count": 1982,
+      "forks_count": 109,
       "open_issues_count": 12,
       "topics": [
         "csharp",
@@ -156,7 +157,7 @@
         "vulkan"
       ],
       "created_at": "2026-10-14T19:33:56Z",
-      "updated_at": "2026-10-18T19:49:09Z",
+      "updated_at": "2026-10-19T20:58:43Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
@@ -174,12 +175,12 @@
       "html_url": "https://github.com/chenglou/handwired",
       "description": "Turn your regular JavaScript code into a neural net.",
       "language": "TypeScript",
-      "stargazers_count": 1723,
-      "forks_count": 141,
+      "stargazers_count": 1800,
+      "forks_count": 149,
       "open_issues_count": 9,
       "topics": [],
       "created_at": "2026-10-15T02:15:09Z",
-      "updated_at": "2026-10-18T20:07:42Z",
+      "updated_at": "2026-10-19T21:59:40Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -187,64 +188,27 @@
       "readme_snippet": "Handwired\nTurn your regular JavaScript code into a neural net; no training, exact, yet also fully differentiable!\nHow It Works\nA program's made of if-else, loops, and state. Handwired transforms them into matrix multiplication + reglu over floats. For example:\nThe above can be expressed as basic ari"
     },
     {
-      "id": 1423101235,
-      "full_name": "Gathin23/tv-vibehack",
-      "name": "tv-vibehack",
+      "id": 1423689866,
+      "full_name": "ly05010419/MacNativeGames",
+      "name": "MacNativeGames",
       "owner": {
-        "login": "Gathin23",
-        "avatar_url": "https://avatars.githubusercontent.com/u/94786511?v=4"
+        "login": "ly05010419",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1425386?v=4"
       },
-      "html_url": "https://github.com/Gathin23/tv-vibehack",
-      "description": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
-      "language": "Java",
-      "stargazers_count": 1614,
-      "forks_count": 190,
-      "open_issues_count": 48,
-      "topics": [
-        "adb",
-        "android-tv",
-        "claude-code",
-        "debloat",
-        "launcher",
-        "xiaomi"
-      ],
-      "created_at": "2026-10-17T08:12:35Z",
-      "updated_at": "2026-10-18T20:16:34Z",
+      "html_url": "https://github.com/ly05010419/MacNativeGames",
+      "description": null,
+      "language": "C",
+      "stargazers_count": 1633,
+      "forks_count": 262,
+      "open_issues_count": 18,
+      "topics": [],
+      "created_at": "2026-10-17T19:52:00Z",
+      "updated_at": "2026-10-19T21:57:05Z",
       "license": {
-        "spdx_id": "NOASSERTION",
-        "key": "other"
+        "spdx_id": "MIT",
+        "key": "mit"
       },
-      "readme_snippet": "tv-vibehack\nYour TV, minus the ads.\nStrip the bloatware from any Android TV or Google TV over Wi-Fi, and replace the ad-filled home\nscreen with a clean launcher that looks like an Apple TV. No root, no cable, nothing uninstalled,\nand a one-line restore if you change your mind.\n!Before: stock Google "
-    },
-    {
-      "id": 1420751050,
-      "full_name": "feder-cr/git-ai",
-      "name": "git-ai",
-      "owner": {
-        "login": "feder-cr",
-        "avatar_url": "https://avatars.githubusercontent.com/u/85809106?v=4"
-      },
-      "html_url": "https://github.com/feder-cr/git-ai",
-      "description": "Git designed for AI agents.",
-      "language": "Go",
-      "stargazers_count": 1564,
-      "forks_count": 221,
-      "open_issues_count": 2,
-      "topics": [
-        "ai-agents",
-        "coding-agents",
-        "git",
-        "golang",
-        "scion",
-        "version-control"
-      ],
-      "created_at": "2026-10-15T13:12:02Z",
-      "updated_at": "2026-10-18T20:16:45Z",
-      "license": {
-        "spdx_id": "NOASSERTION",
-        "key": "other"
-      },
-      "readme_snippet": "Git designed for AI agents.\nAnthropic built Scion, a faster version control system for coding agents,\nand described it in\nRedesigning source control:\na server-centric system built for hundreds of agents that read, write and land\ncode at the same time. Scion is internal to Anthropic and is not availa"
+      "readme_snippet": "MacNativeGames\nEnglish\n> Use your AI assistant to help you build the Mac app. We recommend Claude Code, Codex, or any other AI assistant you prefer.\nEnglish | 中文\nLegal\nYou must own the game. Use this project only with a copy of The Legend of Zelda: Tears of the Kingdom that you bought, and with keys"
     },
     {
       "id": 1419982962,
@@ -257,17 +221,46 @@
       "html_url": "https://github.com/Supermedo/uncharted_pc",
       "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
       "language": "C++",
-      "stargazers_count": 1425,
-      "forks_count": 72,
-      "open_issues_count": 278,
+      "stargazers_count": 1571,
+      "forks_count": 79,
+      "open_issues_count": 289,
       "topics": [],
       "created_at": "2026-10-15T00:17:23Z",
-      "updated_at": "2026-10-18T20:16:36Z",
+      "updated_at": "2026-10-19T22:06:13Z",
       "license": {
         "spdx_id": "GPL-2.0",
         "key": "gpl-2.0"
       },
       "readme_snippet": "Uncharted: The Nathan Drake Collection for Windows\nUncharted 1, 2 and 3 from the PS4 collection running natively on Windows 10 and 11, by SuperMedo. Mohammed Albarghouthi\nSame idea as my Bloodborne port: the original PS4 game\ncode runs directly on your PC and the graphics are translated to Vulkan. U"
+    },
+    {
+      "id": 1420305104,
+      "full_name": "Leonxlnx/earshot",
+      "name": "earshot",
+      "owner": {
+        "login": "Leonxlnx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
+      },
+      "html_url": "https://github.com/Leonxlnx/earshot",
+      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "language": "Python",
+      "stargazers_count": 1493,
+      "forks_count": 85,
+      "open_issues_count": 3,
+      "topics": [
+        "ai-agents",
+        "audio",
+        "claude-code",
+        "mcp",
+        "sound-design"
+      ],
+      "created_at": "2026-10-15T06:52:46Z",
+      "updated_at": "2026-10-19T22:04:17Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "earshot\nEars for coding agents.\nWatch the 22 s launch film - every sound in it was made\nin code by earshot forge; no recordings, no music track.\n!Frames from the launch film\nAI coding agents can now write the code that renders a film, a product demo or a game. They still cannot hear what\nthey made. "
     }
   ]
 }
