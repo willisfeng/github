@@ -1,9 +1,32 @@
 {
-  "updated_at": "2026-10-19T22:07:09.087Z",
-  "query_date_range": "2026-10-12 ~ 2026-10-19",
-  "total_found": 2343585,
+  "updated_at": "2026-10-20T21:22:55.491Z",
+  "query_date_range": "2026-10-13 ~ 2026-10-20",
+  "total_found": 2287186,
   "count": 9,
   "repos": [
+    {
+      "id": 1421825221,
+      "full_name": "deepseek-ai/DeepInfer",
+      "name": "DeepInfer",
+      "owner": {
+        "login": "deepseek-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+      },
+      "html_url": "https://github.com/deepseek-ai/DeepInfer",
+      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "language": "Python",
+      "stargazers_count": 11694,
+      "forks_count": 1040,
+      "open_issues_count": 115,
+      "topics": [],
+      "created_at": "2026-10-16T07:47:23Z",
+      "updated_at": "2026-10-20T21:22:20Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "DeepInfer\nDeepInfer is the high-performance inference framework that powers DeepSeek's large-scale production services. This open-source release provides offline inference with the core features needed for serving at scale.\nSupported models:\n- DeepSeek-V4.1-Flash\nSupported features:\n- Optimized kern"
+    },
     {
       "id": 1423101235,
       "full_name": "Gathin23/cleanyourtv",
@@ -15,9 +38,9 @@
       "html_url": "https://github.com/Gathin23/cleanyourtv",
       "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "language": "Java",
-      "stargazers_count": 4917,
-      "forks_count": 592,
-      "open_issues_count": 62,
+      "stargazers_count": 11215,
+      "forks_count": 1267,
+      "open_issues_count": 91,
       "topics": [
         "adb",
         "adblock",
@@ -38,154 +61,12 @@
         "xiaomi"
       ],
       "created_at": "2026-10-17T08:12:35Z",
-      "updated_at": "2026-10-19T22:06:36Z",
+      "updated_at": "2026-10-20T21:21:54Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
       },
-      "readme_snippet": "cleanyour.tv ·\n  The prompt ·\n  54 TV lists ·\n  12 built on it ·\n  The tweet\n  \n  \n  \n  \n  \n  \nStrip the bloatware from any Android TV or Google TV over Wi-Fi, and replace the ad-filled home\nscreen with a clean launcher that looks like an Apple TV. **No root, no cable, nothing uninstalled,\nand a one"
-    },
-    {
-      "id": 1416386910,
-      "full_name": "Arekejoker/qwen21-nsfw-pose-skill",
-      "name": "qwen21-nsfw-pose-skill",
-      "owner": {
-        "login": "Arekejoker",
-        "avatar_url": "https://avatars.githubusercontent.com/u/131444687?v=4"
-      },
-      "html_url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-      "language": "Python",
-      "stargazers_count": 3360,
-      "forks_count": 609,
-      "open_issues_count": 4,
-      "topics": [
-        "agent-skill",
-        "comfyui",
-        "image-generation",
-        "openclaw",
-        "pose-control",
-        "qwen-image"
-      ],
-      "created_at": "2026-10-13T03:09:42Z",
-      "updated_at": "2026-10-19T22:03:53Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "qwen21-nsfw-pose\nQwen-Image 2.1 本地 NSFW / 姿势出图完整配方 — 作者级提示词结构 + NSFW LoRA + 136 个 3D 姿势库 + VNCCS 人偶精确姿势控制。\n基于 ComfyUI + qwen_image_2.1_int8_convrot 底模（与 Civitai 作者同款底模），复刻并验证过 Civitai 作者样图（2026-10-12）。\n- 适用：Claude Code / Codex / Cursor / OpenClaw（agent 技能）+ 人类手动使用\n- 内容：可跟跑的作者案例、强制配方、姿势大胆度阶梯（L0–L3）、完"
-    },
-    {
-      "id": 1420751050,
-      "full_name": "feder-cr/git-ai",
-      "name": "git-ai",
-      "owner": {
-        "login": "feder-cr",
-        "avatar_url": "https://avatars.githubusercontent.com/u/85809106?v=4"
-      },
-      "html_url": "https://github.com/feder-cr/git-ai",
-      "description": "Git designed for AI agents.",
-      "language": "Go",
-      "stargazers_count": 2443,
-      "forks_count": 268,
-      "open_issues_count": 0,
-      "topics": [
-        "ai-agents",
-        "coding-agents",
-        "git",
-        "golang",
-        "scion",
-        "version-control"
-      ],
-      "created_at": "2026-10-15T13:12:02Z",
-      "updated_at": "2026-10-19T21:19:15Z",
-      "license": {
-        "spdx_id": "NOASSERTION",
-        "key": "other"
-      },
-      "readme_snippet": "Git designed for AI agents.\nAnthropic built Scion, a faster version control system for coding agents,\nand described it in\nRedesigning source control:\na server-centric system built for hundreds of agents that read, write and land\ncode at the same time. Scion is internal to Anthropic and is not availa"
-    },
-    {
-      "id": 1417456983,
-      "full_name": "HeyPuter/everything",
-      "name": "everything",
-      "owner": {
-        "login": "HeyPuter",
-        "avatar_url": "https://avatars.githubusercontent.com/u/103972607?v=4"
-      },
-      "html_url": "https://github.com/HeyPuter/everything",
-      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
-      "language": "JavaScript",
-      "stargazers_count": 2328,
-      "forks_count": 328,
-      "open_issues_count": 9,
-      "topics": [
-        "adobe",
-        "cad",
-        "office",
-        "photoshop",
-        "saas",
-        "spreadsheet"
-      ],
-      "created_at": "2026-10-13T16:18:22Z",
-      "updated_at": "2026-10-19T21:53:10Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "The world’s software. Rebuilt, open-sourced, and MIT-licensed.\nThe Everything Project is an effort to rebuild and open-source the world’s software from scratch. From Office to Slack and Photoshop to AutoCAD, we are recreating free, open-source alternatives to all proprietary software. This is a mono"
-    },
-    {
-      "id": 1419746236,
-      "full_name": "ahwootech/BRUTAL",
-      "name": "BRUTAL",
-      "owner": {
-        "login": "ahwootech",
-        "avatar_url": "https://avatars.githubusercontent.com/u/189169933?v=4"
-      },
-      "html_url": "https://github.com/ahwootech/BRUTAL",
-      "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
-      "language": "C#",
-      "stargazers_count": 1982,
-      "forks_count": 109,
-      "open_issues_count": 12,
-      "topics": [
-        "csharp",
-        "dotnet",
-        "game-engine",
-        "gamedev",
-        "vulkan"
-      ],
-      "created_at": "2026-10-14T19:33:56Z",
-      "updated_at": "2026-10-19T20:58:43Z",
-      "license": {
-        "spdx_id": "NOASSERTION",
-        "key": "other"
-      },
-      "readme_snippet": "BRUTAL Framework\nA free, open source Cframework for making games, or your own game engine.\nBRUTAL is a framework. You can make a game directly with it, or use it as the foundation for a separate engine. We made Kitten Space Agency directly on BRUTAL. Ludeon built their Waylith engine on it to move R"
-    },
-    {
-      "id": 1420063501,
-      "full_name": "chenglou/handwired",
-      "name": "handwired",
-      "owner": {
-        "login": "chenglou",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1909539?v=4"
-      },
-      "html_url": "https://github.com/chenglou/handwired",
-      "description": "Turn your regular JavaScript code into a neural net.",
-      "language": "TypeScript",
-      "stargazers_count": 1800,
-      "forks_count": 149,
-      "open_issues_count": 9,
-      "topics": [],
-      "created_at": "2026-10-15T02:15:09Z",
-      "updated_at": "2026-10-19T21:59:40Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Handwired\nTurn your regular JavaScript code into a neural net; no training, exact, yet also fully differentiable!\nHow It Works\nA program's made of if-else, loops, and state. Handwired transforms them into matrix multiplication + reglu over floats. For example:\nThe above can be expressed as basic ari"
+      "readme_snippet": "> Vibe coded my parents' TV this afternoon! It was showing a sponsored ad before you could even get\n> to Netflix. Gave Claude Code the model number, it found the TV on wifi, removed 25 Xiaomi packages\n> and wrote a new launcher. Looks like an Apple TV now lol.\n>\n> @gathint, 17 October 2026. The repl"
     },
     {
       "id": 1423689866,
@@ -198,40 +79,46 @@
       "html_url": "https://github.com/ly05010419/MacNativeGames",
       "description": null,
       "language": "C",
-      "stargazers_count": 1633,
-      "forks_count": 262,
-      "open_issues_count": 18,
+      "stargazers_count": 2710,
+      "forks_count": 399,
+      "open_issues_count": 40,
       "topics": [],
       "created_at": "2026-10-17T19:52:00Z",
-      "updated_at": "2026-10-19T21:57:05Z",
+      "updated_at": "2026-10-20T21:22:10Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "MacNativeGames\nEnglish\n> Use your AI assistant to help you build the Mac app. We recommend Claude Code, Codex, or any other AI assistant you prefer.\nEnglish | 中文\nLegal\nYou must own the game. Use this project only with a copy of The Legend of Zelda: Tears of the Kingdom that you bought, and with keys"
+      "readme_snippet": "MacNativeGames\nEnglish\nBreath of the Wild 1.6.0 is now officially supported on Mac! (Mac only for now: no iPhone or iPad build yet.)\nTears of the Kingdom 1.0.0, 1.2.1 and 1.4.3 are now officially supported on Mac, iPhone and iPad!\n> Use your AI assistant to help you build the Mac app. We recommend C"
     },
     {
-      "id": 1419982962,
-      "full_name": "Supermedo/uncharted_pc",
-      "name": "uncharted_pc",
+      "id": 1419746236,
+      "full_name": "ahwootech/BRUTAL",
+      "name": "BRUTAL",
       "owner": {
-        "login": "Supermedo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/28518750?v=4"
+        "login": "ahwootech",
+        "avatar_url": "https://avatars.githubusercontent.com/u/189169933?v=4"
       },
-      "html_url": "https://github.com/Supermedo/uncharted_pc",
-      "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
-      "language": "C++",
-      "stargazers_count": 1571,
-      "forks_count": 79,
-      "open_issues_count": 289,
-      "topics": [],
-      "created_at": "2026-10-15T00:17:23Z",
-      "updated_at": "2026-10-19T22:06:13Z",
+      "html_url": "https://github.com/ahwootech/BRUTAL",
+      "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+      "language": "C#",
+      "stargazers_count": 2048,
+      "forks_count": 115,
+      "open_issues_count": 15,
+      "topics": [
+        "csharp",
+        "dotnet",
+        "game-engine",
+        "gamedev",
+        "vulkan"
+      ],
+      "created_at": "2026-10-14T19:33:56Z",
+      "updated_at": "2026-10-20T21:01:08Z",
       "license": {
-        "spdx_id": "GPL-2.0",
-        "key": "gpl-2.0"
+        "spdx_id": "NOASSERTION",
+        "key": "other"
       },
-      "readme_snippet": "Uncharted: The Nathan Drake Collection for Windows\nUncharted 1, 2 and 3 from the PS4 collection running natively on Windows 10 and 11, by SuperMedo. Mohammed Albarghouthi\nSame idea as my Bloodborne port: the original PS4 game\ncode runs directly on your PC and the graphics are translated to Vulkan. U"
+      "readme_snippet": "BRUTAL Framework\nA free, open source Cframework for making games, or your own game engine.\nBRUTAL is a framework. You can make a game directly with it, or use it as the foundation for a separate engine. We made Kitten Space Agency directly on BRUTAL. Ludeon built their Waylith engine on it to move R"
     },
     {
       "id": 1420305104,
@@ -244,9 +131,9 @@
       "html_url": "https://github.com/Leonxlnx/earshot",
       "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "language": "Python",
-      "stargazers_count": 1493,
-      "forks_count": 85,
-      "open_issues_count": 3,
+      "stargazers_count": 1920,
+      "forks_count": 109,
+      "open_issues_count": 4,
       "topics": [
         "ai-agents",
         "audio",
@@ -255,12 +142,130 @@
         "sound-design"
       ],
       "created_at": "2026-10-15T06:52:46Z",
-      "updated_at": "2026-10-19T22:04:17Z",
+      "updated_at": "2026-10-20T21:18:23Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "earshot\nEars for coding agents.\nWatch the 22 s launch film - every sound in it was made\nin code by earshot forge; no recordings, no music track.\n!Frames from the launch film\nAI coding agents can now write the code that renders a film, a product demo or a game. They still cannot hear what\nthey made. "
+    },
+    {
+      "id": 1420063501,
+      "full_name": "chenglou/handwired",
+      "name": "handwired",
+      "owner": {
+        "login": "chenglou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1909539?v=4"
+      },
+      "html_url": "https://github.com/chenglou/handwired",
+      "description": "Turn your regular JavaScript code into a neural net.",
+      "language": "TypeScript",
+      "stargazers_count": 1851,
+      "forks_count": 154,
+      "open_issues_count": 9,
+      "topics": [],
+      "created_at": "2026-10-15T02:15:09Z",
+      "updated_at": "2026-10-20T19:41:25Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Handwired\nTurn your regular JavaScript code into a neural net; no training, exact, yet also fully differentiable!\nHow It Works\nA program's made of if-else, loops, and state. Handwired transforms them into matrix multiplication + reglu over floats. For example:\nThe above can be expressed as basic ari"
+    },
+    {
+      "id": 1419982962,
+      "full_name": "Supermedo/uncharted_pc",
+      "name": "uncharted_pc",
+      "owner": {
+        "login": "Supermedo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/28518750?v=4"
+      },
+      "html_url": "https://github.com/Supermedo/uncharted_pc",
+      "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+      "language": "C++",
+      "stargazers_count": 1710,
+      "forks_count": 90,
+      "open_issues_count": 318,
+      "topics": [],
+      "created_at": "2026-10-15T00:17:23Z",
+      "updated_at": "2026-10-20T21:16:49Z",
+      "license": {
+        "spdx_id": "GPL-2.0",
+        "key": "gpl-2.0"
+      },
+      "readme_snippet": "Uncharted: The Nathan Drake Collection for Windows\nUncharted 1, 2 and 3 from the PS4 collection running natively on Windows 10 and 11, by SuperMedo. Mohammed Albarghouthi\nSame idea as my Bloodborne port: the original PS4 game\ncode runs directly on your PC and the graphics are translated to Vulkan. U"
+    },
+    {
+      "id": 1426080579,
+      "full_name": "simbasjungles/free-my-tv",
+      "name": "free-my-tv",
+      "owner": {
+        "login": "simbasjungles",
+        "avatar_url": "https://avatars.githubusercontent.com/u/192837953?v=4"
+      },
+      "html_url": "https://github.com/simbasjungles/free-my-tv",
+      "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+      "language": "Java",
+      "stargazers_count": 1636,
+      "forks_count": 168,
+      "open_issues_count": 28,
+      "topics": [
+        "android-tv",
+        "claude-code",
+        "google-tv",
+        "home-screen",
+        "launcher",
+        "no-ads",
+        "open-source",
+        "tmdb"
+      ],
+      "created_at": "2026-10-19T19:29:01Z",
+      "updated_at": "2026-10-20T21:19:49Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Free My TV\nA fast, ad-free home screen for Google TV, LG and Samsung TVs.\nTrending picks from your own apps, the weather at a glance, and a look that follows the sunset.\nOpen source. Built with Claude Code. One button to undo.\nfreemytv.io · Install · LG TVs · Samsung TVs · Any TV · Make it yours\nWha"
+    },
+    {
+      "id": 1424183124,
+      "full_name": "xiaoyang111222/cn-math-taxonomy",
+      "name": "cn-math-taxonomy",
+      "owner": {
+        "login": "xiaoyang111222",
+        "avatar_url": "https://avatars.githubusercontent.com/u/79557224?v=4"
+      },
+      "html_url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 小学英语，课标对齐、人教版，999 知识点、4143 题、自适应诊断",
+      "language": "Python",
+      "stargazers_count": 1554,
+      "forks_count": 338,
+      "open_issues_count": 1,
+      "topics": [
+        "chinese",
+        "curriculum",
+        "diagnostic",
+        "edtech",
+        "education",
+        "elementary-school",
+        "english",
+        "high-school",
+        "junior-high-school",
+        "k12",
+        "knowledge-graph",
+        "math",
+        "mathematics",
+        "middle-school",
+        "open-data",
+        "primary-school"
+      ],
+      "created_at": "2026-10-18T09:04:43Z",
+      "updated_at": "2026-10-20T20:43:10Z",
+      "license": {
+        "spdx_id": "NOASSERTION",
+        "key": "other"
+      },
+      "readme_snippet": "中小学知识图谱（数学 + 小学英语）\n对齐《义务教育数学课程标准（2022 年版）》、《普通高中数学课程标准（2017年版2020年修订）》的必修和选择性必修，以及《义务教育英语课程标准（2022年版）》一级、二级。数学教材是人教版一–九、人教 A 版（2019）必修两册和选择性必修三册；英语按人教 PEP（三年级起点）三上到六下。附自适应前置诊断与题库。数学答错会沿先修边从高中、初中一直回溯到具体的小学知识点。英语单独成图，不和数学连边。仓库名仍是 cn-math-taxonomy。\n范围：数学高中做到必修和选择性必修，并且只用人民教育出版社 A 版（2019）；英语只做到小学三至六年级。这"
     }
   ]
 }
