@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-22T21:19:02.990Z",
-  "query_date_range": "2026-10-15 ~ 2026-10-22",
-  "total_found": 2273044,
+  "updated_at": "2026-10-23T21:09:01.680Z",
+  "query_date_range": "2026-10-16 ~ 2026-10-23",
+  "total_found": 2270227,
   "count": 9,
   "repos": [
     {
@@ -15,9 +15,9 @@
       "html_url": "https://github.com/Gathin23/cleanyourtv",
       "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "language": "Java",
-      "stargazers_count": 23627,
-      "forks_count": 2582,
-      "open_issues_count": 120,
+      "stargazers_count": 27629,
+      "forks_count": 3105,
+      "open_issues_count": 160,
       "topics": [
         "adb",
         "adblock",
@@ -38,35 +38,12 @@
         "xiaomi"
       ],
       "created_at": "2026-10-17T08:12:35Z",
-      "updated_at": "2026-10-22T21:18:38Z",
+      "updated_at": "2026-10-23T21:06:53Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
       },
       "readme_snippet": "The viral tweet: x.com/gathint/status/2111379569030939102\nOn 17 October 2026 I posted a before and after of my parents' TV, cleaned up by Claude Code over Wi-Fi.\nIt reached 7.4M views, people started doing the same to their own TVs, and their replies turned into\nthe lists here: 170+ TV models from 2"
-    },
-    {
-      "id": 1421825221,
-      "full_name": "deepseek-ai/DeepInfer",
-      "name": "DeepInfer",
-      "owner": {
-        "login": "deepseek-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
-      },
-      "html_url": "https://github.com/deepseek-ai/DeepInfer",
-      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-      "language": "Python",
-      "stargazers_count": 19796,
-      "forks_count": 2106,
-      "open_issues_count": 193,
-      "topics": [],
-      "created_at": "2026-10-16T07:47:23Z",
-      "updated_at": "2026-10-22T21:14:43Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "DeepInfer\nDeepInfer is the high-performance inference framework that powers DeepSeek's large-scale production services. This open-source release provides offline inference with the core features needed for serving at scale.\nSupported models:\n- DeepSeek-V4.1-Flash\nSupported features:\n- Optimized kern"
     },
     {
       "id": 1423689866,
@@ -79,17 +56,17 @@
       "html_url": "https://github.com/ly05010419/MacNativeGames",
       "description": null,
       "language": "C",
-      "stargazers_count": 4442,
-      "forks_count": 629,
-      "open_issues_count": 99,
+      "stargazers_count": 4853,
+      "forks_count": 697,
+      "open_issues_count": 84,
       "topics": [],
       "created_at": "2026-10-17T19:52:00Z",
-      "updated_at": "2026-10-22T21:18:22Z",
+      "updated_at": "2026-10-23T20:46:22Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "MacNativeGames\nEnglish\nBreath of the Wild 1.6.0 and 1.9.0 are now officially supported on Mac! (Mac only for now: no iPhone or iPad build yet.)\nTears of the Kingdom 1.0.0, 1.2.1 and 1.4.3 are now officially supported on Mac, iPhone and iPad!\n> Use your AI assistant to help you build the Mac app. We "
+      "readme_snippet": "MacNativeGames\nEnglish\nBreath of the Wild 1.6.0 and 1.9.0 are now officially supported on Mac! 1.6.0 also runs on the iPhone (first played on an iPhone 14, October 23).\nTears of the Kingdom 1.0.0, 1.2.1 and 1.4.3 are now officially supported on Mac, iPhone and iPad!\n> Use your AI assistant to help y"
     },
     {
       "id": 1426080579,
@@ -100,11 +77,11 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/192837953?v=4"
       },
       "html_url": "https://github.com/simbasjungles/free-my-tv",
-      "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+      "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
       "language": "Java",
-      "stargazers_count": 3338,
-      "forks_count": 451,
-      "open_issues_count": 54,
+      "stargazers_count": 3905,
+      "forks_count": 593,
+      "open_issues_count": 66,
       "topics": [
         "android-tv",
         "claude-code",
@@ -113,10 +90,13 @@
         "launcher",
         "no-ads",
         "open-source",
-        "tmdb"
+        "samsung-tizen",
+        "tizen",
+        "tmdb",
+        "webos"
       ],
       "created_at": "2026-10-19T19:29:01Z",
-      "updated_at": "2026-10-22T21:17:51Z",
+      "updated_at": "2026-10-23T21:05:06Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -134,12 +114,12 @@
       "html_url": "https://github.com/pengchujin/aerial-tv",
       "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
       "language": "Kotlin",
-      "stargazers_count": 3025,
-      "forks_count": 211,
-      "open_issues_count": 147,
+      "stargazers_count": 3792,
+      "forks_count": 279,
+      "open_issues_count": 205,
       "topics": [],
       "created_at": "2026-10-20T09:13:06Z",
-      "updated_at": "2026-10-22T21:11:37Z",
+      "updated_at": "2026-10-23T20:51:05Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -157,9 +137,9 @@
       "html_url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
       "language": "Python",
-      "stargazers_count": 2189,
-      "forks_count": 508,
-      "open_issues_count": 4,
+      "stargazers_count": 2762,
+      "forks_count": 631,
+      "open_issues_count": 6,
       "topics": [
         "chinese",
         "curriculum",
@@ -179,47 +159,59 @@
         "primary-school"
       ],
       "created_at": "2026-10-18T09:04:43Z",
-      "updated_at": "2026-10-22T21:06:14Z",
+      "updated_at": "2026-10-23T20:44:46Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
       },
-      "readme_snippet": "中小学知识图谱（数学 + 英语）\n对齐《义务教育数学课程标准（2022 年版 2025 年修订）》（教育部《中小学课程方案和课程标准日常修订版》，教材〔2025〕1 号）、《普通高中数学课程标准（2017年版2025年修订）》的必修和选择性必修，以及《义务教育英语课程标准（2022年版）》一级、二级和三级（7–9 年级）和《普通高中英语课程标准（2017年版2025年修订）》的必修、选择性必修。数学教材是人教版一–九、人教 A 版（2019）必修两册和选择性必修三册；英语按人教 PEP（三年级起点，根据2022年版课程标准修订的新版）三上到六上（五下、六下新版未上线，暂按旧版）、人教版 Go "
+      "readme_snippet": "中小学·高中知识图谱（数学 + 英语 + 物理）\n对齐《义务教育数学课程标准（2022 年版 2025 年修订）》（教育部《中小学课程方案和课程标准日常修订版》，教材〔2025〕1 号）、《普通高中数学课程标准（2017年版2025年修订）》的必修和选择性必修，以及《义务教育英语课程标准（2022年版）》一级、二级和三级（7–9 年级）和《普通高中英语课程标准（2017年版2025年修订）》的必修、选择性必修。数学教材是人教版一–九、人教 A 版（2019）必修两册和选择性必修三册；英语按人教 PEP（三年级起点，根据2022年版课程标准修订的新版）三上到六上（五下、六下新版未上线，暂按旧版）"
     },
     {
-      "id": 1425154779,
-      "full_name": "tek-sys-hub/Rubix-lang",
-      "name": "Rubix-lang",
+      "id": 1422883896,
+      "full_name": "aicodeking/leanrea",
+      "name": "leanrea",
       "owner": {
-        "login": "tek-sys-hub",
-        "avatar_url": "https://avatars.githubusercontent.com/u/249392719?v=4"
+        "login": "aicodeking",
+        "avatar_url": "https://avatars.githubusercontent.com/u/167222040?v=4"
       },
-      "html_url": "https://github.com/tek-sys-hub/Rubix-lang",
-      "description": "The 100% Pure x86-64 Assembly Systems Language",
-      "language": "Assembly",
-      "stargazers_count": 1902,
-      "forks_count": 2,
+      "html_url": "https://github.com/aicodeking/leanrea",
+      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "language": "Python",
+      "stargazers_count": 1779,
+      "forks_count": 266,
       "open_issues_count": 6,
-      "topics": [
-        "assembler",
-        "assembly",
-        "assembly-lang",
-        "assembly-language",
-        "assembly-language-programming",
-        "assembly-x86-64",
-        "native-compiler",
-        "programming",
-        "programming-language",
-        "programming-languages",
-        "self-hosted"
-      ],
-      "created_at": "2026-10-19T05:34:37Z",
-      "updated_at": "2026-10-22T15:28:51Z",
+      "topics": [],
+      "created_at": "2026-10-17T02:53:24Z",
+      "updated_at": "2026-10-23T21:07:28Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "Rubix Programming Language (.ix)\n  \n  \n  The Ultra-Lightweight x86-64 Systems Programming Language\n  Zero C. Zero libc. Zero LLVM. A ~42 KB compiler building standalone native binaries in sub-milliseconds.\n> A sovereign systems programming language whose entire compiler is written in 100% pure x86-6"
+      "readme_snippet": "leanrea\nOne 8 KB skill file that does what REA does: no MCP server, no 207 tools, no setup.\nREA (Reverse Engineer Anything) puts an MCP layer between your agent and tools it can already use: asar, otool, nm, go version -m, jadx, apktool, Ghidra, tshark, binwalk, sqlite3. leanrea drops that layer. It"
+    },
+    {
+      "id": 1426240325,
+      "full_name": "JoasASantos/REA-Prompts",
+      "name": "REA-Prompts",
+      "owner": {
+        "login": "JoasASantos",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34966120?v=4"
+      },
+      "html_url": "https://github.com/JoasASantos/REA-Prompts",
+      "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+      "language": null,
+      "stargazers_count": 1701,
+      "forks_count": 265,
+      "open_issues_count": 0,
+      "topics": [
+        "prompt-engineering",
+        "rea",
+        "reverse-enginnering"
+      ],
+      "created_at": "2026-10-19T22:20:47Z",
+      "updated_at": "2026-10-23T21:08:29Z",
+      "license": null,
+      "readme_snippet": "REA Investigation Prompts (REAP) — Reverse Engineering with your Coding Agent\nA curated collection of prompts for REA (Reverse Engineer Anything) — the toolset that lets your AI coding agent inspect how software works, from native binaries, firmware and kernels to games, Electron apps, APKs and webs"
     },
     {
       "id": 1428058681,
@@ -232,9 +224,9 @@
       "html_url": "https://github.com/ikow/php2shell-poc",
       "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
       "language": "Python",
-      "stargazers_count": 1492,
-      "forks_count": 531,
-      "open_issues_count": 3,
+      "stargazers_count": 1679,
+      "forks_count": 588,
+      "open_issues_count": 4,
       "topics": [
         "cve-2026-109618",
         "cve-2026-109619",
@@ -252,7 +244,7 @@
         "wordpress-security"
       ],
       "created_at": "2026-10-21T07:55:16Z",
-      "updated_at": "2026-10-22T21:08:21Z",
+      "updated_at": "2026-10-23T21:01:49Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -260,28 +252,36 @@
       "readme_snippet": "php2shell\n  CVE-2026-109618 & CVE-2026-109619 — PHP Pre-Auth RCE Exploit & Detection Toolkit\n  \n  \n  \n  \n  \n  Exploits · Detection · Lab · Writeup\n---\nFive independent RCE chains exploiting PHP's session.upload_progress and the Zend engine's OOM bailout. 14 years of vulnerable code — PHP 5.4.0 (2012"
     },
     {
-      "id": 1426240325,
-      "full_name": "JoasASantos/REA-Prompts",
-      "name": "REA-Prompts",
+      "id": 1424340323,
+      "full_name": "alchaincyf/huashu-motion",
+      "name": "huashu-motion",
       "owner": {
-        "login": "JoasASantos",
-        "avatar_url": "https://avatars.githubusercontent.com/u/34966120?v=4"
+        "login": "alchaincyf",
+        "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
-      "html_url": "https://github.com/JoasASantos/REA-Prompts",
-      "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
-      "language": null,
-      "stargazers_count": 1470,
-      "forks_count": 221,
-      "open_issues_count": 0,
+      "html_url": "https://github.com/alchaincyf/huashu-motion",
+      "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+      "language": "JavaScript",
+      "stargazers_count": 1531,
+      "forks_count": 148,
+      "open_issues_count": 3,
       "topics": [
-        "prompt-engineering",
-        "rea",
-        "reverse-enginnering"
+        "agent-skills",
+        "animation",
+        "claude-code",
+        "codex",
+        "gsap",
+        "launch-video",
+        "motion-graphics",
+        "skills"
       ],
-      "created_at": "2026-10-19T22:20:47Z",
-      "updated_at": "2026-10-22T21:08:55Z",
-      "license": null,
-      "readme_snippet": "REA Investigation Prompts (REAP) — Reverse Engineering with your Coding Agent\nA curated collection of prompts for REA (Reverse Engineer Anything) — the toolset that lets your AI coding agent inspect how software works, from native binaries, firmware and kernels to games, Electron apps, APKs and webs"
+      "created_at": "2026-10-18T12:19:27Z",
+      "updated_at": "2026-10-23T20:40:08Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "简体中文 | English\nhuashu-motion\n> *「一键直出商业级产品宣传片。」*\n让你的agent做动画、作曲，指着画面改。\n跟Claude Code、Codex这些agent说一句「给我的产品做个30秒的发布片」，\n它会先读你的产品，给你三个方向挑，写出整支片子，自己写谱配乐，\n然后在浏览器里打开一个编辑器等你。哪里不满意，在画面上点一下，写下要改什么，它就只改那一处。\n看效果 · 安装 · 能做什么 · 怎么做到的 · 背后的故事\n---\n看效果\n这篇README里的每一段动画都是huashu-motion做的。上面那段取自它给自己做的53秒发布片，👉 下载完整发布片（M"
     }
   ]
 }
