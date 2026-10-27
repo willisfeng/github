@@ -1,32 +1,9 @@
 {
-  "updated_at": "2026-10-26T22:25:04.960Z",
-  "query_date_range": "2026-10-19 ~ 2026-10-26",
-  "total_found": 2317083,
+  "updated_at": "2026-10-27T21:56:05.718Z",
+  "query_date_range": "2026-10-20 ~ 2026-10-27",
+  "total_found": 2325041,
   "count": 9,
   "repos": [
-    {
-      "id": 1426780056,
-      "full_name": "pengchujin/aerial-tv",
-      "name": "aerial-tv",
-      "owner": {
-        "login": "pengchujin",
-        "avatar_url": "https://avatars.githubusercontent.com/u/16513318?v=4"
-      },
-      "html_url": "https://github.com/pengchujin/aerial-tv",
-      "description": "给国产电��的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
-      "language": "Kotlin",
-      "stargazers_count": 6018,
-      "forks_count": 505,
-      "open_issues_count": 298,
-      "topics": [],
-      "created_at": "2026-10-20T09:13:06Z",
-      "updated_at": "2026-10-26T22:19:02Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Aerial\n给国产电视的一块干净桌面。\n参照 Apple TV 做的 Android TV 桌面：没有广告，没有推荐流，只有你的 App、壁纸和航拍屏保。\n适合小米、TCL、创维、索尼等国产电视，也能装在盒子和投影仪上。开机自动进入，待机也不会被清理。\n中文 · English\n!Aerial 首页\n| 电视自带的桌面 | 换上 Aerial 之后 |\n|:---:|:---:|\n|  |  |\n功能\n  \n  \n- 首页：常用的一排 App 放在屏幕下方的玻璃底板上，往下是全部 App。小米「应用中心」「米家」这类藏起来的系统 App 也在。\n- 整理：长按 OK 键（或按菜单键）可以移动"
-    },
     {
       "id": 1431545439,
       "full_name": "JustAResearcher/gpu-unlock-ada",
@@ -38,17 +15,85 @@
       "html_url": "https://github.com/JustAResearcher/gpu-unlock-ada",
       "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
       "language": "C",
-      "stargazers_count": 3780,
-      "forks_count": 495,
-      "open_issues_count": 19,
+      "stargazers_count": 4246,
+      "forks_count": 555,
+      "open_issues_count": 40,
       "topics": [],
       "created_at": "2026-10-23T21:00:53Z",
-      "updated_at": "2026-10-26T22:24:25Z",
+      "updated_at": "2026-10-27T21:43:35Z",
       "license": {
         "spdx_id": "GPL-2.0",
         "key": "gpl-2.0"
       },
       "readme_snippet": "GPU unlock 1.1.1 — RTX 4090 and experimental Ada GPUs\nNew to this project? Start with the copy-paste Quick Start.\nThis Linux kernel module enables the SM speed-select override before the stock\nNVIDIA driver starts. RTX 4090 (10de:2684, AD102) support has demonstrated\napproximately 2× FP16 and BF16 t"
+    },
+    {
+      "id": 1431851693,
+      "full_name": "rddmwmddr/android-ad-cleaner",
+      "name": "android-ad-cleaner",
+      "owner": {
+        "login": "rddmwmddr",
+        "avatar_url": "https://avatars.githubusercontent.com/u/5119232?v=4"
+      },
+      "html_url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "language": "Python",
+      "stargazers_count": 3170,
+      "forks_count": 267,
+      "open_issues_count": 178,
+      "topics": [
+        "adb",
+        "ai-agent",
+        "android",
+        "coloros",
+        "debloat",
+        "hyperos",
+        "magicos",
+        "originos"
+      ],
+      "created_at": "2026-10-24T05:35:47Z",
+      "updated_at": "2026-10-27T21:52:36Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "手机去广告\n关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。\n介绍页：https://rddmwmddr.github.io/android-ad-cleaner/\n下载桌面客户端\n插上手机，点几下按钮。不需要 Python，也不需要 AI 工具。\n> v0.2.5 · 2026-10-27：新增错误日志上报。执行失败时，不需要 GitHub 账号也能把日志发给维护者；发送前原样展示全部内容，确认后发送。序列号、用户目录、邮箱、手机号、IP 在客户端和服务器各替换一遍，服务器保存 90 天。0.2.4 的修复全部保留。旧版不会自动更新，请重新下载，已有备份会保留。详见 更新记录 和 错"
+    },
+    {
+      "id": 1432980411,
+      "full_name": "designfuchen/word-atlas",
+      "name": "word-atlas",
+      "owner": {
+        "login": "designfuchen",
+        "avatar_url": "https://avatars.githubusercontent.com/u/17679892?v=4"
+      },
+      "html_url": "https://github.com/designfuchen/word-atlas",
+      "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "language": "TypeScript",
+      "stargazers_count": 2437,
+      "forks_count": 575,
+      "open_issues_count": 19,
+      "topics": [
+        "chinese",
+        "dataset",
+        "english-learning",
+        "flashcards",
+        "fsrs",
+        "ielts",
+        "language-learning",
+        "pwa",
+        "react",
+        "spaced-repetition",
+        "vocabulary",
+        "webgl"
+      ],
+      "created_at": "2026-10-25T08:27:22Z",
+      "updated_at": "2026-10-27T21:43:28Z",
+      "license": {
+        "spdx_id": "NOASSERTION",
+        "key": "other"
+      },
+      "readme_snippet": "词光 · Word Atlas\n把单词变成画面，让复习有迹可循。\n7,298 个雅思词条 · 原创插画 · 英美发音 · FSRS 间隔复习\n立即体验 ↗　 /　 48 秒介绍　 /　 下载词库　 /　 English\n词光 iOS 正在开发，首批内测招募中。 微信扫上图二维码进群；二维码过期或群满了，打开 网站 点顶栏「内测」，加作者微信拉你进群。\n---\n词光是一款以插画和语境为核心的雅思背词应用。看画面理解词义，听发音建立联系，再用主动回忆和间隔复习巩固记忆。无需账号，学习进度保存在自己的设备上。\n> 版本说明：这个仓库提供词光的开源基础版及配套数据集。在线网站独立迭代，功能与仓库可能不"
     },
     {
       "id": 1428848843,
@@ -61,12 +106,12 @@
       "html_url": "https://github.com/wesbos/3d-model-anything",
       "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
       "language": "Swift",
-      "stargazers_count": 2064,
-      "forks_count": 305,
-      "open_issues_count": 10,
+      "stargazers_count": 2205,
+      "forks_count": 323,
+      "open_issues_count": 11,
       "topics": [],
       "created_at": "2026-10-21T19:38:50Z",
-      "updated_at": "2026-10-26T22:15:57Z",
+      "updated_at": "2026-10-27T21:48:14Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
@@ -84,9 +129,9 @@
       "html_url": "https://github.com/xevrion/hatchzip",
       "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
       "language": "Rust",
-      "stargazers_count": 2048,
-      "forks_count": 60,
-      "open_issues_count": 3,
+      "stargazers_count": 2163,
+      "forks_count": 64,
+      "open_issues_count": 5,
       "topics": [
         "7z",
         "7zip",
@@ -110,7 +155,7 @@
         "zip"
       ],
       "created_at": "2026-10-21T17:29:28Z",
-      "updated_at": "2026-10-26T21:00:33Z",
+      "updated_at": "2026-10-27T21:52:13Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
@@ -118,65 +163,47 @@
       "readme_snippet": "HatchZip\n  Extract huge archives in place. The archive shrinks as your files hatch,\n  so you only need free space for the output, not for the output and the archive.\n  hatchzip.dev |\n  Installation |\n  Usage |\n  Safety |\n  How it works |\n  Contributing\n  \n  \n  \n  \n  \nHatchZip is a free, open-source "
     },
     {
-      "id": 1427126014,
-      "full_name": "Jakeschincariol/day-trader-skill",
-      "name": "day-trader-skill",
+      "id": 1433377156,
+      "full_name": "unclebob/ub-mode",
+      "name": "ub-mode",
       "owner": {
-        "login": "Jakeschincariol",
-        "avatar_url": "https://avatars.githubusercontent.com/u/196724947?v=4"
+        "login": "unclebob",
+        "avatar_url": "https://avatars.githubusercontent.com/u/36901?v=4"
       },
-      "html_url": "https://github.com/Jakeschincariol/day-trader-skill",
-      "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
-      "language": "Python",
-      "stargazers_count": 2033,
-      "forks_count": 423,
-      "open_issues_count": 8,
-      "topics": [
-        "backtesting",
-        "claude",
-        "claude-skills",
-        "day-trading",
-        "stock-market"
-      ],
-      "created_at": "2026-10-20T14:17:54Z",
-      "updated_at": "2026-10-26T22:07:40Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "The Day Trader skill\n11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.\nFree, MIT, no signup, no API key. The tools are plain Python that read free\npublic data: Yahoo Finance charts, Nasdaq Tr"
+      "html_url": "https://github.com/unclebob/ub-mode",
+      "description": null,
+      "language": null,
+      "stargazers_count": 2102,
+      "forks_count": 100,
+      "open_issues_count": 3,
+      "topics": [],
+      "created_at": "2026-10-25T16:04:09Z",
+      "updated_at": "2026-10-27T21:54:18Z",
+      "license": null,
+      "readme_snippet": "ub-mode\nub-mode is an agent skill that enforces disciplined software engineering principles when writing or changing code. It is loosely based on portions of @poteto's rules (poteto-mode / pstack), reduced and paired with deterministic quality-gate tools:\n1. First Make it Work — Laziness Protocol, F"
     },
     {
-      "id": 1431851693,
-      "full_name": "rddmwmddr/android-ad-cleaner",
-      "name": "android-ad-cleaner",
+      "id": 1431830406,
+      "full_name": "t3dotgg/tstack",
+      "name": "tstack",
       "owner": {
-        "login": "rddmwmddr",
-        "avatar_url": "https://avatars.githubusercontent.com/u/5119232?v=4"
+        "login": "t3dotgg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6751787?v=4"
       },
-      "html_url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "html_url": "https://github.com/t3dotgg/tstack",
+      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
       "language": "Python",
-      "stargazers_count": 1830,
-      "forks_count": 151,
-      "open_issues_count": 107,
-      "topics": [
-        "adb",
-        "ai-agent",
-        "android",
-        "coloros",
-        "debloat",
-        "hyperos",
-        "magicos",
-        "originos"
-      ],
-      "created_at": "2026-10-24T05:35:47Z",
-      "updated_at": "2026-10-26T22:07:37Z",
+      "stargazers_count": 1972,
+      "forks_count": 115,
+      "open_issues_count": 10,
+      "topics": [],
+      "created_at": "2026-10-24T05:00:20Z",
+      "updated_at": "2026-10-27T21:50:48Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "手机去广告\n关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。\n介绍页：https://rddmwmddr.github.io/android-ad-cleaner/\n下载桌面客户端\n插上手机，点几下按钮。不需要 Python，也不需要 AI 工具。\n> v0.2.3 · 2026-10-25：处理读屏服务 already registered 冲突：退出前释放本次服务，同机任务互斥，短暂冲突只重试一次；持续占用时给出恢复步骤并跳过后续读屏任务。收尾不再误报全部完成。保留通知扫描、完整诊断及此前修复。旧版不会自动更新，请重新下载，已有备份会保留。详见 更新记录。\n> 最新源码补充（尚未进"
+      "readme_snippet": "tstack\nThe agent skills I use every day, cleaned up so anyone can use them. They work\nin Claude Code and Codex. Some use T3 Code\nfeatures when they are available and fall back to native tools when they are\nnot.\nSkills\n| Skill | Say | What it does |\n|---|---|---|\n| full-send | \"full send\" | Takes a c"
     },
     {
       "id": 1428058681,
@@ -189,9 +216,9 @@
       "html_url": "https://github.com/ikow/php2shell-poc",
       "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
       "language": "Python",
-      "stargazers_count": 1829,
-      "forks_count": 627,
-      "open_issues_count": 4,
+      "stargazers_count": 1866,
+      "forks_count": 635,
+      "open_issues_count": 6,
       "topics": [
         "cve-2026-109618",
         "cve-2026-109619",
@@ -209,7 +236,7 @@
         "wordpress-security"
       ],
       "created_at": "2026-10-21T07:55:16Z",
-      "updated_at": "2026-10-26T21:04:06Z",
+      "updated_at": "2026-10-27T18:27:03Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -227,53 +254,17 @@
       "html_url": "https://github.com/oosexgang/hackios-xnu-kernel",
       "description": null,
       "language": "C",
-      "stargazers_count": 1650,
-      "forks_count": 302,
-      "open_issues_count": 9,
+      "stargazers_count": 1809,
+      "forks_count": 319,
+      "open_issues_count": 14,
       "topics": [],
       "created_at": "2026-10-22T06:20:11Z",
-      "updated_at": "2026-10-26T22:22:52Z",
+      "updated_at": "2026-10-27T21:32:07Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
       },
       "readme_snippet": "HakiOS\nEnglish · 中文 · Українська\nHakiOS runs the open-source XNU kernel (xnu-8796.121.2) with my own boot loader and my own drivers\non an Android phone with a Qualcomm SoC, and boots the stock iOS 16.5 user space on top of it:\nlaunchd, backboardd, SpringBoard, the apps. The same thing runs in QEMU ("
-    },
-    {
-      "id": 1432980411,
-      "full_name": "designfuchen/word-atlas",
-      "name": "word-atlas",
-      "owner": {
-        "login": "designfuchen",
-        "avatar_url": "https://avatars.githubusercontent.com/u/17679892?v=4"
-      },
-      "html_url": "https://github.com/designfuchen/word-atlas",
-      "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
-      "language": "TypeScript",
-      "stargazers_count": 1603,
-      "forks_count": 406,
-      "open_issues_count": 14,
-      "topics": [
-        "chinese",
-        "dataset",
-        "english-learning",
-        "flashcards",
-        "fsrs",
-        "ielts",
-        "language-learning",
-        "pwa",
-        "react",
-        "spaced-repetition",
-        "vocabulary",
-        "webgl"
-      ],
-      "created_at": "2026-10-25T08:27:22Z",
-      "updated_at": "2026-10-26T22:21:45Z",
-      "license": {
-        "spdx_id": "NOASSERTION",
-        "key": "other"
-      },
-      "readme_snippet": "词光 · Word Atlas\n把单词变成画面，让复习有迹可循。\n7,298 个雅思词条 · 原创插画 · 英美发音 · FSRS 间隔复习\n立即体验 ↗　 /　 48 秒介绍　 /　 下载词库　 /　 English\n---\n词光是一款以插画和语境为核心的雅思背词应用。看画面理解词义，听发音建立联系，再用主动回忆和间隔复习巩固记忆。无需账号，学习进度保存在自己的设备上。\n> 版本说明：这个仓库提供词光的开源基础版及配套数据集。在线网站独立迭代，功能与仓库可能不同；仓库里的代码和内容分别遵循下方的 MIT / CC BY 4.0 授权。\n产品预览 · 学习方式 · 本地运行 · 开放数据 · "
     }
   ]
 }
