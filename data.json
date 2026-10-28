@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-27T21:56:05.718Z",
-  "query_date_range": "2026-10-20 ~ 2026-10-27",
-  "total_found": 2325041,
+  "updated_at": "2026-10-28T22:20:10.975Z",
+  "query_date_range": "2026-10-21 ~ 2026-10-28",
+  "total_found": 2342287,
   "count": 9,
   "repos": [
     {
@@ -15,12 +15,12 @@
       "html_url": "https://github.com/JustAResearcher/gpu-unlock-ada",
       "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
       "language": "C",
-      "stargazers_count": 4246,
-      "forks_count": 555,
-      "open_issues_count": 40,
+      "stargazers_count": 4409,
+      "forks_count": 565,
+      "open_issues_count": 51,
       "topics": [],
       "created_at": "2026-10-23T21:00:53Z",
-      "updated_at": "2026-10-27T21:43:35Z",
+      "updated_at": "2026-10-28T21:21:47Z",
       "license": {
         "spdx_id": "GPL-2.0",
         "key": "gpl-2.0"
@@ -38,9 +38,9 @@
       "html_url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "language": "Python",
-      "stargazers_count": 3170,
-      "forks_count": 267,
-      "open_issues_count": 178,
+      "stargazers_count": 4260,
+      "forks_count": 381,
+      "open_issues_count": 222,
       "topics": [
         "adb",
         "ai-agent",
@@ -52,12 +52,32 @@
         "originos"
       ],
       "created_at": "2026-10-24T05:35:47Z",
-      "updated_at": "2026-10-27T21:52:36Z",
+      "updated_at": "2026-10-28T22:15:12Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "手机去广告\n关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。\n介绍页：https://rddmwmddr.github.io/android-ad-cleaner/\n下载桌面客户端\n插上手机，点几下按钮。不需要 Python，也不需要 AI 工具。\n> v0.2.5 · 2026-10-27：新增错误日志上报。执行失败时，不需要 GitHub 账号也能把日志发给维护者；发送前原样展示全部内容，确认后发送。序列号、用户目录、邮箱、手机号、IP 在客户端和服务器各替换一遍，服务器保存 90 天。0.2.4 的修复全部保留。旧版不会自动更新，请重新下载，已有备份会保留。详见 更新记录 和 错"
+      "readme_snippet": "手机去广告\n关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。\n介绍页：https://rddmwmddr.github.io/android-ad-cleaner/\n下载桌面客户端\n插上手机，点几下按钮。不需要 Python，也不需要 AI 工具。\n> v0.2.6 · 2026-10-28：按 0.2.5 收到的 122 份错误日志修复：手机锁屏时等你解锁后继续，不再整步失败；系统锁定的灰色通知渠道不算失败；OPPO、一加、realme 锁屏能认出；手机断开后不再每一步重复报错；vivo OriginOS 3、华为渠道页、小米断网接口三处兼容。新增 9 个社区机型脚本（红米 K80 "
+    },
+    {
+      "id": 1433377156,
+      "full_name": "unclebob/ub-mode",
+      "name": "ub-mode",
+      "owner": {
+        "login": "unclebob",
+        "avatar_url": "https://avatars.githubusercontent.com/u/36901?v=4"
+      },
+      "html_url": "https://github.com/unclebob/ub-mode",
+      "description": null,
+      "language": null,
+      "stargazers_count": 3690,
+      "forks_count": 191,
+      "open_issues_count": 5,
+      "topics": [],
+      "created_at": "2026-10-25T16:04:09Z",
+      "updated_at": "2026-10-28T22:15:06Z",
+      "license": null,
+      "readme_snippet": "ub-mode\nub-mode is an agent skill that enforces disciplined software engineering principles when writing or changing code. It is loosely based on portions of @poteto's rules (poteto-mode / pstack), reduced and paired with deterministic quality-gate tools:\n1. First Make it Work — Laziness Protocol, F"
     },
     {
       "id": 1432980411,
@@ -70,9 +90,9 @@
       "html_url": "https://github.com/designfuchen/word-atlas",
       "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
       "language": "TypeScript",
-      "stargazers_count": 2437,
-      "forks_count": 575,
-      "open_issues_count": 19,
+      "stargazers_count": 3035,
+      "forks_count": 674,
+      "open_issues_count": 22,
       "topics": [
         "chinese",
         "dataset",
@@ -88,7 +108,7 @@
         "webgl"
       ],
       "created_at": "2026-10-25T08:27:22Z",
-      "updated_at": "2026-10-27T21:43:28Z",
+      "updated_at": "2026-10-28T21:45:27Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
@@ -96,91 +116,27 @@
       "readme_snippet": "词光 · Word Atlas\n把单词变成画面，让复习有迹可循。\n7,298 个雅思词条 · 原创插画 · 英美发音 · FSRS 间隔复习\n立即体验 ↗　 /　 48 秒介绍　 /　 下载词库　 /　 English\n词光 iOS 正在开发，首批内测招募中。 微信扫上图二维码进群；二维码过期或群满了，打开 网站 点顶栏「内测」，加作者微信拉你进群。\n---\n词光是一款以插画和语境为核心的雅思背词应用。看画面理解词义，听发音建立联系，再用主动回忆和间隔复习巩固记忆。无需账号，学习进度保存在自己的设备上。\n> 版本说明：这个仓库提供词光的开源基础版及配套数据集。在线网站独立迭代，功能与仓库可能不"
     },
     {
-      "id": 1428848843,
-      "full_name": "wesbos/3d-model-anything",
-      "name": "3d-model-anything",
+      "id": 1433297111,
+      "full_name": "interplains/Zero-Breach-Toolkit",
+      "name": "Zero-Breach-Toolkit",
       "owner": {
-        "login": "wesbos",
-        "avatar_url": "https://avatars.githubusercontent.com/u/176013?v=4"
+        "login": "interplains",
+        "avatar_url": "https://avatars.githubusercontent.com/u/39777629?v=4"
       },
-      "html_url": "https://github.com/wesbos/3d-model-anything",
-      "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
-      "language": "Swift",
-      "stargazers_count": 2205,
-      "forks_count": 323,
-      "open_issues_count": 11,
+      "html_url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "language": "Python",
+      "stargazers_count": 2664,
+      "forks_count": 294,
+      "open_issues_count": 2,
       "topics": [],
-      "created_at": "2026-10-21T19:38:50Z",
-      "updated_at": "2026-10-27T21:48:14Z",
-      "license": {
-        "spdx_id": "NOASSERTION",
-        "key": "other"
-      },
-      "readme_snippet": "3D Model Anything\nCapture a room on an iPhone, then use its geometry and photographs to build an editable Three.js scene with an AI coding agent.\nOpen the office viewer · App support\nThis repository includes the 3D Model Anything iPhone app, a Three.js viewer, the scan-to-threejs agent skill, and We"
-    },
-    {
-      "id": 1428714039,
-      "full_name": "xevrion/hatchzip",
-      "name": "hatchzip",
-      "owner": {
-        "login": "xevrion",
-        "avatar_url": "https://avatars.githubusercontent.com/u/77008538?v=4"
-      },
-      "html_url": "https://github.com/xevrion/hatchzip",
-      "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
-      "language": "Rust",
-      "stargazers_count": 2163,
-      "forks_count": 64,
-      "open_issues_count": 5,
-      "topics": [
-        "7z",
-        "7zip",
-        "archive",
-        "archive-extractor",
-        "cli",
-        "crash-safe",
-        "disk-space",
-        "extract",
-        "extractor",
-        "gui",
-        "in-place",
-        "linux",
-        "macos",
-        "rar",
-        "rust",
-        "tar",
-        "unrar",
-        "unzip",
-        "windows",
-        "zip"
-      ],
-      "created_at": "2026-10-21T17:29:28Z",
-      "updated_at": "2026-10-27T21:52:13Z",
+      "created_at": "2026-10-25T14:41:34Z",
+      "updated_at": "2026-10-28T22:18:22Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
-      "readme_snippet": "HatchZip\n  Extract huge archives in place. The archive shrinks as your files hatch,\n  so you only need free space for the output, not for the output and the archive.\n  hatchzip.dev |\n  Installation |\n  Usage |\n  Safety |\n  How it works |\n  Contributing\n  \n  \n  \n  \n  \nHatchZip is a free, open-source "
-    },
-    {
-      "id": 1433377156,
-      "full_name": "unclebob/ub-mode",
-      "name": "ub-mode",
-      "owner": {
-        "login": "unclebob",
-        "avatar_url": "https://avatars.githubusercontent.com/u/36901?v=4"
-      },
-      "html_url": "https://github.com/unclebob/ub-mode",
-      "description": null,
-      "language": null,
-      "stargazers_count": 2102,
-      "forks_count": 100,
-      "open_issues_count": 3,
-      "topics": [],
-      "created_at": "2026-10-25T16:04:09Z",
-      "updated_at": "2026-10-27T21:54:18Z",
-      "license": null,
-      "readme_snippet": "ub-mode\nub-mode is an agent skill that enforces disciplined software engineering principles when writing or changing code. It is loosely based on portions of @poteto's rules (poteto-mode / pstack), reduced and paired with deterministic quality-gate tools:\n1. First Make it Work — Laziness Protocol, F"
+      "readme_snippet": "Zero Breach Toolkit\nA free, open-source check for traces of known mercenary spyware (Pegasus, Predator,\nGraphite, Candiru and others) on computers, Android phones and iPhone backups.\n- Read-only. It does not modify source evidence or system settings. It writes only\n  temporary database snapshots and"
     },
     {
       "id": 1431830406,
@@ -193,12 +149,12 @@
       "html_url": "https://github.com/t3dotgg/tstack",
       "description": "The agent skills I use every day. Works with Claude Code and Codex.",
       "language": "Python",
-      "stargazers_count": 1972,
-      "forks_count": 115,
-      "open_issues_count": 10,
+      "stargazers_count": 2245,
+      "forks_count": 138,
+      "open_issues_count": 11,
       "topics": [],
       "created_at": "2026-10-24T05:00:20Z",
-      "updated_at": "2026-10-27T21:50:48Z",
+      "updated_at": "2026-10-28T22:15:53Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -206,65 +162,85 @@
       "readme_snippet": "tstack\nThe agent skills I use every day, cleaned up so anyone can use them. They work\nin Claude Code and Codex. Some use T3 Code\nfeatures when they are available and fall back to native tools when they are\nnot.\nSkills\n| Skill | Say | What it does |\n|---|---|---|\n| full-send | \"full send\" | Takes a c"
     },
     {
-      "id": 1428058681,
-      "full_name": "ikow/php2shell-poc",
-      "name": "php2shell-poc",
-      "owner": {
-        "login": "ikow",
-        "avatar_url": "https://avatars.githubusercontent.com/u/5469411?v=4"
-      },
-      "html_url": "https://github.com/ikow/php2shell-poc",
-      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "language": "Python",
-      "stargazers_count": 1866,
-      "forks_count": 635,
-      "open_issues_count": 6,
-      "topics": [
-        "cve-2026-109618",
-        "cve-2026-109619",
-        "detection-rules",
-        "exploit",
-        "php-exploit",
-        "php-security",
-        "php2shell",
-        "poc",
-        "rce",
-        "session-upload-progress",
-        "suricata-rules",
-        "vulnerability-research",
-        "waf-rules",
-        "wordpress-security"
-      ],
-      "created_at": "2026-10-21T07:55:16Z",
-      "updated_at": "2026-10-27T18:27:03Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "php2shell\n  CVE-2026-109618 & CVE-2026-109619 — PHP Pre-Auth RCE Exploit & Detection Toolkit\n  \n  \n  \n  \n  \n  Exploits · Detection · Lab · Writeup\n---\nFive independent RCE chains exploiting PHP's session.upload_progress and the Zend engine's OOM bailout. 14 years of vulnerable code — PHP 5.4.0 (2012"
-    },
-    {
       "id": 1429328794,
-      "full_name": "oosexgang/hackios-xnu-kernel",
-      "name": "hackios-xnu-kernel",
+      "full_name": "oosexgang/hakios-xnu-kernel",
+      "name": "hakios-xnu-kernel",
       "owner": {
         "login": "oosexgang",
         "avatar_url": "https://avatars.githubusercontent.com/u/343646710?v=4"
       },
-      "html_url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "html_url": "https://github.com/oosexgang/hakios-xnu-kernel",
       "description": null,
       "language": "C",
-      "stargazers_count": 1809,
-      "forks_count": 319,
-      "open_issues_count": 14,
+      "stargazers_count": 1899,
+      "forks_count": 326,
+      "open_issues_count": 19,
       "topics": [],
       "created_at": "2026-10-22T06:20:11Z",
-      "updated_at": "2026-10-27T21:32:07Z",
+      "updated_at": "2026-10-28T22:05:08Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
       },
       "readme_snippet": "HakiOS\nEnglish · 中文 · Українська\nHakiOS runs the open-source XNU kernel (xnu-8796.121.2) with my own boot loader and my own drivers\non an Android phone with a Qualcomm SoC, and boots the stock iOS 16.5 user space on top of it:\nlaunchd, backboardd, SpringBoard, the apps. The same thing runs in QEMU ("
+    },
+    {
+      "id": 1435695423,
+      "full_name": "anhao/ai-pose-gallery-zh",
+      "name": "ai-pose-gallery-zh",
+      "owner": {
+        "login": "anhao",
+        "avatar_url": "https://avatars.githubusercontent.com/u/9844218?v=4"
+      },
+      "html_url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "language": "HTML",
+      "stargazers_count": 1822,
+      "forks_count": 472,
+      "open_issues_count": 0,
+      "topics": [
+        "ai-art",
+        "chinese",
+        "cloudflare-pages",
+        "gallery",
+        "i18n",
+        "pose",
+        "reference-images",
+        "static-site"
+      ],
+      "created_at": "2026-10-27T12:24:37Z",
+      "updated_at": "2026-10-28T22:16:19Z",
+      "license": {
+        "spdx_id": "NOASSERTION",
+        "key": "other"
+      },
+      "readme_snippet": "AI Pose Gallery · 中文版\n> 288 组 / 1439 张 AI 人体姿势参考图，日文数据完整汉化，附可直接部署的响应式静态画廊。\n!画廊预览\n手机端预览\n!手机端预览\n在线演示： \n原始站点： \n原作者： ギア（@giaaibusi）\n中文版维护： Anhao · X @anhao_ai\nGitHub： \n---\n这是什么\n原站是一套面向 AI 绘画 / 3D / 摄影参考的姿势图库，元数据全部为日文，且不提供批量素材下载。本仓库做了三件事：\n1. 全量镜像 —— 1439 条记录对应的 1439 张缩略图（JPG 300×400）与 1439 张原图（PNG 900×12"
+    },
+    {
+      "id": 1431010194,
+      "full_name": "enesozturk/dimensional-drawing",
+      "name": "dimensional-drawing",
+      "owner": {
+        "login": "enesozturk",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19428358?v=4"
+      },
+      "html_url": "https://github.com/enesozturk/dimensional-drawing",
+      "description": "Create Apple style dimensional drawings of UI components.",
+      "language": "HTML",
+      "stargazers_count": 1379,
+      "forks_count": 86,
+      "open_issues_count": 3,
+      "topics": [
+        "skills",
+        "ui"
+      ],
+      "created_at": "2026-10-23T12:20:16Z",
+      "updated_at": "2026-10-28T21:48:24Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "dimensional-drawing ✏️📐\n  Give it a UI component, get back a one-page technical drawing of it.\n  Paddings, gaps, corner radii, layers and viewport placement, measured and labeled like Apple's dimensional drawings.\n  Install ·\n  Use it ·\n  Make it move ·\n  Examples\n---\nApple publishes dimensional dr"
     }
   ]
 }
