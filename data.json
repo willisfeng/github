@@ -1,32 +1,9 @@
 {
-  "updated_at": "2026-10-28T22:20:10.975Z",
-  "query_date_range": "2026-10-21 ~ 2026-10-28",
-  "total_found": 2342287,
+  "updated_at": "2026-10-29T22:33:31.942Z",
+  "query_date_range": "2026-10-22 ~ 2026-10-29",
+  "total_found": 2326494,
   "count": 9,
   "repos": [
-    {
-      "id": 1431545439,
-      "full_name": "JustAResearcher/gpu-unlock-ada",
-      "name": "gpu-unlock-ada",
-      "owner": {
-        "login": "JustAResearcher",
-        "avatar_url": "https://avatars.githubusercontent.com/u/62031663?v=4"
-      },
-      "html_url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
-      "language": "C",
-      "stargazers_count": 4409,
-      "forks_count": 565,
-      "open_issues_count": 51,
-      "topics": [],
-      "created_at": "2026-10-23T21:00:53Z",
-      "updated_at": "2026-10-28T21:21:47Z",
-      "license": {
-        "spdx_id": "GPL-2.0",
-        "key": "gpl-2.0"
-      },
-      "readme_snippet": "GPU unlock 1.1.1 — RTX 4090 and experimental Ada GPUs\nNew to this project? Start with the copy-paste Quick Start.\nThis Linux kernel module enables the SM speed-select override before the stock\nNVIDIA driver starts. RTX 4090 (10de:2684, AD102) support has demonstrated\napproximately 2× FP16 and BF16 t"
-    },
     {
       "id": 1431851693,
       "full_name": "rddmwmddr/android-ad-cleaner",
@@ -38,9 +15,9 @@
       "html_url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "language": "Python",
-      "stargazers_count": 4260,
-      "forks_count": 381,
-      "open_issues_count": 222,
+      "stargazers_count": 4710,
+      "forks_count": 425,
+      "open_issues_count": 120,
       "topics": [
         "adb",
         "ai-agent",
@@ -52,12 +29,12 @@
         "originos"
       ],
       "created_at": "2026-10-24T05:35:47Z",
-      "updated_at": "2026-10-28T22:15:12Z",
+      "updated_at": "2026-10-29T22:17:48Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "手机去广告\n关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。\n介绍页：https://rddmwmddr.github.io/android-ad-cleaner/\n下载桌面客户端\n插上手机，点几下按钮。不需要 Python，也不需要 AI 工具。\n> v0.2.6 · 2026-10-28：按 0.2.5 收到的 122 份错误日志修复：手机锁屏时等你解锁后继续，不再整步失败；系统锁定的灰色通知渠道不算失败；OPPO、一加、realme 锁屏能认出；手机断开后不再每一步重复报错；vivo OriginOS 3、华为渠道页、小米断网接口三处兼容。新增 9 个社区机型脚本（红米 K80 "
+      "readme_snippet": "手机去广告\n关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。\n介绍页：https://rddmwmddr.github.io/android-ad-cleaner/\n下载桌面客户端\n插上手机，点几下按钮。不需要 Python，也不需要 AI 工具。\n> v0.2.7 · 2026-10-29：按 0.2.6 收到的 101 份错误日志和 GitHub 新问题修复：华为、旧版荣耀认出渠道开关，vivo 不再点了没反应、每个渠道少等十几秒，剩一两个渠道没关上会再试一次，不再把开关的说明文字当入口点。营销通知清单显示软件名；执行中可以暂停；执行结束、暂停生效、需要解锁时有提示音；有新版时左下"
     },
     {
       "id": 1433377156,
@@ -70,14 +47,60 @@
       "html_url": "https://github.com/unclebob/ub-mode",
       "description": null,
       "language": null,
-      "stargazers_count": 3690,
-      "forks_count": 191,
-      "open_issues_count": 5,
+      "stargazers_count": 4646,
+      "forks_count": 256,
+      "open_issues_count": 6,
       "topics": [],
       "created_at": "2026-10-25T16:04:09Z",
-      "updated_at": "2026-10-28T22:15:06Z",
+      "updated_at": "2026-10-29T22:32:58Z",
       "license": null,
       "readme_snippet": "ub-mode\nub-mode is an agent skill that enforces disciplined software engineering principles when writing or changing code. It is loosely based on portions of @poteto's rules (poteto-mode / pstack), reduced and paired with deterministic quality-gate tools:\n1. First Make it Work — Laziness Protocol, F"
+    },
+    {
+      "id": 1431545439,
+      "full_name": "JustAResearcher/gpu-unlock-ada",
+      "name": "gpu-unlock-ada",
+      "owner": {
+        "login": "JustAResearcher",
+        "avatar_url": "https://avatars.githubusercontent.com/u/62031663?v=4"
+      },
+      "html_url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "language": "C",
+      "stargazers_count": 4510,
+      "forks_count": 576,
+      "open_issues_count": 55,
+      "topics": [],
+      "created_at": "2026-10-23T21:00:53Z",
+      "updated_at": "2026-10-29T21:50:16Z",
+      "license": {
+        "spdx_id": "GPL-2.0",
+        "key": "gpl-2.0"
+      },
+      "readme_snippet": "GPU unlock 1.1.1 — RTX 4090 and experimental Ada GPUs\nNew to this project? Start with the copy-paste Quick Start.\nThis Linux kernel module enables the SM speed-select override before the stock\nNVIDIA driver starts. RTX 4090 (10de:2684, AD102) support has demonstrated\napproximately 2× FP16 and BF16 t"
+    },
+    {
+      "id": 1433297111,
+      "full_name": "interplains/Zero-Breach-Toolkit",
+      "name": "Zero-Breach-Toolkit",
+      "owner": {
+        "login": "interplains",
+        "avatar_url": "https://avatars.githubusercontent.com/u/39777629?v=4"
+      },
+      "html_url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "language": "Python",
+      "stargazers_count": 3549,
+      "forks_count": 381,
+      "open_issues_count": 5,
+      "topics": [],
+      "created_at": "2026-10-25T14:41:34Z",
+      "updated_at": "2026-10-29T22:30:31Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "Zero Breach Toolkit\nA free, open-source check for traces of known mercenary spyware (Pegasus, Predator,\nGraphite, Candiru and others) on computers, Android phones and iPhone backups.\n- Read-only. It does not modify source evidence or system settings. It writes only\n  temporary database snapshots and"
     },
     {
       "id": 1432980411,
@@ -88,11 +111,11 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/17679892?v=4"
       },
       "html_url": "https://github.com/designfuchen/word-atlas",
-      "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "description": "词�� · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
       "language": "TypeScript",
-      "stargazers_count": 3035,
-      "forks_count": 674,
-      "open_issues_count": 22,
+      "stargazers_count": 3220,
+      "forks_count": 706,
+      "open_issues_count": 23,
       "topics": [
         "chinese",
         "dataset",
@@ -108,81 +131,12 @@
         "webgl"
       ],
       "created_at": "2026-10-25T08:27:22Z",
-      "updated_at": "2026-10-28T21:45:27Z",
+      "updated_at": "2026-10-29T21:51:54Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
       },
       "readme_snippet": "词光 · Word Atlas\n把单词变成画面，让复习有迹可循。\n7,298 个雅思词条 · 原创插画 · 英美发音 · FSRS 间隔复习\n立即体验 ↗　 /　 48 秒介绍　 /　 下载词库　 /　 English\n词光 iOS 正在开发，首批内测招募中。 微信扫上图二维码进群；二维码过期或群满了，打开 网站 点顶栏「内测」，加作者微信拉你进群。\n---\n词光是一款以插画和语境为核心的雅思背词应用。看画面理解词义，听发音建立联系，再用主动回忆和间隔复习巩固记忆。无需账号，学习进度保存在自己的设备上。\n> 版本说明：这个仓库提供词光的开源基础版及配套数据集。在线网站独立迭代，功能与仓库可能不"
-    },
-    {
-      "id": 1433297111,
-      "full_name": "interplains/Zero-Breach-Toolkit",
-      "name": "Zero-Breach-Toolkit",
-      "owner": {
-        "login": "interplains",
-        "avatar_url": "https://avatars.githubusercontent.com/u/39777629?v=4"
-      },
-      "html_url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
-      "language": "Python",
-      "stargazers_count": 2664,
-      "forks_count": 294,
-      "open_issues_count": 2,
-      "topics": [],
-      "created_at": "2026-10-25T14:41:34Z",
-      "updated_at": "2026-10-28T22:18:22Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "Zero Breach Toolkit\nA free, open-source check for traces of known mercenary spyware (Pegasus, Predator,\nGraphite, Candiru and others) on computers, Android phones and iPhone backups.\n- Read-only. It does not modify source evidence or system settings. It writes only\n  temporary database snapshots and"
-    },
-    {
-      "id": 1431830406,
-      "full_name": "t3dotgg/tstack",
-      "name": "tstack",
-      "owner": {
-        "login": "t3dotgg",
-        "avatar_url": "https://avatars.githubusercontent.com/u/6751787?v=4"
-      },
-      "html_url": "https://github.com/t3dotgg/tstack",
-      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
-      "language": "Python",
-      "stargazers_count": 2245,
-      "forks_count": 138,
-      "open_issues_count": 11,
-      "topics": [],
-      "created_at": "2026-10-24T05:00:20Z",
-      "updated_at": "2026-10-28T22:15:53Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "tstack\nThe agent skills I use every day, cleaned up so anyone can use them. They work\nin Claude Code and Codex. Some use T3 Code\nfeatures when they are available and fall back to native tools when they are\nnot.\nSkills\n| Skill | Say | What it does |\n|---|---|---|\n| full-send | \"full send\" | Takes a c"
-    },
-    {
-      "id": 1429328794,
-      "full_name": "oosexgang/hakios-xnu-kernel",
-      "name": "hakios-xnu-kernel",
-      "owner": {
-        "login": "oosexgang",
-        "avatar_url": "https://avatars.githubusercontent.com/u/343646710?v=4"
-      },
-      "html_url": "https://github.com/oosexgang/hakios-xnu-kernel",
-      "description": null,
-      "language": "C",
-      "stargazers_count": 1899,
-      "forks_count": 326,
-      "open_issues_count": 19,
-      "topics": [],
-      "created_at": "2026-10-22T06:20:11Z",
-      "updated_at": "2026-10-28T22:05:08Z",
-      "license": {
-        "spdx_id": "NOASSERTION",
-        "key": "other"
-      },
-      "readme_snippet": "HakiOS\nEnglish · 中文 · Українська\nHakiOS runs the open-source XNU kernel (xnu-8796.121.2) with my own boot loader and my own drivers\non an Android phone with a Qualcomm SoC, and boots the stock iOS 16.5 user space on top of it:\nlaunchd, backboardd, SpringBoard, the apps. The same thing runs in QEMU ("
     },
     {
       "id": 1435695423,
@@ -195,9 +149,9 @@
       "html_url": "https://github.com/anhao/ai-pose-gallery-zh",
       "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
       "language": "HTML",
-      "stargazers_count": 1822,
-      "forks_count": 472,
-      "open_issues_count": 0,
+      "stargazers_count": 3088,
+      "forks_count": 801,
+      "open_issues_count": 3,
       "topics": [
         "ai-art",
         "chinese",
@@ -209,12 +163,35 @@
         "static-site"
       ],
       "created_at": "2026-10-27T12:24:37Z",
-      "updated_at": "2026-10-28T22:16:19Z",
+      "updated_at": "2026-10-29T22:13:49Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
       },
       "readme_snippet": "AI Pose Gallery · 中文版\n> 288 组 / 1439 张 AI 人体姿势参考图，日文数据完整汉化，附可直接部署的响应式静态画廊。\n!画廊预览\n手机端预览\n!手机端预览\n在线演示： \n原始站点： \n原作者： ギア（@giaaibusi）\n中文版维护： Anhao · X @anhao_ai\nGitHub： \n---\n这是什么\n原站是一套面向 AI 绘画 / 3D / 摄影参考的姿势图库，元数据全部为日文，且不提供批量素材下载。本仓库做了三件事：\n1. 全量镜像 —— 1439 条记录对应的 1439 张缩略图（JPG 300×400）与 1439 张原图（PNG 900×12"
+    },
+    {
+      "id": 1431830406,
+      "full_name": "t3dotgg/tstack",
+      "name": "tstack",
+      "owner": {
+        "login": "t3dotgg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6751787?v=4"
+      },
+      "html_url": "https://github.com/t3dotgg/tstack",
+      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "language": "Python",
+      "stargazers_count": 2385,
+      "forks_count": 146,
+      "open_issues_count": 11,
+      "topics": [],
+      "created_at": "2026-10-24T05:00:20Z",
+      "updated_at": "2026-10-29T22:24:41Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "tstack\nThe agent skills I use every day, cleaned up so anyone can use them. They work\nin Claude Code and Codex. Some use T3 Code\nfeatures when they are available and fall back to native tools when they are\nnot.\nSkills\n| Skill | Say | What it does |\n|---|---|---|\n| full-send | \"full send\" | Takes a c"
     },
     {
       "id": 1431010194,
@@ -227,20 +204,43 @@
       "html_url": "https://github.com/enesozturk/dimensional-drawing",
       "description": "Create Apple style dimensional drawings of UI components.",
       "language": "HTML",
-      "stargazers_count": 1379,
-      "forks_count": 86,
-      "open_issues_count": 3,
+      "stargazers_count": 1560,
+      "forks_count": 102,
+      "open_issues_count": 4,
       "topics": [
         "skills",
         "ui"
       ],
       "created_at": "2026-10-23T12:20:16Z",
-      "updated_at": "2026-10-28T21:48:24Z",
+      "updated_at": "2026-10-29T22:28:25Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "dimensional-drawing ✏️📐\n  Give it a UI component, get back a one-page technical drawing of it.\n  Paddings, gaps, corner radii, layers and viewport placement, measured and labeled like Apple's dimensional drawings.\n  Install ·\n  Use it ·\n  Make it move ·\n  Examples\n---\nApple publishes dimensional dr"
+    },
+    {
+      "id": 1433904617,
+      "full_name": "andyhuo520/digital-human-koubo",
+      "name": "digital-human-koubo",
+      "owner": {
+        "login": "andyhuo520",
+        "avatar_url": "https://avatars.githubusercontent.com/u/187917479?v=4"
+      },
+      "html_url": "https://github.com/andyhuo520/digital-human-koubo",
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "language": "TypeScript",
+      "stargazers_count": 1460,
+      "forks_count": 333,
+      "open_issues_count": 2,
+      "topics": [],
+      "created_at": "2026-10-26T04:34:09Z",
+      "updated_at": "2026-10-29T22:22:59Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Digital Human Koubo · AI 数字人口播\nOne photo + one sentence → a finished talking-head video with a digital human.\nScript, lip-synced AI presenter, voice clean-up, captions, and pro-YouTuber-style packaging — fully automated by your AI agent.\nEnglish · 简体中文\n!Agent Skill\n!Remotion\n> This 27-second livestr"
     }
   ]
 }
