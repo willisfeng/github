@@ -1,28 +1,31 @@
 {
-  "updated_at": "2026-10-31T21:11:04.552Z",
-  "query_date_range": "2026-10-24 ~ 2026-10-31",
-  "total_found": 2322418,
+  "updated_at": "2026-11-01T21:49:12.290Z",
+  "query_date_range": "2026-10-25 ~ 2026-11-01",
+  "total_found": 2306691,
   "count": 9,
   "repos": [
     {
-      "id": 1433377156,
-      "full_name": "unclebob/ub-mode",
-      "name": "ub-mode",
+      "id": 1440705679,
+      "full_name": "deepseek-ai/dsh-superagent-prototype",
+      "name": "dsh-superagent-prototype",
       "owner": {
-        "login": "unclebob",
-        "avatar_url": "https://avatars.githubusercontent.com/u/36901?v=4"
+        "login": "deepseek-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
-      "html_url": "https://github.com/unclebob/ub-mode",
-      "description": null,
-      "language": null,
-      "stargazers_count": 5712,
-      "forks_count": 314,
-      "open_issues_count": 8,
+      "html_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "description": "Towards a More Autonomous Agent System",
+      "language": "TypeScript",
+      "stargazers_count": 6968,
+      "forks_count": 697,
+      "open_issues_count": 0,
       "topics": [],
-      "created_at": "2026-10-25T16:04:09Z",
-      "updated_at": "2026-10-31T21:10:20Z",
-      "license": null,
-      "readme_snippet": "ub-mode\nub-mode is an agent skill that enforces disciplined software engineering principles when writing or changing code. It is loosely based on portions of @poteto's rules (poteto-mode / pstack), reduced and paired with deterministic quality-gate tools:\n1. First Make it Work — Laziness Protocol, F"
+      "created_at": "2026-10-31T09:32:46Z",
+      "updated_at": "2026-11-01T21:47:38Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "dsh-superagent\n> Research prototype for reference only, not an official DeepSeek product. This code grew out of our team's day-to-day development work, with much of the engineering done by coding agents. Treat it as research code, not production-ready software. It may still contain bugs, and its cod"
     },
     {
       "id": 1435695423,
@@ -35,9 +38,9 @@
       "html_url": "https://github.com/anhao/ai-pose-gallery-zh",
       "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
       "language": "TypeScript",
-      "stargazers_count": 4641,
-      "forks_count": 1178,
-      "open_issues_count": 7,
+      "stargazers_count": 5123,
+      "forks_count": 1311,
+      "open_issues_count": 12,
       "topics": [
         "ai-art",
         "chinese",
@@ -49,106 +52,12 @@
         "static-site"
       ],
       "created_at": "2026-10-27T12:24:37Z",
-      "updated_at": "2026-10-31T21:08:15Z",
+      "updated_at": "2026-11-01T21:35:43Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
       },
-      "readme_snippet": "AI 角色参考与合成工作台 · 中文版（3合1）\n> 姿势库（1,439 张） + 服装库（1,407 套） + 人像库（1,499 位） = 4,345 条全中文参考数据 / 8,690 张本地高清图，集成 5 大 AI 图像协议直连工作台 与 原生 ComfyUI 自定义节点插件（custom_nodes）。\n!画廊总览预览\n!AI 角色合成台预览\n手机端预览\n!手机端预览\n在线演示： \n原始站点：\n- 姿势库：\n- 服装库：\n- 人像库：\n原作者： ギア（@giaaibusi）\n中文版维护： Anhao · X @anhao_ai\nGitHub： \n> ⚠️ 免责声明（必读）：\n> 1."
-    },
-    {
-      "id": 1433297111,
-      "full_name": "interplains/Zero-Breach-Toolkit",
-      "name": "Zero-Breach-Toolkit",
-      "owner": {
-        "login": "interplains",
-        "avatar_url": "https://avatars.githubusercontent.com/u/39777629?v=4"
-      },
-      "html_url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
-      "language": "Python",
-      "stargazers_count": 3991,
-      "forks_count": 427,
-      "open_issues_count": 5,
-      "topics": [],
-      "created_at": "2026-10-25T14:41:34Z",
-      "updated_at": "2026-10-31T21:01:43Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "Zero Breach Toolkit\nA free, open-source check for traces of known mercenary spyware (Pegasus, Predator,\nGraphite, Candiru and others) on computers, Android phones and iPhone backups.\n- Read-only. It does not modify source evidence or system settings. It writes only\n  temporary database snapshots and"
-    },
-    {
-      "id": 1432967563,
-      "full_name": "ccch1mneyyy/dsh-Go",
-      "name": "dsh-Go",
-      "owner": {
-        "login": "ccch1mneyyy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/268149062?v=4"
-      },
-      "html_url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-      "language": "Dart",
-      "stargazers_count": 3555,
-      "forks_count": 162,
-      "open_issues_count": 186,
-      "topics": [
-        "ai-agent",
-        "android",
-        "android-app",
-        "coding-agent",
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "dsh-tui",
-        "flutter",
-        "llm"
-      ],
-      "created_at": "2026-10-25T08:09:52Z",
-      "updated_at": "2026-10-31T21:05:08Z",
-      "license": {
-        "spdx_id": "AGPL-3.0",
-        "key": "agpl-3.0"
-      },
-      "readme_snippet": "简体中文 · English\n  \n    \n    \n  \n  DeepSeek Harness 的 Android 客户端。手机上直接跑，也能遥控你电脑上的 DSH。\n  \n  \n  \n  \nDeepy 和鲸娘，陪你干活\n干活时敲代码，做完来个空翻，等你确认会举手。打开「App 外显示」，它们还会跟你到桌面。\n     \n     \n下载 DSH Go\n从 GitHub Releases 或官网下载页获取最新版 APK，常见手机选 arm64 包。\n  &emsp;\n  感谢大家对 DSH Go 的支持和喜爱，我将尽快适配 iOS 和鸿蒙！大家 Star 点得越多，我适配得越快哦 hhh\n"
-    },
-    {
-      "id": 1432980411,
-      "full_name": "designfuchen/word-atlas",
-      "name": "word-atlas",
-      "owner": {
-        "login": "designfuchen",
-        "avatar_url": "https://avatars.githubusercontent.com/u/17679892?v=4"
-      },
-      "html_url": "https://github.com/designfuchen/word-atlas",
-      "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
-      "language": "TypeScript",
-      "stargazers_count": 3545,
-      "forks_count": 772,
-      "open_issues_count": 28,
-      "topics": [
-        "chinese",
-        "dataset",
-        "english-learning",
-        "flashcards",
-        "fsrs",
-        "ielts",
-        "language-learning",
-        "pwa",
-        "react",
-        "spaced-repetition",
-        "vocabulary",
-        "webgl"
-      ],
-      "created_at": "2026-10-25T08:27:22Z",
-      "updated_at": "2026-10-31T20:32:28Z",
-      "license": {
-        "spdx_id": "NOASSERTION",
-        "key": "other"
-      },
-      "readme_snippet": "词光 · Word Atlas\n把单词变成画面，让复习有迹可循。\n7,298 个雅思词条 · 原创插画 · 英美发音 · FSRS 间隔复习\n立即体验 ↗　 /　 48 秒介绍　 /　 下载词库　 /　 English\n词光 iOS App 测试版已开放，免费下载：api.billswise.cn/app\n请我喝杯咖啡\n这个项目开源，又免费，我自己投了很多钱和时间。觉得有用的话，请我喝杯咖啡吧。\n微信支付宝\n---\n词光是一款以插画和语境为核心的雅思背词应用。看画面理解词义，听发音建立联系，再用主动回忆和间隔复习巩固记忆。无需账号，学习进度保存在自己的设备上。\n> 版本说明：这个仓库提供词光的"
+      "readme_snippet": "AI 角色参考与合成工作台 · 中文版（3合1）\n> 姿势库（1,439 张素体白模 + 1,439 张深度图 Depth） + 服装库（1,407 套） + 人像库（1,499 位） = 4,345 条全中文参考数据 / 11,568 张本地高清图，集成 5 大 AI 图像协议直连工作台 与 原生 ComfyUI 自定义节点插件（custom_nodes）。\n!画廊总览预览\n!AI 角色合成台预览\n手机端预览\n!手机端预览\n在线演示： \n原始站点：\n- 姿势库（白模）：\n- 姿势深度图库（Depth）：\n- 服装库：\n- 人像库：\n原作者： ギア（@giaaibusi）\n中文版维护： Anh"
     },
     {
       "id": 1438623288,
@@ -161,17 +70,17 @@
       "html_url": "https://github.com/heydamir/unslop",
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "language": "JavaScript",
-      "stargazers_count": 3269,
-      "forks_count": 164,
-      "open_issues_count": 9,
+      "stargazers_count": 4751,
+      "forks_count": 236,
+      "open_issues_count": 1,
       "topics": [],
       "created_at": "2026-10-29T15:41:21Z",
-      "updated_at": "2026-10-31T21:10:32Z",
+      "updated_at": "2026-11-01T21:47:57Z",
       "license": {
         "spdx_id": "CC-BY-4.0",
         "key": "cc-by-4.0"
       },
-      "readme_snippet": "unslop\nCreated by Damir Sokolovsky (@heydamir), who started the Unslopping series on X.\n!A vibecoded dashboard unslopping itself, frame by frame\nunslop is a skill for Claude that turns vibecoded, AI-looking UI into a designed interface with its own character. It finds the slop first, the purple grad"
+      "readme_snippet": "unslop\nCreated by Damir Sokolovsky (@heydamir), who started the Unslopping series on X.\n!A vibecoded dashboard unslopping itself, frame by frame\nunslop is a skill for Claude Code and Codex that turns vibecoded, AI-looking UI into a designed interface with its own character. It finds the slop first, "
     },
     {
       "id": 1438540053,
@@ -182,11 +91,11 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/102038245?v=4"
       },
       "html_url": "https://github.com/wangzan101/Mika",
-      "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "language": "Kotlin",
-      "stargazers_count": 2636,
-      "forks_count": 430,
-      "open_issues_count": 21,
+      "stargazers_count": 3761,
+      "forks_count": 679,
+      "open_issues_count": 18,
       "topics": [
         "accessibility",
         "ai-agent",
@@ -198,12 +107,12 @@
         "mobile-agent"
       ],
       "created_at": "2026-10-29T14:34:07Z",
-      "updated_at": "2026-10-31T21:09:02Z",
+      "updated_at": "2026-11-01T21:26:18Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
-      "readme_snippet": "Mika\n你手机上的 AI 助理：说一句话，它替你操作 App、上网，把事办成。\n它在一块看不见的后台屏上干活，你照样刷你的手机。\n简体中文 · English\n一句话「给文件传输助手发一条消息」：左边是 Mika 的对话，右边是它在后台屏上的每一步（加速 4 倍，聊天列表已打码）\n一句话，办成一件事\n「总结一下群里今天聊了啥」后台翻完聊天记录再总结\n「30 美元以内、4.5 星以上的充电器」挑好加进购物车，停在结账前\n「总结这个博主最近发了什么」打开 App 逐条看完再整理\n更多演示\n在招聘网站上给 3 个岗位打招呼\n找旧金山到纽约最便宜的直飞\n读出新闻站首页前 5 条\n找岗位、打招呼\n看广"
+      "readme_snippet": "Mika\nAn AI assistant on your phone: say what you need, and it works your apps and the web until it's done.\nIt works on a hidden background screen, so you can keep using your phone.\nEnglish · 简体中文 · 繁體中文 · 日本語 · 한국어 · Español\n\"Send a message to File Transfer\": Mika's chat on the left, each step on it"
     },
     {
       "id": 1438394948,
@@ -216,40 +125,115 @@
       "html_url": "https://github.com/valentderah/totk-pc-recomp",
       "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
       "language": "C",
-      "stargazers_count": 2499,
-      "forks_count": 191,
-      "open_issues_count": 176,
+      "stargazers_count": 3142,
+      "forks_count": 251,
+      "open_issues_count": 144,
       "topics": [],
       "created_at": "2026-10-29T12:32:46Z",
-      "updated_at": "2026-10-31T21:00:49Z",
+      "updated_at": "2026-11-01T21:48:37Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "TotK Recomp\nTotK Recomp is a static recompilation of *The Legend of Zelda: Tears of the Kingdom* (Nintendo Switch, 2023) into a native Windows x86-64 application (docs/architecture.md).\n> [!IMPORTANT]\n> No game files are included. You need your own legally obtained copy of *Tears of the Kingdom*, du"
+      "readme_snippet": "TotK Recomp\nTotK Recomp is a static recompilation of *The Legend of Zelda: Tears of the Kingdom* (Nintendo Switch, 2023) into a native x86-64 application for Windows and Linux (docs/architecture.md).\n> [!IMPORTANT]\n> No game files are included. You need your own legally obtained copy of *Tears of th"
     },
     {
-      "id": 1440705679,
-      "full_name": "deepseek-ai/dsh-superagent-prototype",
-      "name": "dsh-superagent-prototype",
+      "id": 1439372976,
+      "full_name": "patch-gg/pixelfx",
+      "name": "pixelfx",
       "owner": {
-        "login": "deepseek-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+        "login": "patch-gg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/337959018?v=4"
       },
-      "html_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "description": "Towards a More Autonomous Agent System",
-      "language": "TypeScript",
-      "stargazers_count": 1971,
-      "forks_count": 164,
-      "open_issues_count": 0,
-      "topics": [],
-      "created_at": "2026-10-31T09:32:46Z",
-      "updated_at": "2026-10-31T21:09:21Z",
+      "html_url": "https://github.com/patch-gg/pixelfx",
+      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "language": "JavaScript",
+      "stargazers_count": 2495,
+      "forks_count": 318,
+      "open_issues_count": 1,
+      "topics": [
+        "agent-skills",
+        "animation",
+        "canvas",
+        "claude-code-plugin",
+        "gamedev",
+        "pixel-art",
+        "sprite-sheet",
+        "vfx"
+      ],
+      "created_at": "2026-10-30T06:43:25Z",
+      "updated_at": "2026-11-01T21:44:58Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "dsh-superagent\n> Research prototype for reference only, not an official DeepSeek product. This code grew out of our team's day-to-day development work, with much of the engineering done by coding agents. Treat it as research code, not production-ready software. It may still contain bugs, and its cod"
+      "readme_snippet": "pixelfx.\n244 pixel art effects and animations, every one a small piece of code. Fire,\nexplosions, magic, weather, UI, pickups, critters and more. Play them live, recolor and mirror them, drop them into\na browser game, or export sprite sheets for any engine. Plus a Claude Code skill that makes new on"
+    },
+    {
+      "id": 1437774066,
+      "full_name": "Djihads80/Eglantine",
+      "name": "Eglantine",
+      "owner": {
+        "login": "Djihads80",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76681596?v=4"
+      },
+      "html_url": "https://github.com/Djihads80/Eglantine",
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "language": "C++",
+      "stargazers_count": 1925,
+      "forks_count": 231,
+      "open_issues_count": 144,
+      "topics": [],
+      "created_at": "2026-10-29T00:25:18Z",
+      "updated_at": "2026-11-01T21:46:31Z",
+      "license": {
+        "spdx_id": "GPL-3.0",
+        "key": "gpl-3.0"
+      },
+      "readme_snippet": "Eglantine\n  \nEglantine is a free and opensource (FOSS) Switch 2 emulator, derived from Eden, Yuzu and Sudachi - started by developer Camille LaVey.\nIt's written in C++ with portability in mind, with builds for Windows, Linux and macOS\n    \n    \n        \n    \n  \n  Compatibility |\n  Development |\n  Bu"
+    },
+    {
+      "id": 1438018242,
+      "full_name": "paipiange/nvzhuang",
+      "name": "nvzhuang",
+      "owner": {
+        "login": "paipiange",
+        "avatar_url": "https://avatars.githubusercontent.com/u/133310917?v=4"
+      },
+      "html_url": "https://github.com/paipiange/nvzhuang",
+      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "language": "Go",
+      "stargazers_count": 1861,
+      "forks_count": 490,
+      "open_issues_count": 0,
+      "topics": [],
+      "created_at": "2026-10-29T06:08:00Z",
+      "updated_at": "2026-11-01T20:55:50Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "拍片哥女装 · AI 服装参考图集 (COSTUME-DB-01)\n一个深色主题的纯净服装参考图集网站，收录 1407 张 人物不入镜的 AI 生成服装图像（2:3 比例），支持中英文双语浏览、多维检索，并配备可选的 AI 一键换装试穿。\n> 👗 【Linux.do 3级常任理事专属彩蛋】  \n> 听说在 LINUX DO 社区只要升到 3 级（常任理事） 就可以解锁“看女装大佬”的保留节目？身为一名尊贵的 Linux.do 3 级老兵，逛了一圈发现坛里的女装资源还不够看，干脆亲手搓了这个 「拍片哥女装」 项目！  \n> 不仅收录了 1407 套纯净高质量服装图，还顺手接了 AI 虚拟换装后"
+    },
+    {
+      "id": 1436254894,
+      "full_name": "aschmelyun/print-my-profile-pic",
+      "name": "print-my-profile-pic",
+      "owner": {
+        "login": "aschmelyun",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3395980?v=4"
+      },
+      "html_url": "https://github.com/aschmelyun/print-my-profile-pic",
+      "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+      "language": null,
+      "stargazers_count": 1690,
+      "forks_count": 6,
+      "open_issues_count": 10,
+      "topics": [],
+      "created_at": "2026-10-27T20:40:05Z",
+      "updated_at": "2026-11-01T21:02:53Z",
+      "license": null,
+      "readme_snippet": "print-my-profile-pic\nStar this repo to have your GitHub profile picture framed, printed out on my receipt printer, and stuck to my wall. \nThat's it!\n> [!TIP]\n> If you give a one-time sponsorship of any amount beforehand, your profile picture will be printed in a special frame.\nHow's it work?\nGitHub "
     }
   ]
 }
