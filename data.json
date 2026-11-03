@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-01T21:49:12.290Z",
-  "query_date_range": "2026-10-25 ~ 2026-11-01",
-  "total_found": 2306691,
+  "updated_at": "2026-11-03T00:43:00.251Z",
+  "query_date_range": "2026-10-27 ~ 2026-11-03",
+  "total_found": 1954539,
   "count": 9,
   "repos": [
     {
@@ -15,49 +15,17 @@
       "html_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "description": "Towards a More Autonomous Agent System",
       "language": "TypeScript",
-      "stargazers_count": 6968,
-      "forks_count": 697,
+      "stargazers_count": 13150,
+      "forks_count": 1363,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-10-31T09:32:46Z",
-      "updated_at": "2026-11-01T21:47:38Z",
+      "updated_at": "2026-11-03T00:42:26Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "dsh-superagent\n> Research prototype for reference only, not an official DeepSeek product. This code grew out of our team's day-to-day development work, with much of the engineering done by coding agents. Treat it as research code, not production-ready software. It may still contain bugs, and its cod"
-    },
-    {
-      "id": 1435695423,
-      "full_name": "anhao/ai-pose-gallery-zh",
-      "name": "ai-pose-gallery-zh",
-      "owner": {
-        "login": "anhao",
-        "avatar_url": "https://avatars.githubusercontent.com/u/9844218?v=4"
-      },
-      "html_url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "language": "TypeScript",
-      "stargazers_count": 5123,
-      "forks_count": 1311,
-      "open_issues_count": 12,
-      "topics": [
-        "ai-art",
-        "chinese",
-        "cloudflare-pages",
-        "gallery",
-        "i18n",
-        "pose",
-        "reference-images",
-        "static-site"
-      ],
-      "created_at": "2026-10-27T12:24:37Z",
-      "updated_at": "2026-11-01T21:35:43Z",
-      "license": {
-        "spdx_id": "NOASSERTION",
-        "key": "other"
-      },
-      "readme_snippet": "AI 角色参考与合成工作台 · 中文版（3合1）\n> 姿势库（1,439 张素体白模 + 1,439 张深度图 Depth） + 服装库（1,407 套） + 人像库（1,499 位） = 4,345 条全中文参考数据 / 11,568 张本地高清图，集成 5 大 AI 图像协议直连工作台 与 原生 ComfyUI 自定义节点插件（custom_nodes）。\n!画廊总览预览\n!AI 角色合成台预览\n手机端预览\n!手机端预览\n在线演示： \n原始站点：\n- 姿势库（白模）：\n- 姿势深度图库（Depth）：\n- 服装库：\n- 人像库：\n原作者： ギア（@giaaibusi）\n中文版维护： Anh"
     },
     {
       "id": 1438623288,
@@ -70,12 +38,12 @@
       "html_url": "https://github.com/heydamir/unslop",
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "language": "JavaScript",
-      "stargazers_count": 4751,
-      "forks_count": 236,
+      "stargazers_count": 6264,
+      "forks_count": 324,
       "open_issues_count": 1,
       "topics": [],
       "created_at": "2026-10-29T15:41:21Z",
-      "updated_at": "2026-11-01T21:47:57Z",
+      "updated_at": "2026-11-03T00:42:22Z",
       "license": {
         "spdx_id": "CC-BY-4.0",
         "key": "cc-by-4.0"
@@ -93,9 +61,9 @@
       "html_url": "https://github.com/wangzan101/Mika",
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "language": "Kotlin",
-      "stargazers_count": 3761,
-      "forks_count": 679,
-      "open_issues_count": 18,
+      "stargazers_count": 5281,
+      "forks_count": 1023,
+      "open_issues_count": 83,
       "topics": [
         "accessibility",
         "ai-agent",
@@ -107,12 +75,35 @@
         "mobile-agent"
       ],
       "created_at": "2026-10-29T14:34:07Z",
-      "updated_at": "2026-11-01T21:26:18Z",
+      "updated_at": "2026-11-03T00:41:58Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
       "readme_snippet": "Mika\nAn AI assistant on your phone: say what you need, and it works your apps and the web until it's done.\nIt works on a hidden background screen, so you can keep using your phone.\nEnglish · 简体中文 · 繁體中文 · 日本語 · 한국어 · Español\n\"Send a message to File Transfer\": Mika's chat on the left, each step on it"
+    },
+    {
+      "id": 1440956372,
+      "full_name": "storytold/craft-anything",
+      "name": "craft-anything",
+      "owner": {
+        "login": "storytold",
+        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+      },
+      "html_url": "https://github.com/storytold/craft-anything",
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "language": "Rust",
+      "stargazers_count": 4185,
+      "forks_count": 686,
+      "open_issues_count": 134,
+      "topics": [],
+      "created_at": "2026-10-31T14:50:00Z",
+      "updated_at": "2026-11-03T00:42:12Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "Craft Anything\n  English · 日本語 · 简体中文 · 한국어\n  See how any website, app or game works, then have AI build your own version; an open-source, clean-room engine in pure Rust.\n  Point it at a target, say what you want, and it studies the original with real inspection tools,\n  has a coding agent build a n"
     },
     {
       "id": 1438394948,
@@ -123,14 +114,20 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/41872026?v=4"
       },
       "html_url": "https://github.com/valentderah/totk-pc-recomp",
-      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
       "language": "C",
-      "stargazers_count": 3142,
-      "forks_count": 251,
-      "open_issues_count": 144,
-      "topics": [],
+      "stargazers_count": 3998,
+      "forks_count": 322,
+      "open_issues_count": 220,
+      "topics": [
+        "game",
+        "linux",
+        "port",
+        "recompilation",
+        "windows"
+      ],
       "created_at": "2026-10-29T12:32:46Z",
-      "updated_at": "2026-11-01T21:48:37Z",
+      "updated_at": "2026-11-03T00:41:45Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -148,9 +145,9 @@
       "html_url": "https://github.com/patch-gg/pixelfx",
       "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
       "language": "JavaScript",
-      "stargazers_count": 2495,
-      "forks_count": 318,
-      "open_issues_count": 1,
+      "stargazers_count": 3495,
+      "forks_count": 471,
+      "open_issues_count": 2,
       "topics": [
         "agent-skills",
         "animation",
@@ -162,7 +159,7 @@
         "vfx"
       ],
       "created_at": "2026-10-30T06:43:25Z",
-      "updated_at": "2026-11-01T21:44:58Z",
+      "updated_at": "2026-11-03T00:42:23Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -180,12 +177,12 @@
       "html_url": "https://github.com/Djihads80/Eglantine",
       "description": "VERY experimental Nintendo Switch 2 emulator",
       "language": "C++",
-      "stargazers_count": 1925,
-      "forks_count": 231,
-      "open_issues_count": 144,
+      "stargazers_count": 2496,
+      "forks_count": 296,
+      "open_issues_count": 161,
       "topics": [],
       "created_at": "2026-10-29T00:25:18Z",
-      "updated_at": "2026-11-01T21:46:31Z",
+      "updated_at": "2026-11-03T00:40:59Z",
       "license": {
         "spdx_id": "GPL-3.0",
         "key": "gpl-3.0"
@@ -203,12 +200,12 @@
       "html_url": "https://github.com/paipiange/nvzhuang",
       "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
       "language": "Go",
-      "stargazers_count": 1861,
-      "forks_count": 490,
+      "stargazers_count": 2042,
+      "forks_count": 522,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-10-29T06:08:00Z",
-      "updated_at": "2026-11-01T20:55:50Z",
+      "updated_at": "2026-11-03T00:08:32Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -216,24 +213,27 @@
       "readme_snippet": "拍片哥女装 · AI 服装参考图集 (COSTUME-DB-01)\n一个深色主题的纯净服装参考图集网站，收录 1407 张 人物不入镜的 AI 生成服装图像（2:3 比例），支持中英文双语浏览、多维检索，并配备可选的 AI 一键换装试穿。\n> 👗 【Linux.do 3级常任理事专属彩蛋】  \n> 听说在 LINUX DO 社区只要升到 3 级（常任理事） 就可以解锁“看女装大佬”的保留节目？身为一名尊贵的 Linux.do 3 级老兵，逛了一圈发现坛里的女装资源还不够看，干脆亲手搓了这个 「拍片哥女装」 项目！  \n> 不仅收录了 1407 套纯净高质量服装图，还顺手接了 AI 虚拟换装后"
     },
     {
-      "id": 1436254894,
-      "full_name": "aschmelyun/print-my-profile-pic",
-      "name": "print-my-profile-pic",
+      "id": 1437131455,
+      "full_name": "lexifina/global-law",
+      "name": "global-law",
       "owner": {
-        "login": "aschmelyun",
-        "avatar_url": "https://avatars.githubusercontent.com/u/3395980?v=4"
+        "login": "lexifina",
+        "avatar_url": "https://avatars.githubusercontent.com/u/217036878?v=4"
       },
-      "html_url": "https://github.com/aschmelyun/print-my-profile-pic",
-      "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
-      "language": null,
-      "stargazers_count": 1690,
-      "forks_count": 6,
-      "open_issues_count": 10,
+      "html_url": "https://github.com/lexifina/global-law",
+      "description": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
+      "language": "HTML",
+      "stargazers_count": 1701,
+      "forks_count": 155,
+      "open_issues_count": 15,
       "topics": [],
-      "created_at": "2026-10-27T20:40:05Z",
-      "updated_at": "2026-11-01T21:02:53Z",
-      "license": null,
-      "readme_snippet": "print-my-profile-pic\nStar this repo to have your GitHub profile picture framed, printed out on my receipt printer, and stuck to my wall. \nThat's it!\n> [!TIP]\n> If you give a one-time sponsorship of any amount beforehand, your profile picture will be printed in a special frame.\nHow's it work?\nGitHub "
+      "created_at": "2026-10-28T13:34:16Z",
+      "updated_at": "2026-11-03T00:40:16Z",
+      "license": {
+        "spdx_id": "NOASSERTION",
+        "key": "other"
+      },
+      "readme_snippet": "Git for Global Law\nThe world's law in one git history. Every word traced to the law that wrote it for any country and any date.\nAn expansion of the same for the US Code, #1 on Hacker News (28/10/26).\nSemantic, searchable law on a global scale.\nhttps://github.com/user-attachments/assets/f24f3411-24d9"
     }
   ]
 }
