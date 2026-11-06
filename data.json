@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-04T23:22:52.490Z",
-  "query_date_range": "2026-10-28 ~ 2026-11-04",
-  "total_found": 2262581,
+  "updated_at": "2026-11-06T22:50:55.444Z",
+  "query_date_range": "2026-10-30 ~ 2026-11-06",
+  "total_found": 2232206,
   "count": 9,
   "repos": [
     {
@@ -15,12 +15,12 @@
       "html_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "description": "Towards a More Autonomous Agent System",
       "language": "TypeScript",
-      "stargazers_count": 18528,
-      "forks_count": 2072,
+      "stargazers_count": 20221,
+      "forks_count": 2351,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-10-31T09:32:46Z",
-      "updated_at": "2026-11-04T23:17:06Z",
+      "updated_at": "2026-11-06T22:48:19Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -38,179 +38,40 @@
       "html_url": "https://github.com/storytold/craft-anything",
       "description": "Craft Anything: understand how any software works, and craft your own.",
       "language": "Rust",
-      "stargazers_count": 11559,
-      "forks_count": 1891,
-      "open_issues_count": 199,
+      "stargazers_count": 17882,
+      "forks_count": 3280,
+      "open_issues_count": 207,
       "topics": [],
       "created_at": "2026-10-31T14:50:00Z",
-      "updated_at": "2026-11-04T23:22:21Z",
+      "updated_at": "2026-11-06T22:50:07Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
-      "readme_snippet": "Craft Anything\n  English · 日本語 · 简体中文 · 한국어\n  See how any website, app or game works, then have AI build your own version; an open-source, clean-room engine in pure Rust.\n  Point it at a target, say what you want, and it studies the original with real inspection tools,\n  has a coding agent build a n"
+      "readme_snippet": "Craft Anything\n  English · 日本語 · 简体中文 · 繁體中文 · 한국어 · Español · Français · Tiếng Việt · Português\n  See how any website, app or game works, then have AI build your own version; an open-source, clean-room engine in pure Rust.\n  Point it at a target, say what you want, and it studies the original with "
     },
     {
-      "id": 1438623288,
-      "full_name": "heydamir/unslop",
-      "name": "unslop",
+      "id": 1440927503,
+      "full_name": "zortos293/Lichii",
+      "name": "Lichii",
       "owner": {
-        "login": "heydamir",
-        "avatar_url": "https://avatars.githubusercontent.com/u/97800728?v=4"
+        "login": "zortos293",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777760?v=4"
       },
-      "html_url": "https://github.com/heydamir/unslop",
-      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "language": "JavaScript",
-      "stargazers_count": 8635,
-      "forks_count": 429,
-      "open_issues_count": 5,
-      "topics": [],
-      "created_at": "2026-10-29T15:41:21Z",
-      "updated_at": "2026-11-04T23:21:48Z",
-      "license": {
-        "spdx_id": "CC-BY-4.0",
-        "key": "cc-by-4.0"
-      },
-      "readme_snippet": "unslop\nCreated by Damir Sokolovsky (@heydamir), who started the Unslopping series on X.\n!A vibecoded dashboard unslopping itself, frame by frame\nunslop is a skill for Claude Code and Codex that turns vibecoded, AI-looking UI into a designed interface with its own character. It finds the slop first, "
-    },
-    {
-      "id": 1438540053,
-      "full_name": "wangzan101/Mika",
-      "name": "Mika",
-      "owner": {
-        "login": "wangzan101",
-        "avatar_url": "https://avatars.githubusercontent.com/u/102038245?v=4"
-      },
-      "html_url": "https://github.com/wangzan101/Mika",
-      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "language": "Kotlin",
-      "stargazers_count": 6606,
-      "forks_count": 1415,
-      "open_issues_count": 121,
-      "topics": [
-        "accessibility",
-        "ai-agent",
-        "android",
-        "automation",
-        "jetpack-compose",
-        "kotlin",
-        "llm",
-        "mobile-agent"
-      ],
-      "created_at": "2026-10-29T14:34:07Z",
-      "updated_at": "2026-11-04T23:06:11Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "Mika\nAn AI assistant on your phone: say what you need, and it works your apps and the web until it's done.\nIt works on a hidden background screen, so you can keep using your phone.\nEnglish · 简体中文 · 繁體中文 · 日本語 · 한국어 · Español\n\"Send a message to File Transfer\": Mika's chat on the left, each step on it"
-    },
-    {
-      "id": 1438394948,
-      "full_name": "valentderah/totk-pc-recomp",
-      "name": "totk-pc-recomp",
-      "owner": {
-        "login": "valentderah",
-        "avatar_url": "https://avatars.githubusercontent.com/u/41872026?v=4"
-      },
-      "html_url": "https://github.com/valentderah/totk-pc-recomp",
-      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
-      "language": "C",
-      "stargazers_count": 4835,
-      "forks_count": 391,
-      "open_issues_count": 287,
-      "topics": [
-        "game",
-        "linux",
-        "port",
-        "recompilation",
-        "windows"
-      ],
-      "created_at": "2026-10-29T12:32:46Z",
-      "updated_at": "2026-11-04T23:19:04Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "TotK Recomp\nTotK Recomp is a static recompilation of *The Legend of Zelda: Tears of the Kingdom* (Nintendo Switch, 2023) into a native x86-64 application for Windows and Linux (docs/architecture.md).\n> [!IMPORTANT]\n> No game files are included. You need your own legally obtained copy of *Tears of th"
-    },
-    {
-      "id": 1439372976,
-      "full_name": "patch-gg/pixelfx",
-      "name": "pixelfx",
-      "owner": {
-        "login": "patch-gg",
-        "avatar_url": "https://avatars.githubusercontent.com/u/337959018?v=4"
-      },
-      "html_url": "https://github.com/patch-gg/pixelfx",
-      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-      "language": "JavaScript",
-      "stargazers_count": 4691,
-      "forks_count": 626,
-      "open_issues_count": 5,
-      "topics": [
-        "agent-skills",
-        "animation",
-        "canvas",
-        "claude-code-plugin",
-        "gamedev",
-        "pixel-art",
-        "sprite-sheet",
-        "vfx"
-      ],
-      "created_at": "2026-10-30T06:43:25Z",
-      "updated_at": "2026-11-04T23:22:05Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "pixelfx.\n244 pixel art effects and animations, every one a small piece of code. Fire,\nexplosions, magic, weather, UI, pickups, critters and more. Play them live, recolor and mirror them, drop them into\na browser game, or export sprite sheets for any engine. Plus a Claude Code skill that makes new on"
-    },
-    {
-      "id": 1437774066,
-      "full_name": "Djihads80/Eglantine",
-      "name": "Eglantine",
-      "owner": {
-        "login": "Djihads80",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76681596?v=4"
-      },
-      "html_url": "https://github.com/Djihads80/Eglantine",
+      "html_url": "https://github.com/zortos293/Lichii",
       "description": "VERY experimental Nintendo Switch 2 emulator",
       "language": "C++",
-      "stargazers_count": 3625,
-      "forks_count": 407,
-      "open_issues_count": 232,
+      "stargazers_count": 3863,
+      "forks_count": 588,
+      "open_issues_count": 230,
       "topics": [],
-      "created_at": "2026-10-29T00:25:18Z",
-      "updated_at": "2026-11-04T23:18:53Z",
+      "created_at": "2026-10-31T14:17:26Z",
+      "updated_at": "2026-11-06T22:49:50Z",
       "license": {
         "spdx_id": "GPL-3.0",
         "key": "gpl-3.0"
       },
-      "readme_snippet": "Eglantine\n  \nEglantine is a free and opensource (FOSS) Switch 2 emulator, derived from Eden, Yuzu and Sudachi - started by developer Camille LaVey.\nIt's written in C++ with portability in mind, with builds for Windows, Linux and macOS\n    \n    \n        \n    \n  \n  Compatibility |\n  Development |\n  Bu"
-    },
-    {
-      "id": 1438326535,
-      "full_name": "BryceYuuu/RUN",
-      "name": "RUN",
-      "owner": {
-        "login": "BryceYuuu",
-        "avatar_url": "https://avatars.githubusercontent.com/u/153735320?v=4"
-      },
-      "html_url": "https://github.com/BryceYuuu/RUN",
-      "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
-      "language": "Python",
-      "stargazers_count": 3622,
-      "forks_count": 260,
-      "open_issues_count": 3,
-      "topics": [],
-      "created_at": "2026-10-29T11:28:43Z",
-      "updated_at": "2026-11-04T23:16:30Z",
-      "license": {
-        "spdx_id": "CC-BY-SA-4.0",
-        "key": "cc-by-sa-4.0"
-      },
-      "readme_snippet": "RUN · 润\n一本海外移居手册\n数字游民 · 技术移民 · 欧盟蓝卡 · 创业自雇 · 投资居留\n!欧洲国家\n!移民路线\n!全球目的地\n!来源\n!最新更新\n!License\n🧭 我该走哪条路 ｜ 🌏 主要移民地区 ｜ 🇪🇺 欧洲 36 国 ｜ 📊 路线对比 ｜ 📑 文件准备\n> [!NOTE]\n> 📅 最新更新：2026 年 11 月 3 日\n> - 🇬🇧 英国永居定案（11-02）：标准 10 年，高收入 3 / 5 年；学签、毕业生签证、HPI 时间不再计入永居；\"十年长居\"路线关闭，2026 年 12 月起陆续写入规则 → 详情\n> - 🇨🇦 加拿大 Expres"
+      "readme_snippet": "Lichii\nLichii is an experimental, open-source Nintendo Switch and Switch 2 emulator written in C++. It builds on Eglantine, Eden, yuzu and Sudachi, preserving their contributions while developing this fork's game compatibility and renderer fixes.\nThis is an independent fork, not an official release "
     },
     {
       "id": 1443985070,
@@ -223,9 +84,9 @@
       "html_url": "https://github.com/KKKKhazix/agent-autoloop",
       "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "language": "TypeScript",
-      "stargazers_count": 2435,
-      "forks_count": 486,
-      "open_issues_count": 10,
+      "stargazers_count": 3660,
+      "forks_count": 671,
+      "open_issues_count": 1,
       "topics": [
         "ai-agents",
         "automation",
@@ -240,12 +101,162 @@
         "workflow"
       ],
       "created_at": "2026-11-03T08:02:11Z",
-      "updated_at": "2026-11-04T23:20:07Z",
+      "updated_at": "2026-11-06T22:42:44Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "Agent Autoloop\n让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。\n中文 | English\n上手 · 场景模板 · 插件 · 内核 · 文档\n!架构图\n它解决什么问题？\n平时我们用 Claude Code、Codex 这类命令行 Agent，大多是“人守着终端用”：你输一句话，盯着它跑，等它问你下一步；一旦关掉窗口或者人走开，事情就断了。\nAgent Autoloop 是一个极轻量的自动化中台。它把任务调度做成一个零外部依赖的内核，把事件来源、Agent、通知通道，甚至代码上线流水线全部拆成可随时插拔的插件。\n- 一台电脑、一条"
+    },
+    {
+      "id": 1445802355,
+      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "owner": {
+        "login": "worldonlyu",
+        "avatar_url": "https://avatars.githubusercontent.com/u/85034342?v=4"
+      },
+      "html_url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "language": "Python",
+      "stargazers_count": 2873,
+      "forks_count": 1125,
+      "open_issues_count": 22,
+      "topics": [],
+      "created_at": "2026-11-04T14:54:56Z",
+      "updated_at": "2026-11-06T22:45:41Z",
+      "license": null,
+      "readme_snippet": "========================================================================  \n  Google AI Pro (5 TB) 零成本两年 (US$0.00 -> 24个月) 全自动控制台  \n========================================================================  \n  \n声明：该项目并非本人开发，仅作为圈内开源供大家分析学习使用  \nDisclaimer: I did not develop this project; it is provided "
+    },
+    {
+      "id": 1441272552,
+      "full_name": "Verlintas/NOIR",
+      "name": "NOIR",
+      "owner": {
+        "login": "Verlintas",
+        "avatar_url": "https://avatars.githubusercontent.com/u/310443301?v=4"
+      },
+      "html_url": "https://github.com/Verlintas/NOIR",
+      "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+      "language": "Kotlin",
+      "stargazers_count": 2744,
+      "forks_count": 259,
+      "open_issues_count": 1,
+      "topics": [
+        "adb",
+        "android",
+        "android-privacy",
+        "android-security",
+        "android-tools",
+        "apk-analysis",
+        "bloatware",
+        "cli",
+        "cross-platform",
+        "debloat",
+        "jadx",
+        "kotlin",
+        "kotlin-multiplatform",
+        "privacy",
+        "privacy-tools",
+        "security-audit",
+        "static-analysis",
+        "telemetry",
+        "terminal-ui",
+        "tui"
+      ],
+      "created_at": "2026-10-31T21:34:39Z",
+      "updated_at": "2026-11-06T22:17:44Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "NOIR\n!platforms\n把「这台手机到底能泄露什么」变成一份可复现的报告。\nNOIR 是一个跑在电脑上的审计工具，通过 adb 读取已连接 Android 设备的应用清单、权限和 APK 里的网络端点，给出分类、风险评分和可执行的处置建议。它也可以在需要时调用 jadx 对单个应用做反编译和关键字检索。\n> 定位：审计与自我防护。面向自己的设备、自己的应用、已授权的安全研究。\n官网 / Website: https://verlintas.dev/noir/ · 中文\nAtomGit G-Star 项目 / Mirror: https://atomgit.com/Verlintas/N"
+    },
+    {
+      "id": 1443759946,
+      "full_name": "govijr/terminal-mac",
+      "name": "terminal-mac",
+      "owner": {
+        "login": "govijr",
+        "avatar_url": "https://avatars.githubusercontent.com/u/111436589?v=4"
+      },
+      "html_url": "https://github.com/govijr/terminal-mac",
+      "description": "Entire MacOS running in your terminal.",
+      "language": "Swift",
+      "stargazers_count": 2136,
+      "forks_count": 136,
+      "open_issues_count": 5,
+      "topics": [
+        "cli",
+        "gui",
+        "macos",
+        "shell",
+        "swift",
+        "terminal",
+        "tui"
+      ],
+      "created_at": "2026-11-03T03:22:56Z",
+      "updated_at": "2026-11-06T22:43:33Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "terminal-mac\nA separate macOS desktop for computer-use agents, viewed and controlled from a terminal.\nterminal-mac is an early release candidate for Apple silicon. Apple Virtualization runs a real macOS guest. A bundled helper inside that guest captures its screen and posts input events. A terminal "
+    },
+    {
+      "id": 1441526188,
+      "full_name": "mromidev/claude-animated-shorts",
+      "name": "claude-animated-shorts",
+      "owner": {
+        "login": "mromidev",
+        "avatar_url": "https://avatars.githubusercontent.com/u/233344575?v=4"
+      },
+      "html_url": "https://github.com/mromidev/claude-animated-shorts",
+      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "language": "TypeScript",
+      "stargazers_count": 2023,
+      "forks_count": 426,
+      "open_issues_count": 5,
+      "topics": [],
+      "created_at": "2026-11-01T05:50:38Z",
+      "updated_at": "2026-11-06T22:46:05Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Claude Animated Shorts\nThe free Claude skill from the video \"How to Make Viral Animated Shorts Using Claude (Full Workflow)\".\nIt makes 55-70 s vertical animated story shorts: 2D characters in a colourful 3D world, with ink outlines, a painted town, lens blur, gliding cameras, a march score and sound"
+    },
+    {
+      "id": 1441517767,
+      "full_name": "caru-ini/stack-diagram",
+      "name": "stack-diagram",
+      "owner": {
+        "login": "caru-ini",
+        "avatar_url": "https://avatars.githubusercontent.com/u/166897461?v=4"
+      },
+      "html_url": "https://github.com/caru-ini/stack-diagram",
+      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "language": "TypeScript",
+      "stargazers_count": 1945,
+      "forks_count": 87,
+      "open_issues_count": 0,
+      "topics": [
+        "agent-skills",
+        "architecture-diagram",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "diagram",
+        "system-architecture",
+        "tech-stack"
+      ],
+      "created_at": "2026-11-01T05:35:12Z",
+      "updated_at": "2026-11-06T22:47:00Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "stack-diagram\nDescribe your stack in a sentence. Get an architecture diagram with official logos.\n  \n  \n> Diagram our stack: Next.js and a Hono API on Vercel. Postgres on Neon, auth with Clerk, payments with Stripe. GitHub Actions deploys.\nWorks with Claude Code, Codex, Cursor and other agents that "
     }
   ]
 }
