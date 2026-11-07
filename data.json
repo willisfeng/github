@@ -1,78 +1,9 @@
 {
-  "updated_at": "2026-11-06T22:50:55.444Z",
-  "query_date_range": "2026-10-30 ~ 2026-11-06",
-  "total_found": 2232206,
+  "updated_at": "2026-11-07T21:35:34.830Z",
+  "query_date_range": "2026-10-31 ~ 2026-11-07",
+  "total_found": 2206035,
   "count": 9,
   "repos": [
-    {
-      "id": 1440705679,
-      "full_name": "deepseek-ai/dsh-superagent-prototype",
-      "name": "dsh-superagent-prototype",
-      "owner": {
-        "login": "deepseek-ai",
-        "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
-      },
-      "html_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "description": "Towards a More Autonomous Agent System",
-      "language": "TypeScript",
-      "stargazers_count": 20221,
-      "forks_count": 2351,
-      "open_issues_count": 0,
-      "topics": [],
-      "created_at": "2026-10-31T09:32:46Z",
-      "updated_at": "2026-11-06T22:48:19Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "dsh-superagent\n> Research prototype for reference only, not an official DeepSeek product. This code grew out of our team's day-to-day development work, with much of the engineering done by coding agents. Treat it as research code, not production-ready software. It may still contain bugs, and its cod"
-    },
-    {
-      "id": 1440956372,
-      "full_name": "storytold/craft-anything",
-      "name": "craft-anything",
-      "owner": {
-        "login": "storytold",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
-      },
-      "html_url": "https://github.com/storytold/craft-anything",
-      "description": "Craft Anything: understand how any software works, and craft your own.",
-      "language": "Rust",
-      "stargazers_count": 17882,
-      "forks_count": 3280,
-      "open_issues_count": 207,
-      "topics": [],
-      "created_at": "2026-10-31T14:50:00Z",
-      "updated_at": "2026-11-06T22:50:07Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "Craft Anything\n  English · 日本語 · 简体中文 · 繁體中文 · 한국어 · Español · Français · Tiếng Việt · Português\n  See how any website, app or game works, then have AI build your own version; an open-source, clean-room engine in pure Rust.\n  Point it at a target, say what you want, and it studies the original with "
-    },
-    {
-      "id": 1440927503,
-      "full_name": "zortos293/Lichii",
-      "name": "Lichii",
-      "owner": {
-        "login": "zortos293",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777760?v=4"
-      },
-      "html_url": "https://github.com/zortos293/Lichii",
-      "description": "VERY experimental Nintendo Switch 2 emulator",
-      "language": "C++",
-      "stargazers_count": 3863,
-      "forks_count": 588,
-      "open_issues_count": 230,
-      "topics": [],
-      "created_at": "2026-10-31T14:17:26Z",
-      "updated_at": "2026-11-06T22:49:50Z",
-      "license": {
-        "spdx_id": "GPL-3.0",
-        "key": "gpl-3.0"
-      },
-      "readme_snippet": "Lichii\nLichii is an experimental, open-source Nintendo Switch and Switch 2 emulator written in C++. It builds on Eglantine, Eden, yuzu and Sudachi, preserving their contributions while developing this fork's game compatibility and renderer fixes.\nThis is an independent fork, not an official release "
-    },
     {
       "id": 1443985070,
       "full_name": "KKKKhazix/agent-autoloop",
@@ -82,10 +13,10 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/239590580?v=4"
       },
       "html_url": "https://github.com/KKKKhazix/agent-autoloop",
-      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "description": "让你的命令�� Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "language": "TypeScript",
-      "stargazers_count": 3660,
-      "forks_count": 671,
+      "stargazers_count": 3943,
+      "forks_count": 717,
       "open_issues_count": 1,
       "topics": [
         "ai-agents",
@@ -101,7 +32,7 @@
         "workflow"
       ],
       "created_at": "2026-11-03T08:02:11Z",
-      "updated_at": "2026-11-06T22:42:44Z",
+      "updated_at": "2026-11-07T21:20:08Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -119,58 +50,14 @@
       "html_url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
       "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
       "language": "Python",
-      "stargazers_count": 2873,
-      "forks_count": 1125,
-      "open_issues_count": 22,
+      "stargazers_count": 3045,
+      "forks_count": 1173,
+      "open_issues_count": 26,
       "topics": [],
       "created_at": "2026-11-04T14:54:56Z",
-      "updated_at": "2026-11-06T22:45:41Z",
+      "updated_at": "2026-11-07T21:32:31Z",
       "license": null,
       "readme_snippet": "========================================================================  \n  Google AI Pro (5 TB) 零成本两年 (US$0.00 -> 24个月) 全自动控制台  \n========================================================================  \n  \n声明：该项目并非本人开发，仅作为圈内开源供大家分析学习使用  \nDisclaimer: I did not develop this project; it is provided "
-    },
-    {
-      "id": 1441272552,
-      "full_name": "Verlintas/NOIR",
-      "name": "NOIR",
-      "owner": {
-        "login": "Verlintas",
-        "avatar_url": "https://avatars.githubusercontent.com/u/310443301?v=4"
-      },
-      "html_url": "https://github.com/Verlintas/NOIR",
-      "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
-      "language": "Kotlin",
-      "stargazers_count": 2744,
-      "forks_count": 259,
-      "open_issues_count": 1,
-      "topics": [
-        "adb",
-        "android",
-        "android-privacy",
-        "android-security",
-        "android-tools",
-        "apk-analysis",
-        "bloatware",
-        "cli",
-        "cross-platform",
-        "debloat",
-        "jadx",
-        "kotlin",
-        "kotlin-multiplatform",
-        "privacy",
-        "privacy-tools",
-        "security-audit",
-        "static-analysis",
-        "telemetry",
-        "terminal-ui",
-        "tui"
-      ],
-      "created_at": "2026-10-31T21:34:39Z",
-      "updated_at": "2026-11-06T22:17:44Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "NOIR\n!platforms\n把「这台手机到底能泄露什么」变成一份可复现的报告。\nNOIR 是一个跑在电脑上的审计工具，通过 adb 读取已连接 Android 设备的应用清单、权限和 APK 里的网络端点，给出分类、风险评分和可执行的处置建议。它也可以在需要时调用 jadx 对单个应用做反编译和关键字检索。\n> 定位：审计与自我防护。面向自己的设备、自己的应用、已授权的安全研究。\n官网 / Website: https://verlintas.dev/noir/ · 中文\nAtomGit G-Star 项目 / Mirror: https://atomgit.com/Verlintas/N"
     },
     {
       "id": 1443759946,
@@ -183,9 +70,9 @@
       "html_url": "https://github.com/govijr/terminal-mac",
       "description": "Entire MacOS running in your terminal.",
       "language": "Swift",
-      "stargazers_count": 2136,
-      "forks_count": 136,
-      "open_issues_count": 5,
+      "stargazers_count": 2235,
+      "forks_count": 145,
+      "open_issues_count": 11,
       "topics": [
         "cli",
         "gui",
@@ -196,12 +83,42 @@
         "tui"
       ],
       "created_at": "2026-11-03T03:22:56Z",
-      "updated_at": "2026-11-06T22:43:33Z",
+      "updated_at": "2026-11-07T21:32:28Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "terminal-mac\nA separate macOS desktop for computer-use agents, viewed and controlled from a terminal.\nterminal-mac is an early release candidate for Apple silicon. Apple Virtualization runs a real macOS guest. A bundled helper inside that guest captures its screen and posts input events. A terminal "
+    },
+    {
+      "id": 1444372497,
+      "full_name": "Minireel/HGhub",
+      "name": "HGhub",
+      "owner": {
+        "login": "Minireel",
+        "avatar_url": "https://avatars.githubusercontent.com/u/328980256?v=4"
+      },
+      "html_url": "https://github.com/Minireel/HGhub",
+      "description": "YellowFruit third-party client",
+      "language": "TypeScript",
+      "stargazers_count": 2228,
+      "forks_count": 1107,
+      "open_issues_count": 6,
+      "topics": [
+        "android",
+        "drama",
+        "free",
+        "movie-web-app",
+        "reels",
+        "windows"
+      ],
+      "created_at": "2026-11-03T14:04:27Z",
+      "updated_at": "2026-11-07T21:34:21Z",
+      "license": {
+        "spdx_id": "NOASSERTION",
+        "key": "other"
+      },
+      "readme_snippet": "HGhub\n黄果短剧第三方客户端 · Rust + Tauri 2\nWindows / macOS / Android 三端 · Fluent 设计 · 沉浸式竖屏播放\n> ⚠️ 本项目仅供 学习与技术交流，不提供、不存储、不分发任何音视频内容。\n> 所有内容均来自第三方站点，版权归原作者与上游站点所有。\n使用须知\n- 以访客身份正常使用：像普通访客一样浏览就好，请勿滥用本项目。\n- 不要给上游增加压力：本项目本身不提供下载功能，请勿改动代码去做批量下载 / 批量抓取，也不要高频轮询、并发轰炸接口或挂机刷播放量；内置的封面与播放列表缓存请不要改小或关掉。\n- 尊重上游版权：不要去除水印与站点标"
     },
     {
       "id": 1441526188,
@@ -214,12 +131,12 @@
       "html_url": "https://github.com/mromidev/claude-animated-shorts",
       "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
       "language": "TypeScript",
-      "stargazers_count": 2023,
-      "forks_count": 426,
-      "open_issues_count": 5,
+      "stargazers_count": 2208,
+      "forks_count": 478,
+      "open_issues_count": 9,
       "topics": [],
       "created_at": "2026-11-01T05:50:38Z",
-      "updated_at": "2026-11-06T22:46:05Z",
+      "updated_at": "2026-11-07T21:29:37Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -237,9 +154,9 @@
       "html_url": "https://github.com/caru-ini/stack-diagram",
       "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
       "language": "TypeScript",
-      "stargazers_count": 1945,
-      "forks_count": 87,
-      "open_issues_count": 0,
+      "stargazers_count": 2058,
+      "forks_count": 97,
+      "open_issues_count": 2,
       "topics": [
         "agent-skills",
         "architecture-diagram",
@@ -251,12 +168,95 @@
         "tech-stack"
       ],
       "created_at": "2026-11-01T05:35:12Z",
-      "updated_at": "2026-11-06T22:47:00Z",
+      "updated_at": "2026-11-07T21:00:18Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "stack-diagram\nDescribe your stack in a sentence. Get an architecture diagram with official logos.\n  \n  \n> Diagram our stack: Next.js and a Hono API on Vercel. Postgres on Neon, auth with Clerk, payments with Stripe. GitHub Actions deploys.\nWorks with Claude Code, Codex, Cursor and other agents that "
+    },
+    {
+      "id": 1448068371,
+      "full_name": "JenkinWoo/sheeridVerify",
+      "name": "sheeridVerify",
+      "owner": {
+        "login": "JenkinWoo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/51308528?v=4"
+      },
+      "html_url": "https://github.com/JenkinWoo/sheeridVerify",
+      "description": null,
+      "language": "JavaScript",
+      "stargazers_count": 1632,
+      "forks_count": 887,
+      "open_issues_count": 0,
+      "topics": [],
+      "created_at": "2026-11-06T09:28:09Z",
+      "updated_at": "2026-11-07T21:11:48Z",
+      "license": {
+        "spdx_id": "ISC",
+        "key": "isc"
+      },
+      "readme_snippet": "sheeridVerify · 教学与研究验证流程工作台\n  \nsheeridVerify 是一个基于 Node.js 的验证流程学习项目，提供本地 Web 工作台、任务队列、浏览器表单交互及 HTTP 状态查询，供学校教学、学术研究和获得授权的流程测试使用。\n> 用途说明： 本项目仅以教学与研究为目的提供。使用真实平台前应取得必要授权，遵守适用法律和平台条款；不得伪造身份、学籍或材料，不得冒用信息、骗取权益或绕过资格审核。本项目与 SheerID 及任何学校均无官方隶属或认可关系，也不保证验证成功。详情见 用途说明与免责声明，代码许可见 ISC 协议。\n文档导航\n- 快速开始\n- 工作台与接"
+    },
+    {
+      "id": 1446962520,
+      "full_name": "NotRexed/Hookshot",
+      "name": "Hookshot",
+      "owner": {
+        "login": "NotRexed",
+        "avatar_url": "https://avatars.githubusercontent.com/u/179062254?v=4"
+      },
+      "html_url": "https://github.com/NotRexed/Hookshot",
+      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "language": "C++",
+      "stargazers_count": 1617,
+      "forks_count": 136,
+      "open_issues_count": 114,
+      "topics": [],
+      "created_at": "2026-11-05T12:18:58Z",
+      "updated_at": "2026-11-07T21:34:59Z",
+      "license": {
+        "spdx_id": "GPL-3.0",
+        "key": "gpl-3.0"
+      },
+      "readme_snippet": "Hookshot\n  \nThe Legend of Zelda: Ocarina of Time (Nintendo Switch 2) running natively on Windows & Linux, with no emulator.\n  Status |\n  How to build |\n  In-game menu |\n  How it works |\n  Want to help? |\n  Credits |\n  License\nHookshot is a static recompilation. The game's code is translated to C and"
+    },
+    {
+      "id": 1441521221,
+      "full_name": "wquguru/cicada",
+      "name": "cicada",
+      "owner": {
+        "login": "wquguru",
+        "avatar_url": "https://avatars.githubusercontent.com/u/209866177?v=4"
+      },
+      "html_url": "https://github.com/wquguru/cicada",
+      "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+      "language": "Swift",
+      "stargazers_count": 1615,
+      "forks_count": 289,
+      "open_issues_count": 5,
+      "topics": [
+        "android",
+        "linux",
+        "live-captions",
+        "macos",
+        "meeting-notes",
+        "menubar-app",
+        "simultaneous-interpretation",
+        "speech-recognition",
+        "subtitles",
+        "swift",
+        "swiftui",
+        "translation",
+        "windows"
+      ],
+      "created_at": "2026-11-01T05:41:23Z",
+      "updated_at": "2026-11-07T21:05:15Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "知了 · Cicada\n  任何会议、任何直播，没有语言障碍。\n  听得懂，说得出，记得住。Mac、Windows、Linux 和 Android 上的实时纪要、双语文字记录、字幕与同声传译。\n  \n  &nbsp;\n  \n  \n  \n  \n  \n  \n简体中文 · English · 日本語 · 한국어\n开 Zoom、飞书、腾讯会议，或者听 X Spaces、YouTube 直播，知了都能实时给双语字幕、边听边写结构化纪要。轮到你发言时，按住说话键（Mac 右 ⌥，Windows 右 Ctrl）开口，对方直接在会里听到翻译好的语音。知了直接读系统声音，不往会里塞机器人，对方完全无感。在 Ap"
     }
   ]
 }
