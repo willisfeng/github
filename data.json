@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-07T21:35:34.830Z",
-  "query_date_range": "2026-10-31 ~ 2026-11-07",
-  "total_found": 2206035,
+  "updated_at": "2026-11-08T21:49:46.506Z",
+  "query_date_range": "2026-11-01 ~ 2026-11-08",
+  "total_found": 2189452,
   "count": 9,
   "repos": [
     {
@@ -13,10 +13,10 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/239590580?v=4"
       },
       "html_url": "https://github.com/KKKKhazix/agent-autoloop",
-      "description": "让你的命令�� Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "description": "让你的命���行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "language": "TypeScript",
-      "stargazers_count": 3943,
-      "forks_count": 717,
+      "stargazers_count": 4094,
+      "forks_count": 746,
       "open_issues_count": 1,
       "topics": [
         "ai-agents",
@@ -32,7 +32,7 @@
         "workflow"
       ],
       "created_at": "2026-11-03T08:02:11Z",
-      "updated_at": "2026-11-07T21:20:08Z",
+      "updated_at": "2026-11-08T21:17:13Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -50,45 +50,14 @@
       "html_url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
       "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
       "language": "Python",
-      "stargazers_count": 3045,
-      "forks_count": 1173,
+      "stargazers_count": 3237,
+      "forks_count": 1201,
       "open_issues_count": 26,
       "topics": [],
       "created_at": "2026-11-04T14:54:56Z",
-      "updated_at": "2026-11-07T21:32:31Z",
+      "updated_at": "2026-11-08T21:41:30Z",
       "license": null,
       "readme_snippet": "========================================================================  \n  Google AI Pro (5 TB) 零成本两年 (US$0.00 -> 24个月) 全自动控制台  \n========================================================================  \n  \n声明：该项目并非本人开发，仅作为圈内开源供大家分析学习使用  \nDisclaimer: I did not develop this project; it is provided "
-    },
-    {
-      "id": 1443759946,
-      "full_name": "govijr/terminal-mac",
-      "name": "terminal-mac",
-      "owner": {
-        "login": "govijr",
-        "avatar_url": "https://avatars.githubusercontent.com/u/111436589?v=4"
-      },
-      "html_url": "https://github.com/govijr/terminal-mac",
-      "description": "Entire MacOS running in your terminal.",
-      "language": "Swift",
-      "stargazers_count": 2235,
-      "forks_count": 145,
-      "open_issues_count": 11,
-      "topics": [
-        "cli",
-        "gui",
-        "macos",
-        "shell",
-        "swift",
-        "terminal",
-        "tui"
-      ],
-      "created_at": "2026-11-03T03:22:56Z",
-      "updated_at": "2026-11-07T21:32:28Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "terminal-mac\nA separate macOS desktop for computer-use agents, viewed and controlled from a terminal.\nterminal-mac is an early release candidate for Apple silicon. Apple Virtualization runs a real macOS guest. A bundled helper inside that guest captures its screen and posts input events. A terminal "
     },
     {
       "id": 1444372497,
@@ -101,9 +70,9 @@
       "html_url": "https://github.com/Minireel/HGhub",
       "description": "YellowFruit third-party client",
       "language": "TypeScript",
-      "stargazers_count": 2228,
-      "forks_count": 1107,
-      "open_issues_count": 6,
+      "stargazers_count": 3190,
+      "forks_count": 1346,
+      "open_issues_count": 13,
       "topics": [
         "android",
         "drama",
@@ -113,90 +82,12 @@
         "windows"
       ],
       "created_at": "2026-11-03T14:04:27Z",
-      "updated_at": "2026-11-07T21:34:21Z",
+      "updated_at": "2026-11-08T21:48:07Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
       },
       "readme_snippet": "HGhub\n黄果短剧第三方客户端 · Rust + Tauri 2\nWindows / macOS / Android 三端 · Fluent 设计 · 沉浸式竖屏播放\n> ⚠️ 本项目仅供 学习与技术交流，不提供、不存储、不分发任何音视频内容。\n> 所有内容均来自第三方站点，版权归原作者与上游站点所有。\n使用须知\n- 以访客身份正常使用：像普通访客一样浏览就好，请勿滥用本项目。\n- 不要给上游增加压力：本项目本身不提供下载功能，请勿改动代码去做批量下载 / 批量抓取，也不要高频轮询、并发轰炸接口或挂机刷播放量；内置的封面与播放列表缓存请不要改小或关掉。\n- 尊重上游版权：不要去除水印与站点标"
-    },
-    {
-      "id": 1441526188,
-      "full_name": "mromidev/claude-animated-shorts",
-      "name": "claude-animated-shorts",
-      "owner": {
-        "login": "mromidev",
-        "avatar_url": "https://avatars.githubusercontent.com/u/233344575?v=4"
-      },
-      "html_url": "https://github.com/mromidev/claude-animated-shorts",
-      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-      "language": "TypeScript",
-      "stargazers_count": 2208,
-      "forks_count": 478,
-      "open_issues_count": 9,
-      "topics": [],
-      "created_at": "2026-11-01T05:50:38Z",
-      "updated_at": "2026-11-07T21:29:37Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Claude Animated Shorts\nThe free Claude skill from the video \"How to Make Viral Animated Shorts Using Claude (Full Workflow)\".\nIt makes 55-70 s vertical animated story shorts: 2D characters in a colourful 3D world, with ink outlines, a painted town, lens blur, gliding cameras, a march score and sound"
-    },
-    {
-      "id": 1441517767,
-      "full_name": "caru-ini/stack-diagram",
-      "name": "stack-diagram",
-      "owner": {
-        "login": "caru-ini",
-        "avatar_url": "https://avatars.githubusercontent.com/u/166897461?v=4"
-      },
-      "html_url": "https://github.com/caru-ini/stack-diagram",
-      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "language": "TypeScript",
-      "stargazers_count": 2058,
-      "forks_count": 97,
-      "open_issues_count": 2,
-      "topics": [
-        "agent-skills",
-        "architecture-diagram",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "diagram",
-        "system-architecture",
-        "tech-stack"
-      ],
-      "created_at": "2026-11-01T05:35:12Z",
-      "updated_at": "2026-11-07T21:00:18Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "stack-diagram\nDescribe your stack in a sentence. Get an architecture diagram with official logos.\n  \n  \n> Diagram our stack: Next.js and a Hono API on Vercel. Postgres on Neon, auth with Clerk, payments with Stripe. GitHub Actions deploys.\nWorks with Claude Code, Codex, Cursor and other agents that "
-    },
-    {
-      "id": 1448068371,
-      "full_name": "JenkinWoo/sheeridVerify",
-      "name": "sheeridVerify",
-      "owner": {
-        "login": "JenkinWoo",
-        "avatar_url": "https://avatars.githubusercontent.com/u/51308528?v=4"
-      },
-      "html_url": "https://github.com/JenkinWoo/sheeridVerify",
-      "description": null,
-      "language": "JavaScript",
-      "stargazers_count": 1632,
-      "forks_count": 887,
-      "open_issues_count": 0,
-      "topics": [],
-      "created_at": "2026-11-06T09:28:09Z",
-      "updated_at": "2026-11-07T21:11:48Z",
-      "license": {
-        "spdx_id": "ISC",
-        "key": "isc"
-      },
-      "readme_snippet": "sheeridVerify · 教学与研究验证流程工作台\n  \nsheeridVerify 是一个基于 Node.js 的验证流程学习项目，提供本地 Web 工作台、任务队列、浏览器表单交互及 HTTP 状态查询，供学校教学、学术研究和获得授权的流程测试使用。\n> 用途说明： 本项目仅以教学与研究为目的提供。使用真实平台前应取得必要授权，遵守适用法律和平台条款；不得伪造身份、学籍或材料，不得冒用信息、骗取权益或绕过资格审核。本项目与 SheerID 及任何学校均无官方隶属或认可关系，也不保证验证成功。详情见 用途说明与免责声明，代码许可见 ISC 协议。\n文档导航\n- 快速开始\n- 工作台与接"
     },
     {
       "id": 1446962520,
@@ -209,54 +100,157 @@
       "html_url": "https://github.com/NotRexed/Hookshot",
       "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
       "language": "C++",
-      "stargazers_count": 1617,
-      "forks_count": 136,
-      "open_issues_count": 114,
+      "stargazers_count": 2890,
+      "forks_count": 269,
+      "open_issues_count": 309,
       "topics": [],
       "created_at": "2026-11-05T12:18:58Z",
-      "updated_at": "2026-11-07T21:34:59Z",
+      "updated_at": "2026-11-08T21:47:53Z",
       "license": {
         "spdx_id": "GPL-3.0",
         "key": "gpl-3.0"
       },
-      "readme_snippet": "Hookshot\n  \nThe Legend of Zelda: Ocarina of Time (Nintendo Switch 2) running natively on Windows & Linux, with no emulator.\n  Status |\n  How to build |\n  In-game menu |\n  How it works |\n  Want to help? |\n  Credits |\n  License\nHookshot is a static recompilation. The game's code is translated to C and"
+      "readme_snippet": "Hookshot\n  \nThe Legend of Zelda: Ocarina of Time (Nintendo Switch 2) running natively on Windows & Linux, with no emulator.\n  Status |\n  Install and play |\n  In-game menu |\n  Problems |\n  Build from source |\n  How it works |\n  Want to help? |\n  Credits |\n  License\nHookshot is a static recompilation."
     },
     {
-      "id": 1441521221,
-      "full_name": "wquguru/cicada",
-      "name": "cicada",
+      "id": 1443759946,
+      "full_name": "govijr/terminal-mac",
+      "name": "terminal-mac",
       "owner": {
-        "login": "wquguru",
-        "avatar_url": "https://avatars.githubusercontent.com/u/209866177?v=4"
+        "login": "govijr",
+        "avatar_url": "https://avatars.githubusercontent.com/u/111436589?v=4"
       },
-      "html_url": "https://github.com/wquguru/cicada",
-      "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+      "html_url": "https://github.com/govijr/terminal-mac",
+      "description": "Entire MacOS running in your terminal.",
       "language": "Swift",
-      "stargazers_count": 1615,
-      "forks_count": 289,
-      "open_issues_count": 5,
+      "stargazers_count": 2376,
+      "forks_count": 160,
+      "open_issues_count": 11,
       "topics": [
-        "android",
-        "linux",
-        "live-captions",
+        "cli",
+        "gui",
         "macos",
-        "meeting-notes",
-        "menubar-app",
-        "simultaneous-interpretation",
-        "speech-recognition",
-        "subtitles",
+        "shell",
         "swift",
-        "swiftui",
-        "translation",
-        "windows"
+        "terminal",
+        "tui"
       ],
-      "created_at": "2026-11-01T05:41:23Z",
-      "updated_at": "2026-11-07T21:05:15Z",
+      "created_at": "2026-11-03T03:22:56Z",
+      "updated_at": "2026-11-08T21:44:11Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "terminal-mac\nA separate macOS desktop for computer-use agents, viewed and controlled from a terminal.\nterminal-mac is an early release candidate for Apple silicon. Apple Virtualization runs a real macOS guest. A bundled helper inside that guest captures its screen and posts input events. A terminal "
+    },
+    {
+      "id": 1448068371,
+      "full_name": "JenkinWoo/sheeridVerify",
+      "name": "sheeridVerify",
+      "owner": {
+        "login": "JenkinWoo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/51308528?v=4"
+      },
+      "html_url": "https://github.com/JenkinWoo/sheeridVerify",
+      "description": null,
+      "language": "JavaScript",
+      "stargazers_count": 1856,
+      "forks_count": 993,
+      "open_issues_count": 0,
+      "topics": [],
+      "created_at": "2026-11-06T09:28:09Z",
+      "updated_at": "2026-11-08T20:43:26Z",
+      "license": {
+        "spdx_id": "ISC",
+        "key": "isc"
+      },
+      "readme_snippet": "sheeridVerify · 教学与研究验证流程工作台\n  \nsheeridVerify 是一个基于 Node.js 的验证流程学习项目，提供本地 Web 工作台、任务队列、浏览器表单交互及 HTTP 状态查询，供学校教学、学术研究和获得授权的流程测试使用。\n> 用途说明： 本项目仅以教学与研究为目的提供。使用真实平台前应取得必要授权，遵守适用法律和平台条款；不得伪造身份、学籍或材料，不得冒用信息、骗取权益或绕过资格审核。本项目与 SheerID 及任何学校均无官方隶属或认可关系，也不保证验证成功。详情见 用途说明与免责声明，代码许可见 ISC 协议。\n文档导航\n- 快速开始\n- 工作台与接"
+    },
+    {
+      "id": 1444112593,
+      "full_name": "sarpstar/cinecode",
+      "name": "cinecode",
+      "owner": {
+        "login": "sarpstar",
+        "avatar_url": "https://avatars.githubusercontent.com/u/56429320?v=4"
+      },
+      "html_url": "https://github.com/sarpstar/cinecode",
+      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+      "language": "Python",
+      "stargazers_count": 1545,
+      "forks_count": 281,
+      "open_issues_count": 7,
+      "topics": [],
+      "created_at": "2026-11-03T10:08:16Z",
+      "updated_at": "2026-11-08T21:43:19Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Kodla yazılmış filmler.\n  Kısa filmler, uzun YouTube videoları, reklamlar, açıklayıcılar ve müzik videoları. Fikri ve zevki sen getirirsin; bir yapay zekâ kodlama ajanı senaryoyu yazar, her kareyi kodla kurar, sesi tasarlar ve sana bitmiş bir MP4 verir.\n  English ·\n  简体中文 ·\n  日本語 ·\n  Kurulum ·\n  Hız"
+    },
+    {
+      "id": 1444005452,
+      "full_name": "Sandflow-ai/sand3d",
+      "name": "sand3d",
+      "owner": {
+        "login": "Sandflow-ai",
+        "avatar_url": "https://avatars.githubusercontent.com/u/335944997?v=4"
+      },
+      "html_url": "https://github.com/Sandflow-ai/sand3d",
+      "description": "3D modeling in Python, built for LLMs.",
+      "language": "HTML",
+      "stargazers_count": 1361,
+      "forks_count": 143,
+      "open_issues_count": 8,
+      "topics": [
+        "3d",
+        "blender",
+        "cad",
+        "llm",
+        "procedural-modeling",
+        "python",
+        "usd"
+      ],
+      "created_at": "2026-11-03T08:23:03Z",
+      "updated_at": "2026-11-08T21:41:42Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
       },
-      "readme_snippet": "知了 · Cicada\n  任何会议、任何直播，没有语言障碍。\n  听得懂，说得出，记得住。Mac、Windows、Linux 和 Android 上的实时纪要、双语文字记录、字幕与同声传译。\n  \n  &nbsp;\n  \n  \n  \n  \n  \n  \n简体中文 · English · 日本語 · 한국어\n开 Zoom、飞书、腾讯会议，或者听 X Spaces、YouTube 直播，知了都能实时给双语字幕、边听边写结构化纪要。轮到你发言时，按住说话键（Mac 右 ⌥，Windows 右 Ctrl）开口，对方直接在会里听到翻译好的语音。知了直接读系统声音，不往会里塞机器人，对方完全无感。在 Ap"
+      "readme_snippet": "&nbsp;sand3d\n3D modeling in Python, built for LLMs.\nsand3d is a Python library for writing 3D objects as short programs: profiles, solids,\nedits, frames, joints and assemblies, over Blender's bpy. A program says *how* a shape\nis made, part by part and in its own words, so a model writes it in a few "
+    },
+    {
+      "id": 1445112696,
+      "full_name": "livliv-dev/player",
+      "name": "player",
+      "owner": {
+        "login": "livliv-dev",
+        "avatar_url": "https://avatars.githubusercontent.com/u/352250088?v=4"
+      },
+      "html_url": "https://github.com/livliv-dev/player",
+      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+      "language": "TypeScript",
+      "stargazers_count": 1326,
+      "forks_count": 138,
+      "open_issues_count": 2,
+      "topics": [
+        "avatar",
+        "character",
+        "face-tracking",
+        "lip-sync",
+        "pngtuber",
+        "vrm",
+        "vtuber",
+        "webgl2"
+      ],
+      "created_at": "2026-11-04T03:28:33Z",
+      "updated_at": "2026-11-08T21:48:56Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking. A few lines of code put a character in a page, a stream overlay or an app.\n  Comes with 21 featured characters in different styles, ready to use.\nEnglish · 中文 · 日本語 · Tiếng Việt\n- WebGL2, no dependencies, about "
     }
   ]
 }
