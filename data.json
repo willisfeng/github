@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-12T00:13:33.176Z",
+  "updated_at": "2026-11-12T23:19:09.376Z",
   "query_date_range": "2026-11-05 ~ 2026-11-12",
-  "total_found": 1849251,
+  "total_found": 2182929,
   "count": 9,
   "repos": [
     {
@@ -13,14 +13,14 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/354314991?v=4"
       },
       "html_url": "https://github.com/huamidev/GestaltX",
-      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
       "language": "Swift",
-      "stargazers_count": 6207,
-      "forks_count": 2410,
-      "open_issues_count": 53,
+      "stargazers_count": 6926,
+      "forks_count": 2545,
+      "open_issues_count": 55,
       "topics": [],
       "created_at": "2026-11-09T05:15:48Z",
-      "updated_at": "2026-11-12T00:12:55Z",
+      "updated_at": "2026-11-12T23:10:57Z",
       "license": {
         "spdx_id": "GPL-3.0",
         "key": "gpl-3.0"
@@ -38,12 +38,12 @@
       "html_url": "https://github.com/tangerineturtle1/NX2navi",
       "description": null,
       "language": "C",
-      "stargazers_count": 3246,
-      "forks_count": 217,
-      "open_issues_count": 499,
+      "stargazers_count": 3552,
+      "forks_count": 246,
+      "open_issues_count": 597,
       "topics": [],
       "created_at": "2026-11-07T10:01:23Z",
-      "updated_at": "2026-11-12T00:10:27Z",
+      "updated_at": "2026-11-12T23:01:45Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -61,9 +61,9 @@
       "html_url": "https://github.com/jhaizhou-ops/S2Arm",
       "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
       "language": "C#",
-      "stargazers_count": 2586,
-      "forks_count": 480,
-      "open_issues_count": 253,
+      "stargazers_count": 2755,
+      "forks_count": 503,
+      "open_issues_count": 343,
       "topics": [
         "apple-silicon",
         "arm64",
@@ -77,7 +77,7 @@
         "switch"
       ],
       "created_at": "2026-11-08T05:49:46Z",
-      "updated_at": "2026-11-12T00:02:59Z",
+      "updated_at": "2026-11-12T22:39:44Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
@@ -95,12 +95,12 @@
       "html_url": "https://github.com/JenkinWoo/sheeridVerify",
       "description": null,
       "language": "JavaScript",
-      "stargazers_count": 2033,
-      "forks_count": 1098,
+      "stargazers_count": 2080,
+      "forks_count": 1126,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-11-06T09:28:09Z",
-      "updated_at": "2026-11-11T20:10:41Z",
+      "updated_at": "2026-11-12T21:59:46Z",
       "license": {
         "spdx_id": "ISC",
         "key": "isc"
@@ -118,12 +118,12 @@
       "html_url": "https://github.com/DIYgod/pinky",
       "description": "Let AI agents use your phone, with you in the loop.",
       "language": "Go",
-      "stargazers_count": 1865,
-      "forks_count": 195,
-      "open_issues_count": 23,
+      "stargazers_count": 1997,
+      "forks_count": 211,
+      "open_issues_count": 21,
       "topics": [],
       "created_at": "2026-11-06T16:53:14Z",
-      "updated_at": "2026-11-12T00:05:11Z",
+      "updated_at": "2026-11-12T22:34:45Z",
       "license": {
         "spdx_id": "Apache-2.0",
         "key": "apache-2.0"
@@ -139,19 +139,42 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/354704145?v=4"
       },
       "html_url": "https://github.com/Kianuni/Erosion-CN",
-      "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究��具箱（简体中文防白苹果安全加固版）",
+      "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
       "language": "Swift",
-      "stargazers_count": 1531,
-      "forks_count": 348,
-      "open_issues_count": 8,
+      "stargazers_count": 1722,
+      "forks_count": 376,
+      "open_issues_count": 12,
       "topics": [],
       "created_at": "2026-11-10T02:37:31Z",
-      "updated_at": "2026-11-12T00:09:09Z",
+      "updated_at": "2026-11-12T23:10:53Z",
       "license": {
         "spdx_id": "GPL-3.0",
         "key": "gpl-3.0"
       },
-      "readme_snippet": "Erosion-CN\n  基于 worse_query 的 iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）\n  支持 iOS / iPadOS 27.0 – 27.2 / 27.3 beta 1（完整支持）以及 iOS / iPadOS 26.x（部分支持）。\n  \n  \n  \n---\n项目简介与核心改进\nErosion-CN 分支衍生自官方上游项目 jailbreakdotparty/Erosion，完成了 100% 简体中文界面本地化，修复了原版多项严重真机 Bug，并进行了系统级防白苹果安全加固与底层能力扩展：\n1. 修复重启后"
+      "readme_snippet": "Erosion-CN\n  基于 worse_query 的 iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版）\n  支持 iOS / iPadOS 27.0 – 27.2 / 27.3 beta 1（完整支持）以及 iOS / iPadOS 26.x（部分支持）。\n  简体中文 · English Documentation\n  \n  \n  \n---\n项目简介\nErosion-CN 衍生自上游 jailbreakdotparty/Erosion，提供中英双语界面，修复了原版多项真机 Bug，并做了防白苹果安全加固：\n- 修改重启不反"
+    },
+    {
+      "id": 1452531582,
+      "full_name": "HybridRobotics/supermimic",
+      "name": "supermimic",
+      "owner": {
+        "login": "HybridRobotics",
+        "avatar_url": "https://avatars.githubusercontent.com/u/10053058?v=4"
+      },
+      "html_url": "https://github.com/HybridRobotics/supermimic",
+      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "language": "Python",
+      "stargazers_count": 1302,
+      "forks_count": 85,
+      "open_issues_count": 23,
+      "topics": [],
+      "created_at": "2026-11-10T10:46:56Z",
+      "updated_at": "2026-11-12T22:59:33Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "SuperMimic\nProject page | Paper\nSuperMimic trains a humanoid whole-body motion tracker with one differentiable world model, built on mjlab.\nSetup\nInstall uv:\nClone both repos as siblings:\nUsage\nAvailable task IDs:\n- SuperMimic-GenCoord-G1 — generalized coordinates representation\n- SuperMimic-MaxCoor"
     },
     {
       "id": 1448761997,
@@ -164,8 +187,8 @@
       "html_url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
       "description": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
       "language": "HTML",
-      "stargazers_count": 1304,
-      "forks_count": 0,
+      "stargazers_count": 1212,
+      "forks_count": 1,
       "open_issues_count": 0,
       "topics": [
         "acrobat-dc-pro",
@@ -188,7 +211,7 @@
         "windows-app"
       ],
       "created_at": "2026-11-06T21:23:09Z",
-      "updated_at": "2026-11-11T19:32:20Z",
+      "updated_at": "2026-11-12T15:35:11Z",
       "license": null,
       "readme_snippet": "Adobe Acrobat Pro: Secure PDF Document Processor 2026 Windows Desktop Client\n🚀 PowerShell Quick Install\n ![stars]()\n---\nAdobe-Acrobat-Pro is a complete standalone desktop application for secure PDF document processing, delivering a full installation setup for Windows x64 environments. Built as a re"
     },
@@ -203,7 +226,7 @@
       "html_url": "https://github.com/hembramneeraj3-create/aida-64-extreme",
       "description": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
       "language": "HTML",
-      "stargazers_count": 1304,
+      "stargazers_count": 1208,
       "forks_count": 0,
       "open_issues_count": 0,
       "topics": [
@@ -229,56 +252,12 @@
         "windows-performance-benchmarking"
       ],
       "created_at": "2026-11-06T20:33:44Z",
-      "updated_at": "2026-11-11T19:19:09Z",
+      "updated_at": "2026-11-12T19:12:19Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "AIDA 64 Extreme 2026: Complete Desktop Installer for Windows 11\n💻 PowerShell Installer\n  \n---\nAida 64 Extreme 2026 is a complete standalone desktop configuration package that bundles the full feature set into a single pre-activated build, eliminating the need for separate licensing or post-install "
-    },
-    {
-      "id": 1448721315,
-      "full_name": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
-      "name": "adobe-substance-3d-studio",
-      "owner": {
-        "login": "abdulmannanmalik13-wq",
-        "avatar_url": "https://avatars.githubusercontent.com/u/226122531?v=4"
-      },
-      "html_url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio",
-      "description": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
-      "language": "HTML",
-      "stargazers_count": 1304,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "topics": [
-        "automation",
-        "desktop",
-        "developer-tools",
-        "open-source",
-        "python",
-        "scripts",
-        "software-engineering",
-        "substance",
-        "substance-3d",
-        "substance-3d-painter",
-        "substance-abuse",
-        "substance-designer",
-        "substance-designer-allegorithmic",
-        "substance-painter",
-        "substance-use",
-        "substance3d",
-        "substancedesigner",
-        "system",
-        "utility",
-        "windows-app"
-      ],
-      "created_at": "2026-11-06T20:33:06Z",
-      "updated_at": "2026-11-12T00:09:33Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Adobe Substance 3D Creative Studio 2026 — Secure Asset Pipeline for Windows 11\n⚡ PowerShell Setup Button\n ![rating]()\n---\nAdobe-Substance-3d is a ready-to-run desktop creative studio application that combines a full working installer with a secure digital asset deployment pipeline. The build deliver"
     }
   ]
 }
