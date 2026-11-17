@@ -1,32 +1,9 @@
 {
-  "updated_at": "2026-11-15T22:36:32.438Z",
-  "query_date_range": "2026-11-08 ~ 2026-11-15",
-  "total_found": 2295946,
+  "updated_at": "2026-11-17T01:43:53.711Z",
+  "query_date_range": "2026-11-10 ~ 2026-11-17",
+  "total_found": 2034316,
   "count": 9,
   "repos": [
-    {
-      "id": 1450963843,
-      "full_name": "huamidev/GestaltX",
-      "name": "GestaltX",
-      "owner": {
-        "login": "huamidev",
-        "avatar_url": "https://avatars.githubusercontent.com/u/354314991?v=4"
-      },
-      "html_url": "https://github.com/huamidev/GestaltX",
-      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
-      "language": "Swift",
-      "stargazers_count": 7731,
-      "forks_count": 2661,
-      "open_issues_count": 82,
-      "topics": [],
-      "created_at": "2026-11-09T05:15:48Z",
-      "updated_at": "2026-11-15T22:10:42Z",
-      "license": {
-        "spdx_id": "GPL-3.0",
-        "key": "gpl-3.0"
-      },
-      "readme_snippet": "GestaltX\nEnglish · 简体中文 · 日本語 · 한국어\nA MobileGestalt editor for iPhone and iPad. Developed by huamidev.\nFeatures\n| Category | Presets and tools |\n| --- | --- |\n| Display | Dynamic Island capability and layout, Always-On Display, AOD Vibrancy, high-luminance AOD, AOD flipbook, HDR photo display, wallp"
-    },
     {
       "id": 1455006582,
       "full_name": "deepseek-ai/chat-demo",
@@ -38,12 +15,12 @@
       "html_url": "https://github.com/deepseek-ai/chat-demo",
       "description": "Chat Demo",
       "language": "TypeScript",
-      "stargazers_count": 2891,
-      "forks_count": 559,
+      "stargazers_count": 4100,
+      "forks_count": 861,
       "open_issues_count": 1,
       "topics": [],
       "created_at": "2026-11-12T08:08:19Z",
-      "updated_at": "2026-11-15T22:34:57Z",
+      "updated_at": "2026-11-17T01:43:04Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -61,222 +38,203 @@
       "html_url": "https://github.com/apex-compute/ANR",
       "description": "Apex Neural Rendering (ANR) by Apex Compute",
       "language": "C++",
-      "stargazers_count": 2176,
-      "forks_count": 38,
-      "open_issues_count": 24,
+      "stargazers_count": 2472,
+      "forks_count": 53,
+      "open_issues_count": 23,
       "topics": [],
       "created_at": "2026-11-11T04:27:17Z",
-      "updated_at": "2026-11-15T22:34:12Z",
+      "updated_at": "2026-11-17T01:43:29Z",
       "license": null,
       "readme_snippet": "Apex Neural Rendering (ANR)\nApex Neural Rendering by Apex Compute.\n- ANR FG: frame generation. In beta.\n- ANR SR: super resolution (upscaling). Beta soon.\n- ANR RR: ray reconstruction (denoising for ray tracing). Beta soon.\n- Source code: coming soon.\n- nr-record: records a game's frame generation o"
     },
     {
-      "id": 1452123445,
-      "full_name": "Kianuni/Erosion-CN",
-      "name": "Erosion-CN",
+      "id": 1455416555,
+      "full_name": "hitkeeen/blender-ai-mcp-addon",
+      "name": "blender-ai-mcp-addon",
       "owner": {
-        "login": "Kianuni",
-        "avatar_url": "https://avatars.githubusercontent.com/u/354704145?v=4"
+        "login": "hitkeeen",
+        "avatar_url": "https://avatars.githubusercontent.com/u/340037382?v=4"
       },
-      "html_url": "https://github.com/Kianuni/Erosion-CN",
-      "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
-      "language": "Swift",
-      "stargazers_count": 2124,
-      "forks_count": 430,
-      "open_issues_count": 22,
-      "topics": [],
-      "created_at": "2026-11-10T02:37:31Z",
-      "updated_at": "2026-11-15T19:39:00Z",
-      "license": {
-        "spdx_id": "GPL-3.0",
-        "key": "gpl-3.0"
-      },
-      "readme_snippet": "Erosion-CN\n  基于 worse_query 的 iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版）\n  支持 iOS / iPadOS 27.0 – 27.2 / 27.3 beta 1（完整支持）以及 iOS / iPadOS 26.x（部分支持）。\n  简体中文 · English Documentation · AppleFlow 配套分流与排雷台\n  \n    \n    \n    \n    \n    \n    \n    \n  \n  \n    &nbsp;&nbsp;\n  \n---\n项目简介\nErosion-CN "
-    },
-    {
-      "id": 1453132706,
-      "full_name": "FrigadeHQ/yogurt",
-      "name": "yogurt",
-      "owner": {
-        "login": "FrigadeHQ",
-        "avatar_url": "https://avatars.githubusercontent.com/u/117952255?v=4"
-      },
-      "html_url": "https://github.com/FrigadeHQ/yogurt",
-      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
-      "language": "TypeScript",
-      "stargazers_count": 1633,
-      "forks_count": 92,
-      "open_issues_count": 28,
+      "html_url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "language": null,
+      "stargazers_count": 2212,
+      "forks_count": 54,
+      "open_issues_count": 78,
       "topics": [
-        "ai-meeting-assistant",
-        "ai-notetaker",
-        "electron",
-        "granola-alternative",
-        "linux",
-        "llama-cpp",
-        "local-ai",
-        "local-first",
-        "macos",
-        "mcp",
-        "meeting-minutes",
-        "meeting-notes",
-        "offline-first",
-        "open-source",
-        "privacy",
-        "speech-to-text",
-        "transcription",
-        "whisper",
-        "whisper-cpp",
-        "windows"
-      ],
-      "created_at": "2026-11-10T20:01:01Z",
-      "updated_at": "2026-11-15T22:25:39Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Private AI meeting notes. A free, open-source alternative to Granola.\n  Download for Mac · Windows · Linux\n  \n  Yogurt records your calls without adding a bot to the meeting.\n  macOS 14.4+ (Apple Silicon) · Windows 10 2004+ (x64) · Ubuntu 22.04+ or similar (x64 AppImage) · 8 GB memory\n  yogurt.so · "
-    },
-    {
-      "id": 1452531582,
-      "full_name": "HybridRobotics/supermimic",
-      "name": "supermimic",
-      "owner": {
-        "login": "HybridRobotics",
-        "avatar_url": "https://avatars.githubusercontent.com/u/10053058?v=4"
-      },
-      "html_url": "https://github.com/HybridRobotics/supermimic",
-      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
-      "language": "Python",
-      "stargazers_count": 1551,
-      "forks_count": 108,
-      "open_issues_count": 23,
-      "topics": [],
-      "created_at": "2026-11-10T10:46:56Z",
-      "updated_at": "2026-11-15T21:58:01Z",
-      "license": {
-        "spdx_id": "Apache-2.0",
-        "key": "apache-2.0"
-      },
-      "readme_snippet": "SuperMimic\nProject page | Paper\nSuperMimic trains a humanoid whole-body motion tracker with one differentiable world model, built on mjlab.\nSetup\nInstall uv:\nClone both repos as siblings:\nUsage\nAvailable task IDs:\n- SuperMimic-GenCoord-G1 — generalized coordinates representation\n- SuperMimic-MaxCoor"
-    },
-    {
-      "id": 1450794567,
-      "full_name": "agentes-chat/agentes-chat",
-      "name": "agentes-chat",
-      "owner": {
-        "login": "agentes-chat",
-        "avatar_url": "https://avatars.githubusercontent.com/u/343980363?v=4"
-      },
-      "html_url": "https://github.com/agentes-chat/agentes-chat",
-      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
-      "language": "TypeScript",
-      "stargazers_count": 1499,
-      "forks_count": 268,
-      "open_issues_count": 182,
-      "topics": [
-        "agentic-ai",
         "ai-agents",
-        "browser-automation",
-        "chat",
+        "ai-assistant",
+        "blender",
+        "blender-addon",
+        "blender-ai",
+        "blender-automation",
+        "blender-mcp",
+        "blender-plugin",
+        "blender-scripting",
+        "bpy",
+        "chatgpt",
         "claude",
-        "claude-code",
-        "codex",
-        "collaboration",
-        "computer-use",
-        "docker-compose",
         "gemini",
-        "grok",
-        "human-in-the-loop",
         "llm",
         "mcp",
-        "multi-agent",
-        "openai",
-        "self-hosted",
-        "slack-alternative",
-        "team-chat"
+        "mcp-for-blender",
+        "mcp-server",
+        "model-context-protocol",
+        "ollama",
+        "opencode"
       ],
-      "created_at": "2026-11-09T00:50:28Z",
-      "updated_at": "2026-11-15T22:33:48Z",
-      "license": {
-        "spdx_id": "AGPL-3.0",
-        "key": "agpl-3.0"
-      },
-      "readme_snippet": "agentes.chat\nThe open-source, self-hosted Slack alternative where your team and AI agents work together.\n  Website ·\n  Cloud ·\n  Self-hosting ·\n  Features ·\n  Discussions\n  \n  \n  \n  \n  \nAgents join your channels and DMs with a role, an owner and a budget, work where everyone can see,\nand ask before "
-    },
-    {
-      "id": 1452008226,
-      "full_name": "HolyArrs/HolyArrs",
-      "name": "HolyArrs",
-      "owner": {
-        "login": "HolyArrs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/348458842?v=4"
-      },
-      "html_url": "https://github.com/HolyArrs/HolyArrs",
-      "description": "One self-hosted app for your shows, movies and music.",
-      "language": "Go",
-      "stargazers_count": 1252,
-      "forks_count": 65,
-      "open_issues_count": 104,
-      "topics": [
-        "docker",
-        "homelab",
-        "jellyfin",
-        "media-server",
-        "plex",
-        "self-hosted"
-      ],
-      "created_at": "2026-11-09T23:53:25Z",
-      "updated_at": "2026-11-15T22:19:58Z",
-      "license": {
-        "spdx_id": "AGPL-3.0",
-        "key": "agpl-3.0"
-      },
-      "readme_snippet": "English · Español · Français · Italiano · 简体中文 · 한국어 · 日本語 · हिन्दी · العربية · Русский · More languages\n  \n    \n    \n  \n&nbsp;&nbsp;\n  \n  \n  \n  \n  \n  \n&nbsp;&nbsp;\n> [!NOTE]\n> HolyArrs 1.1.4: remove any request, and friends' Plex watchlists are read again. A folder's quality now shows on its card, "
-    },
-    {
-      "id": 1455815512,
-      "full_name": "DevedevT/FFmpeg-GUI-Editor-Windows",
-      "name": "FFmpeg-GUI-Editor-Windows",
-      "owner": {
-        "login": "DevedevT",
-        "avatar_url": "https://avatars.githubusercontent.com/u/352167098?v=4"
-      },
-      "html_url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-      "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
-      "language": "Visual Basic .NET",
-      "stargazers_count": 1227,
-      "forks_count": 1,
-      "open_issues_count": 2,
-      "topics": [
-        "converter",
-        "ffmpeg",
-        "ffmpeg-command",
-        "ffmpeg-gui",
-        "ffmpeg-libraries",
-        "ffmpeg-script",
-        "gui",
-        "gui-application",
-        "image-compression",
-        "media-converter",
-        "media-converter-windows",
-        "video-editing",
-        "video-editor",
-        "video-processing",
-        "windows",
-        "windows-10",
-        "windows-11",
-        "windows-app",
-        "windows-package",
-        "windows-tools"
-      ],
-      "created_at": "2026-11-12T20:49:07Z",
-      "updated_at": "2026-11-15T21:51:28Z",
+      "created_at": "2026-11-12T14:32:15Z",
+      "updated_at": "2026-11-17T01:41:41Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "FFmpeg-GUI-Editor-Windows — Ready-to-Use Free Portable Video Editor (.exe)\nFFmpeg-GUI-Editor-Windows is a lightweight, fast, and free open-source video editor for Windows 10 and Windows 11 that works as an intuitive graphical user interface (FFmpeg GUI). Built specifically for users who want to down"
+      "readme_snippet": "mcp-for-blender-pro\nYour Blender scene. Your AI models. One creative workspace.\nAn AI assistant for Blender that can inspect your scene, build objects, edit materials, find assets and carry out multi-step workflows—with a visual chat workspace and a built-in Model Context Protocol (MCP) server.\n!Ble"
+    },
+    {
+      "id": 1455374283,
+      "full_name": "Noniv/abyssal-garden",
+      "name": "abyssal-garden",
+      "owner": {
+        "login": "Noniv",
+        "avatar_url": "https://avatars.githubusercontent.com/u/80125277?v=4"
+      },
+      "html_url": "https://github.com/Noniv/abyssal-garden",
+      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
+      "language": "JavaScript",
+      "stargazers_count": 1723,
+      "forks_count": 260,
+      "open_issues_count": 6,
+      "topics": [],
+      "created_at": "2026-11-12T13:57:34Z",
+      "updated_at": "2026-11-17T01:43:15Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Abyssal Garden\nA dreamy underwater world you can swim through, right in your browser.\nTowering kelp forests, sunbeams pouring through a rippling surface, a sunken ship, manta rays gliding overhead.\nAnd all of it is made by code: no images, no 3D models, no sound files. The whole world fits in one 96"
+    },
+    {
+      "id": 1457270665,
+      "full_name": "duwqijlk/muse-protocol",
+      "name": "muse-protocol",
+      "owner": {
+        "login": "duwqijlk",
+        "avatar_url": "https://avatars.githubusercontent.com/u/126966774?v=4"
+      },
+      "html_url": "https://github.com/duwqijlk/muse-protocol",
+      "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "language": "Python",
+      "stargazers_count": 1453,
+      "forks_count": 573,
+      "open_issues_count": 2,
+      "topics": [],
+      "created_at": "2026-11-14T01:24:58Z",
+      "updated_at": "2026-11-17T01:39:24Z",
+      "license": {
+        "spdx_id": "NOASSERTION",
+        "key": "other"
+      },
+      "readme_snippet": "muse.ai 注册 / 邀请码兑换 协议分析\n补充一下，记得用JP 节点， JP 不需要绑卡，直接过\n纯 HTTP 实现 muse.ai 的注册与邀请码兑换流程，不依赖浏览器。本文记录的是通过抓包逐字段比对得出的协议细节。\n快速开始\n目录结构\n协议流程\n几个容易踩的坑\n1. confirm-otp 必须带 supports_muse_link_transparency: true\n2. register-completion 的姓名字段语义\nfirst_name 是名、last_name 是姓，与直觉相反。生日早于约 18 年前会返回 403——同一会话同一份姓名，只把生日从 2013 改成"
+    },
+    {
+      "id": 1453604719,
+      "full_name": "Eynnzerr/TelemetryCleaner",
+      "name": "TelemetryCleaner",
+      "owner": {
+        "login": "Eynnzerr",
+        "avatar_url": "https://avatars.githubusercontent.com/u/73703990?v=4"
+      },
+      "html_url": "https://github.com/Eynnzerr/TelemetryCleaner",
+      "description": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+      "language": "Kotlin",
+      "stargazers_count": 1320,
+      "forks_count": 111,
+      "open_issues_count": 6,
+      "topics": [],
+      "created_at": "2026-11-11T06:25:10Z",
+      "updated_at": "2026-11-17T01:36:43Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "遥测清理 · TelemetryCleaner\n> 运营商为终端入网、自注册、网络运维和故障排查，确有在相应场景收集必要数据的实际需求！本项目仅供学习，用于了解 Android 系统包管理机制。\nTelemetryCleaner 可以检测国行 Android 固件预置的运营商组件，查看各空间的安装状态和权限，并管理卸载与恢复。下载： GitHub Releases\n  \n  \n  \n您可通过不限于以下方式参与贡献，欢迎 PR：\n1. 提供清单未覆盖的厂商+运营商+包名线索，在 README.md 中补充即可；\n2. 提供针对某模块的实测与分析报告，不限制是否为 AI 生成，但需保证真实性。放于"
+    },
+    {
+      "id": 1455066549,
+      "full_name": "ZiChuanLan/freebie-radar",
+      "name": "freebie-radar",
+      "owner": {
+        "login": "ZiChuanLan",
+        "avatar_url": "https://avatars.githubusercontent.com/u/139305401?v=4"
+      },
+      "html_url": "https://github.com/ZiChuanLan/freebie-radar",
+      "description": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
+      "language": "TypeScript",
+      "stargazers_count": 1168,
+      "forks_count": 199,
+      "open_issues_count": 0,
+      "topics": [],
+      "created_at": "2026-11-12T09:08:11Z",
+      "updated_at": "2026-11-17T01:41:07Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "资源雷达 · Resource Radar\n  全网福利、黑五好价、拼车交易、开源项目与新闻资讯的多兴趣自托管聚合雷达站\n  六大内容形态分流 · 27 类分频道目录 · 统一屏蔽词省额度 · AI 语义定级 · 多路由精准推送\n  \n    简体中文 · English\n  \n  \n    \n    \n    \n    \n    \n  \n---\n资源雷达（Resource Radar / repo: freebie-radar） 是一款轻量、开箱即用的多兴趣社区信息聚合与精准推送工作台。它从各大开发者社区、游戏平台、软件限免站、GitHub、Reddit、Bluesky、Telegram 频"
+    },
+    {
+      "id": 1456537250,
+      "full_name": "opencoredev/islandcn",
+      "name": "islandcn",
+      "owner": {
+        "login": "opencoredev",
+        "avatar_url": "https://avatars.githubusercontent.com/u/218007078?v=4"
+      },
+      "html_url": "https://github.com/opencoredev/islandcn",
+      "description": "The open-source Dynamic Island for React, installed with shadcn.",
+      "language": "TypeScript",
+      "stargazers_count": 778,
+      "forks_count": 63,
+      "open_issues_count": 3,
+      "topics": [
+        "dynamic-island",
+        "nextjs",
+        "react",
+        "shadcn",
+        "typescript",
+        "ui-components"
+      ],
+      "created_at": "2026-11-13T11:50:50Z",
+      "updated_at": "2026-11-17T01:23:36Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "islandcn\nA Dynamic Island-style component for any React app, installed with shadcn. Show an upload, a timer, a song, a ride on its way, an incoming call or a recording in one island at the top of your app, and shape each activity around your app's own actions.\nWhat's here\n- The engine (lib/island/, "
+    },
+    {
+      "id": 1455173808,
+      "full_name": "AIRzZ90/study-materials-fork",
+      "name": "study-materials-fork",
+      "owner": {
+        "login": "AIRzZ90",
+        "avatar_url": "https://avatars.githubusercontent.com/u/218946305?v=4"
+      },
+      "html_url": "https://github.com/AIRzZ90/study-materials-fork",
+      "description": "A cross-platform Tauri 2 interface and interaction practice project",
+      "language": "TypeScript",
+      "stargazers_count": 738,
+      "forks_count": 1209,
+      "open_issues_count": 1,
+      "topics": [],
+      "created_at": "2026-11-12T10:52:32Z",
+      "updated_at": "2026-11-17T01:14:04Z",
+      "license": {
+        "spdx_id": "NOASSERTION",
+        "key": "other"
+      },
+      "readme_snippet": "转载来自：HGhub 源库，请点击小星星\nHGhub\n（FROK不点小星星的人=看黄果也打不出来-哈哈）\n基于 Rust 与 Tauri 2 的跨平台界面与交互实践项目。\nHGhub 起源于个人对 Tauri 2 和移动端开发的学习与尝试。感谢大家的关注与贡献；项目由个人利用业余时间维护，关注度的增长不会改变维护范围，也不代表服务或支持承诺。\n维护范围与社区反馈\n维护者本人后续仅主动维护 UI/UX、交互细节与用户体验，不再主动跟进上游数据获取、解析或播放链路适配，不承诺外部接口及相关功能持续可用。\n任何主题的 PR 与 Issues 均可提交。维护者会根据时间与精力低频阅读、酌情响应，并逐项"
     }
   ]
 }
