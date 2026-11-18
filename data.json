@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-17T01:43:53.711Z",
-  "query_date_range": "2026-11-10 ~ 2026-11-17",
-  "total_found": 2034316,
+  "updated_at": "2026-11-18T00:42:55.072Z",
+  "query_date_range": "2026-11-11 ~ 2026-11-18",
+  "total_found": 2053042,
   "count": 9,
   "repos": [
     {
@@ -15,12 +15,12 @@
       "html_url": "https://github.com/deepseek-ai/chat-demo",
       "description": "Chat Demo",
       "language": "TypeScript",
-      "stargazers_count": 4100,
-      "forks_count": 861,
+      "stargazers_count": 4523,
+      "forks_count": 984,
       "open_issues_count": 1,
       "topics": [],
       "created_at": "2026-11-12T08:08:19Z",
-      "updated_at": "2026-11-17T01:43:04Z",
+      "updated_at": "2026-11-18T00:32:00Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -28,68 +28,27 @@
       "readme_snippet": "chat-demo\nEnglish | 简体中文\nA static chat demo powered by the DeepSeek API. No application backend is required: the browser connects directly to the configured API service.\nYou can try the app online or download the archive from Releases, extract it, and double-click index.html to use it locally withou"
     },
     {
-      "id": 1453517867,
-      "full_name": "apex-compute/ANR",
-      "name": "ANR",
+      "id": 1460469810,
+      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "name": "Wireless-Device-Battery-Monitor",
       "owner": {
-        "login": "apex-compute",
-        "avatar_url": "https://avatars.githubusercontent.com/u/222723497?v=4"
+        "login": "krisgfx9",
+        "avatar_url": "https://avatars.githubusercontent.com/u/85200472?v=4"
       },
-      "html_url": "https://github.com/apex-compute/ANR",
-      "description": "Apex Neural Rendering (ANR) by Apex Compute",
+      "html_url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
       "language": "C++",
-      "stargazers_count": 2472,
-      "forks_count": 53,
-      "open_issues_count": 23,
+      "stargazers_count": 2666,
+      "forks_count": 239,
+      "open_issues_count": 521,
       "topics": [],
-      "created_at": "2026-11-11T04:27:17Z",
-      "updated_at": "2026-11-17T01:43:29Z",
-      "license": null,
-      "readme_snippet": "Apex Neural Rendering (ANR)\nApex Neural Rendering by Apex Compute.\n- ANR FG: frame generation. In beta.\n- ANR SR: super resolution (upscaling). Beta soon.\n- ANR RR: ray reconstruction (denoising for ray tracing). Beta soon.\n- Source code: coming soon.\n- nr-record: records a game's frame generation o"
-    },
-    {
-      "id": 1455416555,
-      "full_name": "hitkeeen/blender-ai-mcp-addon",
-      "name": "blender-ai-mcp-addon",
-      "owner": {
-        "login": "hitkeeen",
-        "avatar_url": "https://avatars.githubusercontent.com/u/340037382?v=4"
-      },
-      "html_url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-      "language": null,
-      "stargazers_count": 2212,
-      "forks_count": 54,
-      "open_issues_count": 78,
-      "topics": [
-        "ai-agents",
-        "ai-assistant",
-        "blender",
-        "blender-addon",
-        "blender-ai",
-        "blender-automation",
-        "blender-mcp",
-        "blender-plugin",
-        "blender-scripting",
-        "bpy",
-        "chatgpt",
-        "claude",
-        "gemini",
-        "llm",
-        "mcp",
-        "mcp-for-blender",
-        "mcp-server",
-        "model-context-protocol",
-        "ollama",
-        "opencode"
-      ],
-      "created_at": "2026-11-12T14:32:15Z",
-      "updated_at": "2026-11-17T01:41:41Z",
+      "created_at": "2026-11-16T19:28:29Z",
+      "updated_at": "2026-11-18T00:42:12Z",
       "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
+        "spdx_id": "GPL-3.0",
+        "key": "gpl-3.0"
       },
-      "readme_snippet": "mcp-for-blender-pro\nYour Blender scene. Your AI models. One creative workspace.\nAn AI assistant for Blender that can inspect your scene, build objects, edit materials, find assets and carry out multi-step workflows—with a visual chat workspace and a built-in Model Context Protocol (MCP) server.\n!Ble"
+      "readme_snippet": "Wireless Battery\nBattery levels of your wireless mouse, headset, keyboard and controller, right on the Windows taskbar.\n!Wireless Battery on the taskbar\n> Just want it working? Download WirelessBattery-Setup from the latest release, run it and click through. That's it.\n>\n> Experienced users can grab"
     },
     {
       "id": 1455374283,
@@ -102,17 +61,40 @@
       "html_url": "https://github.com/Noniv/abyssal-garden",
       "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
       "language": "JavaScript",
-      "stargazers_count": 1723,
-      "forks_count": 260,
-      "open_issues_count": 6,
+      "stargazers_count": 2158,
+      "forks_count": 325,
+      "open_issues_count": 9,
       "topics": [],
       "created_at": "2026-11-12T13:57:34Z",
-      "updated_at": "2026-11-17T01:43:15Z",
+      "updated_at": "2026-11-18T00:41:39Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "Abyssal Garden\nA dreamy underwater world you can swim through, right in your browser.\nTowering kelp forests, sunbeams pouring through a rippling surface, a sunken ship, manta rays gliding overhead.\nAnd all of it is made by code: no images, no 3D models, no sound files. The whole world fits in one 96"
+    },
+    {
+      "id": 1455952445,
+      "full_name": "Immortal-Protocols/lastbook",
+      "name": "lastbook",
+      "owner": {
+        "login": "Immortal-Protocols",
+        "avatar_url": "https://avatars.githubusercontent.com/u/223367958?v=4"
+      },
+      "html_url": "https://github.com/Immortal-Protocols/lastbook",
+      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
+      "language": "Python",
+      "stargazers_count": 1779,
+      "forks_count": 225,
+      "open_issues_count": 119,
+      "topics": [],
+      "created_at": "2026-11-12T23:49:03Z",
+      "updated_at": "2026-11-18T00:41:27Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "Lastbook\nLastbook is an offline survival library for Mac, Windows and Linux. It puts manuals, videos, encyclopedias, an offline map and\nshort practical guides on one computer. After setup, it works offline. The desktop sidebar opens Videos, Map and Chat.\nChat answers questions using the library and "
     },
     {
       "id": 1457270665,
@@ -125,12 +107,12 @@
       "html_url": "https://github.com/duwqijlk/muse-protocol",
       "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
       "language": "Python",
-      "stargazers_count": 1453,
-      "forks_count": 573,
+      "stargazers_count": 1586,
+      "forks_count": 625,
       "open_issues_count": 2,
       "topics": [],
       "created_at": "2026-11-14T01:24:58Z",
-      "updated_at": "2026-11-17T01:39:24Z",
+      "updated_at": "2026-11-18T00:35:45Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
@@ -138,27 +120,27 @@
       "readme_snippet": "muse.ai 注册 / 邀请码兑换 协议分析\n补充一下，记得用JP 节点， JP 不需要绑卡，直接过\n纯 HTTP 实现 muse.ai 的注册与邀请码兑换流程，不依赖浏览器。本文记录的是通过抓包逐字段比对得出的协议细节。\n快速开始\n目录结构\n协议流程\n几个容易踩的坑\n1. confirm-otp 必须带 supports_muse_link_transparency: true\n2. register-completion 的姓名字段语义\nfirst_name 是名、last_name 是姓，与直觉相反。生日早于约 18 年前会返回 403——同一会话同一份姓名，只把生日从 2013 改成"
     },
     {
-      "id": 1453604719,
-      "full_name": "Eynnzerr/TelemetryCleaner",
-      "name": "TelemetryCleaner",
+      "id": 1461244802,
+      "full_name": "gylive/google-ultra",
+      "name": "google-ultra",
       "owner": {
-        "login": "Eynnzerr",
-        "avatar_url": "https://avatars.githubusercontent.com/u/73703990?v=4"
+        "login": "gylive",
+        "avatar_url": "https://avatars.githubusercontent.com/u/87460536?v=4"
       },
-      "html_url": "https://github.com/Eynnzerr/TelemetryCleaner",
-      "description": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
-      "language": "Kotlin",
-      "stargazers_count": 1320,
-      "forks_count": 111,
-      "open_issues_count": 6,
+      "html_url": "https://github.com/gylive/google-ultra",
+      "description": null,
+      "language": "Python",
+      "stargazers_count": 1552,
+      "forks_count": 685,
+      "open_issues_count": 13,
       "topics": [],
-      "created_at": "2026-11-11T06:25:10Z",
-      "updated_at": "2026-11-17T01:36:43Z",
+      "created_at": "2026-11-17T10:21:54Z",
+      "updated_at": "2026-11-18T00:39:55Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "遥测清理 · TelemetryCleaner\n> 运营商为终端入网、自注册、网络运维和故障排查，确有在相应场景收集必要数据的实际需求！本项目仅供学习，用于了解 Android 系统包管理机制。\nTelemetryCleaner 可以检测国行 Android 固件预置的运营商组件，查看各空间的安装状态和权限，并管理卸载与恢复。下载： GitHub Releases\n  \n  \n  \n您可通过不限于以下方式参与贡献，欢迎 PR：\n1. 提供清单未覆盖的厂商+运营商+包名线索，在 README.md 中补充即可；\n2. 提供针对某模块的实测与分析报告，不限制是否为 AI 生成，但需保证真实性。放于"
+      "readme_snippet": "google-ultra\n简体中文 | English\nGoogle One 的 AI Ultra 有个 12 个月免费试用的 offer，任何页面上都看不到，只存在于 Play 结算库（BillingClient）的返回值里。这个脚本把「查 offer → 拉起 Play 收银台 → 确认 0 元 → 开通」串成了一条命令。\n原理是借 Google One 自己的进程调 BillingClient，不需要 Xposed，不需要改 APK。\n两个版本\n简单版：一个网页，双击 web/index.html 打开，登录 → 绑卡 → 点一下，完事。不用装 Python，不用 root，不用数据线。"
     },
     {
       "id": 1455066549,
@@ -171,12 +153,12 @@
       "html_url": "https://github.com/ZiChuanLan/freebie-radar",
       "description": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
       "language": "TypeScript",
-      "stargazers_count": 1168,
-      "forks_count": 199,
+      "stargazers_count": 1427,
+      "forks_count": 243,
       "open_issues_count": 0,
       "topics": [],
       "created_at": "2026-11-12T09:08:11Z",
-      "updated_at": "2026-11-17T01:41:07Z",
+      "updated_at": "2026-11-18T00:42:08Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -184,57 +166,78 @@
       "readme_snippet": "资源雷达 · Resource Radar\n  全网福利、黑五好价、拼车交易、开源项目与新闻资讯的多兴趣自托管聚合雷达站\n  六大内容形态分流 · 27 类分频道目录 · 统一屏蔽词省额度 · AI 语义定级 · 多路由精准推送\n  \n    简体中文 · English\n  \n  \n    \n    \n    \n    \n    \n  \n---\n资源雷达（Resource Radar / repo: freebie-radar） 是一款轻量、开箱即用的多兴趣社区信息聚合与精准推送工作台。它从各大开发者社区、游戏平台、软件限免站、GitHub、Reddit、Bluesky、Telegram 频"
     },
     {
-      "id": 1456537250,
-      "full_name": "opencoredev/islandcn",
-      "name": "islandcn",
+      "id": 1459971684,
+      "full_name": "erkamyaman/rust-anything",
+      "name": "rust-anything",
       "owner": {
-        "login": "opencoredev",
-        "avatar_url": "https://avatars.githubusercontent.com/u/218007078?v=4"
+        "login": "erkamyaman",
+        "avatar_url": "https://avatars.githubusercontent.com/u/88717125?v=4"
       },
-      "html_url": "https://github.com/opencoredev/islandcn",
-      "description": "The open-source Dynamic Island for React, installed with shadcn.",
-      "language": "TypeScript",
-      "stargazers_count": 778,
-      "forks_count": 63,
-      "open_issues_count": 3,
+      "html_url": "https://github.com/erkamyaman/rust-anything",
+      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "language": "Rust",
+      "stargazers_count": 1290,
+      "forks_count": 84,
+      "open_issues_count": 5,
       "topics": [
-        "dynamic-island",
-        "nextjs",
-        "react",
-        "shadcn",
-        "typescript",
-        "ui-components"
+        "agent-skills",
+        "claude-code",
+        "cli",
+        "code-migration",
+        "codex",
+        "ffi",
+        "golang",
+        "java",
+        "javascript",
+        "mcp",
+        "migration",
+        "napi",
+        "performance",
+        "porting",
+        "pyo3",
+        "python",
+        "rewrite",
+        "ruby",
+        "rust",
+        "typescript"
       ],
-      "created_at": "2026-11-13T11:50:50Z",
-      "updated_at": "2026-11-17T01:23:36Z",
+      "created_at": "2026-11-16T12:10:36Z",
+      "updated_at": "2026-11-18T00:39:05Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "islandcn\nA Dynamic Island-style component for any React app, installed with shadcn. Show an upload, a timer, a song, a ride on its way, an incoming call or a recording in one island at the top of your app, and shape each activity around your app's own actions.\nWhat's here\n- The engine (lib/island/, "
+      "readme_snippet": "rust-anything\nRewrite your whole app in Rust. Keep it working the whole way.\nCLIs, servers and libraries, piece by piece, checked against the original at every step.\n  \n  \n  \n  \n  \n  \n  \nup to 20x faster · 38,251 recorded cases replayed · 0 mismatches · one command\nRewrite your whole app in Rust, on"
     },
     {
-      "id": 1455173808,
-      "full_name": "AIRzZ90/study-materials-fork",
-      "name": "study-materials-fork",
+      "id": 1457362196,
+      "full_name": "CzzzzzzJ/mdldm-maitian",
+      "name": "mdldm-maitian",
       "owner": {
-        "login": "AIRzZ90",
-        "avatar_url": "https://avatars.githubusercontent.com/u/218946305?v=4"
+        "login": "CzzzzzzJ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/110924215?v=4"
       },
-      "html_url": "https://github.com/AIRzZ90/study-materials-fork",
-      "description": "A cross-platform Tauri 2 interface and interaction practice project",
-      "language": "TypeScript",
-      "stargazers_count": 738,
-      "forks_count": 1209,
-      "open_issues_count": 1,
-      "topics": [],
-      "created_at": "2026-11-12T10:52:32Z",
-      "updated_at": "2026-11-17T01:14:04Z",
+      "html_url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+      "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+      "language": "JavaScript",
+      "stargazers_count": 1022,
+      "forks_count": 334,
+      "open_issues_count": 2,
+      "topics": [
+        "automation",
+        "chrome-extension",
+        "creator-tools",
+        "dashboard",
+        "feishu",
+        "social-media"
+      ],
+      "created_at": "2026-11-14T03:59:22Z",
+      "updated_at": "2026-11-18T00:41:16Z",
       "license": {
-        "spdx_id": "NOASSERTION",
-        "key": "other"
+        "spdx_id": "MIT",
+        "key": "mit"
       },
-      "readme_snippet": "转载来自：HGhub 源库，请点击小星星\nHGhub\n（FROK不点小星星的人=看黄果也打不出来-哈哈）\n基于 Rust 与 Tauri 2 的跨平台界面与交互实践项目。\nHGhub 起源于个人对 Tauri 2 和移动端开发的学习与尝试。感谢大家的关注与贡献；项目由个人利用业余时间维护，关注度的增长不会改变维护范围，也不代表服务或支持承诺。\n维护范围与社区反馈\n维护者本人后续仅主动维护 UI/UX、交互细节与用户体验，不再主动跟进上游数据获取、解析或播放链路适配，不承诺外部接口及相关功能持续可用。\n任何主题的 PR 与 Issues 均可提交。维护者会根据时间与精力低频阅读、酌情响应，并逐项"
+      "readme_snippet": "一行装好 ·\n  看它跑一遍 ·\n  怎么配合 ·\n  各平台的坑 ·\n  作者\n一个人做内容，要发六七个平台，每个平台的文案、封面、发布形式都不一样；发完还想知道哪期起来了、哪个平台涨粉、哪个平台真的带来了付费。麦田就是我自己每天在用的那套工作台：\n1. 发得出去：一期视频分批填好 B站、抖音、小红书、视频号、YouTube、X、Instagram，提前排进「分发计划」，到点发布、自动取链接。\n2. 看得清楚：每期在每个平台的播放、互动，各平台粉丝，每天自动采、长期留存；手机上看大屏，飞书群推卡片。\n3. 算得出钱：接上你自己的站点，看哪一期、哪个平台带来了注册和收入。\n> 跑在一台常开的 "
     }
   ]
 }
