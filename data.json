@@ -1,32 +1,9 @@
 {
-  "updated_at": "2026-11-19T00:00:35.349Z",
-  "query_date_range": "2026-11-12 ~ 2026-11-19",
-  "total_found": 2066025,
+  "updated_at": "2026-11-20T00:23:33.145Z",
+  "query_date_range": "2026-11-13 ~ 2026-11-20",
+  "total_found": 2095237,
   "count": 9,
   "repos": [
-    {
-      "id": 1460469810,
-      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
-      "name": "Wireless-Device-Battery-Monitor",
-      "owner": {
-        "login": "krisgfx9",
-        "avatar_url": "https://avatars.githubusercontent.com/u/85200472?v=4"
-      },
-      "html_url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
-      "language": "C++",
-      "stargazers_count": 3941,
-      "forks_count": 346,
-      "open_issues_count": 2390,
-      "topics": [],
-      "created_at": "2026-11-16T19:28:29Z",
-      "updated_at": "2026-11-18T23:57:21Z",
-      "license": {
-        "spdx_id": "GPL-3.0",
-        "key": "gpl-3.0"
-      },
-      "readme_snippet": "Wireless Battery\nBattery levels of your wireless mouse, headset, keyboard and controller, right on the Windows taskbar.\n!Wireless Battery on the taskbar\n> Just want it working? Download WirelessBattery-Setup from the latest release, run it and click through. That's it.\n>\n> Experienced users can grab"
-    },
     {
       "id": 1459971684,
       "full_name": "erkamyaman/rust-anything",
@@ -38,9 +15,9 @@
       "html_url": "https://github.com/erkamyaman/rust-anything",
       "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
       "language": "Rust",
-      "stargazers_count": 3320,
-      "forks_count": 262,
-      "open_issues_count": 7,
+      "stargazers_count": 5167,
+      "forks_count": 413,
+      "open_issues_count": 0,
       "topics": [
         "agent-skills",
         "claude-code",
@@ -64,12 +41,81 @@
         "typescript"
       ],
       "created_at": "2026-11-16T12:10:36Z",
-      "updated_at": "2026-11-18T23:55:05Z",
+      "updated_at": "2026-11-20T00:22:43Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "rust-anything\nby erKam Yaman\nEnglish · Türkçe · Українська · 简体中文 · 繁體中文 · Deutsch · Français · Русский · 日本語 · 한국어 · Azərbaycanca · Oʻzbekcha · Қазақша · Кыргызча · Türkmençe · Татарча · ئۇيغۇرچە · Português\nRewrite your whole app in Rust. Keep it working the whole way.\nCLIs, servers and libraries,"
+      "readme_snippet": "rust-anything\nRewrite your app in Rust, and prove it still behaves the same.\nNew in 2.0: Prettier, ported to Rust. 19x faster · 15,837 of 17,224 recorded runs fully in Rust · every run byte-identical\n  \n  \n  \n  \n  \n  \n  Quick start ·\n  Languages ·\n  Real-world ports ·\n  How it works ·\n  Whole apps ·"
+    },
+    {
+      "id": 1460469810,
+      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "name": "Wireless-Device-Battery-Monitor",
+      "owner": {
+        "login": "krisgfx9",
+        "avatar_url": "https://avatars.githubusercontent.com/u/85200472?v=4"
+      },
+      "html_url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+      "language": "C++",
+      "stargazers_count": 4660,
+      "forks_count": 402,
+      "open_issues_count": 3241,
+      "topics": [],
+      "created_at": "2026-11-16T19:28:29Z",
+      "updated_at": "2026-11-20T00:21:13Z",
+      "license": {
+        "spdx_id": "GPL-3.0",
+        "key": "gpl-3.0"
+      },
+      "readme_snippet": "BatteryHub\n*Formerly Wireless Battery. Version 1.1.0 renamed the app; an update keeps your settings, startup choice and battery history.*\nBattery levels of your wireless mouse, headset, keyboard and controller, right on the Windows taskbar.\n!BatteryHub on the taskbar\n> Just want it working? Download"
+    },
+    {
+      "id": 1461244802,
+      "full_name": "gylive/google-ultra",
+      "name": "google-ultra",
+      "owner": {
+        "login": "gylive",
+        "avatar_url": "https://avatars.githubusercontent.com/u/87460536?v=4"
+      },
+      "html_url": "https://github.com/gylive/google-ultra",
+      "description": null,
+      "language": "Python",
+      "stargazers_count": 2449,
+      "forks_count": 39,
+      "open_issues_count": 26,
+      "topics": [],
+      "created_at": "2026-11-17T10:21:54Z",
+      "updated_at": "2026-11-20T00:19:04Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "google-pro\n简体中文 | English\n> 更新：新增傻瓜式向导，Mac 双击 start.command、Windows 双击 start.bat 即可，主开 AI Pro 5TB（入口 pro.py）；没有安卓手机可以用 MuMu 模拟器。Ultra 目前开不出来（offer 已下架 / 账号被判地区不支持）。\nGoogle One 的 AI Pro（5 TB） 有一批免费试用 offer，任何页面上都看不到，只存在于 Play 结算库（BillingClient）的返回值里。这个脚本把「查 offer → 拉起 Play 收银台 → 确认 0 元 → 开通」串成一条命令。\n原"
+    },
+    {
+      "id": 1458720005,
+      "full_name": "Hut-hzf/ung220z-tool",
+      "name": "ung220z-tool",
+      "owner": {
+        "login": "Hut-hzf",
+        "avatar_url": "https://avatars.githubusercontent.com/u/192405006?v=4"
+      },
+      "html_url": "https://github.com/Hut-hzf/ung220z-tool",
+      "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "language": "Python",
+      "stargazers_count": 1744,
+      "forks_count": 403,
+      "open_issues_count": 6,
+      "topics": [],
+      "created_at": "2026-11-15T11:16:46Z",
+      "updated_at": "2026-11-20T00:08:45Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "ung220z-tool\n针对 UNG220Z（九联 / Unionman 中国移动光猫） 的一键凭据提取工具。\n> ⚠️ 仅用于你自己的设备，用于找回自己忘记的管理密码、迁移宽带配置或安全自查。\n> 未经授权对他人设备使用属于违法行为，作者不承担任何责任。\n背景\n这类光猫的 Web 管理页基于 .gch CGI 框架，登录口令由 TR-069 定期轮换，普通用户拿到的密码往往几天就失效。本工具走 Telnet 通道，直接读取设备配置库，拿到当下有效的全部凭据。\n工作流程\n用法\n会依次询问：\n也可以全部走命令行：\n常用参数\n| 参数 | 说明 |\n|---|---|\n| -i, --ip | "
     },
     {
       "id": 1457270665,
@@ -80,14 +126,14 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/126966774?v=4"
       },
       "html_url": "https://github.com/duwqijlk/muse-protocol",
-      "description": "muse.ai ��册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
       "language": "Python",
-      "stargazers_count": 1627,
-      "forks_count": 641,
+      "stargazers_count": 1655,
+      "forks_count": 656,
       "open_issues_count": 2,
       "topics": [],
       "created_at": "2026-11-14T01:24:58Z",
-      "updated_at": "2026-11-18T22:18:07Z",
+      "updated_at": "2026-11-19T21:21:27Z",
       "license": {
         "spdx_id": "NOASSERTION",
         "key": "other"
@@ -105,9 +151,9 @@
       "html_url": "https://github.com/CzzzzzzJ/mdldm-maitian",
       "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
       "language": "JavaScript",
-      "stargazers_count": 1302,
-      "forks_count": 411,
-      "open_issues_count": 6,
+      "stargazers_count": 1596,
+      "forks_count": 474,
+      "open_issues_count": 10,
       "topics": [
         "automation",
         "chrome-extension",
@@ -117,65 +163,12 @@
         "social-media"
       ],
       "created_at": "2026-11-14T03:59:22Z",
-      "updated_at": "2026-11-18T23:18:52Z",
+      "updated_at": "2026-11-20T00:02:27Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "一行装好 ·\n  看它跑一遍 ·\n  怎么配合 ·\n  各平台的坑 ·\n  作者\n一个人做内容，要发六七个平台，每个平台的文案、封面、发布形式都不一样；发完还想知道哪期起来了、哪个平台涨粉、哪个平台真的带来了付费。麦田就是我自己每天在用的那套工作台：\n1. 发得出去：一期视频分批填好 B站、抖音、小红书、视频号、YouTube、X、Instagram，提前排进「分发计划」，到点发布、自动取链接。\n2. 看得清楚：每期在每个平台的播放、互动，各平台粉丝，每天自动采、长期留存；手机上看大屏，飞书群推卡片。\n3. 算得出钱：接上你自己的站点，看哪一期、哪个平台带来了注册和收入。\n> 跑在一台常开的 "
-    },
-    {
-      "id": 1458720005,
-      "full_name": "Hut-hzf/ung220z-tool",
-      "name": "ung220z-tool",
-      "owner": {
-        "login": "Hut-hzf",
-        "avatar_url": "https://avatars.githubusercontent.com/u/192405006?v=4"
-      },
-      "html_url": "https://github.com/Hut-hzf/ung220z-tool",
-      "description": "ung220z-tool ���一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
-      "language": "Python",
-      "stargazers_count": 1159,
-      "forks_count": 282,
-      "open_issues_count": 3,
-      "topics": [],
-      "created_at": "2026-11-15T11:16:46Z",
-      "updated_at": "2026-11-18T23:53:49Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "ung220z-tool\n针对 UNG220Z（九联 / Unionman 中国移动光猫） 的一键凭据提取工具。\n> ⚠️ 仅用于你自己的设备，用于找回自己忘记的管理密码、迁移宽带配置或安全自查。\n> 未经授权对他人设备使用属于违法行为，作者不承担任何责任。\n背景\n这类光猫的 Web 管理页基于 .gch CGI 框架，登录口令由 TR-069 定期轮换，普通用户拿到的密码往往几天就失效。本工具走 Telnet 通道，直接读取设备配置库，拿到当下有效的全部凭据。\n工作流程\n用法\n会依次询问：\n也可以全部走命令行：\n常用参数\n| 参数 | 说明 |\n|---|---|\n| -i, --ip | "
-    },
-    {
-      "id": 1460417668,
-      "full_name": "sybil-solutions/inference-optimisation-skill",
-      "name": "inference-optimisation-skill",
-      "owner": {
-        "login": "sybil-solutions",
-        "avatar_url": "https://avatars.githubusercontent.com/u/284200730?v=4"
-      },
-      "html_url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-      "language": "Python",
-      "stargazers_count": 1106,
-      "forks_count": 99,
-      "open_issues_count": 5,
-      "topics": [
-        "agent-skill",
-        "benchmarking",
-        "claude-code",
-        "inference",
-        "llm",
-        "speculative-decoding"
-      ],
-      "created_at": "2026-11-16T18:40:04Z",
-      "updated_at": "2026-11-18T23:48:46Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "inference-optimisation\nAn agent skill for hill-climbing the speed of a local LLM server on any hardware and any quantization. It covers:\n- single-user and concurrent decode\n- speculative decoding\n- prefill\n- KV cache size\n- startup time and time to first token\nIt works under a memory cap, and every "
     },
     {
       "id": 1457509118,
@@ -188,17 +181,47 @@
       "html_url": "https://github.com/haziqahmedqasmi/PeakCut",
       "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
       "language": "Python",
-      "stargazers_count": 1081,
-      "forks_count": 366,
-      "open_issues_count": 31,
+      "stargazers_count": 1335,
+      "forks_count": 458,
+      "open_issues_count": 51,
       "topics": [],
       "created_at": "2026-11-14T07:38:20Z",
-      "updated_at": "2026-11-18T23:58:54Z",
+      "updated_at": "2026-11-20T00:22:49Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "PeakCut\nTurn long videos and live streams into captioned vertical clips, ready to post. Free and open source: run it on\nyour own computer or server, with your own AI key.\nPaste a YouTube, Twitch or Kick link (or upload a file) and PeakCut finds the moments worth clipping, cuts them to\n9:16, adds wor"
+    },
+    {
+      "id": 1460417668,
+      "full_name": "sybil-solutions/inference-optimisation-skill",
+      "name": "inference-optimisation-skill",
+      "owner": {
+        "login": "sybil-solutions",
+        "avatar_url": "https://avatars.githubusercontent.com/u/284200730?v=4"
+      },
+      "html_url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "language": "Python",
+      "stargazers_count": 1259,
+      "forks_count": 114,
+      "open_issues_count": 6,
+      "topics": [
+        "agent-skill",
+        "benchmarking",
+        "claude-code",
+        "inference",
+        "llm",
+        "speculative-decoding"
+      ],
+      "created_at": "2026-11-16T18:40:04Z",
+      "updated_at": "2026-11-20T00:01:49Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "inference-optimisation\nAn agent skill for hill-climbing the speed of a local LLM server on any hardware and any quantization. It covers:\n- single-user and concurrent decode\n- speculative decoding\n- prefill\n- KV cache size\n- startup time and time to first token\nIt works under a memory cap, and every "
     },
     {
       "id": 1459063723,
@@ -211,55 +234,17 @@
       "html_url": "https://github.com/joshpuckett/allo",
       "description": "Allo is your friendly neighborhood typeface, free and open source",
       "language": "Python",
-      "stargazers_count": 1043,
-      "forks_count": 28,
+      "stargazers_count": 1148,
+      "forks_count": 31,
       "open_issues_count": 4,
       "topics": [],
       "created_at": "2026-11-15T17:33:42Z",
-      "updated_at": "2026-11-18T23:52:55Z",
+      "updated_at": "2026-11-20T00:16:07Z",
       "license": {
         "spdx_id": "OFL-1.1",
         "key": "ofl-1.1"
       },
       "readme_snippet": "Allo\nAllo is your friendly neighborhood typeface. It’s variable in weight and roundness, with proportions and curves\ndesigned to feel warm without being too cute and clear without being too cold. It’s a perfect companion out of the\nbox, and three variable axes and plenty of alternates let you tune i"
-    },
-    {
-      "id": 1456105425,
-      "full_name": "zephyr4123/snug",
-      "name": "snug",
-      "owner": {
-        "login": "zephyr4123",
-        "avatar_url": "https://avatars.githubusercontent.com/u/150259936?v=4"
-      },
-      "html_url": "https://github.com/zephyr4123/snug",
-      "description": "为 UU远程 打造的 Mac 移动端工作区：独立竖屏、窗口自适应铺满、字号随屏放大、触控遵循 iOS 交互习惯，让 Mac 在手机上拥有原生级的操作体验。A native-grade iPhone workspace for controlling your Mac over UU Remote.",
-      "language": "Swift",
-      "stargazers_count": 912,
-      "forks_count": 64,
-      "open_issues_count": 9,
-      "topics": [
-        "gestures",
-        "ipad",
-        "iphone",
-        "macos",
-        "macos-app",
-        "menubar-app",
-        "productivity",
-        "remote-control",
-        "remote-desktop",
-        "swift",
-        "swiftui",
-        "uu-remote",
-        "virtual-display",
-        "window-management"
-      ],
-      "created_at": "2026-11-13T03:26:21Z",
-      "updated_at": "2026-11-18T23:58:02Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "简体中文 · English\nSnug\nMake UU Remote Native on Any Device\n为 UU远程 打造 · 远程 Mac 的显示与触控增强每台设备专属屏幕 · 原生触屏手势 · App 资源库\n !Apple Silicon · Intel !macOS 14+ !已公证 \n下载 · 原生体验 · 多设备 · App 资源库 · 截图 · 对比 · 安装 · 使用 · 限制 · 开发\n▶ 观看高清演示视频\n> 承接自 aoyamashou/UUyc-companion（UU远程伴侣，作者 AoyamaShou，MIT 许可），完整保留原作者的版权声明与提交历史。2."
     }
   ]
 }
