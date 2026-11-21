@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-20T23:46:33.621Z",
-  "query_date_range": "2026-11-13 ~ 2026-11-20",
-  "total_found": 2406425,
+  "updated_at": "2026-11-21T22:53:41.593Z",
+  "query_date_range": "2026-11-14 ~ 2026-11-21",
+  "total_found": 2403958,
   "count": 9,
   "repos": [
     {
@@ -15,9 +15,9 @@
       "html_url": "https://github.com/erkamyaman/rust-anything",
       "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
       "language": "Rust",
-      "stargazers_count": 6618,
-      "forks_count": 520,
-      "open_issues_count": 2,
+      "stargazers_count": 7378,
+      "forks_count": 588,
+      "open_issues_count": 1,
       "topics": [
         "agent-skills",
         "claude-code",
@@ -41,12 +41,12 @@
         "typescript"
       ],
       "created_at": "2026-11-16T12:10:36Z",
-      "updated_at": "2026-11-20T23:45:08Z",
+      "updated_at": "2026-11-21T22:50:03Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "rust-anything\nEnglish · Türkçe · Українська · 简体中文 · 繁體中文 · Deutsch · Français · Русский · 日本語 · 한국어 · Azərbaycanca · Oʻzbekcha · Қазақша · Кыргызча · Türkmençe · Татарча · ئۇيغۇرچە · Português · Tiếng Việt\nRewrite your app in Rust, and prove it still behaves the same.\nPoint it at your app: it recor"
+      "readme_snippet": "rust-anything\nEnglish · Türkçe · Українська · 简体中文 · 繁體中文 · Deutsch · Français · Русский · 日本語 · 한국어 · Azərbaycanca · Oʻzbekcha · Қазақша · Кыргызча · Türkmençe · Татарча · ئۇيغۇرچە · Português · Tiếng Việt · Español · Italiano\nRewrite your app in Rust, and prove it still behaves the same.\nPoint it "
     },
     {
       "id": 1460469810,
@@ -59,17 +59,40 @@
       "html_url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
       "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
       "language": "C++",
-      "stargazers_count": 5281,
-      "forks_count": 443,
-      "open_issues_count": 3570,
+      "stargazers_count": 5794,
+      "forks_count": 488,
+      "open_issues_count": 3555,
       "topics": [],
       "created_at": "2026-11-16T19:28:29Z",
-      "updated_at": "2026-11-20T23:39:13Z",
+      "updated_at": "2026-11-21T22:53:15Z",
       "license": {
         "spdx_id": "GPL-3.0",
         "key": "gpl-3.0"
       },
-      "readme_snippet": "BatteryHub\n*Formerly Wireless Battery. Version 1.1.0 renamed the app; an update keeps your settings, startup choice and battery history.*\nBattery levels of your wireless mouse, headset, keyboard and controller, right on the Windows taskbar.\n!BatteryHub on the taskbar\n> Just want it working? Download"
+      "readme_snippet": "BatteryHub\r\n\r\n*Formerly Wireless Battery. Version 1.1.0 renamed the app; an update keeps your settings, startup choice and battery history.*\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nBattery levels of your wireless mouse, headset, keyboard and controller, right on the Windows taskbar.\r\n\r\n!BatteryHub on the taskbar\r\n\r\n> "
+    },
+    {
+      "id": 1465855400,
+      "full_name": "ItsNotRexed/Leonida",
+      "name": "Leonida",
+      "owner": {
+        "login": "ItsNotRexed",
+        "avatar_url": "https://avatars.githubusercontent.com/u/300290919?v=4"
+      },
+      "html_url": "https://github.com/ItsNotRexed/Leonida",
+      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+      "language": "Python",
+      "stargazers_count": 4450,
+      "forks_count": 306,
+      "open_issues_count": 45,
+      "topics": [],
+      "created_at": "2026-11-20T20:07:13Z",
+      "updated_at": "2026-11-21T22:53:07Z",
+      "license": {
+        "spdx_id": "GPL-3.0",
+        "key": "gpl-3.0"
+      },
+      "readme_snippet": "Leonida\n  \nGrand Theft Auto VI (Xbox Series) running natively on Windows, built on your PC from your own copy.\n  Status |\n  How to build |\n  How it works |\n  Want to help? |\n  Credits |\n  License |\n  Discord\nLeonida is a static recompilation project. The Xbox Series CPU is x86-64 like a PC, so the g"
     },
     {
       "id": 1461244802,
@@ -82,40 +105,17 @@
       "html_url": "https://github.com/gylive/google-ultra",
       "description": null,
       "language": "Python",
-      "stargazers_count": 2532,
-      "forks_count": 60,
+      "stargazers_count": 2596,
+      "forks_count": 78,
       "open_issues_count": 26,
       "topics": [],
       "created_at": "2026-11-17T10:21:54Z",
-      "updated_at": "2026-11-20T23:40:33Z",
+      "updated_at": "2026-11-21T22:43:59Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "google-pro\n简体中文 | English\n> 更新：新增傻瓜式向导，Mac 双击 start.command、Windows 双击 start.bat 即可，主开 AI Pro 5TB（入口 pro.py）；没有安卓手机可以用 MuMu 模拟器。Ultra 目前开不出来（offer 已下架 / 账号被判地区不支持）。\nGoogle One 的 AI Pro（5 TB） 有一批免费试用 offer，任何页面上都看不到，只存在于 Play 结算库（BillingClient）的返回值里。这个脚本把「查 offer → 拉起 Play 收银台 → 确认 0 元 → 开通」串成一条命令。\n原"
-    },
-    {
-      "id": 1458720005,
-      "full_name": "Hut-hzf/ung220z-tool",
-      "name": "ung220z-tool",
-      "owner": {
-        "login": "Hut-hzf",
-        "avatar_url": "https://avatars.githubusercontent.com/u/192405006?v=4"
-      },
-      "html_url": "https://github.com/Hut-hzf/ung220z-tool",
-      "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
-      "language": "Python",
-      "stargazers_count": 1993,
-      "forks_count": 453,
-      "open_issues_count": 6,
-      "topics": [],
-      "created_at": "2026-11-15T11:16:46Z",
-      "updated_at": "2026-11-20T23:32:47Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "ung220z-tool\n针对 UNG220Z（九联 / Unionman 中国移动光猫） 的一键凭据提取工具。\n> ⚠️ 仅用于你自己的设备，用于找回自己忘记的管理密码、迁移宽带配置或安全自查。\n> 未经授权对他人设备使用属于违法行为，作者不承担任何责任。\n背景\n这类光猫的 Web 管理页基于 .gch CGI 框架，登录口令由 TR-069 定期轮换，普通用户拿到的密码往往几天就失效。本工具走 Telnet 通道，直接读取设备配置库，拿到当下有效的全部凭据。\n工作流程\n用法\n会依次询问：\n也可以全部走命令行：\n常用参数\n| 参数 | 说明 |\n|---|---|\n| -i, --ip | "
     },
     {
       "id": 1464271688,
@@ -128,9 +128,9 @@
       "html_url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
       "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
       "language": null,
-      "stargazers_count": 1758,
-      "forks_count": 5,
-      "open_issues_count": 39,
+      "stargazers_count": 2311,
+      "forks_count": 32,
+      "open_issues_count": 55,
       "topics": [
         "ai-agents",
         "ai-assistant",
@@ -154,7 +154,7 @@
         "opencode"
       ],
       "created_at": "2026-11-19T14:43:10Z",
-      "updated_at": "2026-11-20T23:35:49Z",
+      "updated_at": "2026-11-21T22:52:07Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -162,80 +162,67 @@
       "readme_snippet": "mcp-for-blender-pro\nYour Blender scene. Your AI models. One creative workspace.\nAn AI assistant for Blender that can inspect your scene, build objects, edit materials, find assets and carry out multi-step workflows—with a visual chat workspace and a built-in Model Context Protocol (MCP) server.\n!Ble"
     },
     {
-      "id": 1457362196,
-      "full_name": "CzzzzzzJ/mdldm-maitian",
-      "name": "mdldm-maitian",
+      "id": 1458720005,
+      "full_name": "Hut-hzf/ung220z-tool",
+      "name": "ung220z-tool",
       "owner": {
-        "login": "CzzzzzzJ",
-        "avatar_url": "https://avatars.githubusercontent.com/u/110924215?v=4"
+        "login": "Hut-hzf",
+        "avatar_url": "https://avatars.githubusercontent.com/u/192405006?v=4"
       },
-      "html_url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-      "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
-      "language": "JavaScript",
-      "stargazers_count": 1713,
-      "forks_count": 501,
-      "open_issues_count": 11,
+      "html_url": "https://github.com/Hut-hzf/ung220z-tool",
+      "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "language": "Python",
+      "stargazers_count": 2214,
+      "forks_count": 502,
+      "open_issues_count": 7,
+      "topics": [],
+      "created_at": "2026-11-15T11:16:46Z",
+      "updated_at": "2026-11-21T22:45:37Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "ung220z-tool\n针对 UNG220Z（九联 / Unionman 中国移动光猫） 的一键凭据提取工具。\n> ⚠️ 仅用于你自己的设备，用于找回自己忘记的管理密码、迁移宽带配置或安全自查。\n> 未经授权对他人设备使用属于违法行为，作者不承担任何责任。\n背景\n这类光猫的 Web 管理页基于 .gch CGI 框架，登录口令由 TR-069 定期轮换，普通用户拿到的密码往往几天就失效。本工具走 Telnet 通道，直接读取设备配置库，拿到当下有效的全部凭据。\n工作流程\n用法\n会依次询问：\n也可以全部走命令行：\n常用参数\n| 参数 | 说明 |\n|---|---|\n| -i, --ip | "
+    },
+    {
+      "id": 1463963309,
+      "full_name": "iamajmeena/neonclipping",
+      "name": "neonclipping",
+      "owner": {
+        "login": "iamajmeena",
+        "avatar_url": "https://avatars.githubusercontent.com/u/265551449?v=4"
+      },
+      "html_url": "https://github.com/iamajmeena/neonclipping",
+      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "language": "Python",
+      "stargazers_count": 1730,
+      "forks_count": 84,
+      "open_issues_count": 12,
       "topics": [
-        "automation",
-        "chrome-extension",
-        "creator-tools",
-        "dashboard",
-        "feishu",
-        "social-media"
+        "ai-video-clipper",
+        "clipping",
+        "faster-whisper",
+        "ffmpeg",
+        "gameplay-clipper",
+        "local-llm",
+        "ollama",
+        "open-source-video-editor",
+        "opusclip-alternative",
+        "shorts",
+        "twitch-clips",
+        "vertical-video",
+        "video",
+        "whisper",
+        "youtube-shorts-generator",
+        "yt-dlp"
       ],
-      "created_at": "2026-11-14T03:59:22Z",
-      "updated_at": "2026-11-20T23:20:57Z",
+      "created_at": "2026-11-19T10:00:43Z",
+      "updated_at": "2026-11-21T22:46:28Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
-      "readme_snippet": "一行装好 ·\n  看它跑一遍 ·\n  怎么配合 ·\n  各平台的坑 ·\n  作者\n一个人做内容，要发六七个平台，每个平台的文案、封面、发布形式都不一样；发完还想知道哪期起来了、哪个平台涨粉、哪个平台真的带来了付费。麦田就是我自己每天在用的那套工作台：\n1. 发得出去：一期视频分批填好 B站、抖音、小红书、视频号、YouTube、X、Instagram，提前排进「分发计划」，到点发布、自动取链接。\n2. 看得清楚：每期在每个平台的播放、互动，各平台粉丝，每天自动采、长期留存；手机上看大屏，飞书群推卡片。\n3. 算得出钱：接上你自己的站点，看哪一期、哪个平台带来了注册和收入。\n> 跑在一台常开的 "
-    },
-    {
-      "id": 1457270665,
-      "full_name": "duwqijlk/muse-protocol",
-      "name": "muse-protocol",
-      "owner": {
-        "login": "duwqijlk",
-        "avatar_url": "https://avatars.githubusercontent.com/u/126966774?v=4"
-      },
-      "html_url": "https://github.com/duwqijlk/muse-protocol",
-      "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-      "language": "Python",
-      "stargazers_count": 1694,
-      "forks_count": 661,
-      "open_issues_count": 3,
-      "topics": [],
-      "created_at": "2026-11-14T01:24:58Z",
-      "updated_at": "2026-11-20T20:24:24Z",
-      "license": {
-        "spdx_id": "NOASSERTION",
-        "key": "other"
-      },
-      "readme_snippet": "muse.ai 注册 / 邀请码兑换 协议分析\n补充一下，记得用JP 节点， JP 不需要绑卡，直接过\n纯 HTTP 实现 muse.ai 的注册与邀请码兑换流程，不依赖浏览器。本文记录的是通过抓包逐字段比对得出的协议细节。\n快速开始\n目录结构\n协议流程\n几个容易踩的坑\n1. confirm-otp 必须带 supports_muse_link_transparency: true\n2. register-completion 的姓名字段语义\nfirst_name 是名、last_name 是姓，与直觉相反。生日早于约 18 年前会返回 403——同一会话同一份姓名，只把生日从 2013 改成"
-    },
-    {
-      "id": 1457509118,
-      "full_name": "haziqahmedqasmi/PeakCut",
-      "name": "PeakCut",
-      "owner": {
-        "login": "haziqahmedqasmi",
-        "avatar_url": "https://avatars.githubusercontent.com/u/134844667?v=4"
-      },
-      "html_url": "https://github.com/haziqahmedqasmi/PeakCut",
-      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-      "language": "Python",
-      "stargazers_count": 1540,
-      "forks_count": 496,
-      "open_issues_count": 42,
-      "topics": [],
-      "created_at": "2026-11-14T07:38:20Z",
-      "updated_at": "2026-11-20T23:36:58Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "PeakCut\nTurn long videos and live streams into captioned vertical clips, ready to post. Free and open source: run it on\nyour own computer or server, with your own AI key.\nPaste a YouTube, Twitch or Kick link (or upload a file) and PeakCut finds the moments worth clipping, cuts them to\n9:16, adds wor"
+      "readme_snippet": "NeonClipping\nPaste a link. Get captioned 9:16 clips in about two minutes. Free, local, open-source.\nNeonClipping turns long YouTube / Twitch / Kick videos (or your own MP4) into vertical, captioned clips with a title and hook for each. Everything runs on your machine: no account, no subscription, no"
     },
     {
       "id": 1460417668,
@@ -248,9 +235,9 @@
       "html_url": "https://github.com/sybil-solutions/inference-optimisation-skill",
       "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
       "language": "Python",
-      "stargazers_count": 1326,
-      "forks_count": 118,
-      "open_issues_count": 6,
+      "stargazers_count": 1584,
+      "forks_count": 144,
+      "open_issues_count": 10,
       "topics": [
         "agent-skill",
         "benchmarking",
@@ -260,12 +247,35 @@
         "speculative-decoding"
       ],
       "created_at": "2026-11-16T18:40:04Z",
-      "updated_at": "2026-11-20T23:22:29Z",
+      "updated_at": "2026-11-21T22:51:14Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
       },
       "readme_snippet": "inference-optimisation\nAn agent skill for hill-climbing the speed of a local LLM server on any hardware and any quantization. It covers:\n- single-user and concurrent decode\n- speculative decoding\n- prefill\n- KV cache size\n- startup time and time to first token\nIt works under a memory cap, and every "
+    },
+    {
+      "id": 1459063723,
+      "full_name": "joshpuckett/allo",
+      "name": "allo",
+      "owner": {
+        "login": "joshpuckett",
+        "avatar_url": "https://avatars.githubusercontent.com/u/403737?v=4"
+      },
+      "html_url": "https://github.com/joshpuckett/allo",
+      "description": "Allo is your friendly neighborhood typeface, free and open source",
+      "language": "Python",
+      "stargazers_count": 1341,
+      "forks_count": 38,
+      "open_issues_count": 6,
+      "topics": [],
+      "created_at": "2026-11-15T17:33:42Z",
+      "updated_at": "2026-11-21T22:48:44Z",
+      "license": {
+        "spdx_id": "OFL-1.1",
+        "key": "ofl-1.1"
+      },
+      "readme_snippet": "Allo\nAllo is your friendly neighborhood typeface. It’s variable in weight and roundness, with proportions and curves\ndesigned to feel warm without being too cute and clear without being too cold. It’s a perfect companion out of the\nbox, and three variable axes and plenty of alternates let you tune i"
     }
   ]
 }
