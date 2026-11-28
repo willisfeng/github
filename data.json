@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-27T01:34:00.383Z",
-  "query_date_range": "2026-11-20 ~ 2026-11-27",
-  "total_found": 2252213,
+  "updated_at": "2026-11-28T01:14:51.949Z",
+  "query_date_range": "2026-11-21 ~ 2026-11-28",
+  "total_found": 2283926,
   "count": 9,
   "repos": [
     {
@@ -15,81 +15,17 @@
       "html_url": "https://github.com/Marvisak/VIctory",
       "description": "An attempt at running GTA VI on PC",
       "language": "Rust",
-      "stargazers_count": 13376,
-      "forks_count": 2257,
-      "open_issues_count": 2129,
+      "stargazers_count": 13816,
+      "forks_count": 2375,
+      "open_issues_count": 2315,
       "topics": [],
       "created_at": "2026-11-23T21:47:25Z",
-      "updated_at": "2026-11-27T01:33:07Z",
+      "updated_at": "2026-11-28T01:11:28Z",
       "license": {
         "spdx_id": "GPL-3.0",
         "key": "gpl-3.0"
       },
       "readme_snippet": "VIctory\nRuns Grand Theft Auto VI (Xbox Series X|S) natively on Windows, from files\nthe user supplies.\nThe title's x86-64 code runs unchanged inside our process; VIctory supplies\nthe platform underneath it and converts the title's data, ahead of time where\nit can (shaders and pipelines too, see Getti"
-    },
-    {
-      "id": 1467035512,
-      "full_name": "4lwayz/portwatch-vi",
-      "name": "portwatch-vi",
-      "owner": {
-        "login": "4lwayz",
-        "avatar_url": "https://avatars.githubusercontent.com/u/359682649?v=4"
-      },
-      "html_url": "https://github.com/4lwayz/portwatch-vi",
-      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-      "language": "JavaScript",
-      "stargazers_count": 5844,
-      "forks_count": 169,
-      "open_issues_count": 206,
-      "topics": [],
-      "created_at": "2026-11-21T23:16:41Z",
-      "updated_at": "2026-11-27T01:32:47Z",
-      "license": null,
-      "readme_snippet": "PortWatch VI\nDoes GTA VI run on PC yet? A static GitHub Pages site that tracks every serious community effort to recompile, emulate or port the leaked Xbox Series build of GTA VI to PC. All efforts are scored on one ladder, and a scout refreshes the data every 3 hours.\n- One headline progress bar sh"
-    },
-    {
-      "id": 1466635339,
-      "full_name": "EL4CTEO/fast-anything",
-      "name": "fast-anything",
-      "owner": {
-        "login": "EL4CTEO",
-        "avatar_url": "https://avatars.githubusercontent.com/u/215285446?v=4"
-      },
-      "html_url": "https://github.com/EL4CTEO/fast-anything",
-      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
-      "language": "Rust",
-      "stargazers_count": 4241,
-      "forks_count": 305,
-      "open_issues_count": 3,
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude-code",
-        "claude-code-plugin",
-        "codex",
-        "developer-tools",
-        "ffi",
-        "mcp",
-        "mcp-server",
-        "napi-rs",
-        "nodejs",
-        "optimization",
-        "performance",
-        "profiler",
-        "pyo3",
-        "python",
-        "rewrite-it-in-rust",
-        "ruby",
-        "rust",
-        "typescript"
-      ],
-      "created_at": "2026-11-21T14:40:27Z",
-      "updated_at": "2026-11-27T01:32:20Z",
-      "license": {
-        "spdx_id": "MIT",
-        "key": "mit"
-      },
-      "readme_snippet": "Don't rewrite it in Rust. Rewrite the 5% that's slow.\n  \n  \n  \n  \n  \n  \n  \n  \nRewriting a whole app in Rust costs months, minute-long compiles and gigabytes of target/. Most of the runtime sits in a few functions anyway.\nfast-anything finds those functions, has your coding agent port *only them* to "
     },
     {
       "id": 1470579726,
@@ -102,63 +38,148 @@
       "html_url": "https://github.com/fxceless/victory-fork",
       "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
       "language": "Rust",
-      "stargazers_count": 3282,
-      "forks_count": 988,
-      "open_issues_count": 1218,
+      "stargazers_count": 3358,
+      "forks_count": 1015,
+      "open_issues_count": 1240,
       "topics": [],
       "created_at": "2026-11-24T18:02:37Z",
-      "updated_at": "2026-11-27T01:18:36Z",
+      "updated_at": "2026-11-28T00:50:52Z",
       "license": {
         "spdx_id": "GPL-3.0",
         "key": "gpl-3.0"
       },
-      "readme_snippet": "VIctory fork (work in progress)\nA work-in-progress fork of VIctory, a\ncompatibility layer that runs an Xbox Series title natively on Windows from\nfiles the user supplies. This fork follows upstream\nmain and adds fixes aimed at one goal: getting the game's world to render\ncorrectly and playably on on"
+      "readme_snippet": "VIctory fork\n**As of 27 November 2026 this repository is based on\nVIctory-NVIDIA by\ntrustno1-coder.** Its tree at commit\n959dcaf replaces this fork's own line of work.\nWhy. On the PC this fork was developed on (GeForce RTX 4070, 32 GB of\nRAM), VIctory-NVIDIA runs the title clearly better. In a 25-mi"
     },
     {
-      "id": 1471562910,
-      "full_name": "Belobug/VIctory-Belobug-AMD",
-      "name": "VIctory-Belobug-AMD",
+      "id": 1472451283,
+      "full_name": "trustno1-coder/VIctory-NVIDIA",
+      "name": "VIctory-NVIDIA",
       "owner": {
-        "login": "Belobug",
-        "avatar_url": "https://avatars.githubusercontent.com/u/169477042?v=4"
+        "login": "trustno1-coder",
+        "avatar_url": "https://avatars.githubusercontent.com/u/361337194?v=4"
       },
-      "html_url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-      "description": null,
+      "html_url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
+      "description": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
       "language": "Rust",
-      "stargazers_count": 3010,
-      "forks_count": 812,
-      "open_issues_count": 336,
-      "topics": [],
-      "created_at": "2026-11-25T09:41:37Z",
-      "updated_at": "2026-11-27T01:33:33Z",
+      "stargazers_count": 3342,
+      "forks_count": 1180,
+      "open_issues_count": 352,
+      "topics": [
+        "compatibility-layer",
+        "directx-12",
+        "dlss",
+        "frame-generation",
+        "nvidia",
+        "rust"
+      ],
+      "created_at": "2026-11-25T23:35:29Z",
+      "updated_at": "2026-11-28T01:14:03Z",
       "license": {
         "spdx_id": "GPL-3.0",
         "key": "gpl-3.0"
       },
-      "readme_snippet": "VIctory on an RX 7900 XTX\nA fork of VIctory, a compatibility layer\nthat runs an Xbox Series title natively on Windows from files the user supplies.\nThe goal\n**A stable 30 fps or more without ray tracing, then as high a frame rate and as\nlow frame times as the PC allows**, on an AMD RX 7900 XTX first"
+      "readme_snippet": "VIctory on NVIDIA\n> Reporting a problem? Please attach both logs from the run that went\n> wrong. Without them we can only guess. Paste %LOCALAPPDATA% into the address\n> bar of File Explorer to get there.\n>\n> 1. The play log, in %LOCALAPPDATA%\\victory\\logs\\: the newest\n>    victory-nvidia-play---.log"
     },
     {
       "id": 1469441675,
-      "full_name": "ubiquitarianism/leonida",
-      "name": "leonida",
+      "full_name": "ProjectLeonida/mandy",
+      "name": "mandy",
       "owner": {
-        "login": "ubiquitarianism",
-        "avatar_url": "https://avatars.githubusercontent.com/u/283527159?v=4"
+        "login": "ProjectLeonida",
+        "avatar_url": "https://avatars.githubusercontent.com/u/360438810?v=4"
       },
-      "html_url": "https://github.com/ubiquitarianism/leonida",
+      "html_url": "https://github.com/ProjectLeonida/mandy",
       "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
       "language": "Python",
-      "stargazers_count": 2535,
-      "forks_count": 580,
-      "open_issues_count": 1543,
+      "stargazers_count": 2863,
+      "forks_count": 622,
+      "open_issues_count": 1501,
       "topics": [],
       "created_at": "2026-11-23T23:54:39Z",
-      "updated_at": "2026-11-27T01:26:22Z",
+      "updated_at": "2026-11-28T01:13:34Z",
       "license": {
         "spdx_id": "GPL-3.0",
         "key": "gpl-3.0"
       },
       "readme_snippet": "Leonida Continued\n  \nGrand Theft Auto VI (Xbox Series) running natively on Windows, built on your PC from your own copy.\n  Other languages |\n  Status |\n  How to build |\n  How it works |\n  Want to help? |\n  Credits |\n  License |\n  Discord |\n  Telegram\nLeonida is a static recompilation project. The Xb"
+    },
+    {
+      "id": 1471624301,
+      "full_name": "nexu-io/opengame",
+      "name": "opengame",
+      "owner": {
+        "login": "nexu-io",
+        "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
+      },
+      "html_url": "https://github.com/nexu-io/opengame",
+      "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+      "language": "TypeScript",
+      "stargazers_count": 2262,
+      "forks_count": 367,
+      "open_issues_count": 73,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ai-game-generator",
+        "claude-code",
+        "codex",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "game-development",
+        "game-engine",
+        "indie-game",
+        "local-first",
+        "mcp",
+        "mini-games",
+        "threejs",
+        "unity",
+        "unreal-engine",
+        "vibe-coding",
+        "wechat-minigame"
+      ],
+      "created_at": "2026-11-25T10:35:45Z",
+      "updated_at": "2026-11-28T01:12:03Z",
+      "license": {
+        "spdx_id": "Apache-2.0",
+        "key": "apache-2.0"
+      },
+      "readme_snippet": "The First Super Game Agent — Open-Source Full-Stack AI Game Studio\n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \nQuick Start · Agents · Playable Templates · Why OpenGame · Publish &amp; Monetize · Setup &amp; MCP · Community\nEnglish · 简体中文 · 日本語\nIntroducing OpenGame\nOpenGame is the first open-source Super Game Agen"
+    },
+    {
+      "id": 1471422729,
+      "full_name": "alesha-pro/llm.asm",
+      "name": "llm.asm",
+      "owner": {
+        "login": "alesha-pro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/68546545?v=4"
+      },
+      "html_url": "https://github.com/alesha-pro/llm.asm",
+      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+      "language": "Assembly",
+      "stargazers_count": 2225,
+      "forks_count": 338,
+      "open_issues_count": 22,
+      "topics": [
+        "assembly",
+        "avx2",
+        "bare-metal",
+        "llm",
+        "machine-learning",
+        "nasm",
+        "osdev",
+        "qwen",
+        "transformer",
+        "x86-64"
+      ],
+      "created_at": "2026-11-25T07:28:51Z",
+      "updated_at": "2026-11-28T01:09:03Z",
+      "license": {
+        "spdx_id": "MIT",
+        "key": "mit"
+      },
+      "readme_snippet": "llm.asm\nThree complete LLM projects written in 100% pure x86-64 NASM assembly.\nZero C, zero C++, zero Rust, zero libc, zero libm, zero runtime dependencies.\nAssembled directly with nasm and linked with ld. Every math kernel (expf, sincosf, RMSNorm, RoPE, SiLU, Softmax), AVX2+FMA+F16C GEMM/GEMV engin"
     },
     {
       "id": 1467519193,
@@ -171,9 +192,9 @@
       "html_url": "https://github.com/os6/nospeaker",
       "description": "make your macbook's trackpad talk using its haptic motor",
       "language": "Swift",
-      "stargazers_count": 1955,
-      "forks_count": 104,
-      "open_issues_count": 21,
+      "stargazers_count": 1991,
+      "forks_count": 107,
+      "open_issues_count": 23,
       "topics": [
         "haptics",
         "macos",
@@ -181,7 +202,7 @@
         "trackpad"
       ],
       "created_at": "2026-11-22T12:05:54Z",
-      "updated_at": "2026-11-27T00:23:25Z",
+      "updated_at": "2026-11-28T01:07:34Z",
       "license": {
         "spdx_id": "MIT",
         "key": "mit"
@@ -189,50 +210,57 @@
       "readme_snippet": "Mute your Mac. Your trackpad will still talk.\nThere's no speaker in a MacBook trackpad, just a small haptic motor that taps the glass so you feel a click.\nNO SPEAKER drives that motor up to 4,000 times a second, fast enough to make sound you can hear, and turns it\ninto a voice. It talks, sings, raps"
     },
     {
-      "id": 1466325515,
-      "full_name": "omonkeyz/xbox-emulator",
-      "name": "xbox-emulator",
+      "id": 1467461515,
+      "full_name": "crhywun/g1-acq",
+      "name": "g1-acq",
       "owner": {
-        "login": "omonkeyz",
-        "avatar_url": "https://avatars.githubusercontent.com/u/246595960?v=4"
+        "login": "crhywun",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38809664?v=4"
       },
-      "html_url": "https://github.com/omonkeyz/xbox-emulator",
-      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
-      "language": "Rust",
-      "stargazers_count": 1852,
-      "forks_count": 126,
-      "open_issues_count": 54,
+      "html_url": "https://github.com/crhywun/g1-acq",
+      "description": null,
+      "language": "JavaScript",
+      "stargazers_count": 1794,
+      "forks_count": 409,
+      "open_issues_count": 9,
       "topics": [],
-      "created_at": "2026-11-21T08:08:39Z",
-      "updated_at": "2026-11-26T23:56:26Z",
-      "license": {
-        "spdx_id": "GPL-3.0",
-        "key": "gpl-3.0"
-      },
-      "readme_snippet": "Xbox Emulator\nRunning the Xbox Series X|S library on PC. A continuation of drycheetah84/TomBox.\nThe runtime reimplements the console's platform layer (Xbox-flavoured Direct3D 12, precompiled RDNA2 shaders, unified-memory textures, system libraries) so dumped, already-decrypted Xbox Series X|S builds"
+      "created_at": "2026-11-22T10:53:17Z",
+      "updated_at": "2026-11-28T01:03:23Z",
+      "license": null,
+      "readme_snippet": "g1-acq\n> 💬 AI羊毛交流群:https://t.me/muihbb —— 交流 AI 优惠、订阅羊毛\nGoogle One（iOS）订阅入口的商品 ID 改写与采集工具，适用于 Shadowrocket / 小火箭。\nv7.13.0 主模块为 G1 ACQ SKU 管理，共五套预制模板；「1 元 Pro · 月付源核对」改用两条月付 exact：旧 Pro 月付 g1.ios.2tb.ai.m 与已采集的 AI 月付候选 g1.ios.ai.2tb.m.ip_3mo_75p.acq，目标均为裸 ID com.google.gemini.2tb.ai.m.3month_ip_99p。"
     },
     {
-      "id": 1472396996,
-      "full_name": "avatarmanz/VIctory-7900XTX",
-      "name": "VIctory-7900XTX",
+      "id": 1467880545,
+      "full_name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "name": "Stream-Tube-Desktop",
       "owner": {
-        "login": "avatarmanz",
-        "avatar_url": "https://avatars.githubusercontent.com/u/64326402?v=4"
+        "login": "Avaneesh-Inamdar",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104128879?v=4"
       },
-      "html_url": "https://github.com/avatarmanz/VIctory-7900XTX",
-      "description": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
+      "html_url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
       "language": "Rust",
-      "stargazers_count": 1848,
-      "forks_count": 604,
-      "open_issues_count": 326,
-      "topics": [],
-      "created_at": "2026-11-25T22:18:14Z",
-      "updated_at": "2026-11-27T01:30:03Z",
+      "stargazers_count": 1657,
+      "forks_count": 144,
+      "open_issues_count": 35,
+      "topics": [
+        "dearrow",
+        "desktop-app",
+        "gpui",
+        "mpv",
+        "rust",
+        "sponsorblock",
+        "windows",
+        "youtube",
+        "youtube-client"
+      ],
+      "created_at": "2026-11-22T18:50:17Z",
+      "updated_at": "2026-11-28T01:05:03Z",
       "license": {
-        "spdx_id": "GPL-3.0",
-        "key": "gpl-3.0"
+        "spdx_id": "MIT",
+        "key": "mit"
       },
-      "readme_snippet": "VIctory on an RX 7900 XTX\nA fork of VIctory, a compatibility layer\nthat runs an Xbox Series title natively on Windows from files the user supplies.\nThe goal\n**The Series X version at 4K output (drawn at 1440p) with ray tracing on,\nlooking the way it does on the Xbox**, on an AMD RX 7900 XTX first.\nI"
+      "readme_snippet": "Stream Tube\n  A native YouTube client for Windows and Linux, written in Rust.\n  No browser, no ads, no tracking. SponsorBlock, DeArrow and Return YouTube Dislike built in.\n  \n  \n  \n  \n  \n  \nWhy\nI wanted YouTube on my desktop without keeping a browser tab open, and without the\nads, autoplaying junk a"
     }
   ]
 }
